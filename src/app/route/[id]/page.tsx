@@ -86,8 +86,9 @@ export default async function RouteDetailPage({ params, searchParams }: PageProp
           <div className={styles.routeChips}>
             <span className="chip chip-green">💰 Total: {route.totalFare} BDT</span>
             <span className="chip chip-blue">⏱ {route.totalTime} min</span>
+            <span className="chip chip-purple">📏 {route.totalDistanceKm} km</span>
             <span className="chip chip-amber">🔄 {route.transfers} transfer{route.transfers !== 1 ? "s" : ""}</span>
-            <span className="chip chip-purple">📍 {route.path.length} stops</span>
+            <span className="chip" style={{ background: "var(--bg-overlay)" }}>📍 {route.path.length} stops</span>
           </div>
 
           {/* Full path display */}
@@ -140,6 +141,7 @@ export default async function RouteDetailPage({ params, searchParams }: PageProp
                   <div style={{ display: "flex", gap: 6, flexWrap: "wrap" }}>
                     <span className="chip chip-green">💰 {seg.fare} BDT</span>
                     <span className="chip chip-blue">⏱ {seg.estimatedMinutes} min</span>
+                    <span className="chip chip-purple">📏 {seg.distanceKm} km</span>
                   </div>
                 </div>
 

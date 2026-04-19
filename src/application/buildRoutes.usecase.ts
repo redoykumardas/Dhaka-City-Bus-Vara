@@ -68,6 +68,7 @@ export function buildRoutesUseCase(input: BuildRoutesInput): RouteResult[] {
 
     const totalFare = segments.reduce((acc, s) => acc + s.fare, 0)
     const totalTime = segments.reduce((acc, s) => acc + (s.estimatedMinutes || 0), 0)
+    const totalDistanceKm = segments.reduce((acc, s) => acc + (s.distanceKm || 0), 0)
     const transfers = segments.length - 1
 
     return {
@@ -77,6 +78,7 @@ export function buildRoutesUseCase(input: BuildRoutesInput): RouteResult[] {
       segments,
       totalFare,
       totalTime,
+      totalDistanceKm: Number(totalDistanceKm.toFixed(1)),
       transfers,
     }
   })
@@ -112,6 +114,7 @@ function createSegment(
     path: stops,
     buses,
     fare: segmentFare,
-    estimatedMinutes: time.estimate(timeTable, { from, to, stopCount: stops.length })
+    estimatedMinutes: time.estimate(timeTable, { from, to, stopCount: stops.length }),
+    distanceKm: Number((segmentFare / 2.45).toFixed(1))
   }
 }

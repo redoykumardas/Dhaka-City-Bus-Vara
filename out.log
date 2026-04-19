@@ -1,0 +1,90 @@
+{
+  "id": "Khilkhet-Mirpur 10-1",
+  "path": [
+    "Khilkhet",
+    "Kalshi",
+    "Mirpur 12",
+    "Mirpur 11",
+    "Mirpur 10"
+  ],
+  "steps": [
+    {
+      "stop": "Khilkhet",
+      "routeId": 0
+    },
+    {
+      "stop": "Kalshi",
+      "routeId": 37
+    },
+    {
+      "stop": "Mirpur 12",
+      "routeId": 37
+    },
+    {
+      "stop": "Mirpur 11",
+      "routeId": 37
+    },
+    {
+      "stop": "Mirpur 10",
+      "routeId": 37
+    }
+  ],
+  "segments": [
+    {
+      "from": "Khilkhet",
+      "to": "Mirpur 10",
+      "path": [
+        "Khilkhet",
+        "Kalshi",
+        "Mirpur 12",
+        "Mirpur 11",
+        "Mirpur 10"
+      ],
+      "buses": [
+        {
+          "name": "Active Paribahan",
+          "name_bn": ""
+        },
+        {
+          "name": "Basumati Transport",
+          "name_bn": ""
+        },
+        {
+          "name": "Bashumoti",
+          "name_bn": ""
+        },
+        {
+          "name": "BRTC",
+          "name_bn": ""
+        },
+        {
+          "name": "kanak",
+          "name_bn": ""
+        },
+        {
+          "name": "Pallabi Super",
+          "name_bn": ""
+        },
+        {
+          "name": "Paristhan",
+          "name_bn": ""
+        },
+        {
+          "name": "Projapati",
+          "name_bn": ""
+        },
+        {
+          "name": "Rupkotha",
+          "name_bn": ""
+        }
+      ],
+      "fare": 16,
+      "estimatedMinutes": 32,
+      "distanceKm": 6.5
+    }
+  ],
+  "totalFare": 16,
+  "totalTime": 32,
+  "totalDistanceKm": 6.5,
+  "transfers": 0
+}

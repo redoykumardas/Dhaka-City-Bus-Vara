@@ -29,6 +29,7 @@ export default function RouteCard({ route, rank, from, to }: RouteCardProps) {
           <div style={{ display: "flex", gap: 6, flexWrap: "wrap" }}>
             <span className="chip chip-green">💰 {route.totalFare} BDT</span>
             <span className="chip chip-blue">⏱ {route.totalTime} min</span>
+            <span className="chip chip-purple">📏 {route.totalDistanceKm} km</span>
             <span className="chip chip-amber">🔄 {route.transfers} transfer{route.transfers !== 1 ? "s" : ""}</span>
           </div>
         </div>

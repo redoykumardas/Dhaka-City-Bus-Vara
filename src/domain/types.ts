@@ -60,6 +60,7 @@ export interface SegmentResult extends Segment {
   buses: BusOperator[]
   fare: number           // BDT
   estimatedMinutes: number
+  distanceKm: number
 }
 
 export interface PathStep {
@@ -74,6 +75,7 @@ export interface RouteResult {
   segments: SegmentResult[]
   totalFare: number      // BDT
   totalTime: number      // minutes
+  totalDistanceKm: number
   transfers: number      // path.length - 2 (intermediate stops requiring transfers)
 }
 
