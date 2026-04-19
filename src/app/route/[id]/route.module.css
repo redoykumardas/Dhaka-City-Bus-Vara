@@ -1,0 +1,127 @@
+.main {
+  min-height: 100vh;
+  padding: 32px 0 60px;
+}
+
+.nav { margin-bottom: 20px; }
+
+.backLink {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  color: var(--text-secondary);
+  text-decoration: none;
+  font-size: 0.9rem;
+  font-weight: 500;
+  transition: color var(--transition);
+}
+.backLink:hover { color: var(--brand-primary); }
+
+.routeHeader {
+  margin-bottom: 28px;
+  border-color: var(--border-brand);
+  box-shadow: var(--shadow-brand);
+  animation: fadeInUp 0.4s var(--ease-out) both;
+}
+
+@keyframes fadeInUp {
+  from { opacity: 0; transform: translateY(12px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+.routeTitle {
+  font-size: 1.6rem;
+  font-weight: 800;
+  color: var(--text-primary);
+  margin-bottom: 14px;
+  letter-spacing: -0.02em;
+}
+
+.arrow { color: var(--brand-primary); }
+
+.routeChips {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  margin-bottom: 18px;
+}
+
+.pathDisplay {
+  padding-top: 12px;
+  border-top: 1px solid var(--border-subtle);
+}
+
+.segmentsTitle {
+  font-size: 1rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--text-secondary);
+  margin-bottom: 16px;
+}
+
+.segmentCard {
+  padding: 20px 20px 20px 32px;
+  animation: fadeInUp 0.4s var(--ease-out) both;
+}
+
+.segmentHeader {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 12px;
+  margin-bottom: 12px;
+  flex-wrap: wrap;
+}
+
+.segmentStops {
+  font-size: 1.05rem;
+  font-weight: 700;
+  color: var(--text-primary);
+}
+
+.segmentSub {
+  font-size: 0.78rem;
+  color: var(--text-muted);
+  margin-top: 4px;
+}
+
+.busTag {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  background: var(--bg-overlay);
+  border: 1px solid var(--border-default);
+  border-radius: var(--radius-md);
+  padding: 10px 14px;
+  transition: border-color var(--transition);
+}
+
+.busTag:hover { border-color: var(--border-brand); }
+
+.busEmoji { font-size: 1.3rem; }
+
+.busName {
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: var(--text-primary);
+}
+
+.busNameBn {
+  font-size: 0.78rem;
+  color: var(--text-muted);
+  font-family: var(--font-bn);
+}
+
+.serviceChip {
+  font-size: 0.7rem;
+  margin-left: 4px;
+}
+
+.actions {
+  display: flex;
+  gap: 12px;
+  justify-content: flex-end;
+  margin-top: 32px;
+  flex-wrap: wrap;
+}

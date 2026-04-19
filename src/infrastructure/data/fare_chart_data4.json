@@ -1,0 +1,183 @@
+{
+  "bus_fare_charts": [
+    {
+      "route_id": "A-301",
+      "route_name": "Japan Garden City to Dhaur",
+      "vehicle_type": "Diesel-powered bus [cite: 1]",
+      "rate_per_km": 2.45,
+      "total_distance_km": 29.5,
+      "major_stops": [
+        { "stop_name": "Japan Garden City", "km": 0.0, "fare_from_start": 0 },
+        { "stop_name": "Shyamoli Ring Road", "km": 1.5, "fare_from_start": 10.00 },
+        { "stop_name": "Agargaon", "km": 3.5, "fare_from_start": 10.00 },
+        { "stop_name": "Shewrapara", "km": 5.2, "fare_from_start": 13.00 },
+        { "stop_name": "Mirpur-10", "km": 7.1, "fare_from_start": 17.00 },
+        { "stop_name": "Kalshi", "km": 11.8, "fare_from_start": 29.00 },
+        { "stop_name": "ECB Chattar", "km": 13.6, "fare_from_start": 33.00 },
+        { "stop_name": "Airport", "km": 20.3, "fare_from_start": 50.00 },
+        { "stop_name": "Abdullahpur", "km": 24.0, "fare_from_start": 59.00 },
+        { "stop_name": "Dhaur", "km": 29.5, "fare_from_start": 72.00 }
+      ],
+      "source": "Dhaka Metropolitan Area Passenger & Goods Transport Committee [cite: 1]"
+    },
+    {
+      "route_id": "A-302",
+      "route_name": "Bonosree (Meradia) to Savar",
+      "vehicle_type": "Diesel-powered bus [cite: 1]",
+      "rate_per_km": 2.45,
+      "total_distance_km": 26.7,
+      "major_stops": [
+        { "stop_name": "Bonosree (Meradia)", "km": 0.0, "fare_from_start": 0 },
+        { "stop_name": "Rampura Bridge", "km": 1.0, "fare_from_start": 10.00 },
+        { "stop_name": "Gulshan-1", "km": 3.5, "fare_from_start": 10.00 },
+        { "stop_name": "Mohakhali", "km": 5.3, "fare_from_start": 13.00 },
+        { "stop_name": "Agargaon", "km": 9.2, "fare_from_start": 23.00 },
+        { "stop_name": "Shyamoli", "km": 11.2, "fare_from_start": 27.00 },
+        { "stop_name": "Kalyanpur", "km": 11.7, "fare_from_start": 29.00 },
+        { "stop_name": "Gabtoli", "km": 13.2, "fare_from_start": 32.00 },
+        { "stop_name": "Amin Bazar", "km": 14.7, "fare_from_start": 36.00 },
+        { "stop_name": "Savar", "km": 26.7, "fare_from_start": 65.00 }
+      ],
+      "source": "Dhaka Metropolitan Area Passenger & Goods Transport Committee [cite: 1]"
+    },
+    {
+      "route_id": "A-304",
+      "route_name": "Basila to Dhaur",
+      "vehicle_type": "Diesel-powered bus [cite: 1]",
+      "rate_per_km": 2.45,
+      "total_distance_km": 32.20,
+      "major_stops": [
+        { "stop_name": "Basila", "km": 0.0, "fare_from_start": 0 },
+        { "stop_name": "Asad Avenue", "km": 3.0, "fare_from_start": 10.00 },
+        { "stop_name": "Shyamoli", "km": 4.8, "fare_from_start": 12.00 },
+        { "stop_name": "Kalyanpur", "km": 5.13, "fare_from_start": 13.00 },
+        { "stop_name": "Technical", "km": 6.05, "fare_from_start": 15.00 },
+        { "stop_name": "Mirpur-1", "km": 8.50, "fare_from_start": 21.00 },
+        { "stop_name": "Mirpur-2", "km": 9.80, "fare_from_start": 24.00 },
+        { "stop_name": "Mirpur-10", "km": 10.30, "fare_from_start": 25.00 },
+        { "stop_name": "Mirpur-11", "km": 11.30, "fare_from_start": 28.00 },
+        { "stop_name": "Purabi", "km": 11.80, "fare_from_start": 29.00 },
+        { "stop_name": "Kalshi", "km": 15.0, "fare_from_start": 37.00 },
+        { "stop_name": "Shewra Bazar", "km": 19.4, "fare_from_start": 48.00 },
+        { "stop_name": "Airport", "km": 23.4, "fare_from_start": 57.00 },
+        { "stop_name": "Josimuddin", "km": 24.6, "fare_from_start": 60.00 },
+        { "stop_name": "Abdullahpur", "km": 27.1, "fare_from_start": 66.00 },
+        { "stop_name": "Kamarpara", "km": 29.2, "fare_from_start": 72.00 },
+        { "stop_name": "Dhaur", "km": 32.2, "fare_from_start": 79.00 }
+      ],
+      "source": "Dhaka Metropolitan Area Passenger & Goods Transport Committee [cite: 1]"
+    },
+    {
+      "route_id": "A-307",
+      "route_name": "Mirpur-14 to EPZ",
+      "vehicle_type": "Diesel-powered bus [cite: 1]",
+      "rate_per_km": 2.45,
+      "total_distance_km": 32.7,
+      "major_stops": [
+        { "stop_name": "Mirpur-14", "km": 0.0, "fare_from_start": 0 },
+        { "stop_name": "Mirpur-10", "km": 2.1, "fare_from_start": 10.00 },
+        { "stop_name": "Mirpur-2", "km": 3.6, "fare_from_start": 10.00 },
+        { "stop_name": "Mirpur-1", "km": 4.6, "fare_from_start": 11.00 },
+        { "stop_name": "Gabtoli", "km": 6.6, "fare_from_start": 16.00 },
+        { "stop_name": "Savar", "km": 20.1, "fare_from_start": 49.00 },
+        { "stop_name": "Nabinagar", "km": 28.1, "fare_from_start": 69.00 },
+        { "stop_name": "EPZ", "km": 32.7, "fare_from_start": 80.00 }
+      ],
+      "source": "Dhaka Metropolitan Area Passenger & Goods Transport Committee [cite: 1]"
+    },
+    {
+      "route_id": "A-309",
+      "route_name": "Sadarghat to EPZ",
+      "vehicle_type": "Diesel-powered bus [cite: 1]",
+      "rate_per_km": 2.45,
+      "total_distance_km": 41.7,
+      "major_stops": [
+        { "stop_name": "Sadarghat", "km": 0.0, "fare_from_start": 0 },
+        { "stop_name": "Gulistan", "km": 2.5, "fare_from_start": 10.00 },
+        { "stop_name": "Paltan", "km": 3.5, "fare_from_start": 10.00 },
+        { "stop_name": "Shahbag", "km": 5.8, "fare_from_start": 14.00 },
+        { "stop_name": "Science Lab", "km": 7.1, "fare_from_start": 17.00 },
+        { "stop_name": "Asad Gate", "km": 9.6, "fare_from_start": 24.00 },
+        { "stop_name": "Gabtoli", "km": 15.0, "fare_from_start": 37.00 },
+        { "stop_name": "Savar", "km": 28.5, "fare_from_start": 70.00 },
+        { "stop_name": "Nabinagar", "km": 37.0, "fare_from_start": 91.00 },
+        { "stop_name": "EPZ", "km": 41.7, "fare_from_start": 102.00 }
+      ],
+      "source": "Dhaka Metropolitan Area Passenger & Goods Transport Committee [cite: 1]"
+    },
+    {
+      "route_id": "A-310",
+      "route_name": "Mirpur Rupnagar to Sayedabad",
+      "vehicle_type": "Diesel-powered bus [cite: 1]",
+      "rate_per_km": 2.45,
+      "total_distance_km": 21.6,
+      "major_stops": [
+        { "stop_name": "Mirpur Rupnagar", "km": 0.0, "fare_from_start": 0 },
+        { "stop_name": "Mirpur-12", "km": 1.2, "fare_from_start": 10.00 },
+        { "stop_name": "Mirpur-11", "km": 2.6, "fare_from_start": 10.00 },
+        { "stop_name": "Mirpur-10", "km": 3.5, "fare_from_start": 10.00 },
+        { "stop_name": "Kazipara", "km": 4.9, "fare_from_start": 12.00 },
+        { "stop_name": "Shewrapara", "km": 5.5, "fare_from_start": 13.00 },
+        { "stop_name": "Farmgate", "km": 10.2, "fare_from_start": 25.00 },
+        { "stop_name": "Paltan", "km": 14.7, "fare_from_start": 36.00 },
+        { "stop_name": "Dainik Bangla", "km": 15.5, "fare_from_start": 38.00 },
+        { "stop_name": "Shapla Chattar", "km": 16.4, "fare_from_start": 40.00 },
+        { "stop_name": "Arambagh", "km": 17.1, "fare_from_start": 42.00 },
+        { "stop_name": "Kamalapur", "km": 17.6, "fare_from_start": 43.00 },
+        { "stop_name": "Sayedabad", "km": 19.9, "fare_from_start": 49.00 }
+      ],
+      "source": "Dhaka Metropolitan Area Passenger & Goods Transport Committee [cite: 1]"
+    },
+    {
+      "route_id": "A-314",
+      "route_name": "Hemayetpur to Demra Staff Quarter",
+      "vehicle_type": "Diesel-powered bus [cite: 1]",
+      "rate_per_km": 2.45,
+      "total_distance_km": 38.8,
+      "major_stops": [
+        { "stop_name": "Hemayetpur", "km": 0.0, "fare_from_start": 0 },
+        { "stop_name": "Gabtoli", "km": 7.2, "fare_from_start": 18.00 },
+        { "stop_name": "Technical", "km": 8.7, "fare_from_start": 21.00 },
+        { "stop_name": "Mirpur-1", "km": 10.5, "fare_from_start": 26.00 },
+        { "stop_name": "Mirpur-2", "km": 11.8, "fare_from_start": 29.00 },
+        { "stop_name": "Mirpur-6", "km": 13.1, "fare_from_start": 32.00 },
+        { "stop_name": "Mirpur-11", "km": 14.6, "fare_from_start": 36.00 },
+        { "stop_name": "Kalshi Moar", "km": 18.3, "fare_from_start": 45.00 },
+        { "stop_name": "ECB Chattar", "km": 20.1, "fare_from_start": 49.00 },
+        { "stop_name": "Kuril Biswa Road", "km": 22.8, "fare_from_start": 56.00 },
+        { "stop_name": "Rampura", "km": 29.8, "fare_from_start": 73.00 },
+        { "stop_name": "Bonosree", "km": 30.8, "fare_from_start": 75.00 },
+        { "stop_name": "Meradia Bazar", "km": 32.8, "fare_from_start": 80.00 },
+        { "stop_name": "Staff Quarter", "km": 38.8, "fare_from_start": 95.00 }
+      ],
+      "source": "Dhaka Metropolitan Area Passenger & Goods Transport Committee [cite: 1]"
+    },
+    {
+      "route_id": "A-317",
+      "route_name": "Diabari to Postogola",
+      "vehicle_type": "Diesel-powered bus [cite: 1]",
+      "rate_per_km": 2.45,
+      "total_distance_km": 27.3,
+      "major_stops": [
+        { "stop_name": "Diabari", "km": 0.0, "fare_from_start": 0 },
+        { "stop_name": "Mascot Plaza", "km": 2.5, "fare_from_start": 10.00 },
+        { "stop_name": "Airport", "km": 4.5, "fare_from_start": 11.00 },
+        { "stop_name": "Kuril Flyover", "km": 8.5, "fare_from_start": 21.00 },
+        { "stop_name": "Nutun Bazar", "km": 12.1, "fare_from_start": 30.00 },
+        { "stop_name": "Badda", "km": 14.6, "fare_from_start": 36.00 },
+        { "stop_name": "Rampura", "km": 16.7, "fare_from_start": 41.00 },
+        { "stop_name": "Khilgaon Flyover", "km": 20.7, "fare_from_start": 51.00 },
+        { "stop_name": "Titipara", "km": 22.4, "fare_from_start": 55.00 },
+        { "stop_name": "Sayedabad", "km": 23.4, "fare_from_start": 57.00 },
+        { "stop_name": "Jatrabari", "km": 24.8, "fare_from_start": 61.00 },
+        { "stop_name": "Postogola", "km": 27.3, "fare_from_start": 67.00 }
+      ],
+      "source": "Dhaka Metropolitan Area Passenger & Goods Transport Committee [cite: 1]"
+    }
+  ],
+  "general_notes": {
+    "minimum_fare": "10.00 BDT [cite: 1]",
+    "effective_date": "August 31, 2022 [cite: 1]",
+    "exclusions": "Not applicable for gas-powered vehicles [cite: 1]"
+  }
+}

@@ -1,0 +1,694 @@
+{
+    "fare_charts": [
+        {
+            "authority": "ঢাকা মেট্রোপলিটন এলাকার যাত্রী ও পণ্য পরিবহন কমিটি (Dhaka Metropolitan Area Passenger and Goods Transport Committee)",
+            "route": "কালশী (মিরপুর-১২) হতে কাঁচপুর ব্রীজ (Kalshi to Kanchpur Bridge)",
+            "route_number": "এ-১০১ (A-101)",
+            "bus_type": "ডিজেল চালিত (Diesel-powered)",
+            "notification_reference": "প্রজ্ঞাপন নং-৩৫.০০.০০০০.০২০.২৬.০০৫.১৬-৪৪৪",
+            "notification_date": "৩১ আগষ্ট ২০২২ (August 31, 2022)",
+            "fare_rate_per_km_taka": 2.45,
+            "total_distance_km": 28.8,
+            "stops": [
+                {
+                    "stop_name": "কালশী (Kalshi)",
+                    "cumulative_distance_km": 0.0,
+                    "fare_from_start_taka": 0
+                },
+                {
+                    "stop_name": "মিরপুর-১২ (Mirpur-12)",
+                    "cumulative_distance_km": 2.2,
+                    "fare_from_start_taka": 10.00
+                },
+                {
+                    "stop_name": "মিরপুর-১০ (Mirpur-10)",
+                    "cumulative_distance_km": 4.7,
+                    "fare_from_start_taka": 12.00
+                },
+                {
+                    "stop_name": "কাজীপাড়া (Kazipara)",
+                    "cumulative_distance_km": 6.1,
+                    "fare_from_start_taka": 15.00
+                },
+                {
+                    "stop_name": "শেওড়াপাড়া (Shewrapara)",
+                    "cumulative_distance_km": 6.8,
+                    "fare_from_start_taka": 17.00
+                },
+                {
+                    "stop_name": "ফার্মগেট (Farmgate)",
+                    "cumulative_distance_km": 11.4,
+                    "fare_from_start_taka": 28.00
+                },
+                {
+                    "stop_name": "শাহবাগ (Shahbag)",
+                    "cumulative_distance_km": 13.7,
+                    "fare_from_start_taka": 34.00
+                },
+                {
+                    "stop_name": "পল্টন (Paltan)",
+                    "cumulative_distance_km": 15.6,
+                    "fare_from_start_taka": 38.00
+                },
+                {
+                    "stop_name": "গুলিস্তান (Gulistan)",
+                    "cumulative_distance_km": 16.6,
+                    "fare_from_start_taka": 41.00
+                },
+                {
+                    "stop_name": "টিকাটুলি (Tikatuli)",
+                    "cumulative_distance_km": 17.8,
+                    "fare_from_start_taka": 44.00
+                },
+                {
+                    "stop_name": "সায়দাবাদ (Sayedabad)",
+                    "cumulative_distance_km": 18.9,
+                    "fare_from_start_taka": 46.00
+                },
+                {
+                    "stop_name": "যাত্রাবাড়ী (Jatrabari)",
+                    "cumulative_distance_km": 19.9,
+                    "fare_from_start_taka": 49.00
+                },
+                {
+                    "stop_name": "সাইনবোর্ড (Signboard)",
+                    "cumulative_distance_km": 24.8,
+                    "fare_from_start_taka": 61.00
+                },
+                {
+                    "stop_name": "কাঁচপুরব্রীজ (Kanchpur Bridge)",
+                    "cumulative_distance_km": 28.8,
+                    "fare_from_start_taka": 71.00
+                }
+            ]
+        },
+        {
+            "route": "পল্লবী হতে সদরঘাট (Pallabi to Sadarghat)",
+            "route_number": "এ-১০২ (A-102)",
+            "total_distance_km": 16.9,
+            "stops": [
+                {
+                    "stop_name": "পল্লবী (মিরপুর-১২)",
+                    "cumulative_distance_km": 0.0,
+                    "fare_from_start_taka": 0
+                },
+                {
+                    "stop_name": "মিরপুর-১১ ১/২",
+                    "cumulative_distance_km": 0.4,
+                    "fare_from_start_taka": 10.0
+                },
+                {
+                    "stop_name": "বৈকালী হোটেল",
+                    "cumulative_distance_km": 0.7,
+                    "fare_from_start_taka": 10.0
+                },
+                {
+                    "stop_name": "মিরপুর-১১",
+                    "cumulative_distance_km": 1.4,
+                    "fare_from_start_taka": 10.0
+                },
+                {
+                    "stop_name": "মিরপুর-১০",
+                    "cumulative_distance_km": 2.3,
+                    "fare_from_start_taka": 10.0
+                },
+                {
+                    "stop_name": "কাজীপাড়া",
+                    "cumulative_distance_km": 3.7,
+                    "fare_from_start_taka": 10.0
+                },
+                {
+                    "stop_name": "ফার্মগেট",
+                    "cumulative_distance_km": 9.0,
+                    "fare_from_start_taka": 22.0
+                },
+                {
+                    "stop_name": "প্রেসক্লাব",
+                    "cumulative_distance_km": 13.2,
+                    "fare_from_start_taka": 32.0
+                },
+                {
+                    "stop_name": "টিএন্ডটি",
+                    "cumulative_distance_km": 14.7,
+                    "fare_from_start_taka": 36.0
+                },
+                {
+                    "stop_name": "রায়সাহেব বাজার",
+                    "cumulative_distance_km": 15.7,
+                    "fare_from_start_taka": 38.0
+                },
+                {
+                    "stop_name": "ভিক্টোরিয়া পার্ক",
+                    "cumulative_distance_km": 16.9,
+                    "fare_from_start_taka": 41.0
+                }
+            ]
+        },
+        {
+            "route": "পল্লবী (দুয়ারীপাড়া) হতে ঢাকেশ্বরী (Pallabi to Dhakeshwari)",
+            "route_number": "এ-১০৫ (A-105)",
+            "total_distance_km": 15.10,
+            "stops": [
+                {
+                    "stop_name": "দুয়ারীপাড়া",
+                    "cumulative_distance_km": 0.0,
+                    "fare_from_start_taka": 0
+                },
+                {
+                    "stop_name": "মিরপুর-১২",
+                    "cumulative_distance_km": 0.9,
+                    "fare_from_start_taka": 10.00
+                },
+                {
+                    "stop_name": "মিরপুর সাড়ে ১১",
+                    "cumulative_distance_km": 1.3,
+                    "fare_from_start_taka": 10.00
+                },
+                {
+                    "stop_name": "বৈকালী হোটেল",
+                    "cumulative_distance_km": 1.8,
+                    "fare_from_start_taka": 10.00
+                },
+                {
+                    "stop_name": "মিরপুর-১১",
+                    "cumulative_distance_km": 2.3,
+                    "fare_from_start_taka": 10.00
+                },
+                {
+                    "stop_name": "মিরপুর-১০",
+                    "cumulative_distance_km": 3.2,
+                    "fare_from_start_taka": 10.00
+                },
+                {
+                    "stop_name": "কাজীপাড়া",
+                    "cumulative_distance_km": 4.6,
+                    "fare_from_start_taka": 11.00
+                },
+                {
+                    "stop_name": "শেওড়াপাড়া",
+                    "cumulative_distance_km": 5.3,
+                    "fare_from_start_taka": 13.00
+                },
+                {
+                    "stop_name": "আগারগাঁও",
+                    "cumulative_distance_km": 7.0,
+                    "fare_from_start_taka": 17.00
+                },
+                {
+                    "stop_name": "ধানমন্ডি",
+                    "cumulative_distance_km": 10.6,
+                    "fare_from_start_taka": 26.00
+                },
+                {
+                    "stop_name": "শুক্রাবাদ",
+                    "cumulative_distance_km": 11.1,
+                    "fare_from_start_taka": 27.00
+                },
+                {
+                    "stop_name": "ঢাকেশ্বরী মন্দির",
+                    "cumulative_distance_km": 15.1,
+                    "fare_from_start_taka": 37.00
+                }
+            ]
+        },
+        {
+            "route": "দুয়ারীপাড়া হতে ঢাকেশ্বরী (Duaripara to Dhakeshwari)",
+            "route_number": "এ-১১০ (A-110)",
+            "total_distance_km": 16.7,
+            "stops": [
+                {
+                    "stop_name": "দুয়ারিপাড়া",
+                    "cumulative_distance_km": 0.0,
+                    "fare_from_start_taka": 0
+                },
+                {
+                    "stop_name": "প্রশিকা",
+                    "cumulative_distance_km": 2.0,
+                    "fare_from_start_taka": 10.00
+                },
+                {
+                    "stop_name": "মিরপুর থানা",
+                    "cumulative_distance_km": 2.4,
+                    "fare_from_start_taka": 10.00
+                },
+                {
+                    "stop_name": "মিরপুর-১",
+                    "cumulative_distance_km": 3.7,
+                    "fare_from_start_taka": 10.00
+                },
+                {
+                    "stop_name": "আনসারক্যাম্প",
+                    "cumulative_distance_km": 4.6,
+                    "fare_from_start_taka": 11.00
+                },
+                {
+                    "stop_name": "টেকনিক্যাল",
+                    "cumulative_distance_km": 5.5,
+                    "fare_from_start_taka": 13.00
+                },
+                {
+                    "stop_name": "আসাদগেট",
+                    "cumulative_distance_km": 9.1,
+                    "fare_from_start_taka": 22.00
+                },
+                {
+                    "stop_name": "সায়েন্সল্যাব",
+                    "cumulative_distance_km": 11.8,
+                    "fare_from_start_taka": 29.00
+                },
+                {
+                    "stop_name": "বুয়েট",
+                    "cumulative_distance_km": 14.9,
+                    "fare_from_start_taka": 37.00
+                },
+                {
+                    "stop_name": "গুলিস্তান",
+                    "cumulative_distance_km": 16.7,
+                    "fare_from_start_taka": 41.00
+                }
+            ]
+        },
+        {
+            "route": "পল্লবী (সিরামিক) হতে দিলকুশা (Pallabi to Dilkusha)",
+            "route_number": "এ-১১১ (A-111)",
+            "total_distance_km": 17.0,
+            "stops": [
+                {
+                    "stop_name": "পল্লবী (সিরামিক)",
+                    "cumulative_distance_km": 0.0,
+                    "fare_from_start_taka": 0
+                },
+                {
+                    "stop_name": "মিরপুর-১১/২",
+                    "cumulative_distance_km": 0.7,
+                    "fare_from_start_taka": 10.00
+                },
+                {
+                    "stop_name": "বৈকালী হোটেল",
+                    "cumulative_distance_km": 1.1,
+                    "fare_from_start_taka": 10.00
+                },
+                {
+                    "stop_name": "মিরপুর-১১",
+                    "cumulative_distance_km": 1.5,
+                    "fare_from_start_taka": 10.00
+                },
+                {
+                    "stop_name": "মিরপুর-১০",
+                    "cumulative_distance_km": 2.6,
+                    "fare_from_start_taka": 10.00
+                },
+                {
+                    "stop_name": "কাজীপাড়া",
+                    "cumulative_distance_km": 3.7,
+                    "fare_from_start_taka": 10.00
+                },
+                {
+                    "stop_name": "ফার্মগেট",
+                    "cumulative_distance_km": 9.0,
+                    "fare_from_start_taka": 22.00
+                },
+                {
+                    "stop_name": "পল্টন",
+                    "cumulative_distance_km": 13.5,
+                    "fare_from_start_taka": 33.00
+                },
+                {
+                    "stop_name": "স্টেডিয়াম",
+                    "cumulative_distance_km": 13.8,
+                    "fare_from_start_taka": 34.00
+                },
+                {
+                    "stop_name": "নটরড্যাম কলেজ",
+                    "cumulative_distance_km": 17.0,
+                    "fare_from_start_taka": 42.00
+                }
+            ]
+        },
+        {
+            "route": "মিরপুর (চিড়িয়াখানা) হতে সায়েদাবাদ (Mirpur Zoo to Sayedabad)",
+            "route_number": "এ-১১৪ (A-114)",
+            "total_distance_km": 18.3,
+            "stops": [
+                {
+                    "stop_name": "চিড়িয়াখানা",
+                    "cumulative_distance_km": 0.0,
+                    "fare_from_start_taka": 0
+                },
+                {
+                    "stop_name": "মিরপুর-১",
+                    "cumulative_distance_km": 1.8,
+                    "fare_from_start_taka": 10.00
+                },
+                {
+                    "stop_name": "আনসারক্যাম্প",
+                    "cumulative_distance_km": 2.7,
+                    "fare_from_start_taka": 10.00
+                },
+                {
+                    "stop_name": "দারুসালাম",
+                    "cumulative_distance_km": 3.8,
+                    "fare_from_start_taka": 10.00
+                },
+                {
+                    "stop_name": "কল্যাণপুর",
+                    "cumulative_distance_km": 5.0,
+                    "fare_from_start_taka": 12.00
+                },
+                {
+                    "stop_name": "শ্যামলী",
+                    "cumulative_distance_km": 5.4,
+                    "fare_from_start_taka": 13.00
+                },
+                {
+                    "stop_name": "কলেজগেট",
+                    "cumulative_distance_km": 6.3,
+                    "fare_from_start_taka": 15.00
+                },
+                {
+                    "stop_name": "আসাদগেট",
+                    "cumulative_distance_km": 7.2,
+                    "fare_from_start_taka": 18.00
+                },
+                {
+                    "stop_name": "ফার্মগেট",
+                    "cumulative_distance_km": 9.0,
+                    "fare_from_start_taka": 22.00
+                },
+                {
+                    "stop_name": "কাওরানবাজার",
+                    "cumulative_distance_km": 10.0,
+                    "fare_from_start_taka": 25.00
+                },
+                {
+                    "stop_name": "শাহবাগ",
+                    "cumulative_distance_km": 11.4,
+                    "fare_from_start_taka": 28.00
+                },
+                {
+                    "stop_name": "প্রেসক্লাব",
+                    "cumulative_distance_km": 13.1,
+                    "fare_from_start_taka": 32.00
+                },
+                {
+                    "stop_name": "স্টেডিয়াম",
+                    "cumulative_distance_km": 14.1,
+                    "fare_from_start_taka": 35.00
+                },
+                {
+                    "stop_name": "ইত্তেফাক",
+                    "cumulative_distance_km": 17.2,
+                    "fare_from_start_taka": 42.00
+                },
+                {
+                    "stop_name": "সায়েদাবাদ",
+                    "cumulative_distance_km": 18.3,
+                    "fare_from_start_taka": 45.00
+                }
+            ]
+        },
+        {
+            "route": "মিরপুর-১ হতে যাত্রাবাড়ী (Mirpur-1 to Jatrabari)",
+            "route_number": "এ-১১৫ (A-115)",
+            "total_distance_km": 17.6,
+            "stops": [
+                {
+                    "stop_name": "মিরপুর-১",
+                    "cumulative_distance_km": 0.0,
+                    "fare_from_start_taka": 0
+                },
+                {
+                    "stop_name": "আনসার ক্যাম্প",
+                    "cumulative_distance_km": 1.0,
+                    "fare_from_start_taka": 10.00
+                },
+                {
+                    "stop_name": "টেকনিক্যাল",
+                    "cumulative_distance_km": 2.2,
+                    "fare_from_start_taka": 10.00
+                },
+                {
+                    "stop_name": "কল্যাণপুর",
+                    "cumulative_distance_km": 3.2,
+                    "fare_from_start_taka": 10.00
+                },
+                {
+                    "stop_name": "শ্যামলী",
+                    "cumulative_distance_km": 3.9,
+                    "fare_from_start_taka": 10.00
+                },
+                {
+                    "stop_name": "কলেজগেইট",
+                    "cumulative_distance_km": 4.6,
+                    "fare_from_start_taka": 11.00
+                },
+                {
+                    "stop_name": "শুক্রাবাদ",
+                    "cumulative_distance_km": 6.8,
+                    "fare_from_start_taka": 17.00
+                },
+                {
+                    "stop_name": "কলাবাগান",
+                    "cumulative_distance_km": 7.4,
+                    "fare_from_start_taka": 18.00
+                },
+                {
+                    "stop_name": "সায়েন্সল্যাব",
+                    "cumulative_distance_km": 8.4,
+                    "fare_from_start_taka": 21.00
+                },
+                {
+                    "stop_name": "কাটাবন",
+                    "cumulative_distance_km": 9.3,
+                    "fare_from_start_taka": 23.00
+                },
+                {
+                    "stop_name": "শাহবাগ",
+                    "cumulative_distance_km": 9.7,
+                    "fare_from_start_taka": 24.00
+                },
+                {
+                    "stop_name": "প্রেসক্লাব",
+                    "cumulative_distance_km": 11.5,
+                    "fare_from_start_taka": 28.00
+                },
+                {
+                    "stop_name": "গুলিস্তান মোড়",
+                    "cumulative_distance_km": 12.5,
+                    "fare_from_start_taka": 31.00
+                },
+                {
+                    "stop_name": "বাংলাদেশ ব্যাংক",
+                    "cumulative_distance_km": 13.8,
+                    "fare_from_start_taka": 34.00
+                },
+                {
+                    "stop_name": "যাত্রাবাড়ী",
+                    "cumulative_distance_km": 17.6,
+                    "fare_from_start_taka": 43.00
+                }
+            ]
+        },
+        {
+            "route": "মিরপুর-১২ (ইসিবি চত্বর) হতে আজিমপুর (Mirpur-12 to Azimpur)",
+            "route_number": "এ-১২২ (A-122)",
+            "total_distance_km": 22.0,
+            "stops": [
+                {
+                    "stop_name": "মিরপুর-১২",
+                    "cumulative_distance_km": 0.0,
+                    "fare_from_start_taka": 0
+                },
+                {
+                    "stop_name": "ইসিবি মোড়",
+                    "cumulative_distance_km": 4.4,
+                    "fare_from_start_taka": 11.00
+                },
+                {
+                    "stop_name": "মিরপুর-১০",
+                    "cumulative_distance_km": 8.9,
+                    "fare_from_start_taka": 22.00
+                },
+                {
+                    "stop_name": "কাজীপাড়া",
+                    "cumulative_distance_km": 10.3,
+                    "fare_from_start_taka": 25.00
+                },
+                {
+                    "stop_name": "শেওড়াপাড়া",
+                    "cumulative_distance_km": 11.0,
+                    "fare_from_start_taka": 27.00
+                },
+                {
+                    "stop_name": "আগারগাঁও",
+                    "cumulative_distance_km": 12.7,
+                    "fare_from_start_taka": 31.00
+                },
+                {
+                    "stop_name": "শিশুমেলা",
+                    "cumulative_distance_km": 14.0,
+                    "fare_from_start_taka": 34.00
+                },
+                {
+                    "stop_name": "কলেজগেট",
+                    "cumulative_distance_km": 14.5,
+                    "fare_from_start_taka": 36.00
+                },
+                {
+                    "stop_name": "মানিকমিয়া এভিনিউ",
+                    "cumulative_distance_km": 15.9,
+                    "fare_from_start_taka": 39.00
+                },
+                {
+                    "stop_name": "আজিমপুর",
+                    "cumulative_distance_km": 22.0,
+                    "fare_from_start_taka": 54.00
+                }
+            ]
+        },
+        {
+            "route": "মিরপুর মাজার রোড হতে আজিমপুর (Mirpur Mazar Road to Azimpur)",
+            "route_number": "এ-১২৭ (A-127)",
+            "total_distance_km": 12.0,
+            "stops": [
+                {
+                    "stop_name": "মিরপুর মাজার রোড",
+                    "cumulative_distance_km": 0.0,
+                    "fare_from_start_taka": 0
+                },
+                {
+                    "stop_name": "মিরপুর-১",
+                    "cumulative_distance_km": 1.0,
+                    "fare_from_start_taka": 10.00
+                },
+                {
+                    "stop_name": "শ্যামলী",
+                    "cumulative_distance_km": 4.6,
+                    "fare_from_start_taka": 11.00
+                },
+                {
+                    "stop_name": "আসাদগেট",
+                    "cumulative_distance_km": 6.6,
+                    "fare_from_start_taka": 16.00
+                },
+                {
+                    "stop_name": "রাসেল স্কয়ার",
+                    "cumulative_distance_km": 8.6,
+                    "fare_from_start_taka": 21.00
+                },
+                {
+                    "stop_name": "কলাবাগান",
+                    "cumulative_distance_km": 9.0,
+                    "fare_from_start_taka": 22.00
+                },
+                {
+                    "stop_name": "সায়েন্সল্যাব",
+                    "cumulative_distance_km": 10.0,
+                    "fare_from_start_taka": 25.00
+                },
+                {
+                    "stop_name": "নিউমার্কেট",
+                    "cumulative_distance_km": 10.6,
+                    "fare_from_start_taka": 26.00
+                },
+                {
+                    "stop_name": "নীলক্ষেত",
+                    "cumulative_distance_km": 10.8,
+                    "fare_from_start_taka": 26.00
+                },
+                {
+                    "stop_name": "আজিমপুর",
+                    "cumulative_distance_km": 12.0,
+                    "fare_from_start_taka": 29.00
+                }
+            ]
+        },
+        {
+            "route": "মিরপুর-১৪ হতে খিলগাও তালতলা (Mirpur-14 to Khilgaon Taltola)",
+            "route_number": "এ-১২৯ (A-129)",
+            "total_distance_km": 25.7,
+            "stops": [
+                {
+                    "stop_name": "মিরপুর (১৪)",
+                    "cumulative_distance_km": 0.0,
+                    "fare_from_start_taka": 0
+                },
+                {
+                    "stop_name": "মিরপুর (১০)",
+                    "cumulative_distance_km": 2.1,
+                    "fare_from_start_taka": 10.00
+                },
+                {
+                    "stop_name": "মিরপুর (১)",
+                    "cumulative_distance_km": 3.6,
+                    "fare_from_start_taka": 10.00
+                },
+                {
+                    "stop_name": "বাংলা কলেজ",
+                    "cumulative_distance_km": 5.3,
+                    "fare_from_start_taka": 13.00
+                },
+                {
+                    "stop_name": "শ্যামলী",
+                    "cumulative_distance_km": 7.4,
+                    "fare_from_start_taka": 18.00
+                },
+                {
+                    "stop_name": "আসাদগেট",
+                    "cumulative_distance_km": 8.9,
+                    "fare_from_start_taka": 22.00
+                },
+                {
+                    "stop_name": "শুক্রাবাদ",
+                    "cumulative_distance_km": 9.4,
+                    "fare_from_start_taka": 23.00
+                },
+                {
+                    "stop_name": "কলাবাগান",
+                    "cumulative_distance_km": 10.1,
+                    "fare_from_start_taka": 25.00
+                },
+                {
+                    "stop_name": "সাইন্সল্যাবঃ",
+                    "cumulative_distance_km": 11.9,
+                    "fare_from_start_taka": 29.00
+                },
+                {
+                    "stop_name": "শাহবাগ",
+                    "cumulative_distance_km": 13.1,
+                    "fare_from_start_taka": 32.00
+                },
+                {
+                    "stop_name": "প্রেসক্লাব",
+                    "cumulative_distance_km": 14.7,
+                    "fare_from_start_taka": 36.00
+                },
+                {
+                    "stop_name": "শাপলা চত্বর",
+                    "cumulative_distance_km": 17.1,
+                    "fare_from_start_taka": 42.00
+                },
+                {
+                    "stop_name": "কমলাপুর",
+                    "cumulative_distance_km": 18.1,
+                    "fare_from_start_taka": 44.00
+                },
+                {
+                    "stop_name": "বাসাবো",
+                    "cumulative_distance_km": 20.9,
+                    "fare_from_start_taka": 51.00
+                },
+                {
+                    "stop_name": "খিলগাও রেলগেট",
+                    "cumulative_distance_km": 23.3,
+                    "fare_from_start_taka": 57.00
+                },
+                {
+                    "stop_name": "খিলগাও তালতলা",
+                    "cumulative_distance_km": 25.7,
+                    "fare_from_start_taka": 63.00
+                }
+            ]
+        }
+    ]
+}

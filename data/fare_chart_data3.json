@@ -1,0 +1,169 @@
+{
+    "bus_fare_charts": [
+        {
+            "route_id": "A-406",
+            "route_name": "Ghatar Char to Sonargaon",
+            "vehicle_type": "Diesel-powered bus",
+            "rate_per_km": 2.45,
+            "total_distance_km": 39.4,
+            "major_stops": [
+                {
+                    "stop_name": "Ghatar Char",
+                    "km": 0.0,
+                    "fare_from_start": 0
+                },
+                {
+                    "stop_name": "Bosila",
+                    "km": 2.8,
+                    "fare_from_start": 10.00
+                },
+                {
+                    "stop_name": "Mohammadpur",
+                    "km": 4.3,
+                    "fare_from_start": 11.00
+                },
+                {
+                    "stop_name": "Shahbag",
+                    "km": 11.3,
+                    "fare_from_start": 28.00
+                },
+                {
+                    "stop_name": "Gulistan",
+                    "km": 14.3,
+                    "fare_from_start": 35.00
+                },
+                {
+                    "stop_name": "Kanchpur",
+                    "km": 27.3,
+                    "fare_from_start": 67.00
+                },
+                {
+                    "stop_name": "Sonargaon",
+                    "km": 39.4,
+                    "fare_from_start": 97.00
+                }
+            ],
+            "source": "Dhaka Metropolitan Area Passenger & Goods Transport Committee [cite: 1]"
+        },
+        {
+            "route_id": "A-414",
+            "route_name": "Uttara Diabari to Ghatar Char",
+            "vehicle_type": "Diesel-powered bus",
+            "rate_per_km": 2.45,
+            "total_distance_km": 32.1,
+            "major_stops": [
+                {
+                    "stop_name": "Uttara Diabari",
+                    "km": 0.0,
+                    "fare_from_start": 0
+                },
+                {
+                    "stop_name": "House Building",
+                    "km": 3.0,
+                    "fare_from_start": 10.00
+                },
+                {
+                    "stop_name": "Kamarpara",
+                    "km": 6.0,
+                    "fare_from_start": 15.00
+                },
+                {
+                    "stop_name": "Mirpur-1",
+                    "km": 22.5,
+                    "fare_from_start": 55.00
+                },
+                {
+                    "stop_name": "Bosila Bridge",
+                    "km": 29.3,
+                    "fare_from_start": 72.00
+                },
+                {
+                    "stop_name": "Ghatar Char",
+                    "km": 32.1,
+                    "fare_from_start": 79.00
+                }
+            ],
+            "source": "Dhaka Metropolitan Area Passenger & Goods Transport Committee [cite: 10]"
+        },
+        {
+            "route_id": "A-421",
+            "route_name": "Signboard to Nabinagar",
+            "vehicle_type": "Diesel-powered bus",
+            "rate_per_km": 2.45,
+            "total_distance_km": 45.3,
+            "major_stops": [
+                {
+                    "stop_name": "Signboard",
+                    "km": 0.0,
+                    "fare_from_start": 0
+                },
+                {
+                    "stop_name": "Sayedabad",
+                    "km": 6.6,
+                    "fare_from_start": 16.00
+                },
+                {
+                    "stop_name": "Farmgate",
+                    "km": 15.8,
+                    "fare_from_start": 39.00
+                },
+                {
+                    "stop_name": "Gabtoli",
+                    "km": 22.2,
+                    "fare_from_start": 54.00
+                },
+                {
+                    "stop_name": "Savar",
+                    "km": 36.8,
+                    "fare_from_start": 90.00
+                },
+                {
+                    "stop_name": "Nabinagar",
+                    "km": 45.5,
+                    "fare_from_start": 111.00
+                }
+            ],
+            "source": "Dhaka Metropolitan Area Passenger & Goods Transport Committee [cite: 18]"
+        },
+        {
+            "route_id": "A-422",
+            "route_name": "Kamrangirchar (Beribadh) to Konabari",
+            "vehicle_type": "Diesel-powered bus",
+            "rate_per_km": 2.45,
+            "total_distance_km": 52.0,
+            "major_stops": [
+                {
+                    "stop_name": "Kamrangirchar",
+                    "km": 0.0,
+                    "fare_from_start": 0
+                },
+                {
+                    "stop_name": "Mohammadpur",
+                    "km": 9.2,
+                    "fare_from_start": 23.00
+                },
+                {
+                    "stop_name": "Mirpur-1",
+                    "km": 16.0,
+                    "fare_from_start": 39.00
+                },
+                {
+                    "stop_name": "Zirabo",
+                    "km": 37.4,
+                    "fare_from_start": 92.00
+                },
+                {
+                    "stop_name": "Konabari",
+                    "km": 52.0,
+                    "fare_from_start": 127.00
+                }
+            ],
+            "source": "Dhaka Metropolitan Area Passenger & Goods Transport Committee [cite: 25]"
+        }
+    ],
+    "general_notes": {
+        "minimum_fare": "10.00 BDT [cite: 3, 12, 20, 27]",
+        "effective_date": "August 31, 2022 (16 Bhadra 1429 BS) [cite: 1, 10, 18, 25]",
+        "exclusions": "Not applicable for gas-powered vehicles [cite: 5, 14, 22, 29]"
+    }
+}

@@ -1,0 +1,462 @@
+[
+    {
+        "route": "Ghatarchar to Demra Staff Quarter (Up)",
+        "total_distance_km": 22.27,
+        "fare_rate_per_km": 2.45,
+        "min_fare": 10.00,
+        "stops": [
+            {
+                "stop_name": "Ghatarchar",
+                "distance_km": 0.00,
+                "fare_from_origin": 0
+            },
+            {
+                "stop_name": "Washpur",
+                "distance_km": 0.95,
+                "fare_from_origin": 10.00
+            },
+            {
+                "stop_name": "Bosila",
+                "distance_km": 1.83,
+                "fare_from_origin": 10.00
+            },
+            {
+                "stop_name": "Bosila CNG Stand",
+                "distance_km": 3.48,
+                "fare_from_origin": 10.00
+            },
+            {
+                "stop_name": "Mohammadpur (Bosila Road)",
+                "distance_km": 3.72,
+                "fare_from_origin": 10.00
+            },
+            {
+                "stop_name": "Mohammadpur Bus Stand",
+                "distance_km": 4.27,
+                "fare_from_origin": 10.00
+            },
+            {
+                "stop_name": "Town Hall",
+                "distance_km": 4.79,
+                "fare_from_origin": 12.00
+            },
+            {
+                "stop_name": "Asadgate",
+                "distance_km": 5.56,
+                "fare_from_origin": 14.00
+            },
+            {
+                "stop_name": "Farmgate",
+                "distance_km": 7.40,
+                "fare_from_origin": 18.00
+            },
+            {
+                "stop_name": "Karwan Bazar",
+                "distance_km": 8.23,
+                "fare_from_origin": 20.00
+            },
+            {
+                "stop_name": "Banglamotor",
+                "distance_km": 8.92,
+                "fare_from_origin": 22.00
+            },
+            {
+                "stop_name": "Shahbag",
+                "distance_km": 9.70,
+                "fare_from_origin": 24.00
+            },
+            {
+                "stop_name": "Matsya Bhaban",
+                "distance_km": 10.52,
+                "fare_from_origin": 26.00
+            },
+            {
+                "stop_name": "Kakrail",
+                "distance_km": 11.30,
+                "fare_from_origin": 28.00
+            },
+            {
+                "stop_name": "Fakirapool",
+                "distance_km": 12.46,
+                "fare_from_origin": 31.00
+            },
+            {
+                "stop_name": "Motijheel (Notre Dame College)",
+                "distance_km": 13.00,
+                "fare_from_origin": 32.00
+            },
+            {
+                "stop_name": "Motijheel (Hirajheel)",
+                "distance_km": 13.58,
+                "fare_from_origin": 33.00
+            },
+            {
+                "stop_name": "Tikatuli",
+                "distance_km": 14.16,
+                "fare_from_origin": 35.00
+            },
+            {
+                "stop_name": "Kajla",
+                "distance_km": 16.99,
+                "fare_from_origin": 42.00
+            },
+            {
+                "stop_name": "Konapara",
+                "distance_km": 19.89,
+                "fare_from_origin": 49.00
+            },
+            {
+                "stop_name": "Demra Staff Quarter",
+                "distance_km": 22.27,
+                "fare_from_origin": 55.00
+            }
+        ]
+    },
+    {
+        "route": "Demra Staff Quarter to Ghatarchar (Down)",
+        "total_distance_km": 22.26,
+        "fare_rate_per_km": 2.45,
+        "min_fare": 10.00,
+        "stops": [
+            {
+                "stop_name": "Demra Staff Quarter",
+                "distance_km": 0.00,
+                "fare_from_origin": 0
+            },
+            {
+                "stop_name": "Konapara",
+                "distance_km": 2.44,
+                "fare_from_origin": 10.00
+            },
+            {
+                "stop_name": "Kajla",
+                "distance_km": 5.54,
+                "fare_from_origin": 14.00
+            },
+            {
+                "stop_name": "Janpath More",
+                "distance_km": 6.89,
+                "fare_from_origin": 17.00
+            },
+            {
+                "stop_name": "Wari (Baldha Garden)",
+                "distance_km": 8.09,
+                "fare_from_origin": 20.00
+            },
+            {
+                "stop_name": "Motijheel (Shapla Chattar)",
+                "distance_km": 9.08,
+                "fare_from_origin": 22.00
+            },
+            {
+                "stop_name": "Motijheel (Notre Dame College)",
+                "distance_km": 9.57,
+                "fare_from_origin": 23.00
+            },
+            {
+                "stop_name": "Fakirapool",
+                "distance_km": 10.20,
+                "fare_from_origin": 25.00
+            },
+            {
+                "stop_name": "Kakrail",
+                "distance_km": 11.07,
+                "fare_from_origin": 27.00
+            },
+            {
+                "stop_name": "Matsya Bhaban",
+                "distance_km": 11.87,
+                "fare_from_origin": 29.00
+            },
+            {
+                "stop_name": "Shahbag",
+                "distance_km": 12.69,
+                "fare_from_origin": 31.00
+            },
+            {
+                "stop_name": "Banglamotor",
+                "distance_km": 13.46,
+                "fare_from_origin": 33.00
+            },
+            {
+                "stop_name": "Karwan Bazar",
+                "distance_km": 14.11,
+                "fare_from_origin": 35.00
+            },
+            {
+                "stop_name": "Farmgate",
+                "distance_km": 14.96,
+                "fare_from_origin": 37.00
+            },
+            {
+                "stop_name": "Asadgate",
+                "distance_km": 16.94,
+                "fare_from_origin": 42.00
+            },
+            {
+                "stop_name": "Town Hall",
+                "distance_km": 17.67,
+                "fare_from_origin": 43.00
+            },
+            {
+                "stop_name": "Mohammadpur Bus Stand",
+                "distance_km": 18.12,
+                "fare_from_origin": 44.00
+            },
+            {
+                "stop_name": "Mohammadpur (Bosila Road)",
+                "distance_km": 18.54,
+                "fare_from_origin": 45.00
+            },
+            {
+                "stop_name": "Bosila CNG Stand",
+                "distance_km": 18.77,
+                "fare_from_origin": 46.00
+            },
+            {
+                "stop_name": "Bosila",
+                "distance_km": 20.43,
+                "fare_from_origin": 50.00
+            },
+            {
+                "stop_name": "Washpur",
+                "distance_km": 21.31,
+                "fare_from_origin": 52.00
+            },
+            {
+                "stop_name": "Ghatarchar",
+                "distance_km": 22.26,
+                "fare_from_origin": 55.00
+            }
+        ]
+    },
+    {
+        "route": "Ghatarchar to Pagla Bazar (Up)",
+        "total_distance_km": 23.51,
+        "fare_rate_per_km": 2.45,
+        "min_fare": 10.00,
+        "stops": [
+            {
+                "stop_name": "Ghatarchar",
+                "distance_km": 0.00,
+                "fare_from_origin": 0
+            },
+            {
+                "stop_name": "Washpur",
+                "distance_km": 0.95,
+                "fare_from_origin": 10.00
+            },
+            {
+                "stop_name": "Bosila",
+                "distance_km": 1.83,
+                "fare_from_origin": 10.00
+            },
+            {
+                "stop_name": "Bosila CNG Stand",
+                "distance_km": 3.48,
+                "fare_from_origin": 10.00
+            },
+            {
+                "stop_name": "Mohammadpur (Bosila Road)",
+                "distance_km": 3.72,
+                "fare_from_origin": 10.00
+            },
+            {
+                "stop_name": "Mohammadpur Bus Stand",
+                "distance_km": 4.27,
+                "fare_from_origin": 10.00
+            },
+            {
+                "stop_name": "Town Hall",
+                "distance_km": 4.79,
+                "fare_from_origin": 12.00
+            },
+            {
+                "stop_name": "Sobhanbag",
+                "distance_km": 6.34,
+                "fare_from_origin": 16.00
+            },
+            {
+                "stop_name": "Kalabagan",
+                "distance_km": 7.27,
+                "fare_from_origin": 18.00
+            },
+            {
+                "stop_name": "Science Lab",
+                "distance_km": 8.22,
+                "fare_from_origin": 20.00
+            },
+            {
+                "stop_name": "Gausia/Chandnichowk",
+                "distance_km": 9.19,
+                "fare_from_origin": 23.00
+            },
+            {
+                "stop_name": "Azimpur",
+                "distance_km": 10.15,
+                "fare_from_origin": 25.00
+            },
+            {
+                "stop_name": "Chankharpool",
+                "distance_km": 12.54,
+                "fare_from_origin": 31.00
+            },
+            {
+                "stop_name": "Postogola",
+                "distance_km": 17.86,
+                "fare_from_origin": 44.00
+            },
+            {
+                "stop_name": "Pagla Bazar",
+                "distance_km": 23.51,
+                "fare_from_origin": 58.00
+            }
+        ]
+    },
+    {
+        "route": "Pagla Bazar to Ghatarchar (Down)",
+        "total_distance_km": 23.60,
+        "fare_rate_per_km": 2.45,
+        "min_fare": 10.00,
+        "stops": [
+            {
+                "stop_name": "Pagla Bazar",
+                "distance_km": 0.00,
+                "fare_from_origin": 0
+            },
+            {
+                "stop_name": "Postogola",
+                "distance_km": 5.84,
+                "fare_from_origin": 14.00
+            },
+            {
+                "stop_name": "Chankharpool",
+                "distance_km": 11.30,
+                "fare_from_origin": 28.00
+            },
+            {
+                "stop_name": "Azimpur",
+                "distance_km": 13.86,
+                "fare_from_origin": 34.00
+            },
+            {
+                "stop_name": "New Market",
+                "distance_km": 14.80,
+                "fare_from_origin": 36.00
+            },
+            {
+                "stop_name": "Science Lab",
+                "distance_km": 15.86,
+                "fare_from_origin": 39.00
+            },
+            {
+                "stop_name": "Kalabagan",
+                "distance_km": 16.83,
+                "fare_from_origin": 41.00
+            },
+            {
+                "stop_name": "Sobhanbag",
+                "distance_km": 17.56,
+                "fare_from_origin": 43.00
+            },
+            {
+                "stop_name": "Town Hall",
+                "distance_km": 19.44,
+                "fare_from_origin": 48.00
+            },
+            {
+                "stop_name": "Mohammadpur Bus Stand",
+                "distance_km": 19.88,
+                "fare_from_origin": 49.00
+            },
+            {
+                "stop_name": "Mohammadpur (Bosila Road)",
+                "distance_km": 20.11,
+                "fare_from_origin": 49.00
+            },
+            {
+                "stop_name": "Bosila CNG Stand",
+                "distance_km": 21.77,
+                "fare_from_origin": 53.00
+            },
+            {
+                "stop_name": "Washpur",
+                "distance_km": 22.65,
+                "fare_from_origin": 55.00
+            },
+            {
+                "stop_name": "Ghatarchar",
+                "distance_km": 23.60,
+                "fare_from_origin": 58.00
+            }
+        ]
+    },
+    {
+        "route": "Jagannath University to Chandra (A-265/266)",
+        "total_distance_km": 55.3,
+        "fare_rate_per_km": 2.45,
+        "min_fare": 10.00,
+        "stops": [
+            {
+                "stop_name": "Jagannath University",
+                "distance_km": 0.0,
+                "fare_from_origin": 0
+            },
+            {
+                "stop_name": "Fulbaria",
+                "distance_km": 2.0,
+                "fare_from_origin": 10.00
+            },
+            {
+                "stop_name": "Paltan",
+                "distance_km": 3.2,
+                "fare_from_origin": 10.00
+            },
+            {
+                "stop_name": "Kakrail",
+                "distance_km": 4.5,
+                "fare_from_origin": 11.00
+            },
+            {
+                "stop_name": "Moghbazar",
+                "distance_km": 7.0,
+                "fare_from_origin": 17.00
+            },
+            {
+                "stop_name": "Mohakhali",
+                "distance_km": 11.0,
+                "fare_from_origin": 27.00
+            },
+            {
+                "stop_name": "Airport",
+                "distance_km": 20.0,
+                "fare_from_origin": 49.00
+            },
+            {
+                "stop_name": "Tongi",
+                "distance_km": 27.0,
+                "fare_from_origin": 66.00
+            },
+            {
+                "stop_name": "Gazipur",
+                "distance_km": 38.0,
+                "fare_from_origin": 93.00
+            },
+            {
+                "stop_name": "Konabari",
+                "distance_km": 45.0,
+                "fare_from_origin": 110.00
+            },
+            {
+                "stop_name": "Safipur",
+                "distance_km": 51.0,
+                "fare_from_origin": 125.00
+            },
+            {
+                "stop_name": "Chandra",
+                "distance_km": 55.3,
+                "fare_from_origin": 135.00
+            }
+        ]
+    }
+]
