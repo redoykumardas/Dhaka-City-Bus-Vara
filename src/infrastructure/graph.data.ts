@@ -1,5 +1,6 @@
 import { Graph, BusOperator, segmentKey } from "@/domain/types"
 import { instance as dp } from "./dataProcessor"
+import { ALIASES } from "@/domain/stopNormalizer"
 
 /**
  * Returns the graph using Stop IDs as nodes.
@@ -117,6 +118,19 @@ export function getFareForRoute(routeId: number, fromName: string, toName: strin
 
 export function getAllStops(): string[] {
   if (cachedStops) return cachedStops
-  cachedStops = dp.stops.map(s => s.stop_name).sort()
+  
+  const stopSet = new Set<string>()
+  dp.stops.forEach(s => {
+    stopSet.add(s.stop_name)
+    
+    // Also add Bengali aliases for bilingual search support
+    const aliases = ALIASES[s.stop_name] || []
+    const bengali = aliases.find(a => /[\u0980-\u09FF]/.test(a))
+    if (bengali) {
+      stopSet.add(bengali)
+    }
+  })
+  
+  cachedStops = Array.from(stopSet).sort()
   return cachedStops
 }

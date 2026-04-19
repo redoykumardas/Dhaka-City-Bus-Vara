@@ -10,7 +10,7 @@
  * Key = canonical display name (used everywhere in the app).
  * Value = array of alternate spellings found in the data.
  */
-const ALIASES: Record<string, string[]> = {
+export const ALIASES: Record<string, string[]> = {
   "Mirpur 1": ["Mirpur-1", "মিরপুর-১", "মিরপুর-১ (Mirpur-1)", "Mirpur 1", "মিরপুর (১)"],
   "Mirpur 2": ["Mirpur-2", "মিরপুর-২"],
   "Mirpur 10": ["Mirpur-10", "মিরপুর-১০", "মিরপুর-১০ (Mirpur-10)", "মিরপুর (১০)", "মিরপুর (১০)"],

@@ -16,7 +16,7 @@ export class DataProcessor {
   public fareSegments: FareSegment[] = []
 
   private stopMap = new Map<string, number>() // normalized name -> id
-  private stopByIdMap = new Map<number, Stop>() // id -> Stop object
+  private stopByIdMap = new Map<number, StopRecord>() // id -> StopRecord object
   private busCounter = 0
   private routeCounter = 0
   private stopCounter = 0

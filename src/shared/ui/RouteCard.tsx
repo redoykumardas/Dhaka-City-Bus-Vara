@@ -22,8 +22,10 @@ export default function RouteCard({ route, rank, from, to }: RouteCardProps) {
     >
       <article className="route-card fade-in">
         {/* Header row */}
-        <div style={{ display: "flex", alignItems: "center", justifyContent: "space-between", marginBottom: 14 }}>
-          <span style={{ fontSize: "1.3rem" }}>{rankEmoji}</span>
+        <div className="stack-mobile" style={{ display: "flex", alignItems: "center", justifyContent: "space-between", marginBottom: 14 }}>
+          <div style={{ display: "flex", alignItems: "center", gap: 8 }}>
+            <span style={{ fontSize: "1.3rem" }}>{rankEmoji}</span>
+          </div>
           <div style={{ display: "flex", gap: 6, flexWrap: "wrap" }}>
             <span className="chip chip-green">💰 {route.totalFare} BDT</span>
             <span className="chip chip-blue">⏱ {route.totalTime} min</span>
@@ -32,7 +34,14 @@ export default function RouteCard({ route, rank, from, to }: RouteCardProps) {
         </div>
 
         {/* Segment path */}
-        <div className="stop-path" style={{ marginBottom: 14, overflow: "hidden" }}>
+        <div className="stop-path" style={{ 
+          marginBottom: 14, 
+          overflowX: "auto", 
+          whiteSpace: "nowrap",
+          paddingBottom: 4,
+          scrollbarWidth: "none",
+          msOverflowStyle: "none"
+        }}>
           {route.segments.map((seg, si) => (
             <div key={si} style={{ display: "inline-flex", alignItems: "center" }}>
               <span

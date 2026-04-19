@@ -16,7 +16,7 @@ export default function HomePage() {
         <header className={styles.hero}>
           <div className={styles.heroBadge}>
             <span>🚌</span>
-            <span>{allStops.length}+ stops across Dhaka</span>
+            <span id="data-count">{allStops.length > 0 ? `${allStops.length} stops loaded` : "Loading data..."}</span>
           </div>
 
           <h1 className={styles.heroTitle}>
@@ -37,20 +37,20 @@ export default function HomePage() {
 
         {/* Quick examples */}
         <section className={styles.examples}>
-          <p className={styles.examplesLabel}>Popular routes</p>
+          <p className={styles.examplesLabel}>Popular Search</p>
           <div className={styles.exampleChips}>
             {[
               { from: "Mirpur 10", to: "Motijheel" },
               { from: "Gabtoli", to: "Gulistan" },
               { from: "Uttara", to: "Farmgate" },
-              { from: "Mirpur 1", to: "Sayedabad" },
+              { from: "Abdullahpur", to: "Airport" },
             ].map((r) => (
               <a
                 key={`${r.from}-${r.to}`}
                 href={`/routes?from=${encodeURIComponent(r.from)}&to=${encodeURIComponent(r.to)}`}
                 className={styles.exampleChip}
               >
-                {r.from} → {r.to}
+                {r.from} to {r.to}
               </a>
             ))}
           </div>
@@ -59,9 +59,9 @@ export default function HomePage() {
         {/* Features */}
         <section className={styles.features}>
           {[
-            { icon: "🧠", title: "Smart Routing", desc: "BFS engine finds all viable paths through the Dhaka bus network" },
-            { icon: "💰", title: "BRTA Fares", desc: "Real fare data from Bangladesh Road Transport Authority charts" },
-            { icon: "⏱️", title: "Time Estimates", desc: "Realistic travel time based on Dhaka's average traffic speeds" },
+            { icon: "🧠", title: "Smart Routing", desc: "Finds all viable paths through the complex bus network" },
+            { icon: "💰", title: "BRTA Fares", desc: "Real fare data from official 2024 transport charts" },
+            { icon: "🗺️", title: "Full Paths", desc: "See every stop along your journey with transfer points" },
           ].map((f, i) => (
             <div key={i} className={`card ${styles.featureCard} fade-in fade-in-delay-${i + 1}`}>
               <span className={styles.featureIcon}>{f.icon}</span>
@@ -70,6 +70,12 @@ export default function HomePage() {
             </div>
           ))}
         </section>
+
+        <footer style={{ marginTop: 80, paddingBottom: 40, textAlign: "center", borderTop: "1px solid var(--border-subtle)", paddingTop: 40 }}>
+          <p style={{ color: "var(--text-muted)", fontSize: "0.85rem" }}>
+            Dhaka City Bus Finder © 2026. Data sourced from BRTA.
+          </p>
+        </footer>
       </div>
     </main>
   )
