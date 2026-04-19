@@ -1,9 +1,9 @@
-import { Graph } from "@/domain/types"
+import { Graph, PathStep } from "@/domain/types"
 
 export interface RoutingPort {
   /**
-   * Find up to `maxPaths` paths from `from` to `to` through the graph.
-   * Returns ordered arrays of stop names.
+   * Find paths from A to B.
+   * Returns an array of paths, where each path is a sequence of PathSteps.
    */
-  findAll(graph: Graph, from: string, to: string, maxPaths?: number): string[][]
+  findAll(graph: Graph, from: string, to: string, maxPaths?: number): PathStep[][]
 }

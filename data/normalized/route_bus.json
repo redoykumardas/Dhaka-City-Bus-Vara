@@ -1,0 +1,1032 @@
+[
+  {
+    "route_id": 1,
+    "bus_id": 1,
+    "route_name": "Gabtoli - Demra Staff Quarter"
+  },
+  {
+    "route_id": 2,
+    "bus_id": 2,
+    "route_name": "Shia Masjid - Abdullahpur"
+  },
+  {
+    "route_id": 3,
+    "bus_id": 3,
+    "route_name": "Savar - Notun Bazar"
+  },
+  {
+    "route_id": 4,
+    "bus_id": 4,
+    "route_name": "Fulbaria - Abdullahpur"
+  },
+  {
+    "route_id": 5,
+    "bus_id": 5,
+    "route_name": "Sadarghat - Chandra"
+  },
+  {
+    "route_id": 6,
+    "bus_id": 6,
+    "route_name": "Dhamrai - Chittagong Road"
+  },
+  {
+    "route_id": 7,
+    "bus_id": 7,
+    "route_name": "Kadamtali - Tongi"
+  },
+  {
+    "route_id": 8,
+    "bus_id": 8,
+    "route_name": "Ansar Camp - Uttar Badda"
+  },
+  {
+    "route_id": 9,
+    "bus_id": 9,
+    "route_name": "Motijheel - Mirpur 1"
+  },
+  {
+    "route_id": 10,
+    "bus_id": 10,
+    "route_name": "Nandan Park - Kamalapur"
+  },
+  {
+    "route_id": 11,
+    "bus_id": 11,
+    "route_name": "Mirpur 14 - Nandan Park"
+  },
+  {
+    "route_id": 12,
+    "bus_id": 12,
+    "route_name": "Shia Masjid - Banasree"
+  },
+  {
+    "route_id": 13,
+    "bus_id": 13,
+    "route_name": "Mirpur 1 - Banasree"
+  },
+  {
+    "route_id": 14,
+    "bus_id": 14,
+    "route_name": "Japan Garden City - Abdullahpur"
+  },
+  {
+    "route_id": 15,
+    "bus_id": 15,
+    "route_name": "Sign Board - Gazipur Chourasta"
+  },
+  {
+    "route_id": 16,
+    "bus_id": 16,
+    "route_name": "Hemayetpur - Demra Staff Quarter"
+  },
+  {
+    "route_id": 17,
+    "bus_id": 17,
+    "route_name": "Duairipara - Azimpur"
+  },
+  {
+    "route_id": 18,
+    "bus_id": 18,
+    "route_name": "Nobinagar - Sat rasta"
+  },
+  {
+    "route_id": 19,
+    "bus_id": 19,
+    "route_name": "Dhour - Madanpur"
+  },
+  {
+    "route_id": 20,
+    "bus_id": 20,
+    "route_name": "Mohammadpur - Arambagh Notre Dame College"
+  },
+  {
+    "route_id": 21,
+    "bus_id": 21,
+    "route_name": "Chiriyakhana - Kamalapur"
+  },
+  {
+    "route_id": 22,
+    "bus_id": 22,
+    "route_name": "Mirpur 14 - Khilgaon"
+  },
+  {
+    "route_id": 23,
+    "bus_id": 23,
+    "route_name": "Savar - Notun Bazar"
+  },
+  {
+    "route_id": 24,
+    "bus_id": 24,
+    "route_name": "Sayapabad - Gazipur Chourasta"
+  },
+  {
+    "route_id": 25,
+    "bus_id": 25,
+    "route_name": "Gabtoli - Maowa"
+  },
+  {
+    "route_id": 26,
+    "bus_id": 26,
+    "route_name": "Gabtoli - Gazipur Chourasta"
+  },
+  {
+    "route_id": 27,
+    "bus_id": 27,
+    "route_name": "Azimpur - Dia Bari"
+  },
+  {
+    "route_id": 28,
+    "bus_id": 28,
+    "route_name": "Mirpur 10 - Jatrabari"
+  },
+  {
+    "route_id": 29,
+    "bus_id": 29,
+    "route_name": "Japan Garden City - Abdullahpur"
+  },
+  {
+    "route_id": 30,
+    "bus_id": 30,
+    "route_name": "Mirpur 12 - Notun Bazar"
+  },
+  {
+    "route_id": 31,
+    "bus_id": 31,
+    "route_name": "Mirpur 12 - Motijheel"
+  },
+  {
+    "route_id": 32,
+    "bus_id": 32,
+    "route_name": "Mirpur 12 - Dhakeshwari"
+  },
+  {
+    "route_id": 33,
+    "bus_id": 33,
+    "route_name": "Azimpur - Kamarpara"
+  },
+  {
+    "route_id": 34,
+    "bus_id": 34,
+    "route_name": "Sign Board - Dhour"
+  },
+  {
+    "route_id": 35,
+    "bus_id": 35,
+    "route_name": "Gulistan - Notun Bazar"
+  },
+  {
+    "route_id": 36,
+    "bus_id": 36,
+    "route_name": "Palashi - Meghna Ghat"
+  },
+  {
+    "route_id": 37,
+    "bus_id": 37,
+    "route_name": "Gazipur Chourasta - Gabtoli"
+  },
+  {
+    "route_id": 38,
+    "bus_id": 38,
+    "route_name": "Chiriyakhana - Chandra"
+  },
+  {
+    "route_id": 39,
+    "bus_id": 39,
+    "route_name": "Madanpur - Savar"
+  },
+  {
+    "route_id": 40,
+    "bus_id": 40,
+    "route_name": "Rajlakshmi - Rajlakshmi"
+  },
+  {
+    "route_id": 41,
+    "bus_id": 41,
+    "route_name": "Motijheel - Tongi"
+  },
+  {
+    "route_id": 42,
+    "bus_id": 42,
+    "route_name": "Mohammadpur - Kuril Bishwa Road"
+  },
+  {
+    "route_id": 43,
+    "bus_id": 43,
+    "route_name": "Kamalapur - Kuril Bishwa Road"
+  },
+  {
+    "route_id": 44,
+    "bus_id": 44,
+    "route_name": "Vulta - Kuril Bishwa Road"
+  },
+  {
+    "route_id": 45,
+    "bus_id": 45,
+    "route_name": "Motijheel - Abdullahpur"
+  },
+  {
+    "route_id": 46,
+    "bus_id": 46,
+    "route_name": "Mohammadpur - Motijheel"
+  },
+  {
+    "route_id": 47,
+    "bus_id": 47,
+    "route_name": "Gabtoli - Gazipur Chourasta"
+  },
+  {
+    "route_id": 48,
+    "bus_id": 48,
+    "route_name": "Balughat - Motijheel"
+  },
+  {
+    "route_id": 49,
+    "bus_id": 49,
+    "route_name": "Mirpur 14 - Savar"
+  },
+  {
+    "route_id": 50,
+    "bus_id": 50,
+    "route_name": "Mirpur 14 - Mohakhali"
+  },
+  {
+    "route_id": 51,
+    "bus_id": 51,
+    "route_name": "Vashantek - Gabtoli"
+  },
+  {
+    "route_id": 52,
+    "bus_id": 52,
+    "route_name": "Chittagong Road - Ghatar Char"
+  },
+  {
+    "route_id": 53,
+    "bus_id": 53,
+    "route_name": "Fulbaria - Dhamrai"
+  },
+  {
+    "route_id": 54,
+    "bus_id": 54,
+    "route_name": "Motijheel - Dhamrai"
+  },
+  {
+    "route_id": 55,
+    "bus_id": 55,
+    "route_name": "Postogola - Kamarpara"
+  },
+  {
+    "route_id": 56,
+    "bus_id": 56,
+    "route_name": "Azimpur - Kuril Bishwa Road"
+  },
+  {
+    "route_id": 57,
+    "bus_id": 57,
+    "route_name": "Police Plaza - Gulshan 2"
+  },
+  {
+    "route_id": 58,
+    "bus_id": 58,
+    "route_name": "Banani - Notun Bazar"
+  },
+  {
+    "route_id": 59,
+    "bus_id": 59,
+    "route_name": "Mirpur 1 - Azimpur"
+  },
+  {
+    "route_id": 60,
+    "bus_id": 60,
+    "route_name": "Gulistan - Shib Bari"
+  },
+  {
+    "route_id": 61,
+    "bus_id": 61,
+    "route_name": "Tajmahal Road - Arambagh"
+  },
+  {
+    "route_id": 62,
+    "bus_id": 62,
+    "route_name": "Azimpur - Kuril Bishwa Road"
+  },
+  {
+    "route_id": 63,
+    "bus_id": 63,
+    "route_name": "Chiriyakhana - Keraniganj"
+  },
+  {
+    "route_id": 64,
+    "bus_id": 64,
+    "route_name": "Agargaon - Abdullahpur"
+  },
+  {
+    "route_id": 65,
+    "bus_id": 65,
+    "route_name": "Golap Shah Mazar - Mirpur 12"
+  },
+  {
+    "route_id": 66,
+    "bus_id": 66,
+    "route_name": "Golap Shah Mazar - Mirpur 12"
+  },
+  {
+    "route_id": 67,
+    "bus_id": 67,
+    "route_name": "Rupnagar Abashik - Keraniganj"
+  },
+  {
+    "route_id": 68,
+    "bus_id": 68,
+    "route_name": "Azimpur - House Building"
+  },
+  {
+    "route_id": 69,
+    "bus_id": 69,
+    "route_name": "Vashantek - Gabtoli"
+  },
+  {
+    "route_id": 70,
+    "bus_id": 70,
+    "route_name": "Mohammadpur - Chittagong Road"
+  },
+  {
+    "route_id": 71,
+    "bus_id": 71,
+    "route_name": "Mohammadpur - Arambagh"
+  },
+  {
+    "route_id": 72,
+    "bus_id": 72,
+    "route_name": "Motijheel - Shib Bari"
+  },
+  {
+    "route_id": 73,
+    "bus_id": 73,
+    "route_name": "Mirpur 14 - Gabtoli"
+  },
+  {
+    "route_id": 74,
+    "bus_id": 74,
+    "route_name": "Fulbaria - Chandra"
+  },
+  {
+    "route_id": 75,
+    "bus_id": 75,
+    "route_name": "Chasara - Gazipur Chourasta"
+  },
+  {
+    "route_id": 76,
+    "bus_id": 76,
+    "route_name": "Motijheel - Abdullahpur"
+  },
+  {
+    "route_id": 77,
+    "bus_id": 77,
+    "route_name": "Banani - Notun Bazar"
+  },
+  {
+    "route_id": 78,
+    "bus_id": 78,
+    "route_name": "Mirpur 12 - Motijheel"
+  },
+  {
+    "route_id": 79,
+    "bus_id": 79,
+    "route_name": "Sony Cinema Hall - Khilgaon Khidmah Hospital"
+  },
+  {
+    "route_id": 80,
+    "bus_id": 80,
+    "route_name": "Metro Hall - Mirpur 12"
+  },
+  {
+    "route_id": 81,
+    "bus_id": 81,
+    "route_name": "Madanpur - Tongi"
+  },
+  {
+    "route_id": 82,
+    "bus_id": 82,
+    "route_name": "Mirpur 14 - Chandra"
+  },
+  {
+    "route_id": 83,
+    "bus_id": 83,
+    "route_name": "Jatrabari - Tongi"
+  },
+  {
+    "route_id": 84,
+    "bus_id": 84,
+    "route_name": "Agargaon - Abdullahpur"
+  },
+  {
+    "route_id": 85,
+    "bus_id": 85,
+    "route_name": "Gabtoli - Notun Bazar"
+  },
+  {
+    "route_id": 86,
+    "bus_id": 86,
+    "route_name": "Gabtoli - Babubazar"
+  },
+  {
+    "route_id": 87,
+    "bus_id": 87,
+    "route_name": "Chittagong Road - Ghatar Char"
+  },
+  {
+    "route_id": 88,
+    "bus_id": 88,
+    "route_name": "Mirpur 1 - Abdullahpur"
+  },
+  {
+    "route_id": 89,
+    "bus_id": 89,
+    "route_name": "Jatrabari - Mirpur 12"
+  },
+  {
+    "route_id": 90,
+    "bus_id": 90,
+    "route_name": "Chiriyakhana - Konabari"
+  },
+  {
+    "route_id": 91,
+    "bus_id": 91,
+    "route_name": "Savar - Sign Board"
+  },
+  {
+    "route_id": 92,
+    "bus_id": 92,
+    "route_name": "Nandan Park - Motijheel"
+  },
+  {
+    "route_id": 93,
+    "bus_id": 93,
+    "route_name": "Mirpur 12 - Motijheel"
+  },
+  {
+    "route_id": 94,
+    "bus_id": 94,
+    "route_name": "Mohammadpur - Dhupkhola"
+  },
+  {
+    "route_id": 95,
+    "bus_id": 95,
+    "route_name": "Chittagong Road - Mogbazar"
+  },
+  {
+    "route_id": 96,
+    "bus_id": 96,
+    "route_name": "Kalabagan - Vulta"
+  },
+  {
+    "route_id": 97,
+    "bus_id": 97,
+    "route_name": "Mohammadpur - Chittagong Road"
+  },
+  {
+    "route_id": 98,
+    "bus_id": 98,
+    "route_name": "Mohammadpur - Khilgaon"
+  },
+  {
+    "route_id": 99,
+    "bus_id": 99,
+    "route_name": "Azimpur - Mirpur 1"
+  },
+  {
+    "route_id": 100,
+    "bus_id": 100,
+    "route_name": "ECB Square - Azimpur"
+  },
+  {
+    "route_id": 101,
+    "bus_id": 101,
+    "route_name": "Chittagong Road - Motijheel"
+  },
+  {
+    "route_id": 102,
+    "bus_id": 102,
+    "route_name": "Gulistan - Mirpur 12"
+  },
+  {
+    "route_id": 103,
+    "bus_id": 103,
+    "route_name": "Sadarghat - Mirpur 12"
+  },
+  {
+    "route_id": 104,
+    "bus_id": 104,
+    "route_name": "Savar - Sign Board"
+  },
+  {
+    "route_id": 105,
+    "bus_id": 105,
+    "route_name": "Chiriyakhana - Banasree"
+  },
+  {
+    "route_id": 106,
+    "bus_id": 106,
+    "route_name": "Mirpur 14 - Fantasy Kingdom"
+  },
+  {
+    "route_id": 107,
+    "bus_id": 107,
+    "route_name": "Mohammadpur - Arambagh"
+  },
+  {
+    "route_id": 108,
+    "bus_id": 108,
+    "route_name": "Chasara - Chandra"
+  },
+  {
+    "route_id": 109,
+    "bus_id": 109,
+    "route_name": "Mohammadpur - Fantasy Kingdom"
+  },
+  {
+    "route_id": 110,
+    "bus_id": 110,
+    "route_name": "Chiriyakhana - Malibagh Railgate"
+  },
+  {
+    "route_id": 111,
+    "bus_id": 111,
+    "route_name": "Chiriyakhana - Keraniganj"
+  },
+  {
+    "route_id": 112,
+    "bus_id": 112,
+    "route_name": "Chiriyakhana - Motijheel"
+  },
+  {
+    "route_id": 113,
+    "bus_id": 113,
+    "route_name": "Chittagong Road - Paturia"
+  },
+  {
+    "route_id": 114,
+    "bus_id": 114,
+    "route_name": "Mirpur 14 - Azimpur"
+  },
+  {
+    "route_id": 115,
+    "bus_id": 115,
+    "route_name": "Motijheel - Airport"
+  },
+  {
+    "route_id": 116,
+    "bus_id": 116,
+    "route_name": "Nandan Park - Motijheel"
+  },
+  {
+    "route_id": 117,
+    "bus_id": 117,
+    "route_name": "Asad Gate - Mirpur 12"
+  },
+  {
+    "route_id": 118,
+    "bus_id": 118,
+    "route_name": "Gabtoli - Kamarpara"
+  },
+  {
+    "route_id": 119,
+    "bus_id": 119,
+    "route_name": "Bosila - Abdullahpur"
+  },
+  {
+    "route_id": 120,
+    "bus_id": 120,
+    "route_name": "Mirpur 14 - Konabari"
+  },
+  {
+    "route_id": 121,
+    "bus_id": 121,
+    "route_name": "Gabtoli - Babubazar"
+  },
+  {
+    "route_id": 122,
+    "bus_id": 122,
+    "route_name": "Maowa - Abdullahpur"
+  },
+  {
+    "route_id": 123,
+    "bus_id": 123,
+    "route_name": "Bosila - Kamarpara"
+  },
+  {
+    "route_id": 124,
+    "bus_id": 124,
+    "route_name": "Fulbaria - Barmi"
+  },
+  {
+    "route_id": 125,
+    "bus_id": 125,
+    "route_name": "Mirpur 14 - Chandra"
+  },
+  {
+    "route_id": 126,
+    "bus_id": 126,
+    "route_name": "Postogola - Dia Bari"
+  },
+  {
+    "route_id": 127,
+    "bus_id": 127,
+    "route_name": "Postogola - Ghatar Char"
+  },
+  {
+    "route_id": 128,
+    "bus_id": 128,
+    "route_name": "Chittagong Road - Mohammadpur"
+  },
+  {
+    "route_id": 129,
+    "bus_id": 129,
+    "route_name": "Hemayetpur - Demra Staff Quarter"
+  },
+  {
+    "route_id": 130,
+    "bus_id": 130,
+    "route_name": "Gabtoli - Demra Staff Quarter"
+  },
+  {
+    "route_id": 131,
+    "bus_id": 131,
+    "route_name": "Gabtoli - Banasree"
+  },
+  {
+    "route_id": 132,
+    "bus_id": 132,
+    "route_name": "Sony Cinema Hall - Banasree"
+  },
+  {
+    "route_id": 133,
+    "bus_id": 133,
+    "route_name": "Adabor - Postogola"
+  },
+  {
+    "route_id": 134,
+    "bus_id": 134,
+    "route_name": "Keraniganj - ECB Square"
+  },
+  {
+    "route_id": 135,
+    "bus_id": 135,
+    "route_name": "Gabtoli - Mirpur 14"
+  },
+  {
+    "route_id": 136,
+    "bus_id": 136,
+    "route_name": "Gabtoli - Abdullahpur"
+  },
+  {
+    "route_id": 137,
+    "bus_id": 137,
+    "route_name": "Mirpur 12 - Azimpur"
+  },
+  {
+    "route_id": 138,
+    "bus_id": 138,
+    "route_name": "Chiriyakhana - Kamalapur"
+  },
+  {
+    "route_id": 139,
+    "bus_id": 139,
+    "route_name": "Postogola - Gazipur Chourasta"
+  },
+  {
+    "route_id": 140,
+    "bus_id": 140,
+    "route_name": "Sadarghat - Nandan Park"
+  },
+  {
+    "route_id": 141,
+    "bus_id": 141,
+    "route_name": "Bosila - Demra Staff Quarter"
+  },
+  {
+    "route_id": 142,
+    "bus_id": 142,
+    "route_name": "Mirpur 12 - Maowa"
+  },
+  {
+    "route_id": 143,
+    "bus_id": 143,
+    "route_name": "Gabtoli - Postogola"
+  },
+  {
+    "route_id": 144,
+    "bus_id": 144,
+    "route_name": "Motijheel - Kamarpara"
+  },
+  {
+    "route_id": 145,
+    "bus_id": 145,
+    "route_name": "Mirpur 12 - Jatrabari"
+  },
+  {
+    "route_id": 146,
+    "bus_id": 146,
+    "route_name": "Jatrabari - Mirpur 12"
+  },
+  {
+    "route_id": 147,
+    "bus_id": 147,
+    "route_name": "Chittagong Road - Chandra"
+  },
+  {
+    "route_id": 148,
+    "bus_id": 148,
+    "route_name": "Fulbaria - Manikganj"
+  },
+  {
+    "route_id": 149,
+    "bus_id": 149,
+    "route_name": "Banasree - Nobinagar"
+  },
+  {
+    "route_id": 150,
+    "bus_id": 150,
+    "route_name": "Sadarghat - Gazipur Chourasta"
+  },
+  {
+    "route_id": 151,
+    "bus_id": 151,
+    "route_name": "Chittagong Road - Abdullahpur"
+  },
+  {
+    "route_id": 152,
+    "bus_id": 152,
+    "route_name": "Sign Board - Mirpur 12"
+  },
+  {
+    "route_id": 153,
+    "bus_id": 153,
+    "route_name": "Mirpur 12 - Keraniganj"
+  },
+  {
+    "route_id": 154,
+    "bus_id": 154,
+    "route_name": "Gulistan - Nobinagar"
+  },
+  {
+    "route_id": 155,
+    "bus_id": 155,
+    "route_name": "Victoria Park - Tongi"
+  },
+  {
+    "route_id": 156,
+    "bus_id": 156,
+    "route_name": "Savar - Sadarghat"
+  },
+  {
+    "route_id": 157,
+    "bus_id": 157,
+    "route_name": "Chiriyakhana - Chittagong Road"
+  },
+  {
+    "route_id": 158,
+    "bus_id": 158,
+    "route_name": "Chiriyakhana - Sadarghat"
+  },
+  {
+    "route_id": 159,
+    "bus_id": 159,
+    "route_name": "Mohammadpur - South Banasree"
+  },
+  {
+    "route_id": 160,
+    "bus_id": 160,
+    "route_name": "Shia Masjid - Abdullahpur"
+  },
+  {
+    "route_id": 161,
+    "bus_id": 161,
+    "route_name": "Sign Board - Chandra"
+  },
+  {
+    "route_id": 162,
+    "bus_id": 162,
+    "route_name": "Shonbari Sreenagar - Chandra"
+  },
+  {
+    "route_id": 163,
+    "bus_id": 163,
+    "route_name": "Chiriyakhana - Chandra"
+  },
+  {
+    "route_id": 164,
+    "bus_id": 164,
+    "route_name": "Mirpur 1 - Jatrabari"
+  },
+  {
+    "route_id": 165,
+    "bus_id": 165,
+    "route_name": "Mirpur 10 - Banani"
+  },
+  {
+    "route_id": 166,
+    "bus_id": 166,
+    "route_name": "Mirpur 10 - Shahbag"
+  },
+  {
+    "route_id": 167,
+    "bus_id": 167,
+    "route_name": "Mirpur - Motijheel"
+  },
+  {
+    "route_id": 168,
+    "bus_id": 168,
+    "route_name": "Mirpur - Kawran Bazar"
+  },
+  {
+    "route_id": 169,
+    "bus_id": 169,
+    "route_name": "Jatrabari - Tongi"
+  },
+  {
+    "route_id": 170,
+    "bus_id": 170,
+    "route_name": "Sadarghat - Kuril Bishwa Road"
+  },
+  {
+    "route_id": 171,
+    "bus_id": 171,
+    "route_name": "Sadarghat - Kuril Bishwa Road"
+  },
+  {
+    "route_id": 172,
+    "bus_id": 172,
+    "route_name": "Azimpur - Gazipur Chourasta"
+  },
+  {
+    "route_id": 173,
+    "bus_id": 173,
+    "route_name": "Nandan Park - Motijheel"
+  },
+  {
+    "route_id": 174,
+    "bus_id": 174,
+    "route_name": "Azimpur - Kuril Bishwa Road"
+  },
+  {
+    "route_id": 175,
+    "bus_id": 175,
+    "route_name": "Mohammadpur - Azimpur"
+  },
+  {
+    "route_id": 176,
+    "bus_id": 176,
+    "route_name": "Balughat - Motijheel"
+  },
+  {
+    "route_id": 177,
+    "bus_id": 177,
+    "route_name": "Kamalapur - Notun Bazar"
+  },
+  {
+    "route_id": 178,
+    "bus_id": 178,
+    "route_name": "Kamalapur - Notun Bazar"
+  },
+  {
+    "route_id": 179,
+    "bus_id": 179,
+    "route_name": "Gabtoli - Sadarghat"
+  },
+  {
+    "route_id": 180,
+    "bus_id": 180,
+    "route_name": "Jatrabari - Gabtoli"
+  },
+  {
+    "route_id": 181,
+    "bus_id": 181,
+    "route_name": "College Gate - Mirpur 12"
+  },
+  {
+    "route_id": 182,
+    "bus_id": 182,
+    "route_name": "Tajmahal Road - Arambagh"
+  },
+  {
+    "route_id": 183,
+    "bus_id": 183,
+    "route_name": "Motijheel - Chandra"
+  },
+  {
+    "route_id": 184,
+    "route_name": "সাভার হতে আমুলিয়া স্টাফ কোয়ার্টার (Savar to Amulia Staff Quarter)",
+    "route_number": "এ-২০২ (A-202)"
+  },
+  {
+    "route_id": 185,
+    "route_name": "কালশী (মিরপুর-১২) হতে কাঁচপুর ব্রীজ (Kalshi to Kanchpur Bridge)",
+    "route_number": "এ-১০১ (A-101)"
+  },
+  {
+    "route_id": 186,
+    "route_name": "পল্লবী হতে সদরঘাট (Pallabi to Sadarghat)",
+    "route_number": "এ-১০২ (A-102)"
+  },
+  {
+    "route_id": 187,
+    "route_name": "পল্লবী (দুয়ারীপাড়া) হতে ঢাকেশ্বরী (Pallabi to Dhakeshwari)",
+    "route_number": "এ-১০৫ (A-105)"
+  },
+  {
+    "route_id": 188,
+    "route_name": "দুয়ারীপাড়া হতে ঢাকেশ্বরী (Duaripara to Dhakeshwari)",
+    "route_number": "এ-১১০ (A-110)"
+  },
+  {
+    "route_id": 189,
+    "route_name": "পল্লবী (সিরামিক) হতে দিলকুশা (Pallabi to Dilkusha)",
+    "route_number": "এ-১১১ (A-111)"
+  },
+  {
+    "route_id": 190,
+    "route_name": "মিরপুর (চিড়িয়াখানা) হতে সায়েদাবাদ (Mirpur Zoo to Sayedabad)",
+    "route_number": "এ-১১৪ (A-114)"
+  },
+  {
+    "route_id": 191,
+    "route_name": "মিরপুর-১ হতে যাত্রাবাড়ী (Mirpur-1 to Jatrabari)",
+    "route_number": "এ-১১৫ (A-115)"
+  },
+  {
+    "route_id": 192,
+    "route_name": "মিরপুর-১২ (ইসিবি চত্বর) হতে আজিমপুর (Mirpur-12 to Azimpur)",
+    "route_number": "এ-১২২ (A-122)"
+  },
+  {
+    "route_id": 193,
+    "route_name": "মিরপুর মাজার রোড হতে আজিমপুর (Mirpur Mazar Road to Azimpur)",
+    "route_number": "এ-১২৭ (A-127)"
+  },
+  {
+    "route_id": 194,
+    "route_name": "মিরপুর-১৪ হতে খিলগাও তালতলা (Mirpur-14 to Khilgaon Taltola)",
+    "route_number": "এ-১২৯ (A-129)"
+  },
+  {
+    "route_id": 195,
+    "route_name": "Ghatar Char to Sonargaon",
+    "route_number": "A-406"
+  },
+  {
+    "route_id": 196,
+    "route_name": "Uttara Diabari to Ghatar Char",
+    "route_number": "A-414"
+  },
+  {
+    "route_id": 197,
+    "route_name": "Signboard to Nabinagar",
+    "route_number": "A-421"
+  },
+  {
+    "route_id": 198,
+    "route_name": "Kamrangirchar (Beribadh) to Konabari",
+    "route_number": "A-422"
+  },
+  {
+    "route_id": 199,
+    "route_name": "Japan Garden City to Dhaur",
+    "route_number": "A-301"
+  },
+  {
+    "route_id": 200,
+    "route_name": "Bonosree (Meradia) to Savar",
+    "route_number": "A-302"
+  },
+  {
+    "route_id": 201,
+    "route_name": "Basila to Dhaur",
+    "route_number": "A-304"
+  },
+  {
+    "route_id": 202,
+    "route_name": "Mirpur-14 to EPZ",
+    "route_number": "A-307"
+  },
+  {
+    "route_id": 203,
+    "route_name": "Sadarghat to EPZ",
+    "route_number": "A-309"
+  },
+  {
+    "route_id": 204,
+    "route_name": "Mirpur Rupnagar to Sayedabad",
+    "route_number": "A-310"
+  },
+  {
+    "route_id": 205,
+    "route_name": "Hemayetpur to Demra Staff Quarter",
+    "route_number": "A-314"
+  },
+  {
+    "route_id": 206,
+    "route_name": "Diabari to Postogola",
+    "route_number": "A-317"
+  }
+]

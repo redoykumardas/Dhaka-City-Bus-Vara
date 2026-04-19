@@ -1,53 +1,63 @@
-import { Graph } from "@/domain/types"
+import { Graph, PathStep } from "@/domain/types"
 import { RoutingPort } from "./routing.port"
+import { PriorityQueue } from "@/shared/utils/priorityQueue"
 
 /**
- * Yen's K-Shortest Paths (simplified BFS variant for Dhaka bus graph).
- * 
- * Uses BFS with path tracking to find multiple shortest paths between stops.
- * Limits search depth to prevent exponential blow-up on large graphs.
+ * Dijkstra's Algorithm for finding the cheapest path.
  */
 export const dijkstraAdapter: RoutingPort = {
-  findAll(graph: Graph, from: string, to: string, maxPaths = 3): string[][] {
+  findAll(graph: Graph, from: string, to: string, maxPaths = 3): PathStep[][] {
     if (!graph[from] || !graph[to]) return []
-    if (from === to) return [[from]]
+    if (from === to) return [[{ stop: from, routeId: 0 }]]
 
-    const results: string[][] = []
-    const MAX_DEPTH = 8 // Max stops in a path (prevents infinite loops)
+    const results: PathStep[][] = []
+    const pq = new PriorityQueue<{ path: PathStep[], cost: number }>()
+    
+    pq.push({ path: [{ stop: from, routeId: 0 }], cost: 0 }, 0)
+    const minCosts = new Map<string, number>() // "stop|||routeId" -> cost
 
-    // BFS queue: [currentPath]
-    const queue: string[][] = [[from]]
-    // Track shortest path length found so far (allow slightly longer paths)
-    let shortestFound = Infinity
+    while (!pq.isEmpty() && results.length < maxPaths) {
+      const { path, cost } = pq.pop()!
+      const lastStep = path[path.length - 1]
+      const current = lastStep.stop
+      
+      if (current === to) {
+        results.push(path) // Keep the full path including the starting dummy step for buildRoutesUseCase
+        continue
+      }
 
-    while (queue.length > 0 && results.length < maxPaths) {
-      const path = queue.shift()!
-      const current = path[path.length - 1]
-
-      // Prune: don't explore paths longer than shortest + 2 extra stops
-      if (path.length > Math.min(MAX_DEPTH, shortestFound + 2)) continue
+      const stateKey = `${current}|||${lastStep.routeId}`
+      if (minCosts.has(stateKey) && minCosts.get(stateKey)! < cost) continue
+      minCosts.set(stateKey, cost)
 
       const neighbors = graph[current] ?? []
-
       for (const neighbor of neighbors) {
-        // Skip visited stops to prevent cycles
-        if (path.includes(neighbor)) continue
+        // Avoid cycles in the current path
+        if (path.some(p => p.stop === neighbor.to)) continue
+        
+        let edgeCost = neighbor.cost
+        
+        // Transfer penalty: Changing routes is costly in time/inconvenience.
+        // We set it to 10 (equivalent to a 10-stop distance) to prioritize direct routes.
+        if (lastStep.routeId !== 0 && lastStep.routeId !== neighbor.routeId) {
+          edgeCost += 10
+        }
 
-        const newPath = [...path, neighbor]
+        const nextCost = cost + edgeCost 
+        const nextStateKey = `${neighbor.to}|||${neighbor.routeId}`
 
-        if (neighbor === to) {
-          results.push(newPath)
-          if (newPath.length < shortestFound) {
-            shortestFound = newPath.length
-          }
-        } else {
-          queue.push(newPath)
+        if (!minCosts.has(nextStateKey) || minCosts.get(nextStateKey)! > nextCost) {
+            // We don't set minCosts here yet, we let the pop handle it to allow exploring multiple routes to same stop
+            pq.push({ 
+              path: [...path, { stop: neighbor.to, routeId: neighbor.routeId }], 
+              cost: nextCost 
+            }, nextCost)
         }
       }
     }
 
-    // Sort by path length (fewest stops first = fewest transfers)
-    results.sort((a, b) => a.length - b.length)
     return results.slice(0, maxPaths)
   },
 }
+
+

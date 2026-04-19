@@ -7,13 +7,14 @@ const AVG_DISTANCE_PER_STOP_KM = 1.5  // rough average
 const STOP_WAIT_MINUTES = 2
 
 export const simpleTimeAdapter: TimePort = {
-  estimate(timeTable: Map<string, number>, segment: { from: string; to: string }): number {
+  estimate(timeTable: Map<string, number>, segment: { from: string; to: string; stopCount: number }): number {
     const key = segmentKey(segment.from, segment.to)
     const precomputed = timeTable.get(key)
     if (precomputed !== undefined) return precomputed
 
-    // Fallback: estimate from distance assumption
-    const travelMinutes = (AVG_DISTANCE_PER_STOP_KM / AVG_SPEED_KMH) * 60
+    // Fallback: estimate from stop count
+    const distanceEstimateKm = segment.stopCount * AVG_DISTANCE_PER_STOP_KM
+    const travelMinutes = (distanceEstimateKm / AVG_SPEED_KMH) * 60
     return Math.round(travelMinutes + STOP_WAIT_MINUTES)
   },
 }

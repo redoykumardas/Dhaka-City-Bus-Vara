@@ -97,6 +97,38 @@
   transition: border-color var(--transition);
 }
 
+.transfer {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  margin: 24px 0;
+  padding: 16px;
+  background: rgba(255, 179, 0, 0.05);
+  border: 1px dashed rgba(255, 179, 0, 0.3);
+  border-radius: 12px;
+  position: relative;
+  z-index: 1;
+}
+
+.transferIcon {
+  font-size: 1.5rem;
+  background: rgba(255, 179, 0, 0.1);
+  padding: 8px;
+  border-radius: 50%;
+  border: 1px solid rgba(255, 179, 0, 0.2);
+}
+
+.transferText {
+  font-size: 0.95rem;
+  color: var(--text-main);
+  margin-bottom: 2px;
+}
+
+.transferSub {
+  font-size: 0.8rem;
+  color: var(--text-muted);
+}
+
 .busTag:hover { border-color: var(--border-brand); }
 
 .busEmoji { font-size: 1.3rem; }
@@ -125,3 +157,28 @@
   margin-top: 32px;
   flex-wrap: wrap;
 }
+
+.subPath {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  background: rgba(255, 255, 255, 0.03);
+  padding: 10px;
+  border-radius: var(--radius-sm);
+  border: 1px solid var(--border-subtle);
+}
+
+.subStop {
+  font-size: 0.82rem;
+  color: var(--text-secondary);
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.subArrow {
+  color: var(--text-muted);
+  font-size: 0.75rem;
+  opacity: 0.5;
+}
+

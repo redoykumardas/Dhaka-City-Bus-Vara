@@ -31,26 +31,33 @@ export default function RouteCard({ route, rank, from, to }: RouteCardProps) {
           </div>
         </div>
 
-        {/* Stop path */}
-        <div className="stop-path" style={{ marginBottom: 14 }}>
-          {route.path.map((stop, i) => (
-            <span key={i} style={{ display: "flex", alignItems: "center", gap: 6 }}>
+        {/* Segment path */}
+        <div className="stop-path" style={{ marginBottom: 14, overflow: "hidden" }}>
+          {route.segments.map((seg, si) => (
+            <div key={si} style={{ display: "inline-flex", alignItems: "center" }}>
               <span
                 className="stop-name"
                 style={
-                  i === 0 || i === route.path.length - 1
+                  si === 0
                     ? { borderColor: "var(--brand-primary)", color: "var(--brand-primary)" }
                     : {}
                 }
               >
-                {stop}
+                {seg.from}
               </span>
-              {i < route.path.length - 1 && (
-                <span className="stop-arrow">→</span>
+              <span className="stop-arrow" style={{ opacity: 0.5, margin: "0 4px" }}>→</span>
+              {si === route.segments.length - 1 && (
+                <span
+                  className="stop-name"
+                  style={{ borderColor: "var(--brand-primary)", color: "var(--brand-primary)" }}
+                >
+                  {seg.to}
+                </span>
               )}
-            </span>
+            </div>
           ))}
         </div>
+
 
         {/* Buses summary */}
         <div style={{ display: "flex", gap: 6, flexWrap: "wrap" }}>

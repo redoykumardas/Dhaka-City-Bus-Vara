@@ -1,0 +1,8078 @@
+[
+  {
+    "route_id": 184,
+    "from_stop": 39,
+    "to_stop": 39,
+    "fare": 0
+  },
+  {
+    "route_id": 184,
+    "from_stop": 39,
+    "to_stop": 1,
+    "fare": 34
+  },
+  {
+    "route_id": 184,
+    "from_stop": 39,
+    "to_stop": 4,
+    "fare": 41
+  },
+  {
+    "route_id": 184,
+    "from_stop": 1,
+    "to_stop": 4,
+    "fare": 10
+  },
+  {
+    "route_id": 184,
+    "from_stop": 39,
+    "to_stop": 7,
+    "fare": 46
+  },
+  {
+    "route_id": 184,
+    "from_stop": 1,
+    "to_stop": 7,
+    "fare": 12
+  },
+  {
+    "route_id": 184,
+    "from_stop": 4,
+    "to_stop": 7,
+    "fare": 10
+  },
+  {
+    "route_id": 184,
+    "from_stop": 39,
+    "to_stop": 48,
+    "fare": 64
+  },
+  {
+    "route_id": 184,
+    "from_stop": 1,
+    "to_stop": 48,
+    "fare": 31
+  },
+  {
+    "route_id": 184,
+    "from_stop": 4,
+    "to_stop": 48,
+    "fare": 23
+  },
+  {
+    "route_id": 184,
+    "from_stop": 7,
+    "to_stop": 48,
+    "fare": 18
+  },
+  {
+    "route_id": 184,
+    "from_stop": 39,
+    "to_stop": 154,
+    "fare": 70
+  },
+  {
+    "route_id": 184,
+    "from_stop": 1,
+    "to_stop": 154,
+    "fare": 37
+  },
+  {
+    "route_id": 184,
+    "from_stop": 4,
+    "to_stop": 154,
+    "fare": 29
+  },
+  {
+    "route_id": 184,
+    "from_stop": 7,
+    "to_stop": 154,
+    "fare": 24
+  },
+  {
+    "route_id": 184,
+    "from_stop": 48,
+    "to_stop": 154,
+    "fare": 10
+  },
+  {
+    "route_id": 184,
+    "from_stop": 39,
+    "to_stop": 26,
+    "fare": 86
+  },
+  {
+    "route_id": 184,
+    "from_stop": 1,
+    "to_stop": 26,
+    "fare": 52
+  },
+  {
+    "route_id": 184,
+    "from_stop": 4,
+    "to_stop": 26,
+    "fare": 44
+  },
+  {
+    "route_id": 184,
+    "from_stop": 7,
+    "to_stop": 26,
+    "fare": 40
+  },
+  {
+    "route_id": 184,
+    "from_stop": 48,
+    "to_stop": 26,
+    "fare": 21
+  },
+  {
+    "route_id": 184,
+    "from_stop": 154,
+    "to_stop": 26,
+    "fare": 15
+  },
+  {
+    "route_id": 184,
+    "from_stop": 39,
+    "to_stop": 262,
+    "fare": 105
+  },
+  {
+    "route_id": 184,
+    "from_stop": 1,
+    "to_stop": 262,
+    "fare": 72
+  },
+  {
+    "route_id": 184,
+    "from_stop": 4,
+    "to_stop": 262,
+    "fare": 64
+  },
+  {
+    "route_id": 184,
+    "from_stop": 7,
+    "to_stop": 262,
+    "fare": 59
+  },
+  {
+    "route_id": 184,
+    "from_stop": 48,
+    "to_stop": 262,
+    "fare": 41
+  },
+  {
+    "route_id": 184,
+    "from_stop": 154,
+    "to_stop": 262,
+    "fare": 35
+  },
+  {
+    "route_id": 184,
+    "from_stop": 26,
+    "to_stop": 262,
+    "fare": 20
+  },
+  {
+    "route_id": 185,
+    "from_stop": 10,
+    "to_stop": 162,
+    "fare": 10
+  },
+  {
+    "route_id": 185,
+    "from_stop": 10,
+    "to_stop": 7,
+    "fare": 12
+  },
+  {
+    "route_id": 185,
+    "from_stop": 10,
+    "to_stop": 120,
+    "fare": 15
+  },
+  {
+    "route_id": 185,
+    "from_stop": 10,
+    "to_stop": 31,
+    "fare": 17
+  },
+  {
+    "route_id": 185,
+    "from_stop": 10,
+    "to_stop": 62,
+    "fare": 28
+  },
+  {
+    "route_id": 185,
+    "from_stop": 10,
+    "to_stop": 59,
+    "fare": 34
+  },
+  {
+    "route_id": 185,
+    "from_stop": 10,
+    "to_stop": 55,
+    "fare": 38
+  },
+  {
+    "route_id": 185,
+    "from_stop": 10,
+    "to_stop": 95,
+    "fare": 41
+  },
+  {
+    "route_id": 185,
+    "from_stop": 10,
+    "to_stop": 239,
+    "fare": 44
+  },
+  {
+    "route_id": 185,
+    "from_stop": 10,
+    "to_stop": 263,
+    "fare": 46
+  },
+  {
+    "route_id": 185,
+    "from_stop": 10,
+    "to_stop": 124,
+    "fare": 49
+  },
+  {
+    "route_id": 185,
+    "from_stop": 10,
+    "to_stop": 264,
+    "fare": 61
+  },
+  {
+    "route_id": 185,
+    "from_stop": 10,
+    "to_stop": 265,
+    "fare": 71
+  },
+  {
+    "route_id": 185,
+    "from_stop": 162,
+    "to_stop": 7,
+    "fare": 10
+  },
+  {
+    "route_id": 185,
+    "from_stop": 162,
+    "to_stop": 120,
+    "fare": 10
+  },
+  {
+    "route_id": 185,
+    "from_stop": 162,
+    "to_stop": 31,
+    "fare": 10
+  },
+  {
+    "route_id": 185,
+    "from_stop": 162,
+    "to_stop": 62,
+    "fare": 18
+  },
+  {
+    "route_id": 185,
+    "from_stop": 162,
+    "to_stop": 59,
+    "fare": 24
+  },
+  {
+    "route_id": 185,
+    "from_stop": 162,
+    "to_stop": 55,
+    "fare": 28
+  },
+  {
+    "route_id": 185,
+    "from_stop": 162,
+    "to_stop": 95,
+    "fare": 31
+  },
+  {
+    "route_id": 185,
+    "from_stop": 162,
+    "to_stop": 239,
+    "fare": 34
+  },
+  {
+    "route_id": 185,
+    "from_stop": 162,
+    "to_stop": 263,
+    "fare": 36
+  },
+  {
+    "route_id": 185,
+    "from_stop": 162,
+    "to_stop": 124,
+    "fare": 39
+  },
+  {
+    "route_id": 185,
+    "from_stop": 162,
+    "to_stop": 264,
+    "fare": 51
+  },
+  {
+    "route_id": 185,
+    "from_stop": 162,
+    "to_stop": 265,
+    "fare": 61
+  },
+  {
+    "route_id": 185,
+    "from_stop": 7,
+    "to_stop": 120,
+    "fare": 10
+  },
+  {
+    "route_id": 185,
+    "from_stop": 7,
+    "to_stop": 31,
+    "fare": 10
+  },
+  {
+    "route_id": 185,
+    "from_stop": 7,
+    "to_stop": 62,
+    "fare": 16
+  },
+  {
+    "route_id": 185,
+    "from_stop": 7,
+    "to_stop": 59,
+    "fare": 22
+  },
+  {
+    "route_id": 185,
+    "from_stop": 7,
+    "to_stop": 55,
+    "fare": 26
+  },
+  {
+    "route_id": 185,
+    "from_stop": 7,
+    "to_stop": 95,
+    "fare": 29
+  },
+  {
+    "route_id": 185,
+    "from_stop": 7,
+    "to_stop": 239,
+    "fare": 32
+  },
+  {
+    "route_id": 185,
+    "from_stop": 7,
+    "to_stop": 263,
+    "fare": 34
+  },
+  {
+    "route_id": 185,
+    "from_stop": 7,
+    "to_stop": 124,
+    "fare": 37
+  },
+  {
+    "route_id": 185,
+    "from_stop": 7,
+    "to_stop": 264,
+    "fare": 49
+  },
+  {
+    "route_id": 185,
+    "from_stop": 7,
+    "to_stop": 265,
+    "fare": 59
+  },
+  {
+    "route_id": 185,
+    "from_stop": 120,
+    "to_stop": 31,
+    "fare": 10
+  },
+  {
+    "route_id": 185,
+    "from_stop": 120,
+    "to_stop": 62,
+    "fare": 13
+  },
+  {
+    "route_id": 185,
+    "from_stop": 120,
+    "to_stop": 59,
+    "fare": 19
+  },
+  {
+    "route_id": 185,
+    "from_stop": 120,
+    "to_stop": 55,
+    "fare": 23
+  },
+  {
+    "route_id": 185,
+    "from_stop": 120,
+    "to_stop": 95,
+    "fare": 26
+  },
+  {
+    "route_id": 185,
+    "from_stop": 120,
+    "to_stop": 239,
+    "fare": 29
+  },
+  {
+    "route_id": 185,
+    "from_stop": 120,
+    "to_stop": 263,
+    "fare": 31
+  },
+  {
+    "route_id": 185,
+    "from_stop": 120,
+    "to_stop": 124,
+    "fare": 34
+  },
+  {
+    "route_id": 185,
+    "from_stop": 120,
+    "to_stop": 264,
+    "fare": 46
+  },
+  {
+    "route_id": 185,
+    "from_stop": 120,
+    "to_stop": 265,
+    "fare": 56
+  },
+  {
+    "route_id": 185,
+    "from_stop": 31,
+    "to_stop": 62,
+    "fare": 11
+  },
+  {
+    "route_id": 185,
+    "from_stop": 31,
+    "to_stop": 59,
+    "fare": 17
+  },
+  {
+    "route_id": 185,
+    "from_stop": 31,
+    "to_stop": 55,
+    "fare": 21
+  },
+  {
+    "route_id": 185,
+    "from_stop": 31,
+    "to_stop": 95,
+    "fare": 24
+  },
+  {
+    "route_id": 185,
+    "from_stop": 31,
+    "to_stop": 239,
+    "fare": 27
+  },
+  {
+    "route_id": 185,
+    "from_stop": 31,
+    "to_stop": 263,
+    "fare": 29
+  },
+  {
+    "route_id": 185,
+    "from_stop": 31,
+    "to_stop": 124,
+    "fare": 32
+  },
+  {
+    "route_id": 185,
+    "from_stop": 31,
+    "to_stop": 264,
+    "fare": 44
+  },
+  {
+    "route_id": 185,
+    "from_stop": 31,
+    "to_stop": 265,
+    "fare": 54
+  },
+  {
+    "route_id": 185,
+    "from_stop": 62,
+    "to_stop": 59,
+    "fare": 10
+  },
+  {
+    "route_id": 185,
+    "from_stop": 62,
+    "to_stop": 55,
+    "fare": 10
+  },
+  {
+    "route_id": 185,
+    "from_stop": 62,
+    "to_stop": 95,
+    "fare": 13
+  },
+  {
+    "route_id": 185,
+    "from_stop": 62,
+    "to_stop": 239,
+    "fare": 16
+  },
+  {
+    "route_id": 185,
+    "from_stop": 62,
+    "to_stop": 263,
+    "fare": 18
+  },
+  {
+    "route_id": 185,
+    "from_stop": 62,
+    "to_stop": 124,
+    "fare": 21
+  },
+  {
+    "route_id": 185,
+    "from_stop": 62,
+    "to_stop": 264,
+    "fare": 33
+  },
+  {
+    "route_id": 185,
+    "from_stop": 62,
+    "to_stop": 265,
+    "fare": 43
+  },
+  {
+    "route_id": 185,
+    "from_stop": 59,
+    "to_stop": 55,
+    "fare": 10
+  },
+  {
+    "route_id": 185,
+    "from_stop": 59,
+    "to_stop": 95,
+    "fare": 10
+  },
+  {
+    "route_id": 185,
+    "from_stop": 59,
+    "to_stop": 239,
+    "fare": 10
+  },
+  {
+    "route_id": 185,
+    "from_stop": 59,
+    "to_stop": 263,
+    "fare": 12
+  },
+  {
+    "route_id": 185,
+    "from_stop": 59,
+    "to_stop": 124,
+    "fare": 15
+  },
+  {
+    "route_id": 185,
+    "from_stop": 59,
+    "to_stop": 264,
+    "fare": 27
+  },
+  {
+    "route_id": 185,
+    "from_stop": 59,
+    "to_stop": 265,
+    "fare": 37
+  },
+  {
+    "route_id": 185,
+    "from_stop": 55,
+    "to_stop": 95,
+    "fare": 10
+  },
+  {
+    "route_id": 185,
+    "from_stop": 55,
+    "to_stop": 239,
+    "fare": 10
+  },
+  {
+    "route_id": 185,
+    "from_stop": 55,
+    "to_stop": 263,
+    "fare": 10
+  },
+  {
+    "route_id": 185,
+    "from_stop": 55,
+    "to_stop": 124,
+    "fare": 11
+  },
+  {
+    "route_id": 185,
+    "from_stop": 55,
+    "to_stop": 264,
+    "fare": 23
+  },
+  {
+    "route_id": 185,
+    "from_stop": 55,
+    "to_stop": 265,
+    "fare": 33
+  },
+  {
+    "route_id": 185,
+    "from_stop": 95,
+    "to_stop": 239,
+    "fare": 10
+  },
+  {
+    "route_id": 185,
+    "from_stop": 95,
+    "to_stop": 263,
+    "fare": 10
+  },
+  {
+    "route_id": 185,
+    "from_stop": 95,
+    "to_stop": 124,
+    "fare": 10
+  },
+  {
+    "route_id": 185,
+    "from_stop": 95,
+    "to_stop": 264,
+    "fare": 20
+  },
+  {
+    "route_id": 185,
+    "from_stop": 95,
+    "to_stop": 265,
+    "fare": 30
+  },
+  {
+    "route_id": 185,
+    "from_stop": 239,
+    "to_stop": 263,
+    "fare": 10
+  },
+  {
+    "route_id": 185,
+    "from_stop": 239,
+    "to_stop": 124,
+    "fare": 10
+  },
+  {
+    "route_id": 185,
+    "from_stop": 239,
+    "to_stop": 264,
+    "fare": 17
+  },
+  {
+    "route_id": 185,
+    "from_stop": 239,
+    "to_stop": 265,
+    "fare": 27
+  },
+  {
+    "route_id": 185,
+    "from_stop": 263,
+    "to_stop": 124,
+    "fare": 10
+  },
+  {
+    "route_id": 185,
+    "from_stop": 263,
+    "to_stop": 264,
+    "fare": 15
+  },
+  {
+    "route_id": 185,
+    "from_stop": 263,
+    "to_stop": 265,
+    "fare": 25
+  },
+  {
+    "route_id": 185,
+    "from_stop": 124,
+    "to_stop": 264,
+    "fare": 12
+  },
+  {
+    "route_id": 185,
+    "from_stop": 124,
+    "to_stop": 265,
+    "fare": 22
+  },
+  {
+    "route_id": 185,
+    "from_stop": 264,
+    "to_stop": 265,
+    "fare": 10
+  },
+  {
+    "route_id": 186,
+    "from_stop": 266,
+    "to_stop": 267,
+    "fare": 10
+  },
+  {
+    "route_id": 186,
+    "from_stop": 266,
+    "to_stop": 268,
+    "fare": 10
+  },
+  {
+    "route_id": 186,
+    "from_stop": 266,
+    "to_stop": 269,
+    "fare": 10
+  },
+  {
+    "route_id": 186,
+    "from_stop": 266,
+    "to_stop": 270,
+    "fare": 10
+  },
+  {
+    "route_id": 186,
+    "from_stop": 266,
+    "to_stop": 271,
+    "fare": 10
+  },
+  {
+    "route_id": 186,
+    "from_stop": 266,
+    "to_stop": 272,
+    "fare": 22
+  },
+  {
+    "route_id": 186,
+    "from_stop": 266,
+    "to_stop": 273,
+    "fare": 32
+  },
+  {
+    "route_id": 186,
+    "from_stop": 266,
+    "to_stop": 274,
+    "fare": 36
+  },
+  {
+    "route_id": 186,
+    "from_stop": 266,
+    "to_stop": 275,
+    "fare": 38
+  },
+  {
+    "route_id": 186,
+    "from_stop": 266,
+    "to_stop": 276,
+    "fare": 41
+  },
+  {
+    "route_id": 186,
+    "from_stop": 267,
+    "to_stop": 268,
+    "fare": 10
+  },
+  {
+    "route_id": 186,
+    "from_stop": 267,
+    "to_stop": 269,
+    "fare": 10
+  },
+  {
+    "route_id": 186,
+    "from_stop": 267,
+    "to_stop": 270,
+    "fare": 10
+  },
+  {
+    "route_id": 186,
+    "from_stop": 267,
+    "to_stop": 271,
+    "fare": 10
+  },
+  {
+    "route_id": 186,
+    "from_stop": 267,
+    "to_stop": 272,
+    "fare": 12
+  },
+  {
+    "route_id": 186,
+    "from_stop": 267,
+    "to_stop": 273,
+    "fare": 22
+  },
+  {
+    "route_id": 186,
+    "from_stop": 267,
+    "to_stop": 274,
+    "fare": 26
+  },
+  {
+    "route_id": 186,
+    "from_stop": 267,
+    "to_stop": 275,
+    "fare": 28
+  },
+  {
+    "route_id": 186,
+    "from_stop": 267,
+    "to_stop": 276,
+    "fare": 31
+  },
+  {
+    "route_id": 186,
+    "from_stop": 268,
+    "to_stop": 269,
+    "fare": 10
+  },
+  {
+    "route_id": 186,
+    "from_stop": 268,
+    "to_stop": 270,
+    "fare": 10
+  },
+  {
+    "route_id": 186,
+    "from_stop": 268,
+    "to_stop": 271,
+    "fare": 10
+  },
+  {
+    "route_id": 186,
+    "from_stop": 268,
+    "to_stop": 272,
+    "fare": 12
+  },
+  {
+    "route_id": 186,
+    "from_stop": 268,
+    "to_stop": 273,
+    "fare": 22
+  },
+  {
+    "route_id": 186,
+    "from_stop": 268,
+    "to_stop": 274,
+    "fare": 26
+  },
+  {
+    "route_id": 186,
+    "from_stop": 268,
+    "to_stop": 275,
+    "fare": 28
+  },
+  {
+    "route_id": 186,
+    "from_stop": 268,
+    "to_stop": 276,
+    "fare": 31
+  },
+  {
+    "route_id": 186,
+    "from_stop": 269,
+    "to_stop": 270,
+    "fare": 10
+  },
+  {
+    "route_id": 186,
+    "from_stop": 269,
+    "to_stop": 271,
+    "fare": 10
+  },
+  {
+    "route_id": 186,
+    "from_stop": 269,
+    "to_stop": 272,
+    "fare": 12
+  },
+  {
+    "route_id": 186,
+    "from_stop": 269,
+    "to_stop": 273,
+    "fare": 22
+  },
+  {
+    "route_id": 186,
+    "from_stop": 269,
+    "to_stop": 274,
+    "fare": 26
+  },
+  {
+    "route_id": 186,
+    "from_stop": 269,
+    "to_stop": 275,
+    "fare": 28
+  },
+  {
+    "route_id": 186,
+    "from_stop": 269,
+    "to_stop": 276,
+    "fare": 31
+  },
+  {
+    "route_id": 186,
+    "from_stop": 270,
+    "to_stop": 271,
+    "fare": 10
+  },
+  {
+    "route_id": 186,
+    "from_stop": 270,
+    "to_stop": 272,
+    "fare": 12
+  },
+  {
+    "route_id": 186,
+    "from_stop": 270,
+    "to_stop": 273,
+    "fare": 22
+  },
+  {
+    "route_id": 186,
+    "from_stop": 270,
+    "to_stop": 274,
+    "fare": 26
+  },
+  {
+    "route_id": 186,
+    "from_stop": 270,
+    "to_stop": 275,
+    "fare": 28
+  },
+  {
+    "route_id": 186,
+    "from_stop": 270,
+    "to_stop": 276,
+    "fare": 31
+  },
+  {
+    "route_id": 186,
+    "from_stop": 271,
+    "to_stop": 272,
+    "fare": 12
+  },
+  {
+    "route_id": 186,
+    "from_stop": 271,
+    "to_stop": 273,
+    "fare": 22
+  },
+  {
+    "route_id": 186,
+    "from_stop": 271,
+    "to_stop": 274,
+    "fare": 26
+  },
+  {
+    "route_id": 186,
+    "from_stop": 271,
+    "to_stop": 275,
+    "fare": 28
+  },
+  {
+    "route_id": 186,
+    "from_stop": 271,
+    "to_stop": 276,
+    "fare": 31
+  },
+  {
+    "route_id": 186,
+    "from_stop": 272,
+    "to_stop": 273,
+    "fare": 10
+  },
+  {
+    "route_id": 186,
+    "from_stop": 272,
+    "to_stop": 274,
+    "fare": 14
+  },
+  {
+    "route_id": 186,
+    "from_stop": 272,
+    "to_stop": 275,
+    "fare": 16
+  },
+  {
+    "route_id": 186,
+    "from_stop": 272,
+    "to_stop": 276,
+    "fare": 19
+  },
+  {
+    "route_id": 186,
+    "from_stop": 273,
+    "to_stop": 274,
+    "fare": 10
+  },
+  {
+    "route_id": 186,
+    "from_stop": 273,
+    "to_stop": 275,
+    "fare": 10
+  },
+  {
+    "route_id": 186,
+    "from_stop": 273,
+    "to_stop": 276,
+    "fare": 10
+  },
+  {
+    "route_id": 186,
+    "from_stop": 274,
+    "to_stop": 275,
+    "fare": 10
+  },
+  {
+    "route_id": 186,
+    "from_stop": 274,
+    "to_stop": 276,
+    "fare": 10
+  },
+  {
+    "route_id": 186,
+    "from_stop": 275,
+    "to_stop": 276,
+    "fare": 10
+  },
+  {
+    "route_id": 187,
+    "from_stop": 277,
+    "to_stop": 266,
+    "fare": 10
+  },
+  {
+    "route_id": 187,
+    "from_stop": 277,
+    "to_stop": 278,
+    "fare": 10
+  },
+  {
+    "route_id": 187,
+    "from_stop": 277,
+    "to_stop": 268,
+    "fare": 10
+  },
+  {
+    "route_id": 187,
+    "from_stop": 277,
+    "to_stop": 269,
+    "fare": 10
+  },
+  {
+    "route_id": 187,
+    "from_stop": 277,
+    "to_stop": 270,
+    "fare": 10
+  },
+  {
+    "route_id": 187,
+    "from_stop": 277,
+    "to_stop": 271,
+    "fare": 11
+  },
+  {
+    "route_id": 187,
+    "from_stop": 277,
+    "to_stop": 279,
+    "fare": 13
+  },
+  {
+    "route_id": 187,
+    "from_stop": 277,
+    "to_stop": 280,
+    "fare": 17
+  },
+  {
+    "route_id": 187,
+    "from_stop": 277,
+    "to_stop": 281,
+    "fare": 26
+  },
+  {
+    "route_id": 187,
+    "from_stop": 277,
+    "to_stop": 282,
+    "fare": 27
+  },
+  {
+    "route_id": 187,
+    "from_stop": 277,
+    "to_stop": 283,
+    "fare": 37
+  },
+  {
+    "route_id": 187,
+    "from_stop": 266,
+    "to_stop": 278,
+    "fare": 10
+  },
+  {
+    "route_id": 187,
+    "from_stop": 266,
+    "to_stop": 268,
+    "fare": 10
+  },
+  {
+    "route_id": 187,
+    "from_stop": 266,
+    "to_stop": 269,
+    "fare": 10
+  },
+  {
+    "route_id": 187,
+    "from_stop": 266,
+    "to_stop": 270,
+    "fare": 10
+  },
+  {
+    "route_id": 187,
+    "from_stop": 266,
+    "to_stop": 271,
+    "fare": 10
+  },
+  {
+    "route_id": 187,
+    "from_stop": 266,
+    "to_stop": 279,
+    "fare": 10
+  },
+  {
+    "route_id": 187,
+    "from_stop": 266,
+    "to_stop": 280,
+    "fare": 10
+  },
+  {
+    "route_id": 187,
+    "from_stop": 266,
+    "to_stop": 281,
+    "fare": 16
+  },
+  {
+    "route_id": 187,
+    "from_stop": 266,
+    "to_stop": 282,
+    "fare": 17
+  },
+  {
+    "route_id": 187,
+    "from_stop": 266,
+    "to_stop": 283,
+    "fare": 27
+  },
+  {
+    "route_id": 187,
+    "from_stop": 278,
+    "to_stop": 268,
+    "fare": 10
+  },
+  {
+    "route_id": 187,
+    "from_stop": 278,
+    "to_stop": 269,
+    "fare": 10
+  },
+  {
+    "route_id": 187,
+    "from_stop": 278,
+    "to_stop": 270,
+    "fare": 10
+  },
+  {
+    "route_id": 187,
+    "from_stop": 278,
+    "to_stop": 271,
+    "fare": 10
+  },
+  {
+    "route_id": 187,
+    "from_stop": 278,
+    "to_stop": 279,
+    "fare": 10
+  },
+  {
+    "route_id": 187,
+    "from_stop": 278,
+    "to_stop": 280,
+    "fare": 10
+  },
+  {
+    "route_id": 187,
+    "from_stop": 278,
+    "to_stop": 281,
+    "fare": 16
+  },
+  {
+    "route_id": 187,
+    "from_stop": 278,
+    "to_stop": 282,
+    "fare": 17
+  },
+  {
+    "route_id": 187,
+    "from_stop": 278,
+    "to_stop": 283,
+    "fare": 27
+  },
+  {
+    "route_id": 187,
+    "from_stop": 268,
+    "to_stop": 269,
+    "fare": 10
+  },
+  {
+    "route_id": 187,
+    "from_stop": 268,
+    "to_stop": 270,
+    "fare": 10
+  },
+  {
+    "route_id": 187,
+    "from_stop": 268,
+    "to_stop": 271,
+    "fare": 10
+  },
+  {
+    "route_id": 187,
+    "from_stop": 268,
+    "to_stop": 279,
+    "fare": 10
+  },
+  {
+    "route_id": 187,
+    "from_stop": 268,
+    "to_stop": 280,
+    "fare": 10
+  },
+  {
+    "route_id": 187,
+    "from_stop": 268,
+    "to_stop": 281,
+    "fare": 16
+  },
+  {
+    "route_id": 187,
+    "from_stop": 268,
+    "to_stop": 282,
+    "fare": 17
+  },
+  {
+    "route_id": 187,
+    "from_stop": 268,
+    "to_stop": 283,
+    "fare": 27
+  },
+  {
+    "route_id": 187,
+    "from_stop": 269,
+    "to_stop": 270,
+    "fare": 10
+  },
+  {
+    "route_id": 187,
+    "from_stop": 269,
+    "to_stop": 271,
+    "fare": 10
+  },
+  {
+    "route_id": 187,
+    "from_stop": 269,
+    "to_stop": 279,
+    "fare": 10
+  },
+  {
+    "route_id": 187,
+    "from_stop": 269,
+    "to_stop": 280,
+    "fare": 10
+  },
+  {
+    "route_id": 187,
+    "from_stop": 269,
+    "to_stop": 281,
+    "fare": 16
+  },
+  {
+    "route_id": 187,
+    "from_stop": 269,
+    "to_stop": 282,
+    "fare": 17
+  },
+  {
+    "route_id": 187,
+    "from_stop": 269,
+    "to_stop": 283,
+    "fare": 27
+  },
+  {
+    "route_id": 187,
+    "from_stop": 270,
+    "to_stop": 271,
+    "fare": 10
+  },
+  {
+    "route_id": 187,
+    "from_stop": 270,
+    "to_stop": 279,
+    "fare": 10
+  },
+  {
+    "route_id": 187,
+    "from_stop": 270,
+    "to_stop": 280,
+    "fare": 10
+  },
+  {
+    "route_id": 187,
+    "from_stop": 270,
+    "to_stop": 281,
+    "fare": 16
+  },
+  {
+    "route_id": 187,
+    "from_stop": 270,
+    "to_stop": 282,
+    "fare": 17
+  },
+  {
+    "route_id": 187,
+    "from_stop": 270,
+    "to_stop": 283,
+    "fare": 27
+  },
+  {
+    "route_id": 187,
+    "from_stop": 271,
+    "to_stop": 279,
+    "fare": 10
+  },
+  {
+    "route_id": 187,
+    "from_stop": 271,
+    "to_stop": 280,
+    "fare": 10
+  },
+  {
+    "route_id": 187,
+    "from_stop": 271,
+    "to_stop": 281,
+    "fare": 15
+  },
+  {
+    "route_id": 187,
+    "from_stop": 271,
+    "to_stop": 282,
+    "fare": 16
+  },
+  {
+    "route_id": 187,
+    "from_stop": 271,
+    "to_stop": 283,
+    "fare": 26
+  },
+  {
+    "route_id": 187,
+    "from_stop": 279,
+    "to_stop": 280,
+    "fare": 10
+  },
+  {
+    "route_id": 187,
+    "from_stop": 279,
+    "to_stop": 281,
+    "fare": 13
+  },
+  {
+    "route_id": 187,
+    "from_stop": 279,
+    "to_stop": 282,
+    "fare": 14
+  },
+  {
+    "route_id": 187,
+    "from_stop": 279,
+    "to_stop": 283,
+    "fare": 24
+  },
+  {
+    "route_id": 187,
+    "from_stop": 280,
+    "to_stop": 281,
+    "fare": 10
+  },
+  {
+    "route_id": 187,
+    "from_stop": 280,
+    "to_stop": 282,
+    "fare": 10
+  },
+  {
+    "route_id": 187,
+    "from_stop": 280,
+    "to_stop": 283,
+    "fare": 20
+  },
+  {
+    "route_id": 187,
+    "from_stop": 281,
+    "to_stop": 282,
+    "fare": 10
+  },
+  {
+    "route_id": 187,
+    "from_stop": 281,
+    "to_stop": 283,
+    "fare": 11
+  },
+  {
+    "route_id": 187,
+    "from_stop": 282,
+    "to_stop": 283,
+    "fare": 10
+  },
+  {
+    "route_id": 188,
+    "from_stop": 284,
+    "to_stop": 285,
+    "fare": 10
+  },
+  {
+    "route_id": 188,
+    "from_stop": 284,
+    "to_stop": 286,
+    "fare": 10
+  },
+  {
+    "route_id": 188,
+    "from_stop": 284,
+    "to_stop": 287,
+    "fare": 10
+  },
+  {
+    "route_id": 188,
+    "from_stop": 284,
+    "to_stop": 288,
+    "fare": 11
+  },
+  {
+    "route_id": 188,
+    "from_stop": 284,
+    "to_stop": 289,
+    "fare": 13
+  },
+  {
+    "route_id": 188,
+    "from_stop": 284,
+    "to_stop": 290,
+    "fare": 22
+  },
+  {
+    "route_id": 188,
+    "from_stop": 284,
+    "to_stop": 291,
+    "fare": 29
+  },
+  {
+    "route_id": 188,
+    "from_stop": 284,
+    "to_stop": 292,
+    "fare": 37
+  },
+  {
+    "route_id": 188,
+    "from_stop": 284,
+    "to_stop": 293,
+    "fare": 41
+  },
+  {
+    "route_id": 188,
+    "from_stop": 285,
+    "to_stop": 286,
+    "fare": 10
+  },
+  {
+    "route_id": 188,
+    "from_stop": 285,
+    "to_stop": 287,
+    "fare": 10
+  },
+  {
+    "route_id": 188,
+    "from_stop": 285,
+    "to_stop": 288,
+    "fare": 10
+  },
+  {
+    "route_id": 188,
+    "from_stop": 285,
+    "to_stop": 289,
+    "fare": 10
+  },
+  {
+    "route_id": 188,
+    "from_stop": 285,
+    "to_stop": 290,
+    "fare": 12
+  },
+  {
+    "route_id": 188,
+    "from_stop": 285,
+    "to_stop": 291,
+    "fare": 19
+  },
+  {
+    "route_id": 188,
+    "from_stop": 285,
+    "to_stop": 292,
+    "fare": 27
+  },
+  {
+    "route_id": 188,
+    "from_stop": 285,
+    "to_stop": 293,
+    "fare": 31
+  },
+  {
+    "route_id": 188,
+    "from_stop": 286,
+    "to_stop": 287,
+    "fare": 10
+  },
+  {
+    "route_id": 188,
+    "from_stop": 286,
+    "to_stop": 288,
+    "fare": 10
+  },
+  {
+    "route_id": 188,
+    "from_stop": 286,
+    "to_stop": 289,
+    "fare": 10
+  },
+  {
+    "route_id": 188,
+    "from_stop": 286,
+    "to_stop": 290,
+    "fare": 12
+  },
+  {
+    "route_id": 188,
+    "from_stop": 286,
+    "to_stop": 291,
+    "fare": 19
+  },
+  {
+    "route_id": 188,
+    "from_stop": 286,
+    "to_stop": 292,
+    "fare": 27
+  },
+  {
+    "route_id": 188,
+    "from_stop": 286,
+    "to_stop": 293,
+    "fare": 31
+  },
+  {
+    "route_id": 188,
+    "from_stop": 287,
+    "to_stop": 288,
+    "fare": 10
+  },
+  {
+    "route_id": 188,
+    "from_stop": 287,
+    "to_stop": 289,
+    "fare": 10
+  },
+  {
+    "route_id": 188,
+    "from_stop": 287,
+    "to_stop": 290,
+    "fare": 12
+  },
+  {
+    "route_id": 188,
+    "from_stop": 287,
+    "to_stop": 291,
+    "fare": 19
+  },
+  {
+    "route_id": 188,
+    "from_stop": 287,
+    "to_stop": 292,
+    "fare": 27
+  },
+  {
+    "route_id": 188,
+    "from_stop": 287,
+    "to_stop": 293,
+    "fare": 31
+  },
+  {
+    "route_id": 188,
+    "from_stop": 288,
+    "to_stop": 289,
+    "fare": 10
+  },
+  {
+    "route_id": 188,
+    "from_stop": 288,
+    "to_stop": 290,
+    "fare": 11
+  },
+  {
+    "route_id": 188,
+    "from_stop": 288,
+    "to_stop": 291,
+    "fare": 18
+  },
+  {
+    "route_id": 188,
+    "from_stop": 288,
+    "to_stop": 292,
+    "fare": 26
+  },
+  {
+    "route_id": 188,
+    "from_stop": 288,
+    "to_stop": 293,
+    "fare": 30
+  },
+  {
+    "route_id": 188,
+    "from_stop": 289,
+    "to_stop": 290,
+    "fare": 10
+  },
+  {
+    "route_id": 188,
+    "from_stop": 289,
+    "to_stop": 291,
+    "fare": 16
+  },
+  {
+    "route_id": 188,
+    "from_stop": 289,
+    "to_stop": 292,
+    "fare": 24
+  },
+  {
+    "route_id": 188,
+    "from_stop": 289,
+    "to_stop": 293,
+    "fare": 28
+  },
+  {
+    "route_id": 188,
+    "from_stop": 290,
+    "to_stop": 291,
+    "fare": 10
+  },
+  {
+    "route_id": 188,
+    "from_stop": 290,
+    "to_stop": 292,
+    "fare": 15
+  },
+  {
+    "route_id": 188,
+    "from_stop": 290,
+    "to_stop": 293,
+    "fare": 19
+  },
+  {
+    "route_id": 188,
+    "from_stop": 291,
+    "to_stop": 292,
+    "fare": 10
+  },
+  {
+    "route_id": 188,
+    "from_stop": 291,
+    "to_stop": 293,
+    "fare": 12
+  },
+  {
+    "route_id": 188,
+    "from_stop": 292,
+    "to_stop": 293,
+    "fare": 10
+  },
+  {
+    "route_id": 189,
+    "from_stop": 294,
+    "to_stop": 295,
+    "fare": 10
+  },
+  {
+    "route_id": 189,
+    "from_stop": 294,
+    "to_stop": 268,
+    "fare": 10
+  },
+  {
+    "route_id": 189,
+    "from_stop": 294,
+    "to_stop": 269,
+    "fare": 10
+  },
+  {
+    "route_id": 189,
+    "from_stop": 294,
+    "to_stop": 270,
+    "fare": 10
+  },
+  {
+    "route_id": 189,
+    "from_stop": 294,
+    "to_stop": 271,
+    "fare": 10
+  },
+  {
+    "route_id": 189,
+    "from_stop": 294,
+    "to_stop": 272,
+    "fare": 22
+  },
+  {
+    "route_id": 189,
+    "from_stop": 294,
+    "to_stop": 296,
+    "fare": 33
+  },
+  {
+    "route_id": 189,
+    "from_stop": 294,
+    "to_stop": 297,
+    "fare": 34
+  },
+  {
+    "route_id": 189,
+    "from_stop": 294,
+    "to_stop": 298,
+    "fare": 42
+  },
+  {
+    "route_id": 189,
+    "from_stop": 295,
+    "to_stop": 268,
+    "fare": 10
+  },
+  {
+    "route_id": 189,
+    "from_stop": 295,
+    "to_stop": 269,
+    "fare": 10
+  },
+  {
+    "route_id": 189,
+    "from_stop": 295,
+    "to_stop": 270,
+    "fare": 10
+  },
+  {
+    "route_id": 189,
+    "from_stop": 295,
+    "to_stop": 271,
+    "fare": 10
+  },
+  {
+    "route_id": 189,
+    "from_stop": 295,
+    "to_stop": 272,
+    "fare": 12
+  },
+  {
+    "route_id": 189,
+    "from_stop": 295,
+    "to_stop": 296,
+    "fare": 23
+  },
+  {
+    "route_id": 189,
+    "from_stop": 295,
+    "to_stop": 297,
+    "fare": 24
+  },
+  {
+    "route_id": 189,
+    "from_stop": 295,
+    "to_stop": 298,
+    "fare": 32
+  },
+  {
+    "route_id": 189,
+    "from_stop": 268,
+    "to_stop": 269,
+    "fare": 10
+  },
+  {
+    "route_id": 189,
+    "from_stop": 268,
+    "to_stop": 270,
+    "fare": 10
+  },
+  {
+    "route_id": 189,
+    "from_stop": 268,
+    "to_stop": 271,
+    "fare": 10
+  },
+  {
+    "route_id": 189,
+    "from_stop": 268,
+    "to_stop": 272,
+    "fare": 12
+  },
+  {
+    "route_id": 189,
+    "from_stop": 268,
+    "to_stop": 296,
+    "fare": 23
+  },
+  {
+    "route_id": 189,
+    "from_stop": 268,
+    "to_stop": 297,
+    "fare": 24
+  },
+  {
+    "route_id": 189,
+    "from_stop": 268,
+    "to_stop": 298,
+    "fare": 32
+  },
+  {
+    "route_id": 189,
+    "from_stop": 269,
+    "to_stop": 270,
+    "fare": 10
+  },
+  {
+    "route_id": 189,
+    "from_stop": 269,
+    "to_stop": 271,
+    "fare": 10
+  },
+  {
+    "route_id": 189,
+    "from_stop": 269,
+    "to_stop": 272,
+    "fare": 12
+  },
+  {
+    "route_id": 189,
+    "from_stop": 269,
+    "to_stop": 296,
+    "fare": 23
+  },
+  {
+    "route_id": 189,
+    "from_stop": 269,
+    "to_stop": 297,
+    "fare": 24
+  },
+  {
+    "route_id": 189,
+    "from_stop": 269,
+    "to_stop": 298,
+    "fare": 32
+  },
+  {
+    "route_id": 189,
+    "from_stop": 270,
+    "to_stop": 271,
+    "fare": 10
+  },
+  {
+    "route_id": 189,
+    "from_stop": 270,
+    "to_stop": 272,
+    "fare": 12
+  },
+  {
+    "route_id": 189,
+    "from_stop": 270,
+    "to_stop": 296,
+    "fare": 23
+  },
+  {
+    "route_id": 189,
+    "from_stop": 270,
+    "to_stop": 297,
+    "fare": 24
+  },
+  {
+    "route_id": 189,
+    "from_stop": 270,
+    "to_stop": 298,
+    "fare": 32
+  },
+  {
+    "route_id": 189,
+    "from_stop": 271,
+    "to_stop": 272,
+    "fare": 12
+  },
+  {
+    "route_id": 189,
+    "from_stop": 271,
+    "to_stop": 296,
+    "fare": 23
+  },
+  {
+    "route_id": 189,
+    "from_stop": 271,
+    "to_stop": 297,
+    "fare": 24
+  },
+  {
+    "route_id": 189,
+    "from_stop": 271,
+    "to_stop": 298,
+    "fare": 32
+  },
+  {
+    "route_id": 189,
+    "from_stop": 272,
+    "to_stop": 296,
+    "fare": 11
+  },
+  {
+    "route_id": 189,
+    "from_stop": 272,
+    "to_stop": 297,
+    "fare": 12
+  },
+  {
+    "route_id": 189,
+    "from_stop": 272,
+    "to_stop": 298,
+    "fare": 20
+  },
+  {
+    "route_id": 189,
+    "from_stop": 296,
+    "to_stop": 297,
+    "fare": 10
+  },
+  {
+    "route_id": 189,
+    "from_stop": 296,
+    "to_stop": 298,
+    "fare": 10
+  },
+  {
+    "route_id": 189,
+    "from_stop": 297,
+    "to_stop": 298,
+    "fare": 10
+  },
+  {
+    "route_id": 190,
+    "from_stop": 299,
+    "to_stop": 287,
+    "fare": 10
+  },
+  {
+    "route_id": 190,
+    "from_stop": 299,
+    "to_stop": 288,
+    "fare": 10
+  },
+  {
+    "route_id": 190,
+    "from_stop": 299,
+    "to_stop": 300,
+    "fare": 10
+  },
+  {
+    "route_id": 190,
+    "from_stop": 299,
+    "to_stop": 301,
+    "fare": 12
+  },
+  {
+    "route_id": 190,
+    "from_stop": 299,
+    "to_stop": 302,
+    "fare": 13
+  },
+  {
+    "route_id": 190,
+    "from_stop": 299,
+    "to_stop": 303,
+    "fare": 15
+  },
+  {
+    "route_id": 190,
+    "from_stop": 299,
+    "to_stop": 290,
+    "fare": 18
+  },
+  {
+    "route_id": 190,
+    "from_stop": 299,
+    "to_stop": 272,
+    "fare": 22
+  },
+  {
+    "route_id": 190,
+    "from_stop": 299,
+    "to_stop": 304,
+    "fare": 25
+  },
+  {
+    "route_id": 190,
+    "from_stop": 299,
+    "to_stop": 305,
+    "fare": 28
+  },
+  {
+    "route_id": 190,
+    "from_stop": 299,
+    "to_stop": 273,
+    "fare": 32
+  },
+  {
+    "route_id": 190,
+    "from_stop": 299,
+    "to_stop": 297,
+    "fare": 35
+  },
+  {
+    "route_id": 190,
+    "from_stop": 299,
+    "to_stop": 306,
+    "fare": 42
+  },
+  {
+    "route_id": 190,
+    "from_stop": 299,
+    "to_stop": 307,
+    "fare": 45
+  },
+  {
+    "route_id": 190,
+    "from_stop": 287,
+    "to_stop": 288,
+    "fare": 10
+  },
+  {
+    "route_id": 190,
+    "from_stop": 287,
+    "to_stop": 300,
+    "fare": 10
+  },
+  {
+    "route_id": 190,
+    "from_stop": 287,
+    "to_stop": 301,
+    "fare": 10
+  },
+  {
+    "route_id": 190,
+    "from_stop": 287,
+    "to_stop": 302,
+    "fare": 10
+  },
+  {
+    "route_id": 190,
+    "from_stop": 287,
+    "to_stop": 303,
+    "fare": 10
+  },
+  {
+    "route_id": 190,
+    "from_stop": 287,
+    "to_stop": 290,
+    "fare": 10
+  },
+  {
+    "route_id": 190,
+    "from_stop": 287,
+    "to_stop": 272,
+    "fare": 12
+  },
+  {
+    "route_id": 190,
+    "from_stop": 287,
+    "to_stop": 304,
+    "fare": 15
+  },
+  {
+    "route_id": 190,
+    "from_stop": 287,
+    "to_stop": 305,
+    "fare": 18
+  },
+  {
+    "route_id": 190,
+    "from_stop": 287,
+    "to_stop": 273,
+    "fare": 22
+  },
+  {
+    "route_id": 190,
+    "from_stop": 287,
+    "to_stop": 297,
+    "fare": 25
+  },
+  {
+    "route_id": 190,
+    "from_stop": 287,
+    "to_stop": 306,
+    "fare": 32
+  },
+  {
+    "route_id": 190,
+    "from_stop": 287,
+    "to_stop": 307,
+    "fare": 35
+  },
+  {
+    "route_id": 190,
+    "from_stop": 288,
+    "to_stop": 300,
+    "fare": 10
+  },
+  {
+    "route_id": 190,
+    "from_stop": 288,
+    "to_stop": 301,
+    "fare": 10
+  },
+  {
+    "route_id": 190,
+    "from_stop": 288,
+    "to_stop": 302,
+    "fare": 10
+  },
+  {
+    "route_id": 190,
+    "from_stop": 288,
+    "to_stop": 303,
+    "fare": 10
+  },
+  {
+    "route_id": 190,
+    "from_stop": 288,
+    "to_stop": 290,
+    "fare": 10
+  },
+  {
+    "route_id": 190,
+    "from_stop": 288,
+    "to_stop": 272,
+    "fare": 12
+  },
+  {
+    "route_id": 190,
+    "from_stop": 288,
+    "to_stop": 304,
+    "fare": 15
+  },
+  {
+    "route_id": 190,
+    "from_stop": 288,
+    "to_stop": 305,
+    "fare": 18
+  },
+  {
+    "route_id": 190,
+    "from_stop": 288,
+    "to_stop": 273,
+    "fare": 22
+  },
+  {
+    "route_id": 190,
+    "from_stop": 288,
+    "to_stop": 297,
+    "fare": 25
+  },
+  {
+    "route_id": 190,
+    "from_stop": 288,
+    "to_stop": 306,
+    "fare": 32
+  },
+  {
+    "route_id": 190,
+    "from_stop": 288,
+    "to_stop": 307,
+    "fare": 35
+  },
+  {
+    "route_id": 190,
+    "from_stop": 300,
+    "to_stop": 301,
+    "fare": 10
+  },
+  {
+    "route_id": 190,
+    "from_stop": 300,
+    "to_stop": 302,
+    "fare": 10
+  },
+  {
+    "route_id": 190,
+    "from_stop": 300,
+    "to_stop": 303,
+    "fare": 10
+  },
+  {
+    "route_id": 190,
+    "from_stop": 300,
+    "to_stop": 290,
+    "fare": 10
+  },
+  {
+    "route_id": 190,
+    "from_stop": 300,
+    "to_stop": 272,
+    "fare": 12
+  },
+  {
+    "route_id": 190,
+    "from_stop": 300,
+    "to_stop": 304,
+    "fare": 15
+  },
+  {
+    "route_id": 190,
+    "from_stop": 300,
+    "to_stop": 305,
+    "fare": 18
+  },
+  {
+    "route_id": 190,
+    "from_stop": 300,
+    "to_stop": 273,
+    "fare": 22
+  },
+  {
+    "route_id": 190,
+    "from_stop": 300,
+    "to_stop": 297,
+    "fare": 25
+  },
+  {
+    "route_id": 190,
+    "from_stop": 300,
+    "to_stop": 306,
+    "fare": 32
+  },
+  {
+    "route_id": 190,
+    "from_stop": 300,
+    "to_stop": 307,
+    "fare": 35
+  },
+  {
+    "route_id": 190,
+    "from_stop": 301,
+    "to_stop": 302,
+    "fare": 10
+  },
+  {
+    "route_id": 190,
+    "from_stop": 301,
+    "to_stop": 303,
+    "fare": 10
+  },
+  {
+    "route_id": 190,
+    "from_stop": 301,
+    "to_stop": 290,
+    "fare": 10
+  },
+  {
+    "route_id": 190,
+    "from_stop": 301,
+    "to_stop": 272,
+    "fare": 10
+  },
+  {
+    "route_id": 190,
+    "from_stop": 301,
+    "to_stop": 304,
+    "fare": 13
+  },
+  {
+    "route_id": 190,
+    "from_stop": 301,
+    "to_stop": 305,
+    "fare": 16
+  },
+  {
+    "route_id": 190,
+    "from_stop": 301,
+    "to_stop": 273,
+    "fare": 20
+  },
+  {
+    "route_id": 190,
+    "from_stop": 301,
+    "to_stop": 297,
+    "fare": 23
+  },
+  {
+    "route_id": 190,
+    "from_stop": 301,
+    "to_stop": 306,
+    "fare": 30
+  },
+  {
+    "route_id": 190,
+    "from_stop": 301,
+    "to_stop": 307,
+    "fare": 33
+  },
+  {
+    "route_id": 190,
+    "from_stop": 302,
+    "to_stop": 303,
+    "fare": 10
+  },
+  {
+    "route_id": 190,
+    "from_stop": 302,
+    "to_stop": 290,
+    "fare": 10
+  },
+  {
+    "route_id": 190,
+    "from_stop": 302,
+    "to_stop": 272,
+    "fare": 10
+  },
+  {
+    "route_id": 190,
+    "from_stop": 302,
+    "to_stop": 304,
+    "fare": 12
+  },
+  {
+    "route_id": 190,
+    "from_stop": 302,
+    "to_stop": 305,
+    "fare": 15
+  },
+  {
+    "route_id": 190,
+    "from_stop": 302,
+    "to_stop": 273,
+    "fare": 19
+  },
+  {
+    "route_id": 190,
+    "from_stop": 302,
+    "to_stop": 297,
+    "fare": 22
+  },
+  {
+    "route_id": 190,
+    "from_stop": 302,
+    "to_stop": 306,
+    "fare": 29
+  },
+  {
+    "route_id": 190,
+    "from_stop": 302,
+    "to_stop": 307,
+    "fare": 32
+  },
+  {
+    "route_id": 190,
+    "from_stop": 303,
+    "to_stop": 290,
+    "fare": 10
+  },
+  {
+    "route_id": 190,
+    "from_stop": 303,
+    "to_stop": 272,
+    "fare": 10
+  },
+  {
+    "route_id": 190,
+    "from_stop": 303,
+    "to_stop": 304,
+    "fare": 10
+  },
+  {
+    "route_id": 190,
+    "from_stop": 303,
+    "to_stop": 305,
+    "fare": 13
+  },
+  {
+    "route_id": 190,
+    "from_stop": 303,
+    "to_stop": 273,
+    "fare": 17
+  },
+  {
+    "route_id": 190,
+    "from_stop": 303,
+    "to_stop": 297,
+    "fare": 20
+  },
+  {
+    "route_id": 190,
+    "from_stop": 303,
+    "to_stop": 306,
+    "fare": 27
+  },
+  {
+    "route_id": 190,
+    "from_stop": 303,
+    "to_stop": 307,
+    "fare": 30
+  },
+  {
+    "route_id": 190,
+    "from_stop": 290,
+    "to_stop": 272,
+    "fare": 10
+  },
+  {
+    "route_id": 190,
+    "from_stop": 290,
+    "to_stop": 304,
+    "fare": 10
+  },
+  {
+    "route_id": 190,
+    "from_stop": 290,
+    "to_stop": 305,
+    "fare": 10
+  },
+  {
+    "route_id": 190,
+    "from_stop": 290,
+    "to_stop": 273,
+    "fare": 14
+  },
+  {
+    "route_id": 190,
+    "from_stop": 290,
+    "to_stop": 297,
+    "fare": 17
+  },
+  {
+    "route_id": 190,
+    "from_stop": 290,
+    "to_stop": 306,
+    "fare": 24
+  },
+  {
+    "route_id": 190,
+    "from_stop": 290,
+    "to_stop": 307,
+    "fare": 27
+  },
+  {
+    "route_id": 190,
+    "from_stop": 272,
+    "to_stop": 304,
+    "fare": 10
+  },
+  {
+    "route_id": 190,
+    "from_stop": 272,
+    "to_stop": 305,
+    "fare": 10
+  },
+  {
+    "route_id": 190,
+    "from_stop": 272,
+    "to_stop": 273,
+    "fare": 10
+  },
+  {
+    "route_id": 190,
+    "from_stop": 272,
+    "to_stop": 297,
+    "fare": 13
+  },
+  {
+    "route_id": 190,
+    "from_stop": 272,
+    "to_stop": 306,
+    "fare": 20
+  },
+  {
+    "route_id": 190,
+    "from_stop": 272,
+    "to_stop": 307,
+    "fare": 23
+  },
+  {
+    "route_id": 190,
+    "from_stop": 304,
+    "to_stop": 305,
+    "fare": 10
+  },
+  {
+    "route_id": 190,
+    "from_stop": 304,
+    "to_stop": 273,
+    "fare": 10
+  },
+  {
+    "route_id": 190,
+    "from_stop": 304,
+    "to_stop": 297,
+    "fare": 10
+  },
+  {
+    "route_id": 190,
+    "from_stop": 304,
+    "to_stop": 306,
+    "fare": 17
+  },
+  {
+    "route_id": 190,
+    "from_stop": 304,
+    "to_stop": 307,
+    "fare": 20
+  },
+  {
+    "route_id": 190,
+    "from_stop": 305,
+    "to_stop": 273,
+    "fare": 10
+  },
+  {
+    "route_id": 190,
+    "from_stop": 305,
+    "to_stop": 297,
+    "fare": 10
+  },
+  {
+    "route_id": 190,
+    "from_stop": 305,
+    "to_stop": 306,
+    "fare": 14
+  },
+  {
+    "route_id": 190,
+    "from_stop": 305,
+    "to_stop": 307,
+    "fare": 17
+  },
+  {
+    "route_id": 190,
+    "from_stop": 273,
+    "to_stop": 297,
+    "fare": 10
+  },
+  {
+    "route_id": 190,
+    "from_stop": 273,
+    "to_stop": 306,
+    "fare": 10
+  },
+  {
+    "route_id": 190,
+    "from_stop": 273,
+    "to_stop": 307,
+    "fare": 13
+  },
+  {
+    "route_id": 190,
+    "from_stop": 297,
+    "to_stop": 306,
+    "fare": 10
+  },
+  {
+    "route_id": 190,
+    "from_stop": 297,
+    "to_stop": 307,
+    "fare": 10
+  },
+  {
+    "route_id": 190,
+    "from_stop": 306,
+    "to_stop": 307,
+    "fare": 10
+  },
+  {
+    "route_id": 191,
+    "from_stop": 287,
+    "to_stop": 308,
+    "fare": 10
+  },
+  {
+    "route_id": 191,
+    "from_stop": 287,
+    "to_stop": 289,
+    "fare": 10
+  },
+  {
+    "route_id": 191,
+    "from_stop": 287,
+    "to_stop": 301,
+    "fare": 10
+  },
+  {
+    "route_id": 191,
+    "from_stop": 287,
+    "to_stop": 302,
+    "fare": 10
+  },
+  {
+    "route_id": 191,
+    "from_stop": 287,
+    "to_stop": 309,
+    "fare": 11
+  },
+  {
+    "route_id": 191,
+    "from_stop": 287,
+    "to_stop": 282,
+    "fare": 17
+  },
+  {
+    "route_id": 191,
+    "from_stop": 287,
+    "to_stop": 310,
+    "fare": 18
+  },
+  {
+    "route_id": 191,
+    "from_stop": 287,
+    "to_stop": 291,
+    "fare": 21
+  },
+  {
+    "route_id": 191,
+    "from_stop": 287,
+    "to_stop": 311,
+    "fare": 23
+  },
+  {
+    "route_id": 191,
+    "from_stop": 287,
+    "to_stop": 305,
+    "fare": 24
+  },
+  {
+    "route_id": 191,
+    "from_stop": 287,
+    "to_stop": 273,
+    "fare": 28
+  },
+  {
+    "route_id": 191,
+    "from_stop": 287,
+    "to_stop": 312,
+    "fare": 31
+  },
+  {
+    "route_id": 191,
+    "from_stop": 287,
+    "to_stop": 313,
+    "fare": 34
+  },
+  {
+    "route_id": 191,
+    "from_stop": 287,
+    "to_stop": 314,
+    "fare": 43
+  },
+  {
+    "route_id": 191,
+    "from_stop": 308,
+    "to_stop": 289,
+    "fare": 10
+  },
+  {
+    "route_id": 191,
+    "from_stop": 308,
+    "to_stop": 301,
+    "fare": 10
+  },
+  {
+    "route_id": 191,
+    "from_stop": 308,
+    "to_stop": 302,
+    "fare": 10
+  },
+  {
+    "route_id": 191,
+    "from_stop": 308,
+    "to_stop": 309,
+    "fare": 10
+  },
+  {
+    "route_id": 191,
+    "from_stop": 308,
+    "to_stop": 282,
+    "fare": 10
+  },
+  {
+    "route_id": 191,
+    "from_stop": 308,
+    "to_stop": 310,
+    "fare": 10
+  },
+  {
+    "route_id": 191,
+    "from_stop": 308,
+    "to_stop": 291,
+    "fare": 11
+  },
+  {
+    "route_id": 191,
+    "from_stop": 308,
+    "to_stop": 311,
+    "fare": 13
+  },
+  {
+    "route_id": 191,
+    "from_stop": 308,
+    "to_stop": 305,
+    "fare": 14
+  },
+  {
+    "route_id": 191,
+    "from_stop": 308,
+    "to_stop": 273,
+    "fare": 18
+  },
+  {
+    "route_id": 191,
+    "from_stop": 308,
+    "to_stop": 312,
+    "fare": 21
+  },
+  {
+    "route_id": 191,
+    "from_stop": 308,
+    "to_stop": 313,
+    "fare": 24
+  },
+  {
+    "route_id": 191,
+    "from_stop": 308,
+    "to_stop": 314,
+    "fare": 33
+  },
+  {
+    "route_id": 191,
+    "from_stop": 289,
+    "to_stop": 301,
+    "fare": 10
+  },
+  {
+    "route_id": 191,
+    "from_stop": 289,
+    "to_stop": 302,
+    "fare": 10
+  },
+  {
+    "route_id": 191,
+    "from_stop": 289,
+    "to_stop": 309,
+    "fare": 10
+  },
+  {
+    "route_id": 191,
+    "from_stop": 289,
+    "to_stop": 282,
+    "fare": 10
+  },
+  {
+    "route_id": 191,
+    "from_stop": 289,
+    "to_stop": 310,
+    "fare": 10
+  },
+  {
+    "route_id": 191,
+    "from_stop": 289,
+    "to_stop": 291,
+    "fare": 11
+  },
+  {
+    "route_id": 191,
+    "from_stop": 289,
+    "to_stop": 311,
+    "fare": 13
+  },
+  {
+    "route_id": 191,
+    "from_stop": 289,
+    "to_stop": 305,
+    "fare": 14
+  },
+  {
+    "route_id": 191,
+    "from_stop": 289,
+    "to_stop": 273,
+    "fare": 18
+  },
+  {
+    "route_id": 191,
+    "from_stop": 289,
+    "to_stop": 312,
+    "fare": 21
+  },
+  {
+    "route_id": 191,
+    "from_stop": 289,
+    "to_stop": 313,
+    "fare": 24
+  },
+  {
+    "route_id": 191,
+    "from_stop": 289,
+    "to_stop": 314,
+    "fare": 33
+  },
+  {
+    "route_id": 191,
+    "from_stop": 301,
+    "to_stop": 302,
+    "fare": 10
+  },
+  {
+    "route_id": 191,
+    "from_stop": 301,
+    "to_stop": 309,
+    "fare": 10
+  },
+  {
+    "route_id": 191,
+    "from_stop": 301,
+    "to_stop": 282,
+    "fare": 10
+  },
+  {
+    "route_id": 191,
+    "from_stop": 301,
+    "to_stop": 310,
+    "fare": 10
+  },
+  {
+    "route_id": 191,
+    "from_stop": 301,
+    "to_stop": 291,
+    "fare": 11
+  },
+  {
+    "route_id": 191,
+    "from_stop": 301,
+    "to_stop": 311,
+    "fare": 13
+  },
+  {
+    "route_id": 191,
+    "from_stop": 301,
+    "to_stop": 305,
+    "fare": 14
+  },
+  {
+    "route_id": 191,
+    "from_stop": 301,
+    "to_stop": 273,
+    "fare": 18
+  },
+  {
+    "route_id": 191,
+    "from_stop": 301,
+    "to_stop": 312,
+    "fare": 21
+  },
+  {
+    "route_id": 191,
+    "from_stop": 301,
+    "to_stop": 313,
+    "fare": 24
+  },
+  {
+    "route_id": 191,
+    "from_stop": 301,
+    "to_stop": 314,
+    "fare": 33
+  },
+  {
+    "route_id": 191,
+    "from_stop": 302,
+    "to_stop": 309,
+    "fare": 10
+  },
+  {
+    "route_id": 191,
+    "from_stop": 302,
+    "to_stop": 282,
+    "fare": 10
+  },
+  {
+    "route_id": 191,
+    "from_stop": 302,
+    "to_stop": 310,
+    "fare": 10
+  },
+  {
+    "route_id": 191,
+    "from_stop": 302,
+    "to_stop": 291,
+    "fare": 11
+  },
+  {
+    "route_id": 191,
+    "from_stop": 302,
+    "to_stop": 311,
+    "fare": 13
+  },
+  {
+    "route_id": 191,
+    "from_stop": 302,
+    "to_stop": 305,
+    "fare": 14
+  },
+  {
+    "route_id": 191,
+    "from_stop": 302,
+    "to_stop": 273,
+    "fare": 18
+  },
+  {
+    "route_id": 191,
+    "from_stop": 302,
+    "to_stop": 312,
+    "fare": 21
+  },
+  {
+    "route_id": 191,
+    "from_stop": 302,
+    "to_stop": 313,
+    "fare": 24
+  },
+  {
+    "route_id": 191,
+    "from_stop": 302,
+    "to_stop": 314,
+    "fare": 33
+  },
+  {
+    "route_id": 191,
+    "from_stop": 309,
+    "to_stop": 282,
+    "fare": 10
+  },
+  {
+    "route_id": 191,
+    "from_stop": 309,
+    "to_stop": 310,
+    "fare": 10
+  },
+  {
+    "route_id": 191,
+    "from_stop": 309,
+    "to_stop": 291,
+    "fare": 10
+  },
+  {
+    "route_id": 191,
+    "from_stop": 309,
+    "to_stop": 311,
+    "fare": 12
+  },
+  {
+    "route_id": 191,
+    "from_stop": 309,
+    "to_stop": 305,
+    "fare": 13
+  },
+  {
+    "route_id": 191,
+    "from_stop": 309,
+    "to_stop": 273,
+    "fare": 17
+  },
+  {
+    "route_id": 191,
+    "from_stop": 309,
+    "to_stop": 312,
+    "fare": 20
+  },
+  {
+    "route_id": 191,
+    "from_stop": 309,
+    "to_stop": 313,
+    "fare": 23
+  },
+  {
+    "route_id": 191,
+    "from_stop": 309,
+    "to_stop": 314,
+    "fare": 32
+  },
+  {
+    "route_id": 191,
+    "from_stop": 282,
+    "to_stop": 310,
+    "fare": 10
+  },
+  {
+    "route_id": 191,
+    "from_stop": 282,
+    "to_stop": 291,
+    "fare": 10
+  },
+  {
+    "route_id": 191,
+    "from_stop": 282,
+    "to_stop": 311,
+    "fare": 10
+  },
+  {
+    "route_id": 191,
+    "from_stop": 282,
+    "to_stop": 305,
+    "fare": 10
+  },
+  {
+    "route_id": 191,
+    "from_stop": 282,
+    "to_stop": 273,
+    "fare": 11
+  },
+  {
+    "route_id": 191,
+    "from_stop": 282,
+    "to_stop": 312,
+    "fare": 14
+  },
+  {
+    "route_id": 191,
+    "from_stop": 282,
+    "to_stop": 313,
+    "fare": 17
+  },
+  {
+    "route_id": 191,
+    "from_stop": 282,
+    "to_stop": 314,
+    "fare": 26
+  },
+  {
+    "route_id": 191,
+    "from_stop": 310,
+    "to_stop": 291,
+    "fare": 10
+  },
+  {
+    "route_id": 191,
+    "from_stop": 310,
+    "to_stop": 311,
+    "fare": 10
+  },
+  {
+    "route_id": 191,
+    "from_stop": 310,
+    "to_stop": 305,
+    "fare": 10
+  },
+  {
+    "route_id": 191,
+    "from_stop": 310,
+    "to_stop": 273,
+    "fare": 10
+  },
+  {
+    "route_id": 191,
+    "from_stop": 310,
+    "to_stop": 312,
+    "fare": 13
+  },
+  {
+    "route_id": 191,
+    "from_stop": 310,
+    "to_stop": 313,
+    "fare": 16
+  },
+  {
+    "route_id": 191,
+    "from_stop": 310,
+    "to_stop": 314,
+    "fare": 25
+  },
+  {
+    "route_id": 191,
+    "from_stop": 291,
+    "to_stop": 311,
+    "fare": 10
+  },
+  {
+    "route_id": 191,
+    "from_stop": 291,
+    "to_stop": 305,
+    "fare": 10
+  },
+  {
+    "route_id": 191,
+    "from_stop": 291,
+    "to_stop": 273,
+    "fare": 10
+  },
+  {
+    "route_id": 191,
+    "from_stop": 291,
+    "to_stop": 312,
+    "fare": 10
+  },
+  {
+    "route_id": 191,
+    "from_stop": 291,
+    "to_stop": 313,
+    "fare": 13
+  },
+  {
+    "route_id": 191,
+    "from_stop": 291,
+    "to_stop": 314,
+    "fare": 22
+  },
+  {
+    "route_id": 191,
+    "from_stop": 311,
+    "to_stop": 305,
+    "fare": 10
+  },
+  {
+    "route_id": 191,
+    "from_stop": 311,
+    "to_stop": 273,
+    "fare": 10
+  },
+  {
+    "route_id": 191,
+    "from_stop": 311,
+    "to_stop": 312,
+    "fare": 10
+  },
+  {
+    "route_id": 191,
+    "from_stop": 311,
+    "to_stop": 313,
+    "fare": 11
+  },
+  {
+    "route_id": 191,
+    "from_stop": 311,
+    "to_stop": 314,
+    "fare": 20
+  },
+  {
+    "route_id": 191,
+    "from_stop": 305,
+    "to_stop": 273,
+    "fare": 10
+  },
+  {
+    "route_id": 191,
+    "from_stop": 305,
+    "to_stop": 312,
+    "fare": 10
+  },
+  {
+    "route_id": 191,
+    "from_stop": 305,
+    "to_stop": 313,
+    "fare": 10
+  },
+  {
+    "route_id": 191,
+    "from_stop": 305,
+    "to_stop": 314,
+    "fare": 19
+  },
+  {
+    "route_id": 191,
+    "from_stop": 273,
+    "to_stop": 312,
+    "fare": 10
+  },
+  {
+    "route_id": 191,
+    "from_stop": 273,
+    "to_stop": 313,
+    "fare": 10
+  },
+  {
+    "route_id": 191,
+    "from_stop": 273,
+    "to_stop": 314,
+    "fare": 15
+  },
+  {
+    "route_id": 191,
+    "from_stop": 312,
+    "to_stop": 313,
+    "fare": 10
+  },
+  {
+    "route_id": 191,
+    "from_stop": 312,
+    "to_stop": 314,
+    "fare": 12
+  },
+  {
+    "route_id": 191,
+    "from_stop": 313,
+    "to_stop": 314,
+    "fare": 10
+  },
+  {
+    "route_id": 192,
+    "from_stop": 266,
+    "to_stop": 315,
+    "fare": 11
+  },
+  {
+    "route_id": 192,
+    "from_stop": 266,
+    "to_stop": 270,
+    "fare": 22
+  },
+  {
+    "route_id": 192,
+    "from_stop": 266,
+    "to_stop": 271,
+    "fare": 25
+  },
+  {
+    "route_id": 192,
+    "from_stop": 266,
+    "to_stop": 279,
+    "fare": 27
+  },
+  {
+    "route_id": 192,
+    "from_stop": 266,
+    "to_stop": 280,
+    "fare": 31
+  },
+  {
+    "route_id": 192,
+    "from_stop": 266,
+    "to_stop": 316,
+    "fare": 34
+  },
+  {
+    "route_id": 192,
+    "from_stop": 266,
+    "to_stop": 303,
+    "fare": 36
+  },
+  {
+    "route_id": 192,
+    "from_stop": 266,
+    "to_stop": 317,
+    "fare": 39
+  },
+  {
+    "route_id": 192,
+    "from_stop": 266,
+    "to_stop": 318,
+    "fare": 54
+  },
+  {
+    "route_id": 192,
+    "from_stop": 315,
+    "to_stop": 270,
+    "fare": 11
+  },
+  {
+    "route_id": 192,
+    "from_stop": 315,
+    "to_stop": 271,
+    "fare": 14
+  },
+  {
+    "route_id": 192,
+    "from_stop": 315,
+    "to_stop": 279,
+    "fare": 16
+  },
+  {
+    "route_id": 192,
+    "from_stop": 315,
+    "to_stop": 280,
+    "fare": 20
+  },
+  {
+    "route_id": 192,
+    "from_stop": 315,
+    "to_stop": 316,
+    "fare": 23
+  },
+  {
+    "route_id": 192,
+    "from_stop": 315,
+    "to_stop": 303,
+    "fare": 25
+  },
+  {
+    "route_id": 192,
+    "from_stop": 315,
+    "to_stop": 317,
+    "fare": 28
+  },
+  {
+    "route_id": 192,
+    "from_stop": 315,
+    "to_stop": 318,
+    "fare": 43
+  },
+  {
+    "route_id": 192,
+    "from_stop": 270,
+    "to_stop": 271,
+    "fare": 10
+  },
+  {
+    "route_id": 192,
+    "from_stop": 270,
+    "to_stop": 279,
+    "fare": 10
+  },
+  {
+    "route_id": 192,
+    "from_stop": 270,
+    "to_stop": 280,
+    "fare": 10
+  },
+  {
+    "route_id": 192,
+    "from_stop": 270,
+    "to_stop": 316,
+    "fare": 12
+  },
+  {
+    "route_id": 192,
+    "from_stop": 270,
+    "to_stop": 303,
+    "fare": 14
+  },
+  {
+    "route_id": 192,
+    "from_stop": 270,
+    "to_stop": 317,
+    "fare": 17
+  },
+  {
+    "route_id": 192,
+    "from_stop": 270,
+    "to_stop": 318,
+    "fare": 32
+  },
+  {
+    "route_id": 192,
+    "from_stop": 271,
+    "to_stop": 279,
+    "fare": 10
+  },
+  {
+    "route_id": 192,
+    "from_stop": 271,
+    "to_stop": 280,
+    "fare": 10
+  },
+  {
+    "route_id": 192,
+    "from_stop": 271,
+    "to_stop": 316,
+    "fare": 10
+  },
+  {
+    "route_id": 192,
+    "from_stop": 271,
+    "to_stop": 303,
+    "fare": 11
+  },
+  {
+    "route_id": 192,
+    "from_stop": 271,
+    "to_stop": 317,
+    "fare": 14
+  },
+  {
+    "route_id": 192,
+    "from_stop": 271,
+    "to_stop": 318,
+    "fare": 29
+  },
+  {
+    "route_id": 192,
+    "from_stop": 279,
+    "to_stop": 280,
+    "fare": 10
+  },
+  {
+    "route_id": 192,
+    "from_stop": 279,
+    "to_stop": 316,
+    "fare": 10
+  },
+  {
+    "route_id": 192,
+    "from_stop": 279,
+    "to_stop": 303,
+    "fare": 10
+  },
+  {
+    "route_id": 192,
+    "from_stop": 279,
+    "to_stop": 317,
+    "fare": 12
+  },
+  {
+    "route_id": 192,
+    "from_stop": 279,
+    "to_stop": 318,
+    "fare": 27
+  },
+  {
+    "route_id": 192,
+    "from_stop": 280,
+    "to_stop": 316,
+    "fare": 10
+  },
+  {
+    "route_id": 192,
+    "from_stop": 280,
+    "to_stop": 303,
+    "fare": 10
+  },
+  {
+    "route_id": 192,
+    "from_stop": 280,
+    "to_stop": 317,
+    "fare": 10
+  },
+  {
+    "route_id": 192,
+    "from_stop": 280,
+    "to_stop": 318,
+    "fare": 23
+  },
+  {
+    "route_id": 192,
+    "from_stop": 316,
+    "to_stop": 303,
+    "fare": 10
+  },
+  {
+    "route_id": 192,
+    "from_stop": 316,
+    "to_stop": 317,
+    "fare": 10
+  },
+  {
+    "route_id": 192,
+    "from_stop": 316,
+    "to_stop": 318,
+    "fare": 20
+  },
+  {
+    "route_id": 192,
+    "from_stop": 303,
+    "to_stop": 317,
+    "fare": 10
+  },
+  {
+    "route_id": 192,
+    "from_stop": 303,
+    "to_stop": 318,
+    "fare": 18
+  },
+  {
+    "route_id": 192,
+    "from_stop": 317,
+    "to_stop": 318,
+    "fare": 15
+  },
+  {
+    "route_id": 193,
+    "from_stop": 319,
+    "to_stop": 287,
+    "fare": 10
+  },
+  {
+    "route_id": 193,
+    "from_stop": 319,
+    "to_stop": 302,
+    "fare": 11
+  },
+  {
+    "route_id": 193,
+    "from_stop": 319,
+    "to_stop": 290,
+    "fare": 16
+  },
+  {
+    "route_id": 193,
+    "from_stop": 319,
+    "to_stop": 320,
+    "fare": 21
+  },
+  {
+    "route_id": 193,
+    "from_stop": 319,
+    "to_stop": 310,
+    "fare": 22
+  },
+  {
+    "route_id": 193,
+    "from_stop": 319,
+    "to_stop": 291,
+    "fare": 25
+  },
+  {
+    "route_id": 193,
+    "from_stop": 319,
+    "to_stop": 321,
+    "fare": 26
+  },
+  {
+    "route_id": 193,
+    "from_stop": 319,
+    "to_stop": 322,
+    "fare": 26
+  },
+  {
+    "route_id": 193,
+    "from_stop": 319,
+    "to_stop": 318,
+    "fare": 29
+  },
+  {
+    "route_id": 193,
+    "from_stop": 287,
+    "to_stop": 302,
+    "fare": 10
+  },
+  {
+    "route_id": 193,
+    "from_stop": 287,
+    "to_stop": 290,
+    "fare": 10
+  },
+  {
+    "route_id": 193,
+    "from_stop": 287,
+    "to_stop": 320,
+    "fare": 11
+  },
+  {
+    "route_id": 193,
+    "from_stop": 287,
+    "to_stop": 310,
+    "fare": 12
+  },
+  {
+    "route_id": 193,
+    "from_stop": 287,
+    "to_stop": 291,
+    "fare": 15
+  },
+  {
+    "route_id": 193,
+    "from_stop": 287,
+    "to_stop": 321,
+    "fare": 16
+  },
+  {
+    "route_id": 193,
+    "from_stop": 287,
+    "to_stop": 322,
+    "fare": 16
+  },
+  {
+    "route_id": 193,
+    "from_stop": 287,
+    "to_stop": 318,
+    "fare": 19
+  },
+  {
+    "route_id": 193,
+    "from_stop": 302,
+    "to_stop": 290,
+    "fare": 10
+  },
+  {
+    "route_id": 193,
+    "from_stop": 302,
+    "to_stop": 320,
+    "fare": 10
+  },
+  {
+    "route_id": 193,
+    "from_stop": 302,
+    "to_stop": 310,
+    "fare": 11
+  },
+  {
+    "route_id": 193,
+    "from_stop": 302,
+    "to_stop": 291,
+    "fare": 14
+  },
+  {
+    "route_id": 193,
+    "from_stop": 302,
+    "to_stop": 321,
+    "fare": 15
+  },
+  {
+    "route_id": 193,
+    "from_stop": 302,
+    "to_stop": 322,
+    "fare": 15
+  },
+  {
+    "route_id": 193,
+    "from_stop": 302,
+    "to_stop": 318,
+    "fare": 18
+  },
+  {
+    "route_id": 193,
+    "from_stop": 290,
+    "to_stop": 320,
+    "fare": 10
+  },
+  {
+    "route_id": 193,
+    "from_stop": 290,
+    "to_stop": 310,
+    "fare": 10
+  },
+  {
+    "route_id": 193,
+    "from_stop": 290,
+    "to_stop": 291,
+    "fare": 10
+  },
+  {
+    "route_id": 193,
+    "from_stop": 290,
+    "to_stop": 321,
+    "fare": 10
+  },
+  {
+    "route_id": 193,
+    "from_stop": 290,
+    "to_stop": 322,
+    "fare": 10
+  },
+  {
+    "route_id": 193,
+    "from_stop": 290,
+    "to_stop": 318,
+    "fare": 13
+  },
+  {
+    "route_id": 193,
+    "from_stop": 320,
+    "to_stop": 310,
+    "fare": 10
+  },
+  {
+    "route_id": 193,
+    "from_stop": 320,
+    "to_stop": 291,
+    "fare": 10
+  },
+  {
+    "route_id": 193,
+    "from_stop": 320,
+    "to_stop": 321,
+    "fare": 10
+  },
+  {
+    "route_id": 193,
+    "from_stop": 320,
+    "to_stop": 322,
+    "fare": 10
+  },
+  {
+    "route_id": 193,
+    "from_stop": 320,
+    "to_stop": 318,
+    "fare": 10
+  },
+  {
+    "route_id": 193,
+    "from_stop": 310,
+    "to_stop": 291,
+    "fare": 10
+  },
+  {
+    "route_id": 193,
+    "from_stop": 310,
+    "to_stop": 321,
+    "fare": 10
+  },
+  {
+    "route_id": 193,
+    "from_stop": 310,
+    "to_stop": 322,
+    "fare": 10
+  },
+  {
+    "route_id": 193,
+    "from_stop": 310,
+    "to_stop": 318,
+    "fare": 10
+  },
+  {
+    "route_id": 193,
+    "from_stop": 291,
+    "to_stop": 321,
+    "fare": 10
+  },
+  {
+    "route_id": 193,
+    "from_stop": 291,
+    "to_stop": 322,
+    "fare": 10
+  },
+  {
+    "route_id": 193,
+    "from_stop": 291,
+    "to_stop": 318,
+    "fare": 10
+  },
+  {
+    "route_id": 193,
+    "from_stop": 321,
+    "to_stop": 322,
+    "fare": 10
+  },
+  {
+    "route_id": 193,
+    "from_stop": 321,
+    "to_stop": 318,
+    "fare": 10
+  },
+  {
+    "route_id": 193,
+    "from_stop": 322,
+    "to_stop": 318,
+    "fare": 10
+  },
+  {
+    "route_id": 194,
+    "from_stop": 323,
+    "to_stop": 324,
+    "fare": 10
+  },
+  {
+    "route_id": 194,
+    "from_stop": 323,
+    "to_stop": 325,
+    "fare": 10
+  },
+  {
+    "route_id": 194,
+    "from_stop": 323,
+    "to_stop": 326,
+    "fare": 13
+  },
+  {
+    "route_id": 194,
+    "from_stop": 323,
+    "to_stop": 302,
+    "fare": 18
+  },
+  {
+    "route_id": 194,
+    "from_stop": 323,
+    "to_stop": 290,
+    "fare": 22
+  },
+  {
+    "route_id": 194,
+    "from_stop": 323,
+    "to_stop": 282,
+    "fare": 23
+  },
+  {
+    "route_id": 194,
+    "from_stop": 323,
+    "to_stop": 310,
+    "fare": 25
+  },
+  {
+    "route_id": 194,
+    "from_stop": 323,
+    "to_stop": 327,
+    "fare": 29
+  },
+  {
+    "route_id": 194,
+    "from_stop": 323,
+    "to_stop": 305,
+    "fare": 32
+  },
+  {
+    "route_id": 194,
+    "from_stop": 323,
+    "to_stop": 273,
+    "fare": 36
+  },
+  {
+    "route_id": 194,
+    "from_stop": 323,
+    "to_stop": 328,
+    "fare": 42
+  },
+  {
+    "route_id": 194,
+    "from_stop": 323,
+    "to_stop": 329,
+    "fare": 44
+  },
+  {
+    "route_id": 194,
+    "from_stop": 323,
+    "to_stop": 330,
+    "fare": 51
+  },
+  {
+    "route_id": 194,
+    "from_stop": 323,
+    "to_stop": 331,
+    "fare": 57
+  },
+  {
+    "route_id": 194,
+    "from_stop": 323,
+    "to_stop": 332,
+    "fare": 63
+  },
+  {
+    "route_id": 194,
+    "from_stop": 324,
+    "to_stop": 325,
+    "fare": 10
+  },
+  {
+    "route_id": 194,
+    "from_stop": 324,
+    "to_stop": 326,
+    "fare": 10
+  },
+  {
+    "route_id": 194,
+    "from_stop": 324,
+    "to_stop": 302,
+    "fare": 10
+  },
+  {
+    "route_id": 194,
+    "from_stop": 324,
+    "to_stop": 290,
+    "fare": 12
+  },
+  {
+    "route_id": 194,
+    "from_stop": 324,
+    "to_stop": 282,
+    "fare": 13
+  },
+  {
+    "route_id": 194,
+    "from_stop": 324,
+    "to_stop": 310,
+    "fare": 15
+  },
+  {
+    "route_id": 194,
+    "from_stop": 324,
+    "to_stop": 327,
+    "fare": 19
+  },
+  {
+    "route_id": 194,
+    "from_stop": 324,
+    "to_stop": 305,
+    "fare": 22
+  },
+  {
+    "route_id": 194,
+    "from_stop": 324,
+    "to_stop": 273,
+    "fare": 26
+  },
+  {
+    "route_id": 194,
+    "from_stop": 324,
+    "to_stop": 328,
+    "fare": 32
+  },
+  {
+    "route_id": 194,
+    "from_stop": 324,
+    "to_stop": 329,
+    "fare": 34
+  },
+  {
+    "route_id": 194,
+    "from_stop": 324,
+    "to_stop": 330,
+    "fare": 41
+  },
+  {
+    "route_id": 194,
+    "from_stop": 324,
+    "to_stop": 331,
+    "fare": 47
+  },
+  {
+    "route_id": 194,
+    "from_stop": 324,
+    "to_stop": 332,
+    "fare": 53
+  },
+  {
+    "route_id": 194,
+    "from_stop": 325,
+    "to_stop": 326,
+    "fare": 10
+  },
+  {
+    "route_id": 194,
+    "from_stop": 325,
+    "to_stop": 302,
+    "fare": 10
+  },
+  {
+    "route_id": 194,
+    "from_stop": 325,
+    "to_stop": 290,
+    "fare": 12
+  },
+  {
+    "route_id": 194,
+    "from_stop": 325,
+    "to_stop": 282,
+    "fare": 13
+  },
+  {
+    "route_id": 194,
+    "from_stop": 325,
+    "to_stop": 310,
+    "fare": 15
+  },
+  {
+    "route_id": 194,
+    "from_stop": 325,
+    "to_stop": 327,
+    "fare": 19
+  },
+  {
+    "route_id": 194,
+    "from_stop": 325,
+    "to_stop": 305,
+    "fare": 22
+  },
+  {
+    "route_id": 194,
+    "from_stop": 325,
+    "to_stop": 273,
+    "fare": 26
+  },
+  {
+    "route_id": 194,
+    "from_stop": 325,
+    "to_stop": 328,
+    "fare": 32
+  },
+  {
+    "route_id": 194,
+    "from_stop": 325,
+    "to_stop": 329,
+    "fare": 34
+  },
+  {
+    "route_id": 194,
+    "from_stop": 325,
+    "to_stop": 330,
+    "fare": 41
+  },
+  {
+    "route_id": 194,
+    "from_stop": 325,
+    "to_stop": 331,
+    "fare": 47
+  },
+  {
+    "route_id": 194,
+    "from_stop": 325,
+    "to_stop": 332,
+    "fare": 53
+  },
+  {
+    "route_id": 194,
+    "from_stop": 326,
+    "to_stop": 302,
+    "fare": 10
+  },
+  {
+    "route_id": 194,
+    "from_stop": 326,
+    "to_stop": 290,
+    "fare": 10
+  },
+  {
+    "route_id": 194,
+    "from_stop": 326,
+    "to_stop": 282,
+    "fare": 10
+  },
+  {
+    "route_id": 194,
+    "from_stop": 326,
+    "to_stop": 310,
+    "fare": 12
+  },
+  {
+    "route_id": 194,
+    "from_stop": 326,
+    "to_stop": 327,
+    "fare": 16
+  },
+  {
+    "route_id": 194,
+    "from_stop": 326,
+    "to_stop": 305,
+    "fare": 19
+  },
+  {
+    "route_id": 194,
+    "from_stop": 326,
+    "to_stop": 273,
+    "fare": 23
+  },
+  {
+    "route_id": 194,
+    "from_stop": 326,
+    "to_stop": 328,
+    "fare": 29
+  },
+  {
+    "route_id": 194,
+    "from_stop": 326,
+    "to_stop": 329,
+    "fare": 31
+  },
+  {
+    "route_id": 194,
+    "from_stop": 326,
+    "to_stop": 330,
+    "fare": 38
+  },
+  {
+    "route_id": 194,
+    "from_stop": 326,
+    "to_stop": 331,
+    "fare": 44
+  },
+  {
+    "route_id": 194,
+    "from_stop": 326,
+    "to_stop": 332,
+    "fare": 50
+  },
+  {
+    "route_id": 194,
+    "from_stop": 302,
+    "to_stop": 290,
+    "fare": 10
+  },
+  {
+    "route_id": 194,
+    "from_stop": 302,
+    "to_stop": 282,
+    "fare": 10
+  },
+  {
+    "route_id": 194,
+    "from_stop": 302,
+    "to_stop": 310,
+    "fare": 10
+  },
+  {
+    "route_id": 194,
+    "from_stop": 302,
+    "to_stop": 327,
+    "fare": 11
+  },
+  {
+    "route_id": 194,
+    "from_stop": 302,
+    "to_stop": 305,
+    "fare": 14
+  },
+  {
+    "route_id": 194,
+    "from_stop": 302,
+    "to_stop": 273,
+    "fare": 18
+  },
+  {
+    "route_id": 194,
+    "from_stop": 302,
+    "to_stop": 328,
+    "fare": 24
+  },
+  {
+    "route_id": 194,
+    "from_stop": 302,
+    "to_stop": 329,
+    "fare": 26
+  },
+  {
+    "route_id": 194,
+    "from_stop": 302,
+    "to_stop": 330,
+    "fare": 33
+  },
+  {
+    "route_id": 194,
+    "from_stop": 302,
+    "to_stop": 331,
+    "fare": 39
+  },
+  {
+    "route_id": 194,
+    "from_stop": 302,
+    "to_stop": 332,
+    "fare": 45
+  },
+  {
+    "route_id": 194,
+    "from_stop": 290,
+    "to_stop": 282,
+    "fare": 10
+  },
+  {
+    "route_id": 194,
+    "from_stop": 290,
+    "to_stop": 310,
+    "fare": 10
+  },
+  {
+    "route_id": 194,
+    "from_stop": 290,
+    "to_stop": 327,
+    "fare": 10
+  },
+  {
+    "route_id": 194,
+    "from_stop": 290,
+    "to_stop": 305,
+    "fare": 10
+  },
+  {
+    "route_id": 194,
+    "from_stop": 290,
+    "to_stop": 273,
+    "fare": 14
+  },
+  {
+    "route_id": 194,
+    "from_stop": 290,
+    "to_stop": 328,
+    "fare": 20
+  },
+  {
+    "route_id": 194,
+    "from_stop": 290,
+    "to_stop": 329,
+    "fare": 22
+  },
+  {
+    "route_id": 194,
+    "from_stop": 290,
+    "to_stop": 330,
+    "fare": 29
+  },
+  {
+    "route_id": 194,
+    "from_stop": 290,
+    "to_stop": 331,
+    "fare": 35
+  },
+  {
+    "route_id": 194,
+    "from_stop": 290,
+    "to_stop": 332,
+    "fare": 41
+  },
+  {
+    "route_id": 194,
+    "from_stop": 282,
+    "to_stop": 310,
+    "fare": 10
+  },
+  {
+    "route_id": 194,
+    "from_stop": 282,
+    "to_stop": 327,
+    "fare": 10
+  },
+  {
+    "route_id": 194,
+    "from_stop": 282,
+    "to_stop": 305,
+    "fare": 10
+  },
+  {
+    "route_id": 194,
+    "from_stop": 282,
+    "to_stop": 273,
+    "fare": 13
+  },
+  {
+    "route_id": 194,
+    "from_stop": 282,
+    "to_stop": 328,
+    "fare": 19
+  },
+  {
+    "route_id": 194,
+    "from_stop": 282,
+    "to_stop": 329,
+    "fare": 21
+  },
+  {
+    "route_id": 194,
+    "from_stop": 282,
+    "to_stop": 330,
+    "fare": 28
+  },
+  {
+    "route_id": 194,
+    "from_stop": 282,
+    "to_stop": 331,
+    "fare": 34
+  },
+  {
+    "route_id": 194,
+    "from_stop": 282,
+    "to_stop": 332,
+    "fare": 40
+  },
+  {
+    "route_id": 194,
+    "from_stop": 310,
+    "to_stop": 327,
+    "fare": 10
+  },
+  {
+    "route_id": 194,
+    "from_stop": 310,
+    "to_stop": 305,
+    "fare": 10
+  },
+  {
+    "route_id": 194,
+    "from_stop": 310,
+    "to_stop": 273,
+    "fare": 11
+  },
+  {
+    "route_id": 194,
+    "from_stop": 310,
+    "to_stop": 328,
+    "fare": 17
+  },
+  {
+    "route_id": 194,
+    "from_stop": 310,
+    "to_stop": 329,
+    "fare": 19
+  },
+  {
+    "route_id": 194,
+    "from_stop": 310,
+    "to_stop": 330,
+    "fare": 26
+  },
+  {
+    "route_id": 194,
+    "from_stop": 310,
+    "to_stop": 331,
+    "fare": 32
+  },
+  {
+    "route_id": 194,
+    "from_stop": 310,
+    "to_stop": 332,
+    "fare": 38
+  },
+  {
+    "route_id": 194,
+    "from_stop": 327,
+    "to_stop": 305,
+    "fare": 10
+  },
+  {
+    "route_id": 194,
+    "from_stop": 327,
+    "to_stop": 273,
+    "fare": 10
+  },
+  {
+    "route_id": 194,
+    "from_stop": 327,
+    "to_stop": 328,
+    "fare": 13
+  },
+  {
+    "route_id": 194,
+    "from_stop": 327,
+    "to_stop": 329,
+    "fare": 15
+  },
+  {
+    "route_id": 194,
+    "from_stop": 327,
+    "to_stop": 330,
+    "fare": 22
+  },
+  {
+    "route_id": 194,
+    "from_stop": 327,
+    "to_stop": 331,
+    "fare": 28
+  },
+  {
+    "route_id": 194,
+    "from_stop": 327,
+    "to_stop": 332,
+    "fare": 34
+  },
+  {
+    "route_id": 194,
+    "from_stop": 305,
+    "to_stop": 273,
+    "fare": 10
+  },
+  {
+    "route_id": 194,
+    "from_stop": 305,
+    "to_stop": 328,
+    "fare": 10
+  },
+  {
+    "route_id": 194,
+    "from_stop": 305,
+    "to_stop": 329,
+    "fare": 12
+  },
+  {
+    "route_id": 194,
+    "from_stop": 305,
+    "to_stop": 330,
+    "fare": 19
+  },
+  {
+    "route_id": 194,
+    "from_stop": 305,
+    "to_stop": 331,
+    "fare": 25
+  },
+  {
+    "route_id": 194,
+    "from_stop": 305,
+    "to_stop": 332,
+    "fare": 31
+  },
+  {
+    "route_id": 194,
+    "from_stop": 273,
+    "to_stop": 328,
+    "fare": 10
+  },
+  {
+    "route_id": 194,
+    "from_stop": 273,
+    "to_stop": 329,
+    "fare": 10
+  },
+  {
+    "route_id": 194,
+    "from_stop": 273,
+    "to_stop": 330,
+    "fare": 15
+  },
+  {
+    "route_id": 194,
+    "from_stop": 273,
+    "to_stop": 331,
+    "fare": 21
+  },
+  {
+    "route_id": 194,
+    "from_stop": 273,
+    "to_stop": 332,
+    "fare": 27
+  },
+  {
+    "route_id": 194,
+    "from_stop": 328,
+    "to_stop": 329,
+    "fare": 10
+  },
+  {
+    "route_id": 194,
+    "from_stop": 328,
+    "to_stop": 330,
+    "fare": 10
+  },
+  {
+    "route_id": 194,
+    "from_stop": 328,
+    "to_stop": 331,
+    "fare": 15
+  },
+  {
+    "route_id": 194,
+    "from_stop": 328,
+    "to_stop": 332,
+    "fare": 21
+  },
+  {
+    "route_id": 194,
+    "from_stop": 329,
+    "to_stop": 330,
+    "fare": 10
+  },
+  {
+    "route_id": 194,
+    "from_stop": 329,
+    "to_stop": 331,
+    "fare": 13
+  },
+  {
+    "route_id": 194,
+    "from_stop": 329,
+    "to_stop": 332,
+    "fare": 19
+  },
+  {
+    "route_id": 194,
+    "from_stop": 330,
+    "to_stop": 331,
+    "fare": 10
+  },
+  {
+    "route_id": 194,
+    "from_stop": 330,
+    "to_stop": 332,
+    "fare": 12
+  },
+  {
+    "route_id": 194,
+    "from_stop": 331,
+    "to_stop": 332,
+    "fare": 10
+  },
+  {
+    "route_id": 195,
+    "from_stop": 191,
+    "to_stop": 190,
+    "fare": 10
+  },
+  {
+    "route_id": 195,
+    "from_stop": 191,
+    "to_stop": 141,
+    "fare": 11
+  },
+  {
+    "route_id": 195,
+    "from_stop": 191,
+    "to_stop": 59,
+    "fare": 28
+  },
+  {
+    "route_id": 195,
+    "from_stop": 191,
+    "to_stop": 95,
+    "fare": 35
+  },
+  {
+    "route_id": 195,
+    "from_stop": 191,
+    "to_stop": 173,
+    "fare": 67
+  },
+  {
+    "route_id": 195,
+    "from_stop": 191,
+    "to_stop": 333,
+    "fare": 97
+  },
+  {
+    "route_id": 195,
+    "from_stop": 190,
+    "to_stop": 141,
+    "fare": 10
+  },
+  {
+    "route_id": 195,
+    "from_stop": 190,
+    "to_stop": 59,
+    "fare": 18
+  },
+  {
+    "route_id": 195,
+    "from_stop": 190,
+    "to_stop": 95,
+    "fare": 25
+  },
+  {
+    "route_id": 195,
+    "from_stop": 190,
+    "to_stop": 173,
+    "fare": 57
+  },
+  {
+    "route_id": 195,
+    "from_stop": 190,
+    "to_stop": 333,
+    "fare": 87
+  },
+  {
+    "route_id": 195,
+    "from_stop": 141,
+    "to_stop": 59,
+    "fare": 17
+  },
+  {
+    "route_id": 195,
+    "from_stop": 141,
+    "to_stop": 95,
+    "fare": 24
+  },
+  {
+    "route_id": 195,
+    "from_stop": 141,
+    "to_stop": 173,
+    "fare": 56
+  },
+  {
+    "route_id": 195,
+    "from_stop": 141,
+    "to_stop": 333,
+    "fare": 86
+  },
+  {
+    "route_id": 195,
+    "from_stop": 59,
+    "to_stop": 95,
+    "fare": 10
+  },
+  {
+    "route_id": 195,
+    "from_stop": 59,
+    "to_stop": 173,
+    "fare": 39
+  },
+  {
+    "route_id": 195,
+    "from_stop": 59,
+    "to_stop": 333,
+    "fare": 69
+  },
+  {
+    "route_id": 195,
+    "from_stop": 95,
+    "to_stop": 173,
+    "fare": 32
+  },
+  {
+    "route_id": 195,
+    "from_stop": 95,
+    "to_stop": 333,
+    "fare": 62
+  },
+  {
+    "route_id": 195,
+    "from_stop": 173,
+    "to_stop": 333,
+    "fare": 30
+  },
+  {
+    "route_id": 196,
+    "from_stop": 334,
+    "to_stop": 37,
+    "fare": 10
+  },
+  {
+    "route_id": 196,
+    "from_stop": 334,
+    "to_stop": 136,
+    "fare": 15
+  },
+  {
+    "route_id": 196,
+    "from_stop": 334,
+    "to_stop": 4,
+    "fare": 55
+  },
+  {
+    "route_id": 196,
+    "from_stop": 334,
+    "to_stop": 335,
+    "fare": 72
+  },
+  {
+    "route_id": 196,
+    "from_stop": 334,
+    "to_stop": 191,
+    "fare": 79
+  },
+  {
+    "route_id": 196,
+    "from_stop": 37,
+    "to_stop": 136,
+    "fare": 10
+  },
+  {
+    "route_id": 196,
+    "from_stop": 37,
+    "to_stop": 4,
+    "fare": 45
+  },
+  {
+    "route_id": 196,
+    "from_stop": 37,
+    "to_stop": 335,
+    "fare": 62
+  },
+  {
+    "route_id": 196,
+    "from_stop": 37,
+    "to_stop": 191,
+    "fare": 69
+  },
+  {
+    "route_id": 196,
+    "from_stop": 136,
+    "to_stop": 4,
+    "fare": 40
+  },
+  {
+    "route_id": 196,
+    "from_stop": 136,
+    "to_stop": 335,
+    "fare": 57
+  },
+  {
+    "route_id": 196,
+    "from_stop": 136,
+    "to_stop": 191,
+    "fare": 64
+  },
+  {
+    "route_id": 196,
+    "from_stop": 4,
+    "to_stop": 335,
+    "fare": 17
+  },
+  {
+    "route_id": 196,
+    "from_stop": 4,
+    "to_stop": 191,
+    "fare": 24
+  },
+  {
+    "route_id": 196,
+    "from_stop": 335,
+    "to_stop": 191,
+    "fare": 10
+  },
+  {
+    "route_id": 197,
+    "from_stop": 264,
+    "to_stop": 263,
+    "fare": 16
+  },
+  {
+    "route_id": 197,
+    "from_stop": 264,
+    "to_stop": 62,
+    "fare": 39
+  },
+  {
+    "route_id": 197,
+    "from_stop": 264,
+    "to_stop": 1,
+    "fare": 54
+  },
+  {
+    "route_id": 197,
+    "from_stop": 264,
+    "to_stop": 39,
+    "fare": 90
+  },
+  {
+    "route_id": 197,
+    "from_stop": 264,
+    "to_stop": 336,
+    "fare": 111
+  },
+  {
+    "route_id": 197,
+    "from_stop": 263,
+    "to_stop": 62,
+    "fare": 23
+  },
+  {
+    "route_id": 197,
+    "from_stop": 263,
+    "to_stop": 1,
+    "fare": 38
+  },
+  {
+    "route_id": 197,
+    "from_stop": 263,
+    "to_stop": 39,
+    "fare": 74
+  },
+  {
+    "route_id": 197,
+    "from_stop": 263,
+    "to_stop": 336,
+    "fare": 95
+  },
+  {
+    "route_id": 197,
+    "from_stop": 62,
+    "to_stop": 1,
+    "fare": 15
+  },
+  {
+    "route_id": 197,
+    "from_stop": 62,
+    "to_stop": 39,
+    "fare": 51
+  },
+  {
+    "route_id": 197,
+    "from_stop": 62,
+    "to_stop": 336,
+    "fare": 72
+  },
+  {
+    "route_id": 197,
+    "from_stop": 1,
+    "to_stop": 39,
+    "fare": 36
+  },
+  {
+    "route_id": 197,
+    "from_stop": 1,
+    "to_stop": 336,
+    "fare": 57
+  },
+  {
+    "route_id": 197,
+    "from_stop": 39,
+    "to_stop": 336,
+    "fare": 21
+  },
+  {
+    "route_id": 198,
+    "from_stop": 217,
+    "to_stop": 141,
+    "fare": 23
+  },
+  {
+    "route_id": 198,
+    "from_stop": 217,
+    "to_stop": 4,
+    "fare": 39
+  },
+  {
+    "route_id": 198,
+    "from_stop": 217,
+    "to_stop": 117,
+    "fare": 92
+  },
+  {
+    "route_id": 198,
+    "from_stop": 217,
+    "to_stop": 82,
+    "fare": 127
+  },
+  {
+    "route_id": 198,
+    "from_stop": 141,
+    "to_stop": 4,
+    "fare": 16
+  },
+  {
+    "route_id": 198,
+    "from_stop": 141,
+    "to_stop": 117,
+    "fare": 69
+  },
+  {
+    "route_id": 198,
+    "from_stop": 141,
+    "to_stop": 82,
+    "fare": 104
+  },
+  {
+    "route_id": 198,
+    "from_stop": 4,
+    "to_stop": 117,
+    "fare": 53
+  },
+  {
+    "route_id": 198,
+    "from_stop": 4,
+    "to_stop": 82,
+    "fare": 88
+  },
+  {
+    "route_id": 198,
+    "from_stop": 117,
+    "to_stop": 82,
+    "fare": 35
+  },
+  {
+    "route_id": 199,
+    "from_stop": 119,
+    "to_stop": 337,
+    "fare": 10
+  },
+  {
+    "route_id": 199,
+    "from_stop": 119,
+    "to_stop": 44,
+    "fare": 10
+  },
+  {
+    "route_id": 199,
+    "from_stop": 119,
+    "to_stop": 31,
+    "fare": 13
+  },
+  {
+    "route_id": 199,
+    "from_stop": 119,
+    "to_stop": 7,
+    "fare": 17
+  },
+  {
+    "route_id": 199,
+    "from_stop": 119,
+    "to_stop": 10,
+    "fare": 29
+  },
+  {
+    "route_id": 199,
+    "from_stop": 119,
+    "to_stop": 338,
+    "fare": 33
+  },
+  {
+    "route_id": 199,
+    "from_stop": 119,
+    "to_stop": 33,
+    "fare": 50
+  },
+  {
+    "route_id": 199,
+    "from_stop": 119,
+    "to_stop": 38,
+    "fare": 59
+  },
+  {
+    "route_id": 199,
+    "from_stop": 119,
+    "to_stop": 339,
+    "fare": 72
+  },
+  {
+    "route_id": 199,
+    "from_stop": 337,
+    "to_stop": 44,
+    "fare": 10
+  },
+  {
+    "route_id": 199,
+    "from_stop": 337,
+    "to_stop": 31,
+    "fare": 10
+  },
+  {
+    "route_id": 199,
+    "from_stop": 337,
+    "to_stop": 7,
+    "fare": 10
+  },
+  {
+    "route_id": 199,
+    "from_stop": 337,
+    "to_stop": 10,
+    "fare": 19
+  },
+  {
+    "route_id": 199,
+    "from_stop": 337,
+    "to_stop": 338,
+    "fare": 23
+  },
+  {
+    "route_id": 199,
+    "from_stop": 337,
+    "to_stop": 33,
+    "fare": 40
+  },
+  {
+    "route_id": 199,
+    "from_stop": 337,
+    "to_stop": 38,
+    "fare": 49
+  },
+  {
+    "route_id": 199,
+    "from_stop": 337,
+    "to_stop": 339,
+    "fare": 62
+  },
+  {
+    "route_id": 199,
+    "from_stop": 44,
+    "to_stop": 31,
+    "fare": 10
+  },
+  {
+    "route_id": 199,
+    "from_stop": 44,
+    "to_stop": 7,
+    "fare": 10
+  },
+  {
+    "route_id": 199,
+    "from_stop": 44,
+    "to_stop": 10,
+    "fare": 19
+  },
+  {
+    "route_id": 199,
+    "from_stop": 44,
+    "to_stop": 338,
+    "fare": 23
+  },
+  {
+    "route_id": 199,
+    "from_stop": 44,
+    "to_stop": 33,
+    "fare": 40
+  },
+  {
+    "route_id": 199,
+    "from_stop": 44,
+    "to_stop": 38,
+    "fare": 49
+  },
+  {
+    "route_id": 199,
+    "from_stop": 44,
+    "to_stop": 339,
+    "fare": 62
+  },
+  {
+    "route_id": 199,
+    "from_stop": 31,
+    "to_stop": 7,
+    "fare": 10
+  },
+  {
+    "route_id": 199,
+    "from_stop": 31,
+    "to_stop": 10,
+    "fare": 16
+  },
+  {
+    "route_id": 199,
+    "from_stop": 31,
+    "to_stop": 338,
+    "fare": 20
+  },
+  {
+    "route_id": 199,
+    "from_stop": 31,
+    "to_stop": 33,
+    "fare": 37
+  },
+  {
+    "route_id": 199,
+    "from_stop": 31,
+    "to_stop": 38,
+    "fare": 46
+  },
+  {
+    "route_id": 199,
+    "from_stop": 31,
+    "to_stop": 339,
+    "fare": 59
+  },
+  {
+    "route_id": 199,
+    "from_stop": 7,
+    "to_stop": 10,
+    "fare": 12
+  },
+  {
+    "route_id": 199,
+    "from_stop": 7,
+    "to_stop": 338,
+    "fare": 16
+  },
+  {
+    "route_id": 199,
+    "from_stop": 7,
+    "to_stop": 33,
+    "fare": 33
+  },
+  {
+    "route_id": 199,
+    "from_stop": 7,
+    "to_stop": 38,
+    "fare": 42
+  },
+  {
+    "route_id": 199,
+    "from_stop": 7,
+    "to_stop": 339,
+    "fare": 55
+  },
+  {
+    "route_id": 199,
+    "from_stop": 10,
+    "to_stop": 338,
+    "fare": 10
+  },
+  {
+    "route_id": 199,
+    "from_stop": 10,
+    "to_stop": 33,
+    "fare": 21
+  },
+  {
+    "route_id": 199,
+    "from_stop": 10,
+    "to_stop": 38,
+    "fare": 30
+  },
+  {
+    "route_id": 199,
+    "from_stop": 10,
+    "to_stop": 339,
+    "fare": 43
+  },
+  {
+    "route_id": 199,
+    "from_stop": 338,
+    "to_stop": 33,
+    "fare": 17
+  },
+  {
+    "route_id": 199,
+    "from_stop": 338,
+    "to_stop": 38,
+    "fare": 26
+  },
+  {
+    "route_id": 199,
+    "from_stop": 338,
+    "to_stop": 339,
+    "fare": 39
+  },
+  {
+    "route_id": 199,
+    "from_stop": 33,
+    "to_stop": 38,
+    "fare": 10
+  },
+  {
+    "route_id": 199,
+    "from_stop": 33,
+    "to_stop": 339,
+    "fare": 22
+  },
+  {
+    "route_id": 199,
+    "from_stop": 38,
+    "to_stop": 339,
+    "fare": 13
+  },
+  {
+    "route_id": 200,
+    "from_stop": 340,
+    "to_stop": 25,
+    "fare": 10
+  },
+  {
+    "route_id": 200,
+    "from_stop": 340,
+    "to_stop": 154,
+    "fare": 10
+  },
+  {
+    "route_id": 200,
+    "from_stop": 340,
+    "to_stop": 48,
+    "fare": 13
+  },
+  {
+    "route_id": 200,
+    "from_stop": 340,
+    "to_stop": 44,
+    "fare": 23
+  },
+  {
+    "route_id": 200,
+    "from_stop": 340,
+    "to_stop": 30,
+    "fare": 27
+  },
+  {
+    "route_id": 200,
+    "from_stop": 340,
+    "to_stop": 341,
+    "fare": 29
+  },
+  {
+    "route_id": 200,
+    "from_stop": 340,
+    "to_stop": 1,
+    "fare": 32
+  },
+  {
+    "route_id": 200,
+    "from_stop": 340,
+    "to_stop": 41,
+    "fare": 36
+  },
+  {
+    "route_id": 200,
+    "from_stop": 340,
+    "to_stop": 39,
+    "fare": 65
+  },
+  {
+    "route_id": 200,
+    "from_stop": 25,
+    "to_stop": 154,
+    "fare": 10
+  },
+  {
+    "route_id": 200,
+    "from_stop": 25,
+    "to_stop": 48,
+    "fare": 10
+  },
+  {
+    "route_id": 200,
+    "from_stop": 25,
+    "to_stop": 44,
+    "fare": 13
+  },
+  {
+    "route_id": 200,
+    "from_stop": 25,
+    "to_stop": 30,
+    "fare": 17
+  },
+  {
+    "route_id": 200,
+    "from_stop": 25,
+    "to_stop": 341,
+    "fare": 19
+  },
+  {
+    "route_id": 200,
+    "from_stop": 25,
+    "to_stop": 1,
+    "fare": 22
+  },
+  {
+    "route_id": 200,
+    "from_stop": 25,
+    "to_stop": 41,
+    "fare": 26
+  },
+  {
+    "route_id": 200,
+    "from_stop": 25,
+    "to_stop": 39,
+    "fare": 55
+  },
+  {
+    "route_id": 200,
+    "from_stop": 154,
+    "to_stop": 48,
+    "fare": 10
+  },
+  {
+    "route_id": 200,
+    "from_stop": 154,
+    "to_stop": 44,
+    "fare": 13
+  },
+  {
+    "route_id": 200,
+    "from_stop": 154,
+    "to_stop": 30,
+    "fare": 17
+  },
+  {
+    "route_id": 200,
+    "from_stop": 154,
+    "to_stop": 341,
+    "fare": 19
+  },
+  {
+    "route_id": 200,
+    "from_stop": 154,
+    "to_stop": 1,
+    "fare": 22
+  },
+  {
+    "route_id": 200,
+    "from_stop": 154,
+    "to_stop": 41,
+    "fare": 26
+  },
+  {
+    "route_id": 200,
+    "from_stop": 154,
+    "to_stop": 39,
+    "fare": 55
+  },
+  {
+    "route_id": 200,
+    "from_stop": 48,
+    "to_stop": 44,
+    "fare": 10
+  },
+  {
+    "route_id": 200,
+    "from_stop": 48,
+    "to_stop": 30,
+    "fare": 14
+  },
+  {
+    "route_id": 200,
+    "from_stop": 48,
+    "to_stop": 341,
+    "fare": 16
+  },
+  {
+    "route_id": 200,
+    "from_stop": 48,
+    "to_stop": 1,
+    "fare": 19
+  },
+  {
+    "route_id": 200,
+    "from_stop": 48,
+    "to_stop": 41,
+    "fare": 23
+  },
+  {
+    "route_id": 200,
+    "from_stop": 48,
+    "to_stop": 39,
+    "fare": 52
+  },
+  {
+    "route_id": 200,
+    "from_stop": 44,
+    "to_stop": 30,
+    "fare": 10
+  },
+  {
+    "route_id": 200,
+    "from_stop": 44,
+    "to_stop": 341,
+    "fare": 10
+  },
+  {
+    "route_id": 200,
+    "from_stop": 44,
+    "to_stop": 1,
+    "fare": 10
+  },
+  {
+    "route_id": 200,
+    "from_stop": 44,
+    "to_stop": 41,
+    "fare": 13
+  },
+  {
+    "route_id": 200,
+    "from_stop": 44,
+    "to_stop": 39,
+    "fare": 42
+  },
+  {
+    "route_id": 200,
+    "from_stop": 30,
+    "to_stop": 341,
+    "fare": 10
+  },
+  {
+    "route_id": 200,
+    "from_stop": 30,
+    "to_stop": 1,
+    "fare": 10
+  },
+  {
+    "route_id": 200,
+    "from_stop": 30,
+    "to_stop": 41,
+    "fare": 10
+  },
+  {
+    "route_id": 200,
+    "from_stop": 30,
+    "to_stop": 39,
+    "fare": 38
+  },
+  {
+    "route_id": 200,
+    "from_stop": 341,
+    "to_stop": 1,
+    "fare": 10
+  },
+  {
+    "route_id": 200,
+    "from_stop": 341,
+    "to_stop": 41,
+    "fare": 10
+  },
+  {
+    "route_id": 200,
+    "from_stop": 341,
+    "to_stop": 39,
+    "fare": 36
+  },
+  {
+    "route_id": 200,
+    "from_stop": 1,
+    "to_stop": 41,
+    "fare": 10
+  },
+  {
+    "route_id": 200,
+    "from_stop": 1,
+    "to_stop": 39,
+    "fare": 33
+  },
+  {
+    "route_id": 200,
+    "from_stop": 41,
+    "to_stop": 39,
+    "fare": 29
+  },
+  {
+    "route_id": 201,
+    "from_stop": 342,
+    "to_stop": 343,
+    "fare": 10
+  },
+  {
+    "route_id": 201,
+    "from_stop": 342,
+    "to_stop": 30,
+    "fare": 12
+  },
+  {
+    "route_id": 201,
+    "from_stop": 342,
+    "to_stop": 341,
+    "fare": 13
+  },
+  {
+    "route_id": 201,
+    "from_stop": 342,
+    "to_stop": 2,
+    "fare": 15
+  },
+  {
+    "route_id": 201,
+    "from_stop": 342,
+    "to_stop": 4,
+    "fare": 21
+  },
+  {
+    "route_id": 201,
+    "from_stop": 342,
+    "to_stop": 6,
+    "fare": 24
+  },
+  {
+    "route_id": 201,
+    "from_stop": 342,
+    "to_stop": 7,
+    "fare": 25
+  },
+  {
+    "route_id": 201,
+    "from_stop": 342,
+    "to_stop": 8,
+    "fare": 28
+  },
+  {
+    "route_id": 201,
+    "from_stop": 342,
+    "to_stop": 344,
+    "fare": 29
+  },
+  {
+    "route_id": 201,
+    "from_stop": 342,
+    "to_stop": 10,
+    "fare": 37
+  },
+  {
+    "route_id": 201,
+    "from_stop": 342,
+    "to_stop": 345,
+    "fare": 48
+  },
+  {
+    "route_id": 201,
+    "from_stop": 342,
+    "to_stop": 33,
+    "fare": 57
+  },
+  {
+    "route_id": 201,
+    "from_stop": 342,
+    "to_stop": 346,
+    "fare": 60
+  },
+  {
+    "route_id": 201,
+    "from_stop": 342,
+    "to_stop": 38,
+    "fare": 66
+  },
+  {
+    "route_id": 201,
+    "from_stop": 342,
+    "to_stop": 136,
+    "fare": 72
+  },
+  {
+    "route_id": 201,
+    "from_stop": 342,
+    "to_stop": 339,
+    "fare": 79
+  },
+  {
+    "route_id": 201,
+    "from_stop": 343,
+    "to_stop": 30,
+    "fare": 10
+  },
+  {
+    "route_id": 201,
+    "from_stop": 343,
+    "to_stop": 341,
+    "fare": 10
+  },
+  {
+    "route_id": 201,
+    "from_stop": 343,
+    "to_stop": 2,
+    "fare": 10
+  },
+  {
+    "route_id": 201,
+    "from_stop": 343,
+    "to_stop": 4,
+    "fare": 11
+  },
+  {
+    "route_id": 201,
+    "from_stop": 343,
+    "to_stop": 6,
+    "fare": 14
+  },
+  {
+    "route_id": 201,
+    "from_stop": 343,
+    "to_stop": 7,
+    "fare": 15
+  },
+  {
+    "route_id": 201,
+    "from_stop": 343,
+    "to_stop": 8,
+    "fare": 18
+  },
+  {
+    "route_id": 201,
+    "from_stop": 343,
+    "to_stop": 344,
+    "fare": 19
+  },
+  {
+    "route_id": 201,
+    "from_stop": 343,
+    "to_stop": 10,
+    "fare": 27
+  },
+  {
+    "route_id": 201,
+    "from_stop": 343,
+    "to_stop": 345,
+    "fare": 38
+  },
+  {
+    "route_id": 201,
+    "from_stop": 343,
+    "to_stop": 33,
+    "fare": 47
+  },
+  {
+    "route_id": 201,
+    "from_stop": 343,
+    "to_stop": 346,
+    "fare": 50
+  },
+  {
+    "route_id": 201,
+    "from_stop": 343,
+    "to_stop": 38,
+    "fare": 56
+  },
+  {
+    "route_id": 201,
+    "from_stop": 343,
+    "to_stop": 136,
+    "fare": 62
+  },
+  {
+    "route_id": 201,
+    "from_stop": 343,
+    "to_stop": 339,
+    "fare": 69
+  },
+  {
+    "route_id": 201,
+    "from_stop": 30,
+    "to_stop": 341,
+    "fare": 10
+  },
+  {
+    "route_id": 201,
+    "from_stop": 30,
+    "to_stop": 2,
+    "fare": 10
+  },
+  {
+    "route_id": 201,
+    "from_stop": 30,
+    "to_stop": 4,
+    "fare": 10
+  },
+  {
+    "route_id": 201,
+    "from_stop": 30,
+    "to_stop": 6,
+    "fare": 12
+  },
+  {
+    "route_id": 201,
+    "from_stop": 30,
+    "to_stop": 7,
+    "fare": 13
+  },
+  {
+    "route_id": 201,
+    "from_stop": 30,
+    "to_stop": 8,
+    "fare": 16
+  },
+  {
+    "route_id": 201,
+    "from_stop": 30,
+    "to_stop": 344,
+    "fare": 17
+  },
+  {
+    "route_id": 201,
+    "from_stop": 30,
+    "to_stop": 10,
+    "fare": 25
+  },
+  {
+    "route_id": 201,
+    "from_stop": 30,
+    "to_stop": 345,
+    "fare": 36
+  },
+  {
+    "route_id": 201,
+    "from_stop": 30,
+    "to_stop": 33,
+    "fare": 45
+  },
+  {
+    "route_id": 201,
+    "from_stop": 30,
+    "to_stop": 346,
+    "fare": 48
+  },
+  {
+    "route_id": 201,
+    "from_stop": 30,
+    "to_stop": 38,
+    "fare": 54
+  },
+  {
+    "route_id": 201,
+    "from_stop": 30,
+    "to_stop": 136,
+    "fare": 60
+  },
+  {
+    "route_id": 201,
+    "from_stop": 30,
+    "to_stop": 339,
+    "fare": 67
+  },
+  {
+    "route_id": 201,
+    "from_stop": 341,
+    "to_stop": 2,
+    "fare": 10
+  },
+  {
+    "route_id": 201,
+    "from_stop": 341,
+    "to_stop": 4,
+    "fare": 10
+  },
+  {
+    "route_id": 201,
+    "from_stop": 341,
+    "to_stop": 6,
+    "fare": 11
+  },
+  {
+    "route_id": 201,
+    "from_stop": 341,
+    "to_stop": 7,
+    "fare": 12
+  },
+  {
+    "route_id": 201,
+    "from_stop": 341,
+    "to_stop": 8,
+    "fare": 15
+  },
+  {
+    "route_id": 201,
+    "from_stop": 341,
+    "to_stop": 344,
+    "fare": 16
+  },
+  {
+    "route_id": 201,
+    "from_stop": 341,
+    "to_stop": 10,
+    "fare": 24
+  },
+  {
+    "route_id": 201,
+    "from_stop": 341,
+    "to_stop": 345,
+    "fare": 35
+  },
+  {
+    "route_id": 201,
+    "from_stop": 341,
+    "to_stop": 33,
+    "fare": 44
+  },
+  {
+    "route_id": 201,
+    "from_stop": 341,
+    "to_stop": 346,
+    "fare": 47
+  },
+  {
+    "route_id": 201,
+    "from_stop": 341,
+    "to_stop": 38,
+    "fare": 53
+  },
+  {
+    "route_id": 201,
+    "from_stop": 341,
+    "to_stop": 136,
+    "fare": 59
+  },
+  {
+    "route_id": 201,
+    "from_stop": 341,
+    "to_stop": 339,
+    "fare": 66
+  },
+  {
+    "route_id": 201,
+    "from_stop": 2,
+    "to_stop": 4,
+    "fare": 10
+  },
+  {
+    "route_id": 201,
+    "from_stop": 2,
+    "to_stop": 6,
+    "fare": 10
+  },
+  {
+    "route_id": 201,
+    "from_stop": 2,
+    "to_stop": 7,
+    "fare": 10
+  },
+  {
+    "route_id": 201,
+    "from_stop": 2,
+    "to_stop": 8,
+    "fare": 13
+  },
+  {
+    "route_id": 201,
+    "from_stop": 2,
+    "to_stop": 344,
+    "fare": 14
+  },
+  {
+    "route_id": 201,
+    "from_stop": 2,
+    "to_stop": 10,
+    "fare": 22
+  },
+  {
+    "route_id": 201,
+    "from_stop": 2,
+    "to_stop": 345,
+    "fare": 33
+  },
+  {
+    "route_id": 201,
+    "from_stop": 2,
+    "to_stop": 33,
+    "fare": 42
+  },
+  {
+    "route_id": 201,
+    "from_stop": 2,
+    "to_stop": 346,
+    "fare": 45
+  },
+  {
+    "route_id": 201,
+    "from_stop": 2,
+    "to_stop": 38,
+    "fare": 51
+  },
+  {
+    "route_id": 201,
+    "from_stop": 2,
+    "to_stop": 136,
+    "fare": 57
+  },
+  {
+    "route_id": 201,
+    "from_stop": 2,
+    "to_stop": 339,
+    "fare": 64
+  },
+  {
+    "route_id": 201,
+    "from_stop": 4,
+    "to_stop": 6,
+    "fare": 10
+  },
+  {
+    "route_id": 201,
+    "from_stop": 4,
+    "to_stop": 7,
+    "fare": 10
+  },
+  {
+    "route_id": 201,
+    "from_stop": 4,
+    "to_stop": 8,
+    "fare": 10
+  },
+  {
+    "route_id": 201,
+    "from_stop": 4,
+    "to_stop": 344,
+    "fare": 10
+  },
+  {
+    "route_id": 201,
+    "from_stop": 4,
+    "to_stop": 10,
+    "fare": 16
+  },
+  {
+    "route_id": 201,
+    "from_stop": 4,
+    "to_stop": 345,
+    "fare": 27
+  },
+  {
+    "route_id": 201,
+    "from_stop": 4,
+    "to_stop": 33,
+    "fare": 36
+  },
+  {
+    "route_id": 201,
+    "from_stop": 4,
+    "to_stop": 346,
+    "fare": 39
+  },
+  {
+    "route_id": 201,
+    "from_stop": 4,
+    "to_stop": 38,
+    "fare": 45
+  },
+  {
+    "route_id": 201,
+    "from_stop": 4,
+    "to_stop": 136,
+    "fare": 51
+  },
+  {
+    "route_id": 201,
+    "from_stop": 4,
+    "to_stop": 339,
+    "fare": 58
+  },
+  {
+    "route_id": 201,
+    "from_stop": 6,
+    "to_stop": 7,
+    "fare": 10
+  },
+  {
+    "route_id": 201,
+    "from_stop": 6,
+    "to_stop": 8,
+    "fare": 10
+  },
+  {
+    "route_id": 201,
+    "from_stop": 6,
+    "to_stop": 344,
+    "fare": 10
+  },
+  {
+    "route_id": 201,
+    "from_stop": 6,
+    "to_stop": 10,
+    "fare": 13
+  },
+  {
+    "route_id": 201,
+    "from_stop": 6,
+    "to_stop": 345,
+    "fare": 24
+  },
+  {
+    "route_id": 201,
+    "from_stop": 6,
+    "to_stop": 33,
+    "fare": 33
+  },
+  {
+    "route_id": 201,
+    "from_stop": 6,
+    "to_stop": 346,
+    "fare": 36
+  },
+  {
+    "route_id": 201,
+    "from_stop": 6,
+    "to_stop": 38,
+    "fare": 42
+  },
+  {
+    "route_id": 201,
+    "from_stop": 6,
+    "to_stop": 136,
+    "fare": 48
+  },
+  {
+    "route_id": 201,
+    "from_stop": 6,
+    "to_stop": 339,
+    "fare": 55
+  },
+  {
+    "route_id": 201,
+    "from_stop": 7,
+    "to_stop": 8,
+    "fare": 10
+  },
+  {
+    "route_id": 201,
+    "from_stop": 7,
+    "to_stop": 344,
+    "fare": 10
+  },
+  {
+    "route_id": 201,
+    "from_stop": 7,
+    "to_stop": 10,
+    "fare": 12
+  },
+  {
+    "route_id": 201,
+    "from_stop": 7,
+    "to_stop": 345,
+    "fare": 23
+  },
+  {
+    "route_id": 201,
+    "from_stop": 7,
+    "to_stop": 33,
+    "fare": 32
+  },
+  {
+    "route_id": 201,
+    "from_stop": 7,
+    "to_stop": 346,
+    "fare": 35
+  },
+  {
+    "route_id": 201,
+    "from_stop": 7,
+    "to_stop": 38,
+    "fare": 41
+  },
+  {
+    "route_id": 201,
+    "from_stop": 7,
+    "to_stop": 136,
+    "fare": 47
+  },
+  {
+    "route_id": 201,
+    "from_stop": 7,
+    "to_stop": 339,
+    "fare": 54
+  },
+  {
+    "route_id": 201,
+    "from_stop": 8,
+    "to_stop": 344,
+    "fare": 10
+  },
+  {
+    "route_id": 201,
+    "from_stop": 8,
+    "to_stop": 10,
+    "fare": 10
+  },
+  {
+    "route_id": 201,
+    "from_stop": 8,
+    "to_stop": 345,
+    "fare": 20
+  },
+  {
+    "route_id": 201,
+    "from_stop": 8,
+    "to_stop": 33,
+    "fare": 29
+  },
+  {
+    "route_id": 201,
+    "from_stop": 8,
+    "to_stop": 346,
+    "fare": 32
+  },
+  {
+    "route_id": 201,
+    "from_stop": 8,
+    "to_stop": 38,
+    "fare": 38
+  },
+  {
+    "route_id": 201,
+    "from_stop": 8,
+    "to_stop": 136,
+    "fare": 44
+  },
+  {
+    "route_id": 201,
+    "from_stop": 8,
+    "to_stop": 339,
+    "fare": 51
+  },
+  {
+    "route_id": 201,
+    "from_stop": 344,
+    "to_stop": 10,
+    "fare": 10
+  },
+  {
+    "route_id": 201,
+    "from_stop": 344,
+    "to_stop": 345,
+    "fare": 19
+  },
+  {
+    "route_id": 201,
+    "from_stop": 344,
+    "to_stop": 33,
+    "fare": 28
+  },
+  {
+    "route_id": 201,
+    "from_stop": 344,
+    "to_stop": 346,
+    "fare": 31
+  },
+  {
+    "route_id": 201,
+    "from_stop": 344,
+    "to_stop": 38,
+    "fare": 37
+  },
+  {
+    "route_id": 201,
+    "from_stop": 344,
+    "to_stop": 136,
+    "fare": 43
+  },
+  {
+    "route_id": 201,
+    "from_stop": 344,
+    "to_stop": 339,
+    "fare": 50
+  },
+  {
+    "route_id": 201,
+    "from_stop": 10,
+    "to_stop": 345,
+    "fare": 11
+  },
+  {
+    "route_id": 201,
+    "from_stop": 10,
+    "to_stop": 33,
+    "fare": 20
+  },
+  {
+    "route_id": 201,
+    "from_stop": 10,
+    "to_stop": 346,
+    "fare": 23
+  },
+  {
+    "route_id": 201,
+    "from_stop": 10,
+    "to_stop": 38,
+    "fare": 29
+  },
+  {
+    "route_id": 201,
+    "from_stop": 10,
+    "to_stop": 136,
+    "fare": 35
+  },
+  {
+    "route_id": 201,
+    "from_stop": 10,
+    "to_stop": 339,
+    "fare": 42
+  },
+  {
+    "route_id": 201,
+    "from_stop": 345,
+    "to_stop": 33,
+    "fare": 10
+  },
+  {
+    "route_id": 201,
+    "from_stop": 345,
+    "to_stop": 346,
+    "fare": 12
+  },
+  {
+    "route_id": 201,
+    "from_stop": 345,
+    "to_stop": 38,
+    "fare": 18
+  },
+  {
+    "route_id": 201,
+    "from_stop": 345,
+    "to_stop": 136,
+    "fare": 24
+  },
+  {
+    "route_id": 201,
+    "from_stop": 345,
+    "to_stop": 339,
+    "fare": 31
+  },
+  {
+    "route_id": 201,
+    "from_stop": 33,
+    "to_stop": 346,
+    "fare": 10
+  },
+  {
+    "route_id": 201,
+    "from_stop": 33,
+    "to_stop": 38,
+    "fare": 10
+  },
+  {
+    "route_id": 201,
+    "from_stop": 33,
+    "to_stop": 136,
+    "fare": 15
+  },
+  {
+    "route_id": 201,
+    "from_stop": 33,
+    "to_stop": 339,
+    "fare": 22
+  },
+  {
+    "route_id": 201,
+    "from_stop": 346,
+    "to_stop": 38,
+    "fare": 10
+  },
+  {
+    "route_id": 201,
+    "from_stop": 346,
+    "to_stop": 136,
+    "fare": 12
+  },
+  {
+    "route_id": 201,
+    "from_stop": 346,
+    "to_stop": 339,
+    "fare": 19
+  },
+  {
+    "route_id": 201,
+    "from_stop": 38,
+    "to_stop": 136,
+    "fare": 10
+  },
+  {
+    "route_id": 201,
+    "from_stop": 38,
+    "to_stop": 339,
+    "fare": 13
+  },
+  {
+    "route_id": 201,
+    "from_stop": 136,
+    "to_stop": 339,
+    "fare": 10
+  },
+  {
+    "route_id": 202,
+    "from_stop": 111,
+    "to_stop": 7,
+    "fare": 10
+  },
+  {
+    "route_id": 202,
+    "from_stop": 111,
+    "to_stop": 6,
+    "fare": 10
+  },
+  {
+    "route_id": 202,
+    "from_stop": 111,
+    "to_stop": 4,
+    "fare": 11
+  },
+  {
+    "route_id": 202,
+    "from_stop": 111,
+    "to_stop": 1,
+    "fare": 16
+  },
+  {
+    "route_id": 202,
+    "from_stop": 111,
+    "to_stop": 39,
+    "fare": 49
+  },
+  {
+    "route_id": 202,
+    "from_stop": 111,
+    "to_stop": 336,
+    "fare": 69
+  },
+  {
+    "route_id": 202,
+    "from_stop": 111,
+    "to_stop": 347,
+    "fare": 80
+  },
+  {
+    "route_id": 202,
+    "from_stop": 7,
+    "to_stop": 6,
+    "fare": 10
+  },
+  {
+    "route_id": 202,
+    "from_stop": 7,
+    "to_stop": 4,
+    "fare": 10
+  },
+  {
+    "route_id": 202,
+    "from_stop": 7,
+    "to_stop": 1,
+    "fare": 10
+  },
+  {
+    "route_id": 202,
+    "from_stop": 7,
+    "to_stop": 39,
+    "fare": 39
+  },
+  {
+    "route_id": 202,
+    "from_stop": 7,
+    "to_stop": 336,
+    "fare": 59
+  },
+  {
+    "route_id": 202,
+    "from_stop": 7,
+    "to_stop": 347,
+    "fare": 70
+  },
+  {
+    "route_id": 202,
+    "from_stop": 6,
+    "to_stop": 4,
+    "fare": 10
+  },
+  {
+    "route_id": 202,
+    "from_stop": 6,
+    "to_stop": 1,
+    "fare": 10
+  },
+  {
+    "route_id": 202,
+    "from_stop": 6,
+    "to_stop": 39,
+    "fare": 39
+  },
+  {
+    "route_id": 202,
+    "from_stop": 6,
+    "to_stop": 336,
+    "fare": 59
+  },
+  {
+    "route_id": 202,
+    "from_stop": 6,
+    "to_stop": 347,
+    "fare": 70
+  },
+  {
+    "route_id": 202,
+    "from_stop": 4,
+    "to_stop": 1,
+    "fare": 10
+  },
+  {
+    "route_id": 202,
+    "from_stop": 4,
+    "to_stop": 39,
+    "fare": 38
+  },
+  {
+    "route_id": 202,
+    "from_stop": 4,
+    "to_stop": 336,
+    "fare": 58
+  },
+  {
+    "route_id": 202,
+    "from_stop": 4,
+    "to_stop": 347,
+    "fare": 69
+  },
+  {
+    "route_id": 202,
+    "from_stop": 1,
+    "to_stop": 39,
+    "fare": 33
+  },
+  {
+    "route_id": 202,
+    "from_stop": 1,
+    "to_stop": 336,
+    "fare": 53
+  },
+  {
+    "route_id": 202,
+    "from_stop": 1,
+    "to_stop": 347,
+    "fare": 64
+  },
+  {
+    "route_id": 202,
+    "from_stop": 39,
+    "to_stop": 336,
+    "fare": 20
+  },
+  {
+    "route_id": 202,
+    "from_stop": 39,
+    "to_stop": 347,
+    "fare": 31
+  },
+  {
+    "route_id": 202,
+    "from_stop": 336,
+    "to_stop": 347,
+    "fare": 11
+  },
+  {
+    "route_id": 203,
+    "from_stop": 69,
+    "to_stop": 95,
+    "fare": 10
+  },
+  {
+    "route_id": 203,
+    "from_stop": 69,
+    "to_stop": 55,
+    "fare": 10
+  },
+  {
+    "route_id": 203,
+    "from_stop": 69,
+    "to_stop": 59,
+    "fare": 14
+  },
+  {
+    "route_id": 203,
+    "from_stop": 69,
+    "to_stop": 142,
+    "fare": 17
+  },
+  {
+    "route_id": 203,
+    "from_stop": 69,
+    "to_stop": 86,
+    "fare": 24
+  },
+  {
+    "route_id": 203,
+    "from_stop": 69,
+    "to_stop": 1,
+    "fare": 37
+  },
+  {
+    "route_id": 203,
+    "from_stop": 69,
+    "to_stop": 39,
+    "fare": 70
+  },
+  {
+    "route_id": 203,
+    "from_stop": 69,
+    "to_stop": 336,
+    "fare": 91
+  },
+  {
+    "route_id": 203,
+    "from_stop": 69,
+    "to_stop": 347,
+    "fare": 102
+  },
+  {
+    "route_id": 203,
+    "from_stop": 95,
+    "to_stop": 55,
+    "fare": 10
+  },
+  {
+    "route_id": 203,
+    "from_stop": 95,
+    "to_stop": 59,
+    "fare": 10
+  },
+  {
+    "route_id": 203,
+    "from_stop": 95,
+    "to_stop": 142,
+    "fare": 10
+  },
+  {
+    "route_id": 203,
+    "from_stop": 95,
+    "to_stop": 86,
+    "fare": 14
+  },
+  {
+    "route_id": 203,
+    "from_stop": 95,
+    "to_stop": 1,
+    "fare": 27
+  },
+  {
+    "route_id": 203,
+    "from_stop": 95,
+    "to_stop": 39,
+    "fare": 60
+  },
+  {
+    "route_id": 203,
+    "from_stop": 95,
+    "to_stop": 336,
+    "fare": 81
+  },
+  {
+    "route_id": 203,
+    "from_stop": 95,
+    "to_stop": 347,
+    "fare": 92
+  },
+  {
+    "route_id": 203,
+    "from_stop": 55,
+    "to_stop": 59,
+    "fare": 10
+  },
+  {
+    "route_id": 203,
+    "from_stop": 55,
+    "to_stop": 142,
+    "fare": 10
+  },
+  {
+    "route_id": 203,
+    "from_stop": 55,
+    "to_stop": 86,
+    "fare": 14
+  },
+  {
+    "route_id": 203,
+    "from_stop": 55,
+    "to_stop": 1,
+    "fare": 27
+  },
+  {
+    "route_id": 203,
+    "from_stop": 55,
+    "to_stop": 39,
+    "fare": 60
+  },
+  {
+    "route_id": 203,
+    "from_stop": 55,
+    "to_stop": 336,
+    "fare": 81
+  },
+  {
+    "route_id": 203,
+    "from_stop": 55,
+    "to_stop": 347,
+    "fare": 92
+  },
+  {
+    "route_id": 203,
+    "from_stop": 59,
+    "to_stop": 142,
+    "fare": 10
+  },
+  {
+    "route_id": 203,
+    "from_stop": 59,
+    "to_stop": 86,
+    "fare": 10
+  },
+  {
+    "route_id": 203,
+    "from_stop": 59,
+    "to_stop": 1,
+    "fare": 23
+  },
+  {
+    "route_id": 203,
+    "from_stop": 59,
+    "to_stop": 39,
+    "fare": 56
+  },
+  {
+    "route_id": 203,
+    "from_stop": 59,
+    "to_stop": 336,
+    "fare": 77
+  },
+  {
+    "route_id": 203,
+    "from_stop": 59,
+    "to_stop": 347,
+    "fare": 88
+  },
+  {
+    "route_id": 203,
+    "from_stop": 142,
+    "to_stop": 86,
+    "fare": 10
+  },
+  {
+    "route_id": 203,
+    "from_stop": 142,
+    "to_stop": 1,
+    "fare": 20
+  },
+  {
+    "route_id": 203,
+    "from_stop": 142,
+    "to_stop": 39,
+    "fare": 53
+  },
+  {
+    "route_id": 203,
+    "from_stop": 142,
+    "to_stop": 336,
+    "fare": 74
+  },
+  {
+    "route_id": 203,
+    "from_stop": 142,
+    "to_stop": 347,
+    "fare": 85
+  },
+  {
+    "route_id": 203,
+    "from_stop": 86,
+    "to_stop": 1,
+    "fare": 13
+  },
+  {
+    "route_id": 203,
+    "from_stop": 86,
+    "to_stop": 39,
+    "fare": 46
+  },
+  {
+    "route_id": 203,
+    "from_stop": 86,
+    "to_stop": 336,
+    "fare": 67
+  },
+  {
+    "route_id": 203,
+    "from_stop": 86,
+    "to_stop": 347,
+    "fare": 78
+  },
+  {
+    "route_id": 203,
+    "from_stop": 1,
+    "to_stop": 39,
+    "fare": 33
+  },
+  {
+    "route_id": 203,
+    "from_stop": 1,
+    "to_stop": 336,
+    "fare": 54
+  },
+  {
+    "route_id": 203,
+    "from_stop": 1,
+    "to_stop": 347,
+    "fare": 65
+  },
+  {
+    "route_id": 203,
+    "from_stop": 39,
+    "to_stop": 336,
+    "fare": 21
+  },
+  {
+    "route_id": 203,
+    "from_stop": 39,
+    "to_stop": 347,
+    "fare": 32
+  },
+  {
+    "route_id": 203,
+    "from_stop": 336,
+    "to_stop": 347,
+    "fare": 11
+  },
+  {
+    "route_id": 204,
+    "from_stop": 348,
+    "to_stop": 162,
+    "fare": 10
+  },
+  {
+    "route_id": 204,
+    "from_stop": 348,
+    "to_stop": 8,
+    "fare": 10
+  },
+  {
+    "route_id": 204,
+    "from_stop": 348,
+    "to_stop": 7,
+    "fare": 10
+  },
+  {
+    "route_id": 204,
+    "from_stop": 348,
+    "to_stop": 120,
+    "fare": 12
+  },
+  {
+    "route_id": 204,
+    "from_stop": 348,
+    "to_stop": 31,
+    "fare": 13
+  },
+  {
+    "route_id": 204,
+    "from_stop": 348,
+    "to_stop": 62,
+    "fare": 25
+  },
+  {
+    "route_id": 204,
+    "from_stop": 348,
+    "to_stop": 55,
+    "fare": 36
+  },
+  {
+    "route_id": 204,
+    "from_stop": 348,
+    "to_stop": 349,
+    "fare": 38
+  },
+  {
+    "route_id": 204,
+    "from_stop": 348,
+    "to_stop": 350,
+    "fare": 40
+  },
+  {
+    "route_id": 204,
+    "from_stop": 348,
+    "to_stop": 153,
+    "fare": 42
+  },
+  {
+    "route_id": 204,
+    "from_stop": 348,
+    "to_stop": 110,
+    "fare": 43
+  },
+  {
+    "route_id": 204,
+    "from_stop": 348,
+    "to_stop": 263,
+    "fare": 49
+  },
+  {
+    "route_id": 204,
+    "from_stop": 162,
+    "to_stop": 8,
+    "fare": 10
+  },
+  {
+    "route_id": 204,
+    "from_stop": 162,
+    "to_stop": 7,
+    "fare": 10
+  },
+  {
+    "route_id": 204,
+    "from_stop": 162,
+    "to_stop": 120,
+    "fare": 10
+  },
+  {
+    "route_id": 204,
+    "from_stop": 162,
+    "to_stop": 31,
+    "fare": 10
+  },
+  {
+    "route_id": 204,
+    "from_stop": 162,
+    "to_stop": 62,
+    "fare": 15
+  },
+  {
+    "route_id": 204,
+    "from_stop": 162,
+    "to_stop": 55,
+    "fare": 26
+  },
+  {
+    "route_id": 204,
+    "from_stop": 162,
+    "to_stop": 349,
+    "fare": 28
+  },
+  {
+    "route_id": 204,
+    "from_stop": 162,
+    "to_stop": 350,
+    "fare": 30
+  },
+  {
+    "route_id": 204,
+    "from_stop": 162,
+    "to_stop": 153,
+    "fare": 32
+  },
+  {
+    "route_id": 204,
+    "from_stop": 162,
+    "to_stop": 110,
+    "fare": 33
+  },
+  {
+    "route_id": 204,
+    "from_stop": 162,
+    "to_stop": 263,
+    "fare": 39
+  },
+  {
+    "route_id": 204,
+    "from_stop": 8,
+    "to_stop": 7,
+    "fare": 10
+  },
+  {
+    "route_id": 204,
+    "from_stop": 8,
+    "to_stop": 120,
+    "fare": 10
+  },
+  {
+    "route_id": 204,
+    "from_stop": 8,
+    "to_stop": 31,
+    "fare": 10
+  },
+  {
+    "route_id": 204,
+    "from_stop": 8,
+    "to_stop": 62,
+    "fare": 15
+  },
+  {
+    "route_id": 204,
+    "from_stop": 8,
+    "to_stop": 55,
+    "fare": 26
+  },
+  {
+    "route_id": 204,
+    "from_stop": 8,
+    "to_stop": 349,
+    "fare": 28
+  },
+  {
+    "route_id": 204,
+    "from_stop": 8,
+    "to_stop": 350,
+    "fare": 30
+  },
+  {
+    "route_id": 204,
+    "from_stop": 8,
+    "to_stop": 153,
+    "fare": 32
+  },
+  {
+    "route_id": 204,
+    "from_stop": 8,
+    "to_stop": 110,
+    "fare": 33
+  },
+  {
+    "route_id": 204,
+    "from_stop": 8,
+    "to_stop": 263,
+    "fare": 39
+  },
+  {
+    "route_id": 204,
+    "from_stop": 7,
+    "to_stop": 120,
+    "fare": 10
+  },
+  {
+    "route_id": 204,
+    "from_stop": 7,
+    "to_stop": 31,
+    "fare": 10
+  },
+  {
+    "route_id": 204,
+    "from_stop": 7,
+    "to_stop": 62,
+    "fare": 15
+  },
+  {
+    "route_id": 204,
+    "from_stop": 7,
+    "to_stop": 55,
+    "fare": 26
+  },
+  {
+    "route_id": 204,
+    "from_stop": 7,
+    "to_stop": 349,
+    "fare": 28
+  },
+  {
+    "route_id": 204,
+    "from_stop": 7,
+    "to_stop": 350,
+    "fare": 30
+  },
+  {
+    "route_id": 204,
+    "from_stop": 7,
+    "to_stop": 153,
+    "fare": 32
+  },
+  {
+    "route_id": 204,
+    "from_stop": 7,
+    "to_stop": 110,
+    "fare": 33
+  },
+  {
+    "route_id": 204,
+    "from_stop": 7,
+    "to_stop": 263,
+    "fare": 39
+  },
+  {
+    "route_id": 204,
+    "from_stop": 120,
+    "to_stop": 31,
+    "fare": 10
+  },
+  {
+    "route_id": 204,
+    "from_stop": 120,
+    "to_stop": 62,
+    "fare": 13
+  },
+  {
+    "route_id": 204,
+    "from_stop": 120,
+    "to_stop": 55,
+    "fare": 24
+  },
+  {
+    "route_id": 204,
+    "from_stop": 120,
+    "to_stop": 349,
+    "fare": 26
+  },
+  {
+    "route_id": 204,
+    "from_stop": 120,
+    "to_stop": 350,
+    "fare": 28
+  },
+  {
+    "route_id": 204,
+    "from_stop": 120,
+    "to_stop": 153,
+    "fare": 30
+  },
+  {
+    "route_id": 204,
+    "from_stop": 120,
+    "to_stop": 110,
+    "fare": 31
+  },
+  {
+    "route_id": 204,
+    "from_stop": 120,
+    "to_stop": 263,
+    "fare": 37
+  },
+  {
+    "route_id": 204,
+    "from_stop": 31,
+    "to_stop": 62,
+    "fare": 12
+  },
+  {
+    "route_id": 204,
+    "from_stop": 31,
+    "to_stop": 55,
+    "fare": 23
+  },
+  {
+    "route_id": 204,
+    "from_stop": 31,
+    "to_stop": 349,
+    "fare": 25
+  },
+  {
+    "route_id": 204,
+    "from_stop": 31,
+    "to_stop": 350,
+    "fare": 27
+  },
+  {
+    "route_id": 204,
+    "from_stop": 31,
+    "to_stop": 153,
+    "fare": 29
+  },
+  {
+    "route_id": 204,
+    "from_stop": 31,
+    "to_stop": 110,
+    "fare": 30
+  },
+  {
+    "route_id": 204,
+    "from_stop": 31,
+    "to_stop": 263,
+    "fare": 36
+  },
+  {
+    "route_id": 204,
+    "from_stop": 62,
+    "to_stop": 55,
+    "fare": 11
+  },
+  {
+    "route_id": 204,
+    "from_stop": 62,
+    "to_stop": 349,
+    "fare": 13
+  },
+  {
+    "route_id": 204,
+    "from_stop": 62,
+    "to_stop": 350,
+    "fare": 15
+  },
+  {
+    "route_id": 204,
+    "from_stop": 62,
+    "to_stop": 153,
+    "fare": 17
+  },
+  {
+    "route_id": 204,
+    "from_stop": 62,
+    "to_stop": 110,
+    "fare": 18
+  },
+  {
+    "route_id": 204,
+    "from_stop": 62,
+    "to_stop": 263,
+    "fare": 24
+  },
+  {
+    "route_id": 204,
+    "from_stop": 55,
+    "to_stop": 349,
+    "fare": 10
+  },
+  {
+    "route_id": 204,
+    "from_stop": 55,
+    "to_stop": 350,
+    "fare": 10
+  },
+  {
+    "route_id": 204,
+    "from_stop": 55,
+    "to_stop": 153,
+    "fare": 10
+  },
+  {
+    "route_id": 204,
+    "from_stop": 55,
+    "to_stop": 110,
+    "fare": 10
+  },
+  {
+    "route_id": 204,
+    "from_stop": 55,
+    "to_stop": 263,
+    "fare": 13
+  },
+  {
+    "route_id": 204,
+    "from_stop": 349,
+    "to_stop": 350,
+    "fare": 10
+  },
+  {
+    "route_id": 204,
+    "from_stop": 349,
+    "to_stop": 153,
+    "fare": 10
+  },
+  {
+    "route_id": 204,
+    "from_stop": 349,
+    "to_stop": 110,
+    "fare": 10
+  },
+  {
+    "route_id": 204,
+    "from_stop": 349,
+    "to_stop": 263,
+    "fare": 11
+  },
+  {
+    "route_id": 204,
+    "from_stop": 350,
+    "to_stop": 153,
+    "fare": 10
+  },
+  {
+    "route_id": 204,
+    "from_stop": 350,
+    "to_stop": 110,
+    "fare": 10
+  },
+  {
+    "route_id": 204,
+    "from_stop": 350,
+    "to_stop": 263,
+    "fare": 10
+  },
+  {
+    "route_id": 204,
+    "from_stop": 153,
+    "to_stop": 110,
+    "fare": 10
+  },
+  {
+    "route_id": 204,
+    "from_stop": 153,
+    "to_stop": 263,
+    "fare": 10
+  },
+  {
+    "route_id": 204,
+    "from_stop": 110,
+    "to_stop": 263,
+    "fare": 10
+  },
+  {
+    "route_id": 205,
+    "from_stop": 40,
+    "to_stop": 1,
+    "fare": 18
+  },
+  {
+    "route_id": 205,
+    "from_stop": 40,
+    "to_stop": 2,
+    "fare": 21
+  },
+  {
+    "route_id": 205,
+    "from_stop": 40,
+    "to_stop": 4,
+    "fare": 26
+  },
+  {
+    "route_id": 205,
+    "from_stop": 40,
+    "to_stop": 6,
+    "fare": 29
+  },
+  {
+    "route_id": 205,
+    "from_stop": 40,
+    "to_stop": 232,
+    "fare": 32
+  },
+  {
+    "route_id": 205,
+    "from_stop": 40,
+    "to_stop": 8,
+    "fare": 36
+  },
+  {
+    "route_id": 205,
+    "from_stop": 40,
+    "to_stop": 351,
+    "fare": 45
+  },
+  {
+    "route_id": 205,
+    "from_stop": 40,
+    "to_stop": 338,
+    "fare": 49
+  },
+  {
+    "route_id": 205,
+    "from_stop": 40,
+    "to_stop": 352,
+    "fare": 56
+  },
+  {
+    "route_id": 205,
+    "from_stop": 40,
+    "to_stop": 353,
+    "fare": 73
+  },
+  {
+    "route_id": 205,
+    "from_stop": 40,
+    "to_stop": 354,
+    "fare": 75
+  },
+  {
+    "route_id": 205,
+    "from_stop": 40,
+    "to_stop": 355,
+    "fare": 80
+  },
+  {
+    "route_id": 205,
+    "from_stop": 40,
+    "to_stop": 356,
+    "fare": 95
+  },
+  {
+    "route_id": 205,
+    "from_stop": 1,
+    "to_stop": 2,
+    "fare": 10
+  },
+  {
+    "route_id": 205,
+    "from_stop": 1,
+    "to_stop": 4,
+    "fare": 10
+  },
+  {
+    "route_id": 205,
+    "from_stop": 1,
+    "to_stop": 6,
+    "fare": 11
+  },
+  {
+    "route_id": 205,
+    "from_stop": 1,
+    "to_stop": 232,
+    "fare": 14
+  },
+  {
+    "route_id": 205,
+    "from_stop": 1,
+    "to_stop": 8,
+    "fare": 18
+  },
+  {
+    "route_id": 205,
+    "from_stop": 1,
+    "to_stop": 351,
+    "fare": 27
+  },
+  {
+    "route_id": 205,
+    "from_stop": 1,
+    "to_stop": 338,
+    "fare": 31
+  },
+  {
+    "route_id": 205,
+    "from_stop": 1,
+    "to_stop": 352,
+    "fare": 38
+  },
+  {
+    "route_id": 205,
+    "from_stop": 1,
+    "to_stop": 353,
+    "fare": 55
+  },
+  {
+    "route_id": 205,
+    "from_stop": 1,
+    "to_stop": 354,
+    "fare": 57
+  },
+  {
+    "route_id": 205,
+    "from_stop": 1,
+    "to_stop": 355,
+    "fare": 62
+  },
+  {
+    "route_id": 205,
+    "from_stop": 1,
+    "to_stop": 356,
+    "fare": 77
+  },
+  {
+    "route_id": 205,
+    "from_stop": 2,
+    "to_stop": 4,
+    "fare": 10
+  },
+  {
+    "route_id": 205,
+    "from_stop": 2,
+    "to_stop": 6,
+    "fare": 10
+  },
+  {
+    "route_id": 205,
+    "from_stop": 2,
+    "to_stop": 232,
+    "fare": 11
+  },
+  {
+    "route_id": 205,
+    "from_stop": 2,
+    "to_stop": 8,
+    "fare": 15
+  },
+  {
+    "route_id": 205,
+    "from_stop": 2,
+    "to_stop": 351,
+    "fare": 24
+  },
+  {
+    "route_id": 205,
+    "from_stop": 2,
+    "to_stop": 338,
+    "fare": 28
+  },
+  {
+    "route_id": 205,
+    "from_stop": 2,
+    "to_stop": 352,
+    "fare": 35
+  },
+  {
+    "route_id": 205,
+    "from_stop": 2,
+    "to_stop": 353,
+    "fare": 52
+  },
+  {
+    "route_id": 205,
+    "from_stop": 2,
+    "to_stop": 354,
+    "fare": 54
+  },
+  {
+    "route_id": 205,
+    "from_stop": 2,
+    "to_stop": 355,
+    "fare": 59
+  },
+  {
+    "route_id": 205,
+    "from_stop": 2,
+    "to_stop": 356,
+    "fare": 74
+  },
+  {
+    "route_id": 205,
+    "from_stop": 4,
+    "to_stop": 6,
+    "fare": 10
+  },
+  {
+    "route_id": 205,
+    "from_stop": 4,
+    "to_stop": 232,
+    "fare": 10
+  },
+  {
+    "route_id": 205,
+    "from_stop": 4,
+    "to_stop": 8,
+    "fare": 10
+  },
+  {
+    "route_id": 205,
+    "from_stop": 4,
+    "to_stop": 351,
+    "fare": 19
+  },
+  {
+    "route_id": 205,
+    "from_stop": 4,
+    "to_stop": 338,
+    "fare": 23
+  },
+  {
+    "route_id": 205,
+    "from_stop": 4,
+    "to_stop": 352,
+    "fare": 30
+  },
+  {
+    "route_id": 205,
+    "from_stop": 4,
+    "to_stop": 353,
+    "fare": 47
+  },
+  {
+    "route_id": 205,
+    "from_stop": 4,
+    "to_stop": 354,
+    "fare": 49
+  },
+  {
+    "route_id": 205,
+    "from_stop": 4,
+    "to_stop": 355,
+    "fare": 54
+  },
+  {
+    "route_id": 205,
+    "from_stop": 4,
+    "to_stop": 356,
+    "fare": 69
+  },
+  {
+    "route_id": 205,
+    "from_stop": 6,
+    "to_stop": 232,
+    "fare": 10
+  },
+  {
+    "route_id": 205,
+    "from_stop": 6,
+    "to_stop": 8,
+    "fare": 10
+  },
+  {
+    "route_id": 205,
+    "from_stop": 6,
+    "to_stop": 351,
+    "fare": 16
+  },
+  {
+    "route_id": 205,
+    "from_stop": 6,
+    "to_stop": 338,
+    "fare": 20
+  },
+  {
+    "route_id": 205,
+    "from_stop": 6,
+    "to_stop": 352,
+    "fare": 27
+  },
+  {
+    "route_id": 205,
+    "from_stop": 6,
+    "to_stop": 353,
+    "fare": 44
+  },
+  {
+    "route_id": 205,
+    "from_stop": 6,
+    "to_stop": 354,
+    "fare": 46
+  },
+  {
+    "route_id": 205,
+    "from_stop": 6,
+    "to_stop": 355,
+    "fare": 51
+  },
+  {
+    "route_id": 205,
+    "from_stop": 6,
+    "to_stop": 356,
+    "fare": 66
+  },
+  {
+    "route_id": 205,
+    "from_stop": 232,
+    "to_stop": 8,
+    "fare": 10
+  },
+  {
+    "route_id": 205,
+    "from_stop": 232,
+    "to_stop": 351,
+    "fare": 13
+  },
+  {
+    "route_id": 205,
+    "from_stop": 232,
+    "to_stop": 338,
+    "fare": 17
+  },
+  {
+    "route_id": 205,
+    "from_stop": 232,
+    "to_stop": 352,
+    "fare": 24
+  },
+  {
+    "route_id": 205,
+    "from_stop": 232,
+    "to_stop": 353,
+    "fare": 41
+  },
+  {
+    "route_id": 205,
+    "from_stop": 232,
+    "to_stop": 354,
+    "fare": 43
+  },
+  {
+    "route_id": 205,
+    "from_stop": 232,
+    "to_stop": 355,
+    "fare": 48
+  },
+  {
+    "route_id": 205,
+    "from_stop": 232,
+    "to_stop": 356,
+    "fare": 63
+  },
+  {
+    "route_id": 205,
+    "from_stop": 8,
+    "to_stop": 351,
+    "fare": 10
+  },
+  {
+    "route_id": 205,
+    "from_stop": 8,
+    "to_stop": 338,
+    "fare": 13
+  },
+  {
+    "route_id": 205,
+    "from_stop": 8,
+    "to_stop": 352,
+    "fare": 20
+  },
+  {
+    "route_id": 205,
+    "from_stop": 8,
+    "to_stop": 353,
+    "fare": 37
+  },
+  {
+    "route_id": 205,
+    "from_stop": 8,
+    "to_stop": 354,
+    "fare": 39
+  },
+  {
+    "route_id": 205,
+    "from_stop": 8,
+    "to_stop": 355,
+    "fare": 44
+  },
+  {
+    "route_id": 205,
+    "from_stop": 8,
+    "to_stop": 356,
+    "fare": 59
+  },
+  {
+    "route_id": 205,
+    "from_stop": 351,
+    "to_stop": 338,
+    "fare": 10
+  },
+  {
+    "route_id": 205,
+    "from_stop": 351,
+    "to_stop": 352,
+    "fare": 11
+  },
+  {
+    "route_id": 205,
+    "from_stop": 351,
+    "to_stop": 353,
+    "fare": 28
+  },
+  {
+    "route_id": 205,
+    "from_stop": 351,
+    "to_stop": 354,
+    "fare": 30
+  },
+  {
+    "route_id": 205,
+    "from_stop": 351,
+    "to_stop": 355,
+    "fare": 35
+  },
+  {
+    "route_id": 205,
+    "from_stop": 351,
+    "to_stop": 356,
+    "fare": 50
+  },
+  {
+    "route_id": 205,
+    "from_stop": 338,
+    "to_stop": 352,
+    "fare": 10
+  },
+  {
+    "route_id": 205,
+    "from_stop": 338,
+    "to_stop": 353,
+    "fare": 24
+  },
+  {
+    "route_id": 205,
+    "from_stop": 338,
+    "to_stop": 354,
+    "fare": 26
+  },
+  {
+    "route_id": 205,
+    "from_stop": 338,
+    "to_stop": 355,
+    "fare": 31
+  },
+  {
+    "route_id": 205,
+    "from_stop": 338,
+    "to_stop": 356,
+    "fare": 46
+  },
+  {
+    "route_id": 205,
+    "from_stop": 352,
+    "to_stop": 353,
+    "fare": 17
+  },
+  {
+    "route_id": 205,
+    "from_stop": 352,
+    "to_stop": 354,
+    "fare": 19
+  },
+  {
+    "route_id": 205,
+    "from_stop": 352,
+    "to_stop": 355,
+    "fare": 24
+  },
+  {
+    "route_id": 205,
+    "from_stop": 352,
+    "to_stop": 356,
+    "fare": 39
+  },
+  {
+    "route_id": 205,
+    "from_stop": 353,
+    "to_stop": 354,
+    "fare": 10
+  },
+  {
+    "route_id": 205,
+    "from_stop": 353,
+    "to_stop": 355,
+    "fare": 10
+  },
+  {
+    "route_id": 205,
+    "from_stop": 353,
+    "to_stop": 356,
+    "fare": 22
+  },
+  {
+    "route_id": 205,
+    "from_stop": 354,
+    "to_stop": 355,
+    "fare": 10
+  },
+  {
+    "route_id": 205,
+    "from_stop": 354,
+    "to_stop": 356,
+    "fare": 20
+  },
+  {
+    "route_id": 205,
+    "from_stop": 355,
+    "to_stop": 356,
+    "fare": 15
+  },
+  {
+    "route_id": 206,
+    "from_stop": 357,
+    "to_stop": 358,
+    "fare": 10
+  },
+  {
+    "route_id": 206,
+    "from_stop": 357,
+    "to_stop": 33,
+    "fare": 11
+  },
+  {
+    "route_id": 206,
+    "from_stop": 357,
+    "to_stop": 212,
+    "fare": 21
+  },
+  {
+    "route_id": 206,
+    "from_stop": 357,
+    "to_stop": 359,
+    "fare": 30
+  },
+  {
+    "route_id": 206,
+    "from_stop": 357,
+    "to_stop": 22,
+    "fare": 36
+  },
+  {
+    "route_id": 206,
+    "from_stop": 357,
+    "to_stop": 353,
+    "fare": 41
+  },
+  {
+    "route_id": 206,
+    "from_stop": 357,
+    "to_stop": 360,
+    "fare": 51
+  },
+  {
+    "route_id": 206,
+    "from_stop": 357,
+    "to_stop": 361,
+    "fare": 55
+  },
+  {
+    "route_id": 206,
+    "from_stop": 357,
+    "to_stop": 263,
+    "fare": 57
+  },
+  {
+    "route_id": 206,
+    "from_stop": 357,
+    "to_stop": 124,
+    "fare": 61
+  },
+  {
+    "route_id": 206,
+    "from_stop": 357,
+    "to_stop": 192,
+    "fare": 67
+  },
+  {
+    "route_id": 206,
+    "from_stop": 358,
+    "to_stop": 33,
+    "fare": 10
+  },
+  {
+    "route_id": 206,
+    "from_stop": 358,
+    "to_stop": 212,
+    "fare": 11
+  },
+  {
+    "route_id": 206,
+    "from_stop": 358,
+    "to_stop": 359,
+    "fare": 20
+  },
+  {
+    "route_id": 206,
+    "from_stop": 358,
+    "to_stop": 22,
+    "fare": 26
+  },
+  {
+    "route_id": 206,
+    "from_stop": 358,
+    "to_stop": 353,
+    "fare": 31
+  },
+  {
+    "route_id": 206,
+    "from_stop": 358,
+    "to_stop": 360,
+    "fare": 41
+  },
+  {
+    "route_id": 206,
+    "from_stop": 358,
+    "to_stop": 361,
+    "fare": 45
+  },
+  {
+    "route_id": 206,
+    "from_stop": 358,
+    "to_stop": 263,
+    "fare": 47
+  },
+  {
+    "route_id": 206,
+    "from_stop": 358,
+    "to_stop": 124,
+    "fare": 51
+  },
+  {
+    "route_id": 206,
+    "from_stop": 358,
+    "to_stop": 192,
+    "fare": 57
+  },
+  {
+    "route_id": 206,
+    "from_stop": 33,
+    "to_stop": 212,
+    "fare": 10
+  },
+  {
+    "route_id": 206,
+    "from_stop": 33,
+    "to_stop": 359,
+    "fare": 19
+  },
+  {
+    "route_id": 206,
+    "from_stop": 33,
+    "to_stop": 22,
+    "fare": 25
+  },
+  {
+    "route_id": 206,
+    "from_stop": 33,
+    "to_stop": 353,
+    "fare": 30
+  },
+  {
+    "route_id": 206,
+    "from_stop": 33,
+    "to_stop": 360,
+    "fare": 40
+  },
+  {
+    "route_id": 206,
+    "from_stop": 33,
+    "to_stop": 361,
+    "fare": 44
+  },
+  {
+    "route_id": 206,
+    "from_stop": 33,
+    "to_stop": 263,
+    "fare": 46
+  },
+  {
+    "route_id": 206,
+    "from_stop": 33,
+    "to_stop": 124,
+    "fare": 50
+  },
+  {
+    "route_id": 206,
+    "from_stop": 33,
+    "to_stop": 192,
+    "fare": 56
+  },
+  {
+    "route_id": 206,
+    "from_stop": 212,
+    "to_stop": 359,
+    "fare": 10
+  },
+  {
+    "route_id": 206,
+    "from_stop": 212,
+    "to_stop": 22,
+    "fare": 15
+  },
+  {
+    "route_id": 206,
+    "from_stop": 212,
+    "to_stop": 353,
+    "fare": 20
+  },
+  {
+    "route_id": 206,
+    "from_stop": 212,
+    "to_stop": 360,
+    "fare": 30
+  },
+  {
+    "route_id": 206,
+    "from_stop": 212,
+    "to_stop": 361,
+    "fare": 34
+  },
+  {
+    "route_id": 206,
+    "from_stop": 212,
+    "to_stop": 263,
+    "fare": 36
+  },
+  {
+    "route_id": 206,
+    "from_stop": 212,
+    "to_stop": 124,
+    "fare": 40
+  },
+  {
+    "route_id": 206,
+    "from_stop": 212,
+    "to_stop": 192,
+    "fare": 46
+  },
+  {
+    "route_id": 206,
+    "from_stop": 359,
+    "to_stop": 22,
+    "fare": 10
+  },
+  {
+    "route_id": 206,
+    "from_stop": 359,
+    "to_stop": 353,
+    "fare": 11
+  },
+  {
+    "route_id": 206,
+    "from_stop": 359,
+    "to_stop": 360,
+    "fare": 21
+  },
+  {
+    "route_id": 206,
+    "from_stop": 359,
+    "to_stop": 361,
+    "fare": 25
+  },
+  {
+    "route_id": 206,
+    "from_stop": 359,
+    "to_stop": 263,
+    "fare": 27
+  },
+  {
+    "route_id": 206,
+    "from_stop": 359,
+    "to_stop": 124,
+    "fare": 31
+  },
+  {
+    "route_id": 206,
+    "from_stop": 359,
+    "to_stop": 192,
+    "fare": 37
+  },
+  {
+    "route_id": 206,
+    "from_stop": 22,
+    "to_stop": 353,
+    "fare": 10
+  },
+  {
+    "route_id": 206,
+    "from_stop": 22,
+    "to_stop": 360,
+    "fare": 15
+  },
+  {
+    "route_id": 206,
+    "from_stop": 22,
+    "to_stop": 361,
+    "fare": 19
+  },
+  {
+    "route_id": 206,
+    "from_stop": 22,
+    "to_stop": 263,
+    "fare": 21
+  },
+  {
+    "route_id": 206,
+    "from_stop": 22,
+    "to_stop": 124,
+    "fare": 25
+  },
+  {
+    "route_id": 206,
+    "from_stop": 22,
+    "to_stop": 192,
+    "fare": 31
+  },
+  {
+    "route_id": 206,
+    "from_stop": 353,
+    "to_stop": 360,
+    "fare": 10
+  },
+  {
+    "route_id": 206,
+    "from_stop": 353,
+    "to_stop": 361,
+    "fare": 14
+  },
+  {
+    "route_id": 206,
+    "from_stop": 353,
+    "to_stop": 263,
+    "fare": 16
+  },
+  {
+    "route_id": 206,
+    "from_stop": 353,
+    "to_stop": 124,
+    "fare": 20
+  },
+  {
+    "route_id": 206,
+    "from_stop": 353,
+    "to_stop": 192,
+    "fare": 26
+  },
+  {
+    "route_id": 206,
+    "from_stop": 360,
+    "to_stop": 361,
+    "fare": 10
+  },
+  {
+    "route_id": 206,
+    "from_stop": 360,
+    "to_stop": 263,
+    "fare": 10
+  },
+  {
+    "route_id": 206,
+    "from_stop": 360,
+    "to_stop": 124,
+    "fare": 10
+  },
+  {
+    "route_id": 206,
+    "from_stop": 360,
+    "to_stop": 192,
+    "fare": 16
+  },
+  {
+    "route_id": 206,
+    "from_stop": 361,
+    "to_stop": 263,
+    "fare": 10
+  },
+  {
+    "route_id": 206,
+    "from_stop": 361,
+    "to_stop": 124,
+    "fare": 10
+  },
+  {
+    "route_id": 206,
+    "from_stop": 361,
+    "to_stop": 192,
+    "fare": 12
+  },
+  {
+    "route_id": 206,
+    "from_stop": 263,
+    "to_stop": 124,
+    "fare": 10
+  },
+  {
+    "route_id": 206,
+    "from_stop": 263,
+    "to_stop": 192,
+    "fare": 10
+  },
+  {
+    "route_id": 206,
+    "from_stop": 124,
+    "to_stop": 192,
+    "fare": 10
+  }
+]

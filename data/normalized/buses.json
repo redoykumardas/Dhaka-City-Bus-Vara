@@ -1,0 +1,917 @@
+[
+  {
+    "id": 1,
+    "bus_id": 1,
+    "bus_name": "Achim Paribahan"
+  },
+  {
+    "id": 2,
+    "bus_id": 2,
+    "bus_name": "Active Paribahan"
+  },
+  {
+    "id": 3,
+    "bus_id": 3,
+    "bus_name": "Agradut"
+  },
+  {
+    "id": 4,
+    "bus_id": 4,
+    "bus_name": "Airport Bangabandhu Avenue Paribahan"
+  },
+  {
+    "id": 5,
+    "bus_id": 5,
+    "bus_name": "Azmeri Glory Limited"
+  },
+  {
+    "id": 6,
+    "bus_id": 6,
+    "bus_name": "Ajmi"
+  },
+  {
+    "id": 7,
+    "bus_id": 7,
+    "bus_name": "Akash"
+  },
+  {
+    "id": 8,
+    "bus_id": 8,
+    "bus_name": "Akik"
+  },
+  {
+    "id": 9,
+    "bus_id": 9,
+    "bus_name": "Al Makka"
+  },
+  {
+    "id": 10,
+    "bus_id": 10,
+    "bus_name": "Al Madina Plus One"
+  },
+  {
+    "id": 11,
+    "bus_id": 11,
+    "bus_name": "Alif"
+  },
+  {
+    "id": 12,
+    "bus_id": 12,
+    "bus_name": "Alif"
+  },
+  {
+    "id": 13,
+    "bus_id": 13,
+    "bus_name": "Alif"
+  },
+  {
+    "id": 14,
+    "bus_id": 14,
+    "bus_name": "Alif"
+  },
+  {
+    "id": 15,
+    "bus_id": 15,
+    "bus_name": "Anabil Super"
+  },
+  {
+    "id": 16,
+    "bus_id": 16,
+    "bus_name": "Arnob"
+  },
+  {
+    "id": 17,
+    "bus_id": 17,
+    "bus_name": "Ashirbad Pahibahan"
+  },
+  {
+    "id": 18,
+    "bus_id": 18,
+    "bus_name": "Ashulia Classic"
+  },
+  {
+    "id": 19,
+    "bus_id": 19,
+    "bus_name": "Asmani"
+  },
+  {
+    "id": 20,
+    "bus_id": 20,
+    "bus_name": "ATCL"
+  },
+  {
+    "id": 21,
+    "bus_id": 21,
+    "bus_name": "Ayat"
+  },
+  {
+    "id": 22,
+    "bus_id": 22,
+    "bus_name": "Bahon"
+  },
+  {
+    "id": 23,
+    "bus_id": 23,
+    "bus_name": "Baishakhi"
+  },
+  {
+    "id": 24,
+    "bus_id": 24,
+    "bus_name": "Balaka"
+  },
+  {
+    "id": 25,
+    "bus_id": 25,
+    "bus_name": "Basumati"
+  },
+  {
+    "id": 26,
+    "bus_id": 26,
+    "bus_name": "Basumati Transport"
+  },
+  {
+    "id": 27,
+    "bus_id": 27,
+    "bus_name": "Best Satabdi"
+  },
+  {
+    "id": 28,
+    "bus_id": 28,
+    "bus_name": "Best Transport"
+  },
+  {
+    "id": 29,
+    "bus_id": 29,
+    "bus_name": "Bhuiyan Paribahan"
+  },
+  {
+    "id": 30,
+    "bus_id": 30,
+    "bus_name": "Bihanga"
+  },
+  {
+    "id": 31,
+    "bus_id": 31,
+    "bus_name": "Bikalpa"
+  },
+  {
+    "id": 32,
+    "bus_id": 32,
+    "bus_name": "Bikalpa"
+  },
+  {
+    "id": 33,
+    "bus_id": 33,
+    "bus_name": "Bikash"
+  },
+  {
+    "id": 34,
+    "bus_id": 34,
+    "bus_name": "Bikash Paribahan"
+  },
+  {
+    "id": 35,
+    "bus_id": 35,
+    "bus_name": "Bondhu Paribahan"
+  },
+  {
+    "id": 36,
+    "bus_id": 36,
+    "bus_name": "Borak"
+  },
+  {
+    "id": 37,
+    "bus_id": 37,
+    "bus_name": "Bashumoti"
+  },
+  {
+    "id": 38,
+    "bus_id": 38,
+    "bus_name": "Brihottor"
+  },
+  {
+    "id": 39,
+    "bus_id": 39,
+    "bus_name": "BRTC"
+  },
+  {
+    "id": 40,
+    "bus_id": 40,
+    "bus_name": "BRTC Elevated Expressway"
+  },
+  {
+    "id": 41,
+    "bus_id": 41,
+    "bus_name": "BRTC"
+  },
+  {
+    "id": 42,
+    "bus_id": 42,
+    "bus_name": "BRTC"
+  },
+  {
+    "id": 43,
+    "bus_id": 43,
+    "bus_name": "BRTC"
+  },
+  {
+    "id": 44,
+    "bus_id": 44,
+    "bus_name": "BRTC"
+  },
+  {
+    "id": 45,
+    "bus_id": 45,
+    "bus_name": "BRTC"
+  },
+  {
+    "id": 46,
+    "bus_id": 46,
+    "bus_name": "BRTC"
+  },
+  {
+    "id": 47,
+    "bus_id": 47,
+    "bus_name": "BRTC"
+  },
+  {
+    "id": 48,
+    "bus_id": 48,
+    "bus_name": "BRTC Articulated বি আর টিসি আরটিকুলেটেড)"
+  },
+  {
+    "id": 49,
+    "bus_id": 49,
+    "bus_name": "Cantonment"
+  },
+  {
+    "id": 50,
+    "bus_id": 50,
+    "bus_name": "Cantonment Mini Service"
+  },
+  {
+    "id": 51,
+    "bus_id": 51,
+    "bus_name": "Champion"
+  },
+  {
+    "id": 52,
+    "bus_id": 52,
+    "bus_name": "City Link"
+  },
+  {
+    "id": 53,
+    "bus_id": 53,
+    "bus_name": "D Link"
+  },
+  {
+    "id": 54,
+    "bus_id": 54,
+    "bus_name": "D One Transport"
+  },
+  {
+    "id": 55,
+    "bus_id": 55,
+    "bus_name": "Desh Bangla"
+  },
+  {
+    "id": 56,
+    "bus_id": 56,
+    "bus_name": "Dewan"
+  },
+  {
+    "id": 57,
+    "bus_id": 57,
+    "bus_name": "Dhakar Chaka"
+  },
+  {
+    "id": 58,
+    "bus_id": 58,
+    "bus_name": "Dhakar Chaka"
+  },
+  {
+    "id": 59,
+    "bus_id": 59,
+    "bus_name": "Dhaka Metro Service"
+  },
+  {
+    "id": 60,
+    "bus_id": 60,
+    "bus_name": "Dhaka Paribahan"
+  },
+  {
+    "id": 61,
+    "bus_id": 61,
+    "bus_name": "Dipon"
+  },
+  {
+    "id": 62,
+    "bus_id": 62,
+    "bus_name": "Dip Paribahan"
+  },
+  {
+    "id": 63,
+    "bus_id": 63,
+    "bus_name": "Dishari"
+  },
+  {
+    "id": 64,
+    "bus_id": 64,
+    "bus_name": "Elite"
+  },
+  {
+    "id": 65,
+    "bus_id": 65,
+    "bus_name": "ETC"
+  },
+  {
+    "id": 66,
+    "bus_id": 66,
+    "bus_name": "ETC Transport"
+  },
+  {
+    "id": 67,
+    "bus_id": 67,
+    "bus_name": "Everest Paribahan"
+  },
+  {
+    "id": 68,
+    "bus_id": 68,
+    "bus_name": "Falgun Art Transport Private Limited"
+  },
+  {
+    "id": 69,
+    "bus_id": 69,
+    "bus_name": "First Ten"
+  },
+  {
+    "id": 70,
+    "bus_id": 70,
+    "bus_name": "FTCL"
+  },
+  {
+    "id": 71,
+    "bus_id": 71,
+    "bus_name": "FTCL"
+  },
+  {
+    "id": 72,
+    "bus_id": 72,
+    "bus_name": "Gazipur Paribahan"
+  },
+  {
+    "id": 73,
+    "bus_id": 73,
+    "bus_name": "Grameen"
+  },
+  {
+    "id": 74,
+    "bus_id": 74,
+    "bus_name": "Grameen Suveccha"
+  },
+  {
+    "id": 75,
+    "bus_id": 75,
+    "bus_name": "Green Anabil"
+  },
+  {
+    "id": 76,
+    "bus_id": 76,
+    "bus_name": "Green Dhaka"
+  },
+  {
+    "id": 77,
+    "bus_id": 77,
+    "bus_name": "Gulshan Chaka"
+  },
+  {
+    "id": 78,
+    "bus_id": 78,
+    "bus_name": "Hazi Transport"
+  },
+  {
+    "id": 79,
+    "bus_id": 79,
+    "bus_name": "Himachal"
+  },
+  {
+    "id": 80,
+    "bus_id": 80,
+    "bus_name": "Himachal Suveccha"
+  },
+  {
+    "id": 81,
+    "bus_id": 81,
+    "bus_name": "Himalay"
+  },
+  {
+    "id": 82,
+    "bus_id": 82,
+    "bus_name": "Itihash"
+  },
+  {
+    "id": 83,
+    "bus_id": 83,
+    "bus_name": "J M Super Paribahan"
+  },
+  {
+    "id": 84,
+    "bus_id": 84,
+    "bus_name": "Jabale Noor Paribahan"
+  },
+  {
+    "id": 85,
+    "bus_id": 85,
+    "bus_name": "Jabale Noor Paribahan"
+  },
+  {
+    "id": 86,
+    "bus_id": 86,
+    "bus_name": "Janjabil"
+  },
+  {
+    "id": 87,
+    "bus_id": 87,
+    "bus_name": "Kamal Plus Paribahan"
+  },
+  {
+    "id": 88,
+    "bus_id": 88,
+    "bus_name": "kanak"
+  },
+  {
+    "id": 89,
+    "bus_id": 89,
+    "bus_name": "Khajababa"
+  },
+  {
+    "id": 90,
+    "bus_id": 90,
+    "bus_name": "Kironmala Paribahan"
+  },
+  {
+    "id": 91,
+    "bus_id": 91,
+    "bus_name": "Labbayek"
+  },
+  {
+    "id": 92,
+    "bus_id": 92,
+    "bus_name": "Lal Sabuj"
+  },
+  {
+    "id": 93,
+    "bus_id": 93,
+    "bus_name": "Lams Paribahan"
+  },
+  {
+    "id": 94,
+    "bus_id": 94,
+    "bus_name": "Malancha"
+  },
+  {
+    "id": 95,
+    "bus_id": 95,
+    "bus_name": "Manjil Express"
+  },
+  {
+    "id": 96,
+    "bus_id": 96,
+    "bus_name": "Meghla Transport"
+  },
+  {
+    "id": 97,
+    "bus_id": 97,
+    "bus_name": "Meshkat"
+  },
+  {
+    "id": 98,
+    "bus_id": 98,
+    "bus_name": "Midline"
+  },
+  {
+    "id": 99,
+    "bus_id": 99,
+    "bus_name": "Mirpur Metro Services"
+  },
+  {
+    "id": 100,
+    "bus_id": 100,
+    "bus_name": "Mirpur Link"
+  },
+  {
+    "id": 101,
+    "bus_id": 101,
+    "bus_name": "Mirpur Mission"
+  },
+  {
+    "id": 102,
+    "bus_id": 102,
+    "bus_name": "Mirpur Transport Service"
+  },
+  {
+    "id": 103,
+    "bus_id": 103,
+    "bus_name": "Mirpur United Service"
+  },
+  {
+    "id": 104,
+    "bus_id": 104,
+    "bus_name": "MM Lovely"
+  },
+  {
+    "id": 105,
+    "bus_id": 105,
+    "bus_name": "Modhumita"
+  },
+  {
+    "id": 106,
+    "bus_id": 106,
+    "bus_name": "Mohona"
+  },
+  {
+    "id": 107,
+    "bus_id": 107,
+    "bus_name": "Moitri"
+  },
+  {
+    "id": 108,
+    "bus_id": 108,
+    "bus_name": "Moumita"
+  },
+  {
+    "id": 109,
+    "bus_id": 109,
+    "bus_name": "MTCL-2"
+  },
+  {
+    "id": 110,
+    "bus_id": 110,
+    "bus_name": "Nur E Makka"
+  },
+  {
+    "id": 111,
+    "bus_id": 111,
+    "bus_name": "Nabakali"
+  },
+  {
+    "id": 112,
+    "bus_id": 112,
+    "bus_name": "New Vision"
+  },
+  {
+    "id": 113,
+    "bus_id": 113,
+    "bus_name": "Nilachol"
+  },
+  {
+    "id": 114,
+    "bus_id": 114,
+    "bus_name": "Nishorgo"
+  },
+  {
+    "id": 115,
+    "bus_id": 115,
+    "bus_name": "Omama International"
+  },
+  {
+    "id": 116,
+    "bus_id": 116,
+    "bus_name": "One Transport"
+  },
+  {
+    "id": 117,
+    "bus_id": 117,
+    "bus_name": "Pallabi Local Service"
+  },
+  {
+    "id": 118,
+    "bus_id": 118,
+    "bus_name": "Pallabi Super"
+  },
+  {
+    "id": 119,
+    "bus_id": 119,
+    "bus_name": "Paristhan"
+  },
+  {
+    "id": 120,
+    "bus_id": 120,
+    "bus_name": "Power Paribahan"
+  },
+  {
+    "id": 121,
+    "bus_id": 121,
+    "bus_name": "Prattay"
+  },
+  {
+    "id": 122,
+    "bus_id": 122,
+    "bus_name": "Prochesta"
+  },
+  {
+    "id": 123,
+    "bus_id": 123,
+    "bus_name": "Projapati"
+  },
+  {
+    "id": 124,
+    "bus_id": 124,
+    "bus_name": "Provati Banasree"
+  },
+  {
+    "id": 125,
+    "bus_id": 125,
+    "bus_name": "Purbachol Logistics and Transport"
+  },
+  {
+    "id": 126,
+    "bus_id": 126,
+    "bus_name": "Raida"
+  },
+  {
+    "id": 127,
+    "bus_id": 127,
+    "bus_name": "Raja City"
+  },
+  {
+    "id": 128,
+    "bus_id": 128,
+    "bus_name": "Rajanigandha"
+  },
+  {
+    "id": 129,
+    "bus_id": 129,
+    "bus_name": "Rajdhani Super"
+  },
+  {
+    "id": 130,
+    "bus_id": 130,
+    "bus_name": "Ramjan"
+  },
+  {
+    "id": 131,
+    "bus_id": 131,
+    "bus_name": "Robrob"
+  },
+  {
+    "id": 132,
+    "bus_id": 132,
+    "bus_name": "Rois"
+  },
+  {
+    "id": 133,
+    "bus_id": 133,
+    "bus_name": "Rongdhonu Express"
+  },
+  {
+    "id": 134,
+    "bus_id": 134,
+    "bus_name": "Runway Express"
+  },
+  {
+    "id": 135,
+    "bus_id": 135,
+    "bus_name": "Rupa Paribahan"
+  },
+  {
+    "id": 136,
+    "bus_id": 136,
+    "bus_name": "Rupkotha"
+  },
+  {
+    "id": 137,
+    "bus_id": 137,
+    "bus_name": "Safety Druti"
+  },
+  {
+    "id": 138,
+    "bus_id": 138,
+    "bus_name": "Sakalpa Transport"
+  },
+  {
+    "id": 139,
+    "bus_id": 139,
+    "bus_name": "Salsabil"
+  },
+  {
+    "id": 140,
+    "bus_id": 140,
+    "bus_name": "Savar Paribahan"
+  },
+  {
+    "id": 141,
+    "bus_id": 141,
+    "bus_name": "Shadhin"
+  },
+  {
+    "id": 142,
+    "bus_id": 142,
+    "bus_name": "Shadhin Express"
+  },
+  {
+    "id": 143,
+    "bus_id": 143,
+    "bus_name": "Shahria Enterprise"
+  },
+  {
+    "id": 144,
+    "bus_id": 144,
+    "bus_name": "Shatabdi"
+  },
+  {
+    "id": 145,
+    "bus_id": 145,
+    "bus_name": "Shikhor Paribahan"
+  },
+  {
+    "id": 146,
+    "bus_id": 146,
+    "bus_name": "Shikhor Paribahan"
+  },
+  {
+    "id": 147,
+    "bus_id": 147,
+    "bus_name": "Suveccha"
+  },
+  {
+    "id": 148,
+    "bus_id": 148,
+    "bus_name": "Suvojatri"
+  },
+  {
+    "id": 149,
+    "bus_id": 149,
+    "bus_name": "Siam Transport"
+  },
+  {
+    "id": 150,
+    "bus_id": 150,
+    "bus_name": "Skyline"
+  },
+  {
+    "id": 151,
+    "bus_id": 151,
+    "bus_name": "Somota Paribahan"
+  },
+  {
+    "id": 152,
+    "bus_id": 152,
+    "bus_name": "Somoy"
+  },
+  {
+    "id": 153,
+    "bus_id": 153,
+    "bus_name": "Somoy Niyantran"
+  },
+  {
+    "id": 154,
+    "bus_id": 154,
+    "bus_name": "Super"
+  },
+  {
+    "id": 155,
+    "bus_id": 155,
+    "bus_name": "Supravat"
+  },
+  {
+    "id": 156,
+    "bus_id": 156,
+    "bus_name": "Swajan Paribahan"
+  },
+  {
+    "id": 157,
+    "bus_id": 157,
+    "bus_name": "Talukdar"
+  },
+  {
+    "id": 158,
+    "bus_id": 158,
+    "bus_name": "Tanjil Paribahan"
+  },
+  {
+    "id": 159,
+    "bus_id": 159,
+    "bus_name": "Taranga Plus"
+  },
+  {
+    "id": 160,
+    "bus_id": 160,
+    "bus_name": "Tetulia"
+  },
+  {
+    "id": 161,
+    "bus_id": 161,
+    "bus_name": "Thikana"
+  },
+  {
+    "id": 162,
+    "bus_id": 162,
+    "bus_name": "Thikana Express"
+  },
+  {
+    "id": 163,
+    "bus_id": 163,
+    "bus_name": "Titas"
+  },
+  {
+    "id": 164,
+    "bus_id": 164,
+    "bus_name": "Transilva"
+  },
+  {
+    "id": 165,
+    "bus_id": 165,
+    "bus_name": "Trust Transport Services"
+  },
+  {
+    "id": 166,
+    "bus_id": 166,
+    "bus_name": "Trust Transport Services"
+  },
+  {
+    "id": 167,
+    "bus_id": 167,
+    "bus_name": "Trust Transport Services"
+  },
+  {
+    "id": 168,
+    "bus_id": 168,
+    "bus_name": "Trust Transport Services"
+  },
+  {
+    "id": 169,
+    "bus_id": 169,
+    "bus_name": "Turag"
+  },
+  {
+    "id": 170,
+    "bus_id": 170,
+    "bus_name": "Victor Classic"
+  },
+  {
+    "id": 171,
+    "bus_id": 171,
+    "bus_name": "Victor Paribahan"
+  },
+  {
+    "id": 172,
+    "bus_id": 172,
+    "bus_name": "VIP 27"
+  },
+  {
+    "id": 173,
+    "bus_id": 173,
+    "bus_name": "Welcome"
+  },
+  {
+    "id": 174,
+    "bus_id": 174,
+    "bus_name": "Winner"
+  },
+  {
+    "id": 175,
+    "bus_id": 175,
+    "bus_name": "13 No."
+  },
+  {
+    "id": 176,
+    "bus_id": 176,
+    "bus_name": "4 No. Alike"
+  },
+  {
+    "id": 177,
+    "bus_id": 177,
+    "bus_name": "6 No."
+  },
+  {
+    "id": 178,
+    "bus_id": 178,
+    "bus_name": "6 No. Motijheel Banani Transport"
+  },
+  {
+    "id": 179,
+    "bus_id": 179,
+    "bus_name": "7 No."
+  },
+  {
+    "id": 180,
+    "bus_id": 180,
+    "bus_name": "8 No."
+  },
+  {
+    "id": 181,
+    "bus_id": 181,
+    "bus_name": "9 No."
+  },
+  {
+    "id": 182,
+    "bus_id": 182,
+    "bus_name": "Deepan"
+  },
+  {
+    "id": 183,
+    "bus_id": 183,
+    "bus_name": "BRTC"
+  }
+]

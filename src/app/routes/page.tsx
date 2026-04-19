@@ -6,7 +6,7 @@ import { dijkstraAdapter } from "@/modules/routing/dijkstra.adapter"
 import { staticBusAdapter } from "@/modules/buses/staticBus.adapter"
 import { simpleFareAdapter } from "@/modules/fare/simpleFare.adapter"
 import { simpleTimeAdapter, buildTimeTable } from "@/modules/time/simpleTime.adapter"
-import { getGraph, getBusDB, getAllStops } from "@/infrastructure/graph.data"
+import { getGraph, getBusDB, getAllStops, expandRoutePath, getFareForRoute } from "@/infrastructure/graph.data"
 import { getFareTable } from "@/infrastructure/fare.data"
 import { normalizeStop } from "@/domain/stopNormalizer"
 import { RouteResult, SortKey } from "@/domain/types"
@@ -49,6 +49,8 @@ export default async function RoutesPage({ searchParams }: PageProps) {
     to,
     maxPaths: 5,
     sortBy,
+    expandPath: expandRoutePath,
+    getFare: getFareForRoute,
   })
 
   return (

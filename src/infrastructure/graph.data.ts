@@ -1,93 +1,122 @@
-import { Graph, segmentKey } from "@/domain/types"
-import { BusOperator } from "@/domain/types"
-import { normalizeStop } from "@/domain/stopNormalizer"
-import busListRaw from "./data/dhaka_bus_list.json"
+import { Graph, BusOperator, segmentKey } from "@/domain/types"
+import { instance as dp } from "./dataProcessor"
 
-interface RawStop { en: string; bn: string }
-interface RawBus {
-  operator: string
-  operator_bn: string
-  stops: RawStop[]
-  starting_time?: string
-  closing_time?: string
-  service_type?: string
-}
+/**
+ * Returns the graph using Stop IDs as nodes.
+ */
+let cachedGraph: Graph | null = null
+let cachedBusDB: Map<string, BusOperator[]> | null = null
+let cachedStops: string[] | null = null
 
-const busList = busListRaw as RawBus[]
-
-// ─── Graph ────────────────────────────────────────────────────────────────────
-// Each bus route creates bidirectional edges between CONSECUTIVE stops only.
-// stop → [reachable stops via direct edge]
-
-let _graph: Graph | null = null
-
+/**
+ * Returns the graph using Stop IDs as nodes.
+ */
 export function getGraph(): Graph {
-  if (_graph) return _graph
+  if (cachedGraph) return cachedGraph
+
+  const innerGraph = dp.buildGraph()
   const graph: Graph = {}
+  
+  // Optimization: use a map for stop lookup
+  const stopLookup = new Map<number, string>()
+  dp.stops.forEach(s => stopLookup.set(s.stop_id, s.stop_name))
 
-  const addEdge = (a: string, b: string) => {
-    if (!graph[a]) graph[a] = []
-    if (!graph[b]) graph[b] = []
-    if (!graph[a].includes(b)) graph[a].push(b)
-    if (!graph[b].includes(a)) graph[b].push(a)
-  }
+  Object.entries(innerGraph).forEach(([fromId, edges]) => {
+    const fromName = stopLookup.get(Number(fromId))
+    if (!fromName) return
+    
+    if (!graph[fromName]) graph[fromName] = []
+    
+    edges.forEach(edge => {
+      const toName = stopLookup.get(edge.to)
+      if (!toName) return
 
-  for (const bus of busList) {
-    const stops = bus.stops.map((s) => normalizeStop(s.en))
-    for (let i = 0; i < stops.length - 1; i++) {
-      addEdge(stops[i], stops[i + 1])
-    }
-  }
+      graph[fromName].push({
+        to: toName,
+        cost: edge.cost,
+        routeId: edge.routeId
+      })
+    })
+  })
 
-  _graph = graph
+  cachedGraph = graph
   return graph
 }
 
-// ─── Bus DB ───────────────────────────────────────────────────────────────────
-// segmentKey(A, B) → list of bus operators that cover that segment directly
-
-let _busDB: Map<string, BusOperator[]> | null = null
-
+/**
+ * Returns the Bus DB using normalized stop names.
+ */
 export function getBusDB(): Map<string, BusOperator[]> {
-  if (_busDB) return _busDB
+  if (cachedBusDB) return cachedBusDB
+
   const db = new Map<string, BusOperator[]>()
+  const stopLookup = new Map<number, string>()
+  dp.stops.forEach(s => stopLookup.set(s.stop_id, s.stop_name))
 
-  const addBus = (a: string, b: string, op: BusOperator) => {
-    const key = segmentKey(a, b)
-    const existing = db.get(key) ?? []
-    if (!existing.find((x) => x.name === op.name)) {
-      existing.push(op)
-    }
-    db.set(key, existing)
-    // bidirectional
-    const rkey = segmentKey(b, a)
-    const rexisting = db.get(rkey) ?? []
-    if (!rexisting.find((x) => x.name === op.name)) {
-      rexisting.push(op)
-    }
-    db.set(rkey, rexisting)
-  }
+  // Group stops by route
+  const routeGroups = new Map<number, number[]>()
+  dp.routeStops.forEach(rs => {
+    if (!routeGroups.has(rs.route_id)) routeGroups.set(rs.route_id, [])
+    routeGroups.get(rs.route_id)!.push(rs.stop_id)
+  })
 
-  for (const bus of busList) {
-    const stops = bus.stops.map((s) => normalizeStop(s.en))
+  routeGroups.forEach((stopIds, routeId) => {
+    const routeBus = dp.routeBusList.find(rb => rb.route_id === routeId)
+    const bus = dp.buses.find(b => b.bus_id === routeBus?.bus_id)
+    if (!bus) return
+
     const op: BusOperator = {
-      name: bus.operator,
-      name_bn: bus.operator_bn,
-      serviceType: bus.service_type,
-      startTime: bus.starting_time,
-      endTime: bus.closing_time,
+      name: bus.bus_name,
+      name_bn: "", 
     }
-    for (let i = 0; i < stops.length - 1; i++) {
-      addBus(stops[i], stops[i + 1], op)
-    }
-  }
 
-  _busDB = db
+    // All pairs (i, j) are reachable on the same route
+    for (let i = 0; i < stopIds.length; i++) {
+      const fromName = stopLookup.get(stopIds[i])
+      if (!fromName) continue
+
+      for (let j = 0; j < stopIds.length; j++) {
+        if (i === j) continue
+        
+        const toName = stopLookup.get(stopIds[j])
+        if (!toName) continue
+
+        const key = segmentKey(fromName, toName)
+        let list = db.get(key)
+        if (!list) {
+          list = []
+          db.set(key, list)
+        }
+        
+        if (!list.find(x => x.name === op.name)) {
+          list.push(op)
+        }
+      }
+    }
+  })
+
+  cachedBusDB = db
   return db
 }
 
-/** Get all canonical stop names */
+export function expandRoutePath(routeId: number, fromName: string, toName: string): string[] {
+  const fromId = dp.getStopIdByName(fromName)
+  const toId = dp.getStopIdByName(toName)
+  if (fromId === undefined || toId === undefined) return [fromName, toName]
+  
+  const ids = dp.getStopsForRoute(routeId, fromId, toId)
+  return ids.map(id => dp.getStopNameById(id) || "").filter(Boolean)
+}
+
+export function getFareForRoute(routeId: number, fromName: string, toName: string): number {
+  const fromId = dp.getStopIdByName(fromName)
+  const toId = dp.getStopIdByName(toName)
+  if (fromId === undefined || toId === undefined) return 10
+  return (dp as any).findFare(routeId, fromId, toId)
+}
+
 export function getAllStops(): string[] {
-  const graph = getGraph()
-  return Object.keys(graph).sort()
+  if (cachedStops) return cachedStops
+  cachedStops = dp.stops.map(s => s.stop_name).sort()
+  return cachedStops
 }

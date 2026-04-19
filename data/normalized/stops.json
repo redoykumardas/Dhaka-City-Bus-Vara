@@ -1,0 +1,1807 @@
+[
+  {
+    "id": 1,
+    "stop_id": 1,
+    "stop_name": "Gabtoli"
+  },
+  {
+    "id": 2,
+    "stop_id": 2,
+    "stop_name": "Technical"
+  },
+  {
+    "id": 3,
+    "stop_id": 3,
+    "stop_name": "Ansar Camp"
+  },
+  {
+    "id": 4,
+    "stop_id": 4,
+    "stop_name": "Mirpur 1"
+  },
+  {
+    "id": 5,
+    "stop_id": 5,
+    "stop_name": "Sony Cinema Hall"
+  },
+  {
+    "id": 6,
+    "stop_id": 6,
+    "stop_name": "Mirpur 2"
+  },
+  {
+    "id": 7,
+    "stop_id": 7,
+    "stop_name": "Mirpur 10"
+  },
+  {
+    "id": 8,
+    "stop_id": 8,
+    "stop_name": "Mirpur 11"
+  },
+  {
+    "id": 9,
+    "stop_id": 9,
+    "stop_name": "Purobi"
+  },
+  {
+    "id": 10,
+    "stop_id": 10,
+    "stop_name": "Kalshi"
+  },
+  {
+    "id": 11,
+    "stop_id": 11,
+    "stop_name": "ECB Square"
+  },
+  {
+    "id": 12,
+    "stop_id": 12,
+    "stop_name": "MES"
+  },
+  {
+    "id": 13,
+    "stop_id": 13,
+    "stop_name": "Shewra"
+  },
+  {
+    "id": 14,
+    "stop_id": 14,
+    "stop_name": "Kuril Bishwa Road"
+  },
+  {
+    "id": 15,
+    "stop_id": 15,
+    "stop_name": "Jamuna Future Park"
+  },
+  {
+    "id": 16,
+    "stop_id": 16,
+    "stop_name": "Bashundhara"
+  },
+  {
+    "id": 17,
+    "stop_id": 17,
+    "stop_name": "Nadda"
+  },
+  {
+    "id": 18,
+    "stop_id": 18,
+    "stop_name": "Notun Bazar"
+  },
+  {
+    "id": 19,
+    "stop_id": 19,
+    "stop_name": "Bashtola"
+  },
+  {
+    "id": 20,
+    "stop_id": 20,
+    "stop_name": "Shahjadpur"
+  },
+  {
+    "id": 21,
+    "stop_id": 21,
+    "stop_name": "Uttar Badda"
+  },
+  {
+    "id": 22,
+    "stop_id": 22,
+    "stop_name": "Badda"
+  },
+  {
+    "id": 23,
+    "stop_id": 23,
+    "stop_name": "Madhya Badda"
+  },
+  {
+    "id": 24,
+    "stop_id": 24,
+    "stop_name": "Merul Badda"
+  },
+  {
+    "id": 25,
+    "stop_id": 25,
+    "stop_name": "Rampura Bridge"
+  },
+  {
+    "id": 26,
+    "stop_id": 26,
+    "stop_name": "Banasree"
+  },
+  {
+    "id": 27,
+    "stop_id": 27,
+    "stop_name": "Demra Staff Quarter"
+  },
+  {
+    "id": 28,
+    "stop_id": 28,
+    "stop_name": "Shia Masjid"
+  },
+  {
+    "id": 29,
+    "stop_id": 29,
+    "stop_name": "Adabor"
+  },
+  {
+    "id": 30,
+    "stop_id": 30,
+    "stop_name": "Shyamoli"
+  },
+  {
+    "id": 31,
+    "stop_id": 31,
+    "stop_name": "Shewrapara"
+  },
+  {
+    "id": 32,
+    "stop_id": 32,
+    "stop_name": "Khilkhet"
+  },
+  {
+    "id": 33,
+    "stop_id": 33,
+    "stop_name": "Airport"
+  },
+  {
+    "id": 34,
+    "stop_id": 34,
+    "stop_name": "Jashimuddin"
+  },
+  {
+    "id": 35,
+    "stop_id": 35,
+    "stop_name": "Rajlakshmi"
+  },
+  {
+    "id": 36,
+    "stop_id": 36,
+    "stop_name": "Azampur"
+  },
+  {
+    "id": 37,
+    "stop_id": 37,
+    "stop_name": "House Building"
+  },
+  {
+    "id": 38,
+    "stop_id": 38,
+    "stop_name": "Abdullahpur"
+  },
+  {
+    "id": 39,
+    "stop_id": 39,
+    "stop_name": "Savar"
+  },
+  {
+    "id": 40,
+    "stop_id": 40,
+    "stop_name": "Hemayetpur"
+  },
+  {
+    "id": 41,
+    "stop_id": 41,
+    "stop_name": "Amin Bazar"
+  },
+  {
+    "id": 42,
+    "stop_id": 42,
+    "stop_name": "Kallyanpur"
+  },
+  {
+    "id": 43,
+    "stop_id": 43,
+    "stop_name": "Shishu Mela"
+  },
+  {
+    "id": 44,
+    "stop_id": 44,
+    "stop_name": "Agargaon"
+  },
+  {
+    "id": 45,
+    "stop_id": 45,
+    "stop_name": "Zia Uddyan"
+  },
+  {
+    "id": 46,
+    "stop_id": 46,
+    "stop_name": "Bijoy Sarani"
+  },
+  {
+    "id": 47,
+    "stop_id": 47,
+    "stop_name": "Jahangir Gate"
+  },
+  {
+    "id": 48,
+    "stop_id": 48,
+    "stop_name": "Mohakhali"
+  },
+  {
+    "id": 49,
+    "stop_id": 49,
+    "stop_name": "Wireless"
+  },
+  {
+    "id": 50,
+    "stop_id": 50,
+    "stop_name": "Golshan 1"
+  },
+  {
+    "id": 51,
+    "stop_id": 51,
+    "stop_name": "Badda Link Road"
+  },
+  {
+    "id": 52,
+    "stop_id": 52,
+    "stop_name": "Fulbaria"
+  },
+  {
+    "id": 53,
+    "stop_id": 53,
+    "stop_name": "Golap Shah Mazar"
+  },
+  {
+    "id": 54,
+    "stop_id": 54,
+    "stop_name": "GPO"
+  },
+  {
+    "id": 55,
+    "stop_id": 55,
+    "stop_name": "Paltan"
+  },
+  {
+    "id": 56,
+    "stop_id": 56,
+    "stop_name": "Press Club"
+  },
+  {
+    "id": 57,
+    "stop_id": 57,
+    "stop_name": "High Court"
+  },
+  {
+    "id": 58,
+    "stop_id": 58,
+    "stop_name": "Matsya Bhaban"
+  },
+  {
+    "id": 59,
+    "stop_id": 59,
+    "stop_name": "Shahbag"
+  },
+  {
+    "id": 60,
+    "stop_id": 60,
+    "stop_name": "Bangla Motor"
+  },
+  {
+    "id": 61,
+    "stop_id": 61,
+    "stop_name": "Kawran Bazar"
+  },
+  {
+    "id": 62,
+    "stop_id": 62,
+    "stop_name": "Farmgate"
+  },
+  {
+    "id": 63,
+    "stop_id": 63,
+    "stop_name": "Chairman Bari"
+  },
+  {
+    "id": 64,
+    "stop_id": 64,
+    "stop_name": "Sainik Club"
+  },
+  {
+    "id": 65,
+    "stop_id": 65,
+    "stop_name": "Banani"
+  },
+  {
+    "id": 66,
+    "stop_id": 66,
+    "stop_name": "Kakali"
+  },
+  {
+    "id": 67,
+    "stop_id": 67,
+    "stop_name": "Staff Road"
+  },
+  {
+    "id": 68,
+    "stop_id": 68,
+    "stop_name": "Kurmitola"
+  },
+  {
+    "id": 69,
+    "stop_id": 69,
+    "stop_name": "Sadarghat"
+  },
+  {
+    "id": 70,
+    "stop_id": 70,
+    "stop_name": "Ray Saheb Bazar"
+  },
+  {
+    "id": 71,
+    "stop_id": 71,
+    "stop_name": "Naya Bazar"
+  },
+  {
+    "id": 72,
+    "stop_id": 72,
+    "stop_name": "Kakrail"
+  },
+  {
+    "id": 73,
+    "stop_id": 73,
+    "stop_name": "Shantinagar"
+  },
+  {
+    "id": 74,
+    "stop_id": 74,
+    "stop_name": "Malibagh"
+  },
+  {
+    "id": 75,
+    "stop_id": 75,
+    "stop_name": "Mouchak"
+  },
+  {
+    "id": 76,
+    "stop_id": 76,
+    "stop_name": "Nabisco"
+  },
+  {
+    "id": 77,
+    "stop_id": 77,
+    "stop_name": "Tongi"
+  },
+  {
+    "id": 78,
+    "stop_id": 78,
+    "stop_name": "Station Road"
+  },
+  {
+    "id": 79,
+    "stop_id": 79,
+    "stop_name": "Mill Gate"
+  },
+  {
+    "id": 80,
+    "stop_id": 80,
+    "stop_name": "Board Bazar"
+  },
+  {
+    "id": 81,
+    "stop_id": 81,
+    "stop_name": "Gazipur Bypass"
+  },
+  {
+    "id": 82,
+    "stop_id": 82,
+    "stop_name": "Konabari"
+  },
+  {
+    "id": 83,
+    "stop_id": 83,
+    "stop_name": "Chandra"
+  },
+  {
+    "id": 84,
+    "stop_id": 84,
+    "stop_name": "Dhamrai"
+  },
+  {
+    "id": 85,
+    "stop_id": 85,
+    "stop_name": "College Gate"
+  },
+  {
+    "id": 86,
+    "stop_id": 86,
+    "stop_name": "Asad Gate"
+  },
+  {
+    "id": 87,
+    "stop_id": 87,
+    "stop_name": "Dhanmondi 27"
+  },
+  {
+    "id": 88,
+    "stop_id": 88,
+    "stop_name": "Dhanmondi 32"
+  },
+  {
+    "id": 89,
+    "stop_id": 89,
+    "stop_name": "Kalabagan"
+  },
+  {
+    "id": 90,
+    "stop_id": 90,
+    "stop_name": "City College"
+  },
+  {
+    "id": 91,
+    "stop_id": 91,
+    "stop_name": "New Market"
+  },
+  {
+    "id": 92,
+    "stop_id": 92,
+    "stop_name": "Nilkhet"
+  },
+  {
+    "id": 93,
+    "stop_id": 93,
+    "stop_name": "Azimpur"
+  },
+  {
+    "id": 94,
+    "stop_id": 94,
+    "stop_name": "Bakshi Bazar"
+  },
+  {
+    "id": 95,
+    "stop_id": 95,
+    "stop_name": "Gulistan"
+  },
+  {
+    "id": 96,
+    "stop_id": 96,
+    "stop_name": "Chittagong Road"
+  },
+  {
+    "id": 97,
+    "stop_id": 97,
+    "stop_name": "Kadamtali"
+  },
+  {
+    "id": 98,
+    "stop_id": 98,
+    "stop_name": "Keraniganj"
+  },
+  {
+    "id": 99,
+    "stop_id": 99,
+    "stop_name": "Babubazar"
+  },
+  {
+    "id": 100,
+    "stop_id": 100,
+    "stop_name": "Malibagh Railgate"
+  },
+  {
+    "id": 101,
+    "stop_id": 101,
+    "stop_name": "Hazipara"
+  },
+  {
+    "id": 102,
+    "stop_id": 102,
+    "stop_name": "Rampura Bazar"
+  },
+  {
+    "id": 103,
+    "stop_id": 103,
+    "stop_name": "Motijheel"
+  },
+  {
+    "id": 104,
+    "stop_id": 104,
+    "stop_name": "Mogbazar"
+  },
+  {
+    "id": 105,
+    "stop_id": 105,
+    "stop_name": "Nandan Park"
+  },
+  {
+    "id": 106,
+    "stop_id": 106,
+    "stop_name": "Zirani Bazar"
+  },
+  {
+    "id": 107,
+    "stop_id": 107,
+    "stop_name": "Baipayl"
+  },
+  {
+    "id": 108,
+    "stop_id": 108,
+    "stop_name": "Nobinagar"
+  },
+  {
+    "id": 109,
+    "stop_id": 109,
+    "stop_name": "Khamar Bari"
+  },
+  {
+    "id": 110,
+    "stop_id": 110,
+    "stop_name": "Kamalapur"
+  },
+  {
+    "id": 111,
+    "stop_id": 111,
+    "stop_name": "Mirpur 14"
+  },
+  {
+    "id": 112,
+    "stop_id": 112,
+    "stop_name": "Mazar Road"
+  },
+  {
+    "id": 113,
+    "stop_id": 113,
+    "stop_name": "Rupnagar"
+  },
+  {
+    "id": 114,
+    "stop_id": 114,
+    "stop_name": "Beribadh"
+  },
+  {
+    "id": 115,
+    "stop_id": 115,
+    "stop_name": "Birulia"
+  },
+  {
+    "id": 116,
+    "stop_id": 116,
+    "stop_name": "Ashulia"
+  },
+  {
+    "id": 117,
+    "stop_id": 117,
+    "stop_name": "Zirabo"
+  },
+  {
+    "id": 118,
+    "stop_id": 118,
+    "stop_name": "Fantasy Kingdom"
+  },
+  {
+    "id": 119,
+    "stop_id": 119,
+    "stop_name": "Japan Garden City"
+  },
+  {
+    "id": 120,
+    "stop_id": 120,
+    "stop_name": "Kazipara"
+  },
+  {
+    "id": 121,
+    "stop_id": 121,
+    "stop_name": "Ring Road"
+  },
+  {
+    "id": 122,
+    "stop_id": 122,
+    "stop_name": "Sign Board"
+  },
+  {
+    "id": 123,
+    "stop_id": 123,
+    "stop_name": "Shonir Akhra"
+  },
+  {
+    "id": 124,
+    "stop_id": 124,
+    "stop_name": "Jatrabari"
+  },
+  {
+    "id": 125,
+    "stop_id": 125,
+    "stop_name": "Mugdapara"
+  },
+  {
+    "id": 126,
+    "stop_id": 126,
+    "stop_name": "Bashabo"
+  },
+  {
+    "id": 127,
+    "stop_id": 127,
+    "stop_name": "Khilgaon"
+  },
+  {
+    "id": 128,
+    "stop_id": 128,
+    "stop_name": "Gazipur Chourasta"
+  },
+  {
+    "id": 129,
+    "stop_id": 129,
+    "stop_name": "Duairipara"
+  },
+  {
+    "id": 130,
+    "stop_id": 130,
+    "stop_name": "Rupnagar Abashik"
+  },
+  {
+    "id": 131,
+    "stop_id": 131,
+    "stop_name": "Shiyal Bari"
+  },
+  {
+    "id": 132,
+    "stop_id": 132,
+    "stop_name": "Proshika Moor"
+  },
+  {
+    "id": 133,
+    "stop_id": 133,
+    "stop_name": "Shukrabad"
+  },
+  {
+    "id": 134,
+    "stop_id": 134,
+    "stop_name": "Jamgora"
+  },
+  {
+    "id": 135,
+    "stop_id": 135,
+    "stop_name": "Asulia Bazar"
+  },
+  {
+    "id": 136,
+    "stop_id": 136,
+    "stop_name": "Kamarpara"
+  },
+  {
+    "id": 137,
+    "stop_id": 137,
+    "stop_name": "Sat rasta"
+  },
+  {
+    "id": 138,
+    "stop_id": 138,
+    "stop_name": "Dhour"
+  },
+  {
+    "id": 139,
+    "stop_id": 139,
+    "stop_name": "Tarabo"
+  },
+  {
+    "id": 140,
+    "stop_id": 140,
+    "stop_name": "Madanpur"
+  },
+  {
+    "id": 141,
+    "stop_id": 141,
+    "stop_name": "Mohammadpur"
+  },
+  {
+    "id": 142,
+    "stop_id": 142,
+    "stop_name": "Science Lab"
+  },
+  {
+    "id": 143,
+    "stop_id": 143,
+    "stop_name": "Katabon"
+  },
+  {
+    "id": 144,
+    "stop_id": 144,
+    "stop_name": "Bata Signal"
+  },
+  {
+    "id": 145,
+    "stop_id": 145,
+    "stop_name": "Arambagh Notre Dame College"
+  },
+  {
+    "id": 146,
+    "stop_id": 146,
+    "stop_name": "Chiriyakhana"
+  },
+  {
+    "id": 147,
+    "stop_id": 147,
+    "stop_name": "Taltola"
+  },
+  {
+    "id": 148,
+    "stop_id": 148,
+    "stop_name": "Malibaag Moor"
+  },
+  {
+    "id": 149,
+    "stop_id": 149,
+    "stop_name": "Rajarbag"
+  },
+  {
+    "id": 150,
+    "stop_id": 150,
+    "stop_name": "Bangla College"
+  },
+  {
+    "id": 151,
+    "stop_id": 151,
+    "stop_name": "Darussalam"
+  },
+  {
+    "id": 152,
+    "stop_id": 152,
+    "stop_name": "Dainik Bangla Moor"
+  },
+  {
+    "id": 153,
+    "stop_id": 153,
+    "stop_name": "Arambagh"
+  },
+  {
+    "id": 154,
+    "stop_id": 154,
+    "stop_name": "Gulshan 1"
+  },
+  {
+    "id": 155,
+    "stop_id": 155,
+    "stop_name": "Sayapabad"
+  },
+  {
+    "id": 156,
+    "stop_id": 156,
+    "stop_name": "Manik Nagar"
+  },
+  {
+    "id": 157,
+    "stop_id": 157,
+    "stop_name": "TT Para"
+  },
+  {
+    "id": 158,
+    "stop_id": 158,
+    "stop_name": "Manik Mia Avenue"
+  },
+  {
+    "id": 159,
+    "stop_id": 159,
+    "stop_name": "Maowa"
+  },
+  {
+    "id": 160,
+    "stop_id": 160,
+    "stop_name": "Dia Bari"
+  },
+  {
+    "id": 161,
+    "stop_id": 161,
+    "stop_name": "Old Airport"
+  },
+  {
+    "id": 162,
+    "stop_id": 162,
+    "stop_name": "Mirpur 12"
+  },
+  {
+    "id": 163,
+    "stop_id": 163,
+    "stop_name": "Gulshan Bridge"
+  },
+  {
+    "id": 164,
+    "stop_id": 164,
+    "stop_name": "Pallabi"
+  },
+  {
+    "id": 165,
+    "stop_id": 165,
+    "stop_name": "Dhakeshwari"
+  },
+  {
+    "id": 166,
+    "stop_id": 166,
+    "stop_name": "Matuail"
+  },
+  {
+    "id": 167,
+    "stop_id": 167,
+    "stop_name": "Rayerbag"
+  },
+  {
+    "id": 168,
+    "stop_id": 168,
+    "stop_name": "Chankhar Pul"
+  },
+  {
+    "id": 169,
+    "stop_id": 169,
+    "stop_name": "Palashi"
+  },
+  {
+    "id": 170,
+    "stop_id": 170,
+    "stop_name": "Sonargao"
+  },
+  {
+    "id": 171,
+    "stop_id": 171,
+    "stop_name": "Chasara"
+  },
+  {
+    "id": 172,
+    "stop_id": 172,
+    "stop_name": "Meghna Ghat"
+  },
+  {
+    "id": 173,
+    "stop_id": 173,
+    "stop_name": "Kanchpur"
+  },
+  {
+    "id": 174,
+    "stop_id": 174,
+    "stop_name": "Kawlar"
+  },
+  {
+    "id": 175,
+    "stop_id": 175,
+    "stop_name": "Elevated Express Way"
+  },
+  {
+    "id": 176,
+    "stop_id": 176,
+    "stop_name": "Tejgaon College"
+  },
+  {
+    "id": 177,
+    "stop_id": 177,
+    "stop_name": "Khejur Bagan"
+  },
+  {
+    "id": 178,
+    "stop_id": 178,
+    "stop_name": "Songsod Bhaban"
+  },
+  {
+    "id": 179,
+    "stop_id": 179,
+    "stop_name": "Vulta"
+  },
+  {
+    "id": 180,
+    "stop_id": 180,
+    "stop_name": "Kanchan Bridge"
+  },
+  {
+    "id": 181,
+    "stop_id": 181,
+    "stop_name": "Nila Market"
+  },
+  {
+    "id": 182,
+    "stop_id": 182,
+    "stop_name": "300 Feet"
+  },
+  {
+    "id": 183,
+    "stop_id": 183,
+    "stop_name": "Star Kabab"
+  },
+  {
+    "id": 184,
+    "stop_id": 184,
+    "stop_name": "Dhanmondi"
+  },
+  {
+    "id": 185,
+    "stop_id": 185,
+    "stop_name": "Jigatola"
+  },
+  {
+    "id": 186,
+    "stop_id": 186,
+    "stop_name": "Balughat"
+  },
+  {
+    "id": 187,
+    "stop_id": 187,
+    "stop_name": "Cantonment"
+  },
+  {
+    "id": 188,
+    "stop_id": 188,
+    "stop_name": "Vashantek"
+  },
+  {
+    "id": 189,
+    "stop_id": 189,
+    "stop_name": "Dhanmondi 15"
+  },
+  {
+    "id": 190,
+    "stop_id": 190,
+    "stop_name": "Bosila"
+  },
+  {
+    "id": 191,
+    "stop_id": 191,
+    "stop_name": "Ghatar Char"
+  },
+  {
+    "id": 192,
+    "stop_id": 192,
+    "stop_name": "Postogola"
+  },
+  {
+    "id": 193,
+    "stop_id": 193,
+    "stop_name": "Dholairpar"
+  },
+  {
+    "id": 194,
+    "stop_id": 194,
+    "stop_name": "Kuril Chourasta"
+  },
+  {
+    "id": 195,
+    "stop_id": 195,
+    "stop_name": "Eden College"
+  },
+  {
+    "id": 196,
+    "stop_id": 196,
+    "stop_name": "Police Plaza"
+  },
+  {
+    "id": 197,
+    "stop_id": 197,
+    "stop_name": "Gulshan 2"
+  },
+  {
+    "id": 198,
+    "stop_id": 198,
+    "stop_name": "Uttara"
+  },
+  {
+    "id": 199,
+    "stop_id": 199,
+    "stop_name": "Shib Bari"
+  },
+  {
+    "id": 200,
+    "stop_id": 200,
+    "stop_name": "Tajmahal Road"
+  },
+  {
+    "id": 201,
+    "stop_id": 201,
+    "stop_name": "Salimullah Road"
+  },
+  {
+    "id": 202,
+    "stop_id": 202,
+    "stop_name": "Jakir Hossain Road"
+  },
+  {
+    "id": 203,
+    "stop_id": 203,
+    "stop_name": "Baitul Mukarram"
+  },
+  {
+    "id": 204,
+    "stop_id": 204,
+    "stop_name": "Panthopoth"
+  },
+  {
+    "id": 205,
+    "stop_id": 205,
+    "stop_name": "Shankar"
+  },
+  {
+    "id": 206,
+    "stop_id": 206,
+    "stop_name": "Janapoth Moor"
+  },
+  {
+    "id": 207,
+    "stop_id": 207,
+    "stop_name": "Shibu Market"
+  },
+  {
+    "id": 208,
+    "stop_id": 208,
+    "stop_name": "Jalkuri"
+  },
+  {
+    "id": 209,
+    "stop_id": 209,
+    "stop_name": "Khilgaon Khidmah Hospital"
+  },
+  {
+    "id": 210,
+    "stop_id": 210,
+    "stop_name": "Metro Hall"
+  },
+  {
+    "id": 211,
+    "stop_id": 211,
+    "stop_name": "Bangladesh Bank"
+  },
+  {
+    "id": 212,
+    "stop_id": 212,
+    "stop_name": "Kuril Flyover"
+  },
+  {
+    "id": 213,
+    "stop_id": 213,
+    "stop_name": "Beribadh Tin Rastar Moor"
+  },
+  {
+    "id": 214,
+    "stop_id": 214,
+    "stop_name": "Rayer Bazar"
+  },
+  {
+    "id": 215,
+    "stop_id": 215,
+    "stop_name": "Sikder Medical College"
+  },
+  {
+    "id": 216,
+    "stop_id": 216,
+    "stop_name": "Hazaribag"
+  },
+  {
+    "id": 217,
+    "stop_id": 217,
+    "stop_name": "Kamrangirchar"
+  },
+  {
+    "id": 218,
+    "stop_id": 218,
+    "stop_name": "Showari Ghat"
+  },
+  {
+    "id": 219,
+    "stop_id": 219,
+    "stop_name": "Narsinghapur"
+  },
+  {
+    "id": 220,
+    "stop_id": 220,
+    "stop_name": "Surabari"
+  },
+  {
+    "id": 221,
+    "stop_id": 221,
+    "stop_name": "Jarun"
+  },
+  {
+    "id": 222,
+    "stop_id": 222,
+    "stop_name": "Khilgaon flyover"
+  },
+  {
+    "id": 223,
+    "stop_id": 223,
+    "stop_name": "Golapbagh Chowrasta"
+  },
+  {
+    "id": 224,
+    "stop_id": 224,
+    "stop_name": "Kazla"
+  },
+  {
+    "id": 225,
+    "stop_id": 225,
+    "stop_name": "Dayagonj"
+  },
+  {
+    "id": 226,
+    "stop_id": 226,
+    "stop_name": "Dhupkhola"
+  },
+  {
+    "id": 227,
+    "stop_id": 227,
+    "stop_name": "Ittefaq Moor"
+  },
+  {
+    "id": 228,
+    "stop_id": 228,
+    "stop_name": "Tolarbag"
+  },
+  {
+    "id": 229,
+    "stop_id": 229,
+    "stop_name": "Manikganj"
+  },
+  {
+    "id": 230,
+    "stop_id": 230,
+    "stop_name": "Paturia"
+  },
+  {
+    "id": 231,
+    "stop_id": 231,
+    "stop_name": "Chalantika Mor"
+  },
+  {
+    "id": 232,
+    "stop_id": 232,
+    "stop_name": "Mirpur 6"
+  },
+  {
+    "id": 233,
+    "stop_id": 233,
+    "stop_name": "Joydebpur"
+  },
+  {
+    "id": 234,
+    "stop_id": 234,
+    "stop_name": "Sreepur"
+  },
+  {
+    "id": 235,
+    "stop_id": 235,
+    "stop_name": "Barmi"
+  },
+  {
+    "id": 236,
+    "stop_id": 236,
+    "stop_name": "Jurain"
+  },
+  {
+    "id": 237,
+    "stop_id": 237,
+    "stop_name": "Fakirapul"
+  },
+  {
+    "id": 238,
+    "stop_id": 238,
+    "stop_name": "Rajendrapur"
+  },
+  {
+    "id": 239,
+    "stop_id": 239,
+    "stop_name": "Tikatuli"
+  },
+  {
+    "id": 240,
+    "stop_id": 240,
+    "stop_name": "Gandaria"
+  },
+  {
+    "id": 241,
+    "stop_id": 241,
+    "stop_name": "IDB"
+  },
+  {
+    "id": 242,
+    "stop_id": 242,
+    "stop_name": "Shimultola"
+  },
+  {
+    "id": 243,
+    "stop_id": 243,
+    "stop_name": "Palli Bidyut"
+  },
+  {
+    "id": 244,
+    "stop_id": 244,
+    "stop_name": "Savar Cantonment"
+  },
+  {
+    "id": 245,
+    "stop_id": 245,
+    "stop_name": "Victoria Park"
+  },
+  {
+    "id": 246,
+    "stop_id": 246,
+    "stop_name": "Sanarpar"
+  },
+  {
+    "id": 247,
+    "stop_id": 247,
+    "stop_name": "South Banasree"
+  },
+  {
+    "id": 248,
+    "stop_id": 248,
+    "stop_name": "Shonbari Sreenagar"
+  },
+  {
+    "id": 249,
+    "stop_id": 249,
+    "stop_name": "Nimtola"
+  },
+  {
+    "id": 250,
+    "stop_id": 250,
+    "stop_name": "Kuchimura"
+  },
+  {
+    "id": 251,
+    "stop_id": 251,
+    "stop_name": "Hasnabad"
+  },
+  {
+    "id": 252,
+    "stop_id": 252,
+    "stop_name": "Mirpur 13"
+  },
+  {
+    "id": 253,
+    "stop_id": 253,
+    "stop_name": "Kochukhet"
+  },
+  {
+    "id": 254,
+    "stop_id": 254,
+    "stop_name": "Workshop"
+  },
+  {
+    "id": 255,
+    "stop_id": 255,
+    "stop_name": "Saudi Colony"
+  },
+  {
+    "id": 256,
+    "stop_id": 256,
+    "stop_name": "Mirpur"
+  },
+  {
+    "id": 257,
+    "stop_id": 257,
+    "stop_name": "Garrison"
+  },
+  {
+    "id": 258,
+    "stop_id": 258,
+    "stop_name": "Adamjee School"
+  },
+  {
+    "id": 259,
+    "stop_id": 259,
+    "stop_name": "Bot tola"
+  },
+  {
+    "id": 260,
+    "stop_id": 260,
+    "stop_name": "Signal"
+  },
+  {
+    "id": 261,
+    "stop_id": 261,
+    "stop_name": "CMH"
+  },
+  {
+    "id": 262,
+    "stop_id": 262,
+    "stop_name": "Amulia Staff Quarter"
+  },
+  {
+    "id": 263,
+    "stop_id": 263,
+    "stop_name": "Sayedabad"
+  },
+  {
+    "id": 264,
+    "stop_id": 264,
+    "stop_name": "Signboard"
+  },
+  {
+    "id": 265,
+    "stop_id": 265,
+    "stop_name": "Kanchpur Bridge"
+  },
+  {
+    "id": 266,
+    "stop_id": 266,
+    "stop_name": "মিরপুর ১২"
+  },
+  {
+    "id": 267,
+    "stop_id": 267,
+    "stop_name": "মিরপুর ১১ ১/২"
+  },
+  {
+    "id": 268,
+    "stop_id": 268,
+    "stop_name": "বৈকালী হোটেল"
+  },
+  {
+    "id": 269,
+    "stop_id": 269,
+    "stop_name": "মিরপুর ১১"
+  },
+  {
+    "id": 270,
+    "stop_id": 270,
+    "stop_name": "মিরপুর ১০"
+  },
+  {
+    "id": 271,
+    "stop_id": 271,
+    "stop_name": "কাজীপাড়া"
+  },
+  {
+    "id": 272,
+    "stop_id": 272,
+    "stop_name": "ফার্মগেট"
+  },
+  {
+    "id": 273,
+    "stop_id": 273,
+    "stop_name": "প্রেসক্লাব"
+  },
+  {
+    "id": 274,
+    "stop_id": 274,
+    "stop_name": "টিএন্ডটি"
+  },
+  {
+    "id": 275,
+    "stop_id": 275,
+    "stop_name": "রায়সাহেব বাজার"
+  },
+  {
+    "id": 276,
+    "stop_id": 276,
+    "stop_name": "ভিক্টোরিয়া পার্ক"
+  },
+  {
+    "id": 277,
+    "stop_id": 277,
+    "stop_name": "দুয়ারীপাড়া"
+  },
+  {
+    "id": 278,
+    "stop_id": 278,
+    "stop_name": "মিরপুর সাড়ে ১১"
+  },
+  {
+    "id": 279,
+    "stop_id": 279,
+    "stop_name": "শেওড়াপাড়া"
+  },
+  {
+    "id": 280,
+    "stop_id": 280,
+    "stop_name": "আগারগাঁও"
+  },
+  {
+    "id": 281,
+    "stop_id": 281,
+    "stop_name": "ধানমন্ডি"
+  },
+  {
+    "id": 282,
+    "stop_id": 282,
+    "stop_name": "শুক্রাবাদ"
+  },
+  {
+    "id": 283,
+    "stop_id": 283,
+    "stop_name": "ঢাকেশ্বরী মন্দির"
+  },
+  {
+    "id": 284,
+    "stop_id": 284,
+    "stop_name": "দুয়ারিপাড়া"
+  },
+  {
+    "id": 285,
+    "stop_id": 285,
+    "stop_name": "প্রশিকা"
+  },
+  {
+    "id": 286,
+    "stop_id": 286,
+    "stop_name": "মিরপুর থানা"
+  },
+  {
+    "id": 287,
+    "stop_id": 287,
+    "stop_name": "মিরপুর ১"
+  },
+  {
+    "id": 288,
+    "stop_id": 288,
+    "stop_name": "আনসারক্যাম্প"
+  },
+  {
+    "id": 289,
+    "stop_id": 289,
+    "stop_name": "টেকনিক্যাল"
+  },
+  {
+    "id": 290,
+    "stop_id": 290,
+    "stop_name": "আসাদগেট"
+  },
+  {
+    "id": 291,
+    "stop_id": 291,
+    "stop_name": "সায়েন্সল্যাব"
+  },
+  {
+    "id": 292,
+    "stop_id": 292,
+    "stop_name": "বুয়েট"
+  },
+  {
+    "id": 293,
+    "stop_id": 293,
+    "stop_name": "গুলিস্তান"
+  },
+  {
+    "id": 294,
+    "stop_id": 294,
+    "stop_name": "সিরামিক"
+  },
+  {
+    "id": 295,
+    "stop_id": 295,
+    "stop_name": "মিরপুর ১১/২"
+  },
+  {
+    "id": 296,
+    "stop_id": 296,
+    "stop_name": "পল্টন"
+  },
+  {
+    "id": 297,
+    "stop_id": 297,
+    "stop_name": "স্টেডিয়াম"
+  },
+  {
+    "id": 298,
+    "stop_id": 298,
+    "stop_name": "নটরড্যাম কলেজ"
+  },
+  {
+    "id": 299,
+    "stop_id": 299,
+    "stop_name": "চিড়িয়াখানা"
+  },
+  {
+    "id": 300,
+    "stop_id": 300,
+    "stop_name": "দারুসালাম"
+  },
+  {
+    "id": 301,
+    "stop_id": 301,
+    "stop_name": "কল্যাণপুর"
+  },
+  {
+    "id": 302,
+    "stop_id": 302,
+    "stop_name": "শ্যামলী"
+  },
+  {
+    "id": 303,
+    "stop_id": 303,
+    "stop_name": "কলেজগেট"
+  },
+  {
+    "id": 304,
+    "stop_id": 304,
+    "stop_name": "কাওরানবাজার"
+  },
+  {
+    "id": 305,
+    "stop_id": 305,
+    "stop_name": "শাহবাগ"
+  },
+  {
+    "id": 306,
+    "stop_id": 306,
+    "stop_name": "ইত্তেফাক"
+  },
+  {
+    "id": 307,
+    "stop_id": 307,
+    "stop_name": "সায়েদাবাদ"
+  },
+  {
+    "id": 308,
+    "stop_id": 308,
+    "stop_name": "আনসার ক্যাম্প"
+  },
+  {
+    "id": 309,
+    "stop_id": 309,
+    "stop_name": "কলেজগেইট"
+  },
+  {
+    "id": 310,
+    "stop_id": 310,
+    "stop_name": "কলাবাগান"
+  },
+  {
+    "id": 311,
+    "stop_id": 311,
+    "stop_name": "কাটাবন"
+  },
+  {
+    "id": 312,
+    "stop_id": 312,
+    "stop_name": "গুলিস্তান মোড়"
+  },
+  {
+    "id": 313,
+    "stop_id": 313,
+    "stop_name": "বাংলাদেশ ব্যাংক"
+  },
+  {
+    "id": 314,
+    "stop_id": 314,
+    "stop_name": "যাত্রাবাড়ী"
+  },
+  {
+    "id": 315,
+    "stop_id": 315,
+    "stop_name": "ইসিবি মোড়"
+  },
+  {
+    "id": 316,
+    "stop_id": 316,
+    "stop_name": "শিশুমেলা"
+  },
+  {
+    "id": 317,
+    "stop_id": 317,
+    "stop_name": "মানিকমিয়া এভিনিউ"
+  },
+  {
+    "id": 318,
+    "stop_id": 318,
+    "stop_name": "আজিমপুর"
+  },
+  {
+    "id": 319,
+    "stop_id": 319,
+    "stop_name": "মিরপুর মাজার রোড"
+  },
+  {
+    "id": 320,
+    "stop_id": 320,
+    "stop_name": "রাসেল স্কয়ার"
+  },
+  {
+    "id": 321,
+    "stop_id": 321,
+    "stop_name": "নিউমার্কেট"
+  },
+  {
+    "id": 322,
+    "stop_id": 322,
+    "stop_name": "নীলক্ষেত"
+  },
+  {
+    "id": 323,
+    "stop_id": 323,
+    "stop_name": "১৪"
+  },
+  {
+    "id": 324,
+    "stop_id": 324,
+    "stop_name": "১০"
+  },
+  {
+    "id": 325,
+    "stop_id": 325,
+    "stop_name": "১"
+  },
+  {
+    "id": 326,
+    "stop_id": 326,
+    "stop_name": "বাংলা কলেজ"
+  },
+  {
+    "id": 327,
+    "stop_id": 327,
+    "stop_name": "সাইন্সল্যাবঃ"
+  },
+  {
+    "id": 328,
+    "stop_id": 328,
+    "stop_name": "শাপলা চত্বর"
+  },
+  {
+    "id": 329,
+    "stop_id": 329,
+    "stop_name": "কমলাপুর"
+  },
+  {
+    "id": 330,
+    "stop_id": 330,
+    "stop_name": "বাসাবো"
+  },
+  {
+    "id": 331,
+    "stop_id": 331,
+    "stop_name": "খিলগাও রেলগেট"
+  },
+  {
+    "id": 332,
+    "stop_id": 332,
+    "stop_name": "খিলগাও তালতলা"
+  },
+  {
+    "id": 333,
+    "stop_id": 333,
+    "stop_name": "Sonargaon"
+  },
+  {
+    "id": 334,
+    "stop_id": 334,
+    "stop_name": "Uttara Diabari"
+  },
+  {
+    "id": 335,
+    "stop_id": 335,
+    "stop_name": "Bosila Bridge"
+  },
+  {
+    "id": 336,
+    "stop_id": 336,
+    "stop_name": "Nabinagar"
+  },
+  {
+    "id": 337,
+    "stop_id": 337,
+    "stop_name": "Shyamoli Ring Road"
+  },
+  {
+    "id": 338,
+    "stop_id": 338,
+    "stop_name": "ECB Chattar"
+  },
+  {
+    "id": 339,
+    "stop_id": 339,
+    "stop_name": "Dhaur"
+  },
+  {
+    "id": 340,
+    "stop_id": 340,
+    "stop_name": "Meradia"
+  },
+  {
+    "id": 341,
+    "stop_id": 341,
+    "stop_name": "Kalyanpur"
+  },
+  {
+    "id": 342,
+    "stop_id": 342,
+    "stop_name": "Basila"
+  },
+  {
+    "id": 343,
+    "stop_id": 343,
+    "stop_name": "Asad Avenue"
+  },
+  {
+    "id": 344,
+    "stop_id": 344,
+    "stop_name": "Purabi"
+  },
+  {
+    "id": 345,
+    "stop_id": 345,
+    "stop_name": "Shewra Bazar"
+  },
+  {
+    "id": 346,
+    "stop_id": 346,
+    "stop_name": "Josimuddin"
+  },
+  {
+    "id": 347,
+    "stop_id": 347,
+    "stop_name": "EPZ"
+  },
+  {
+    "id": 348,
+    "stop_id": 348,
+    "stop_name": "Mirpur Rupnagar"
+  },
+  {
+    "id": 349,
+    "stop_id": 349,
+    "stop_name": "Dainik Bangla"
+  },
+  {
+    "id": 350,
+    "stop_id": 350,
+    "stop_name": "Shapla Chattar"
+  },
+  {
+    "id": 351,
+    "stop_id": 351,
+    "stop_name": "Kalshi Moar"
+  },
+  {
+    "id": 352,
+    "stop_id": 352,
+    "stop_name": "Kuril Biswa Road"
+  },
+  {
+    "id": 353,
+    "stop_id": 353,
+    "stop_name": "Rampura"
+  },
+  {
+    "id": 354,
+    "stop_id": 354,
+    "stop_name": "Bonosree"
+  },
+  {
+    "id": 355,
+    "stop_id": 355,
+    "stop_name": "Meradia Bazar"
+  },
+  {
+    "id": 356,
+    "stop_id": 356,
+    "stop_name": "Staff Quarter"
+  },
+  {
+    "id": 357,
+    "stop_id": 357,
+    "stop_name": "Diabari"
+  },
+  {
+    "id": 358,
+    "stop_id": 358,
+    "stop_name": "Mascot Plaza"
+  },
+  {
+    "id": 359,
+    "stop_id": 359,
+    "stop_name": "Nutun Bazar"
+  },
+  {
+    "id": 360,
+    "stop_id": 360,
+    "stop_name": "Khilgaon Flyover"
+  },
+  {
+    "id": 361,
+    "stop_id": 361,
+    "stop_name": "Titipara"
+  }
+]
