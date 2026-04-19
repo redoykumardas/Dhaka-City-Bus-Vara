@@ -1,0 +1,1150 @@
+[
+  {
+    "operator_id": 1,
+    "slug": "achim-paribahan",
+    "name_en": "Achim Paribahan",
+    "name_bn": "\u0986\u099b\u09bf\u09ae \u09aa\u09b0\u09bf\u09ac\u09b9\u09a8",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 2,
+    "slug": "active-paribahan",
+    "name_en": "Active Paribahan",
+    "name_bn": "\u098f\u0995\u09cd\u099f\u09bf\u09ad \u09aa\u09b0\u09bf\u09ac\u09b9\u09a8",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 3,
+    "slug": "agradut",
+    "name_en": "Agradut",
+    "name_bn": "\u0985\u0997\u09cd\u09b0\u09a6\u09c2\u09a4",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 4,
+    "slug": "airport-bangabandhu-avenue-paribahan",
+    "name_en": "Airport Bangabandhu Avenue Paribahan",
+    "name_bn": "\u098f\u09af\u09bc\u09be\u09b0\u09aa\u09cb\u09b0\u09cd\u099f \u09ac\u0999\u09cd\u0997\u09ac\u09a8\u09cd\u09a7\u09c1 \u098f\u09ad\u09bf\u09a8\u09bf\u0989 \u09aa\u09b0\u09bf\u09ac\u09b9\u09a8",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 5,
+    "slug": "azmeri-glory-limited",
+    "name_en": "Azmeri Glory Limited",
+    "name_bn": "\u0986\u099c\u09ae\u09c7\u09b0\u09c0 \u0997\u09cd\u09b2\u09cb\u09b0\u09c0 \u09b2\u09bf\u09ae\u09bf\u099f\u09c7\u09a1",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 6,
+    "slug": "ajmi",
+    "name_en": "Ajmi",
+    "name_bn": "\u0986\u099c\u09ae\u09c0",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 7,
+    "slug": "akash",
+    "name_en": "Akash",
+    "name_bn": "\u0986\u0995\u09be\u09b6",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 8,
+    "slug": "akik",
+    "name_en": "Akik",
+    "name_bn": "\u0986\u0995\u09bf\u0995",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 9,
+    "slug": "al-makka",
+    "name_en": "Al Makka",
+    "name_bn": "\u0986\u09b2 \u09ae\u0995\u09cd\u0995\u09be",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 10,
+    "slug": "al-madina-plus-one",
+    "name_en": "Al Madina Plus One",
+    "name_bn": "\u0986\u09b2 \u09ae\u09a8\u09bf\u09a6\u09be \u09aa\u09cd\u09b2\u09be\u09b8 \u0993\u09af\u09bc\u09be\u09a8",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 11,
+    "slug": "alif",
+    "name_en": "Alif",
+    "name_bn": "\u0986\u09b2\u09bf\u09ab",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 12,
+    "slug": "anabil-super",
+    "name_en": "Anabil Super",
+    "name_bn": "\u0985\u09a8\u09be\u09ac\u09bf\u09b2 \u09b8\u09c1\u09aa\u09be\u09b0",
+    "service_type": "Seating Service"
+  },
+  {
+    "operator_id": 13,
+    "slug": "arnob",
+    "name_en": "Arnob",
+    "name_bn": "\u0985\u09b0\u09a8\u09ac",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 14,
+    "slug": "ashirbad-pahibahan",
+    "name_en": "Ashirbad Pahibahan",
+    "name_bn": "\u0986\u09b6\u09c0\u09b0\u09cd\u09ac\u09be\u09a6 \u09aa\u09b0\u09bf\u09ac\u09b9\u09a8",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 15,
+    "slug": "ashulia-classic",
+    "name_en": "Ashulia Classic",
+    "name_bn": "\u0986\u09b6\u09c1\u09b2\u09bf\u09af\u09bc\u09be \u0995\u09cd\u09b2\u09be\u09b8\u09bf\u0995",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 16,
+    "slug": "asmani",
+    "name_en": "Asmani",
+    "name_bn": "\u0986\u09b8\u09ae\u09be\u09a8\u09c0",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 17,
+    "slug": "atcl",
+    "name_en": "ATCL",
+    "name_bn": "\u098f\u099f\u09bf\u09b8\u09bf\u098f\u09b2",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 18,
+    "slug": "ayat",
+    "name_en": "Ayat",
+    "name_bn": "\u0986\u09af\u09bc\u09be\u09a4",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 19,
+    "slug": "bahon",
+    "name_en": "Bahon",
+    "name_bn": "\u09ac\u09be\u09b9\u09a8",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 20,
+    "slug": "baishakhi",
+    "name_en": "Baishakhi",
+    "name_bn": "\u09ac\u09c8\u09b6\u09be\u0996\u09c0",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 21,
+    "slug": "balaka",
+    "name_en": "Balaka",
+    "name_bn": "\u09ac\u09b2\u09be\u0995\u09be",
+    "service_type": "Seating Service"
+  },
+  {
+    "operator_id": 22,
+    "slug": "basumati",
+    "name_en": "Basumati",
+    "name_bn": "\u09ac\u09be\u09b8\u09c1\u09ae\u09a4\u09bf",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 23,
+    "slug": "basumati-transport",
+    "name_en": "Basumati Transport",
+    "name_bn": "\u09ac\u09be\u09b8\u09c1\u09ae\u09a4\u09bf \u099f\u09cd\u09b0\u09be\u09a8\u09cd\u09b8\u09aa\u09cb\u09b0\u09cd\u099f",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 24,
+    "slug": "best-satabdi",
+    "name_en": "Best Satabdi",
+    "name_bn": "\u09ac\u09c7\u09b7\u09cd\u099f \u09b6\u09a4\u09be\u09ac\u09cd\u09a6\u09c0",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 25,
+    "slug": "best-transport",
+    "name_en": "Best Transport",
+    "name_bn": "\u09ac\u09c7\u09b7\u09cd\u099f \u099f\u09cd\u09b0\u09be\u09a8\u09cd\u09b8\u09aa\u09cb\u09b0\u09cd\u099f",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 26,
+    "slug": "bhuiyan-paribahan",
+    "name_en": "Bhuiyan Paribahan",
+    "name_bn": "\u09ad\u09c2\u0981\u0987\u09af\u09bc\u09be \u09aa\u09b0\u09bf\u09ac\u09b9\u09a8",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 27,
+    "slug": "bihanga",
+    "name_en": "Bihanga",
+    "name_bn": "\u09ac\u09bf\u09b9\u0999\u09cd\u0997",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 28,
+    "slug": "bikalpa",
+    "name_en": "Bikalpa",
+    "name_bn": "\u09ac\u09bf\u0995\u09b2\u09cd\u09aa \u0985\u099f\u09cb \u09b8\u09c1\u09aa\u09be\u09b0 \u09b8\u09be\u09b0\u09cd\u09ad\u09bf\u09b8",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 29,
+    "slug": "bikash",
+    "name_en": "Bikash",
+    "name_bn": "\u09ac\u09bf\u0995\u09be\u09b6",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 30,
+    "slug": "bikash-paribahan",
+    "name_en": "Bikash Paribahan",
+    "name_bn": "\u09ac\u09bf\u0995\u09be\u09b6 \u09aa\u09b0\u09bf\u09ac\u09b9\u09a8",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 31,
+    "slug": "bondhu-paribahan",
+    "name_en": "Bondhu Paribahan",
+    "name_bn": "\u09ac\u09a8\u09cd\u09a7\u09c1 \u09aa\u09b0\u09bf\u09ac\u09b9\u09a8",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 32,
+    "slug": "borak",
+    "name_en": "Borak",
+    "name_bn": "\u09ac\u09cb\u09b0\u09be\u0995",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 33,
+    "slug": "bashumoti",
+    "name_en": "Bashumoti",
+    "name_bn": "\u09ac\u09b8\u09c1\u09ae\u09a4\u09bf",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 34,
+    "slug": "brihottor",
+    "name_en": "Brihottor",
+    "name_bn": "\u09ac\u09c3\u09b9\u09a4\u09cd\u09a4\u09b0 \u09ae\u09bf\u09b0\u09aa\u09c1\u09b0",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 35,
+    "slug": "brtc",
+    "name_en": "BRTC",
+    "name_bn": "\u09ac\u09bf \u0986\u09b0 \u099f\u09bf\u09b8\u09bf",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 36,
+    "slug": "brtc-elevated-expressway",
+    "name_en": "BRTC Elevated Expressway",
+    "name_bn": "\u09ac\u09bf\u0986\u09b0\u099f\u09bf\u09b8\u09bf \u09ad\u09be\u09df\u09be \u098f\u09b2\u09bf\u09ad\u09c7\u099f\u09c7\u09a1 \u098f\u0995\u09cd\u09b8\u09aa\u09cd\u09b0\u09c7\u09b8\u0993\u09df\u09c7",
+    "service_type": "Seating Service"
+  },
+  {
+    "operator_id": 37,
+    "slug": "brtc-articulated",
+    "name_en": "BRTC Articulated \u09ac\u09bf \u0986\u09b0 \u099f\u09bf\u09b8\u09bf \u0986\u09b0\u099f\u09bf\u0995\u09c1\u09b2\u09c7\u099f\u09c7\u09a1)",
+    "name_bn": "",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 38,
+    "slug": "cantonment",
+    "name_en": "Cantonment",
+    "name_bn": "\u0995\u09cd\u09af\u09be\u09a8\u09cd\u099f\u09a8\u09ae\u09c7\u09a8\u09cd\u099f",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 39,
+    "slug": "cantonment-mini-service",
+    "name_en": "Cantonment Mini Service",
+    "name_bn": "\u0995\u09cd\u09af\u09be\u09a8\u09cd\u099f\u09a8\u09ae\u09c7\u09a8\u09cd\u099f \u09ae\u09bf\u09a8\u09bf \u09b8\u09be\u09b0\u09cd\u09ad\u09bf\u09b8",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 40,
+    "slug": "champion",
+    "name_en": "Champion",
+    "name_bn": "\u099a\u09cd\u09af\u09be\u09ae\u09cd\u09aa\u09bf\u09af\u09bc\u09a8",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 41,
+    "slug": "city-link",
+    "name_en": "City Link",
+    "name_bn": "\u09b8\u09bf\u099f\u09bf \u09b2\u09bf\u0982\u0995",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 42,
+    "slug": "d-link",
+    "name_en": "D Link",
+    "name_bn": "\u09a1\u09bf \u09b2\u09bf\u0982\u0995",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 43,
+    "slug": "d-one-transport",
+    "name_en": "D One Transport",
+    "name_bn": "\u09a1\u09bf \u0993\u09af\u09bc\u09be\u09a8",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 44,
+    "slug": "desh-bangla",
+    "name_en": "Desh Bangla",
+    "name_bn": "\u09a6\u09c7\u09b6 \u09ac\u09be\u0982\u09b2\u09be",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 45,
+    "slug": "dewan",
+    "name_en": "Dewan",
+    "name_bn": "\u09a6\u09c7\u0993\u09af\u09bc\u09be\u09a8",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 46,
+    "slug": "dhakar-chaka",
+    "name_en": "Dhakar Chaka",
+    "name_bn": "\u09a2\u09be\u0995\u09be\u09b0 \u099a\u09be\u0995\u09be",
+    "service_type": "Seating Service"
+  },
+  {
+    "operator_id": 47,
+    "slug": "dhaka-metro-service",
+    "name_en": "Dhaka Metro Service",
+    "name_bn": "\u09a2\u09be\u0995\u09be\u09b0 \u09ae\u09c7\u099f\u09cd\u09b0\u09cb \u09b8\u09be\u09b0\u09cd\u09ad\u09bf\u09b8",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 48,
+    "slug": "dhaka-paribahan",
+    "name_en": "Dhaka Paribahan",
+    "name_bn": "\u09a2\u09be\u0995\u09be \u09aa\u09b0\u09bf\u09ac\u09b9\u09a8",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 49,
+    "slug": "dipon",
+    "name_en": "Dipon",
+    "name_bn": "\u09a6\u09bf\u09aa\u09a8",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 50,
+    "slug": "dip-paribahan",
+    "name_en": "Dip Paribahan",
+    "name_bn": "\u09a6\u09cd\u09ac\u09c0\u09aa \u09aa\u09b0\u09bf\u09ac\u09b9\u09a8",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 51,
+    "slug": "dishari",
+    "name_en": "Dishari",
+    "name_bn": "\u09a6\u09bf\u09b8\u09be\u09b0\u09bf",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 52,
+    "slug": "elite",
+    "name_en": "Elite",
+    "name_bn": "\u098f\u09b2\u09bf\u099f",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 53,
+    "slug": "etc",
+    "name_en": "ETC",
+    "name_bn": "\u0987\u099f\u09bf\u09b8\u09bf",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 54,
+    "slug": "etc-transport",
+    "name_en": "ETC Transport",
+    "name_bn": "\u0987\u099f\u09bf\u09b8\u09bf \u099f\u09cd\u09b0\u09be\u09a8\u09cd\u09b8\u09aa\u09cb\u09b0\u09cd\u099f",
+    "service_type": "Seating Service"
+  },
+  {
+    "operator_id": 55,
+    "slug": "everest-paribahan",
+    "name_en": "Everest Paribahan",
+    "name_bn": "\u098f\u09ad\u09be\u09b0\u09c7\u09b8\u09cd\u099f \u09aa\u09b0\u09bf\u09ac\u09b9\u09a8",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 56,
+    "slug": "falgun-art-transport-private-limited",
+    "name_en": "Falgun Art Transport Private Limited",
+    "name_bn": "\u09ab\u09be\u09b2\u09cd\u0997\u09c1\u09a8 \u0986\u09b0\u09cd\u099f \u099f\u09cd\u09b0\u09be\u09a8\u09cd\u09b8\u09aa\u09cb\u09b0\u09cd\u099f \u09aa\u09cd\u09b0\u09be\u0987\u09ad\u09c7\u099f \u09b2\u09bf\u09ae\u09bf\u099f\u09c7\u09a1",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 57,
+    "slug": "first-ten",
+    "name_en": "First Ten",
+    "name_bn": "\u09ab\u09be\u09b0\u09cd\u09b8\u09cd\u099f \u099f\u09c7\u09a8",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 58,
+    "slug": "ftcl",
+    "name_en": "FTCL",
+    "name_bn": "\u098f\u09ab\u099f\u09bf\u09b8\u09bf\u098f\u09b2",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 59,
+    "slug": "gazipur-paribahan",
+    "name_en": "Gazipur Paribahan",
+    "name_bn": "\u0997\u09be\u099c\u09c0\u09aa\u09c1\u09b0 \u09aa\u09b0\u09bf\u09ac\u09b9\u09a8",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 60,
+    "slug": "grameen",
+    "name_en": "Grameen",
+    "name_bn": "\u0997\u09cd\u09b0\u09be\u09ae\u09c0\u09a3",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 61,
+    "slug": "grameen-suveccha",
+    "name_en": "Grameen Suveccha",
+    "name_bn": "\u0997\u09cd\u09b0\u09be\u09ae\u09c0\u09a3 \u09b6\u09c1\u09ad\u09c7\u099a\u09cd\u099b\u09be",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 62,
+    "slug": "green-anabil",
+    "name_en": "Green Anabil",
+    "name_bn": "\u0997\u09cd\u09b0\u09c0\u09a8 \u0985\u09a8\u09be\u09ac\u09bf\u09b2",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 63,
+    "slug": "green-dhaka",
+    "name_en": "Green Dhaka",
+    "name_bn": "\u0997\u09cd\u09b0\u09c0\u09a8 \u09a2\u09be\u0995\u09be",
+    "service_type": "Seating Service"
+  },
+  {
+    "operator_id": 64,
+    "slug": "gulshan-chaka",
+    "name_en": "Gulshan Chaka",
+    "name_bn": "\u0997\u09c1\u09b2\u09b6\u09be\u09a8 \u099a\u09be\u0995\u09be",
+    "service_type": "Seating Service"
+  },
+  {
+    "operator_id": 65,
+    "slug": "hazi-transport",
+    "name_en": "Hazi Transport",
+    "name_bn": "\u09b9\u09be\u099c\u09bf \u099f\u09cd\u09b0\u09be\u09a8\u09cd\u09b8\u09aa\u09cb\u09b0\u09cd\u099f",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 66,
+    "slug": "himachal",
+    "name_en": "Himachal",
+    "name_bn": "\u09b9\u09bf\u09ae\u09be\u099a\u09b2",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 67,
+    "slug": "himachal-suveccha",
+    "name_en": "Himachal Suveccha",
+    "name_bn": "\u09b9\u09bf\u09ae\u09be\u099a\u09b2 \u09b6\u09c1\u09ad\u09c7\u099a\u09cd\u099b\u09be",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 68,
+    "slug": "himalay",
+    "name_en": "Himalay",
+    "name_bn": "\u09b9\u09bf\u09ae\u09be\u09b2\u09af\u09bc",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 69,
+    "slug": "itihash",
+    "name_en": "Itihash",
+    "name_bn": "\u0987\u09a4\u09bf\u09b9\u09be\u09b8",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 70,
+    "slug": "j-m-super-paribahan",
+    "name_en": "J M Super Paribahan",
+    "name_bn": "\u099c\u09c7 \u098f\u09ae \u09b8\u09c1\u09aa\u09be\u09b0 \u09aa\u09b0\u09bf\u09ac\u09b9\u09a8",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 71,
+    "slug": "jabale-noor-paribahan",
+    "name_en": "Jabale Noor Paribahan",
+    "name_bn": "\u099c\u09be\u09ac\u09be\u09b2\u09c7 \u09a8\u09c1\u09b0 \u09aa\u09b0\u09bf\u09ac\u09b9\u09a8",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 72,
+    "slug": "janjabil",
+    "name_en": "Janjabil",
+    "name_bn": "\u099c\u09be\u09a8\u09af\u09be\u09ac\u09bf\u09b2",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 73,
+    "slug": "kamal-plus-paribahan",
+    "name_en": "Kamal Plus Paribahan",
+    "name_bn": "\u0995\u09be\u09ae\u09be\u09b2 \u09aa\u09cd\u09b2\u09be\u09b8 \u09aa\u09b0\u09bf\u09ac\u09b9\u09a8",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 74,
+    "slug": "kanak",
+    "name_en": "kanak",
+    "name_bn": "\u0995\u09a8\u0995",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 75,
+    "slug": "khajababa",
+    "name_en": "Khajababa",
+    "name_bn": "\u0996\u09be\u099c\u09be \u09ac\u09be\u09ac\u09be",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 76,
+    "slug": "kironmala-paribahan",
+    "name_en": "Kironmala Paribahan",
+    "name_bn": "\u0995\u09bf\u09b0\u09a3\u09ae\u09be\u09b2\u09be",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 77,
+    "slug": "labbayek",
+    "name_en": "Labbayek",
+    "name_bn": "\u09b2\u09be\u09ac\u09cd\u09ac\u09be\u0987\u0995",
+    "service_type": "Seating Service"
+  },
+  {
+    "operator_id": 78,
+    "slug": "lal-sabuj",
+    "name_en": "Lal Sabuj",
+    "name_bn": "\u09b2\u09be\u09b2 \u09b8\u09ac\u09c1\u099c",
+    "service_type": "Seating Service"
+  },
+  {
+    "operator_id": 79,
+    "slug": "lams-paribahan",
+    "name_en": "Lams Paribahan",
+    "name_bn": "\u09b2\u09be\u09ae\u09b8 \u09aa\u09b0\u09bf\u09ac\u09b9\u09a8",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 80,
+    "slug": "malancha",
+    "name_en": "Malancha",
+    "name_bn": "\u09ae\u09be\u09b2\u099e\u09cd\u099a",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 81,
+    "slug": "manjil-express",
+    "name_en": "Manjil Express",
+    "name_bn": "\u09ae\u09be\u099e\u09cd\u099c\u09bf\u09b2 \u098f\u0995\u09cd\u09b8\u09aa\u09cd\u09b0\u09c7\u09b8",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 82,
+    "slug": "meghla-transport",
+    "name_en": "Meghla Transport",
+    "name_bn": "\u09ae\u09c7\u0998\u09b2\u09be \u099f\u09cd\u09b0\u09be\u09a8\u09cd\u09b8\u09aa\u09cb\u09b0\u09cd\u099f",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 83,
+    "slug": "meshkat",
+    "name_en": "Meshkat",
+    "name_bn": "\u09ae\u09c7\u09b8\u0995\u09be\u09a4",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 84,
+    "slug": "midline",
+    "name_en": "Midline",
+    "name_bn": "\u09ae\u09bf\u09a1\u09b2\u09be\u0987\u09a8",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 85,
+    "slug": "mirpur-metro-services",
+    "name_en": "Mirpur Metro Services",
+    "name_bn": "\u09ae\u09bf\u09b0\u09aa\u09c1\u09b0 \u09ae\u09c7\u099f\u09cd\u09b0\u09cb \u09b8\u09be\u09b0\u09cd\u09ad\u09bf\u09b8",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 86,
+    "slug": "mirpur-link",
+    "name_en": "Mirpur Link",
+    "name_bn": "\u09ae\u09bf\u09b0\u09aa\u09c1\u09b0 \u09b2\u09bf\u0982\u0995",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 87,
+    "slug": "mirpur-mission",
+    "name_en": "Mirpur Mission",
+    "name_bn": "\u09ae\u09bf\u09b0\u09aa\u09c1\u09b0 \u09ae\u09bf\u09b6\u09a8",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 88,
+    "slug": "mirpur-transport-service",
+    "name_en": "Mirpur Transport Service",
+    "name_bn": "\u09ae\u09bf\u09b0\u09aa\u09c1\u09b0 \u099f\u09cd\u09b0\u09be\u09a8\u09cd\u09b8\u09aa\u09cb\u09b0\u09cd\u099f \u09b8\u09be\u09b0\u09cd\u09ad\u09bf\u09b8",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 89,
+    "slug": "mirpur-united-service",
+    "name_en": "Mirpur United Service",
+    "name_bn": "\u09ae\u09bf\u09b0\u09aa\u09c1\u09b0 \u0987\u0989\u09a8\u09be\u0987\u099f\u09c7\u09a1 \u09b8\u09be\u09b0\u09cd\u09ad\u09bf\u09b8",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 90,
+    "slug": "mm-lovely",
+    "name_en": "MM Lovely",
+    "name_bn": "\u098f\u09ae \u098f\u09ae \u09b2\u09be\u09ad\u09b2\u09c0",
+    "service_type": "Seating Service"
+  },
+  {
+    "operator_id": 91,
+    "slug": "modhumita",
+    "name_en": "Modhumita",
+    "name_bn": "\u09ae\u09a7\u09c1\u09ae\u09bf\u09a4\u09be",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 92,
+    "slug": "mohona",
+    "name_en": "Mohona",
+    "name_bn": "\u09ae\u09cb\u09b9\u09a8\u09be",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 93,
+    "slug": "moitri",
+    "name_en": "Moitri",
+    "name_bn": "\u09ae\u09c8\u09a4\u09cd\u09b0\u09c0",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 94,
+    "slug": "moumita",
+    "name_en": "Moumita",
+    "name_bn": "\u09ae\u09cc\u09ae\u09bf\u09a4\u09be",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 95,
+    "slug": "mtcl-2",
+    "name_en": "MTCL-2",
+    "name_bn": "\u098f\u09ae\u099f\u09bf\u09b8\u09bf\u098f\u09b2 \u09e8",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 96,
+    "slug": "nur-e-makka",
+    "name_en": "Nur E Makka",
+    "name_bn": "\u09a8\u09c2\u09b0 \u098f \u09ae\u0995\u09cd\u0995\u09be",
+    "service_type": "Seating Service"
+  },
+  {
+    "operator_id": 97,
+    "slug": "nabakali",
+    "name_en": "Nabakali",
+    "name_bn": "\u09a8\u09ac\u0995\u09be\u09b2\u09bf",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 98,
+    "slug": "new-vision",
+    "name_en": "New Vision",
+    "name_bn": "\u09a8\u09bf\u0989 \u09ad\u09bf\u09b6\u09a8",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 99,
+    "slug": "nilachol",
+    "name_en": "Nilachol",
+    "name_bn": "\u09a8\u09bf\u09b2\u09be\u099a\u09b2",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 100,
+    "slug": "nishorgo",
+    "name_en": "Nishorgo",
+    "name_bn": "\u09a8\u09bf\u09b8\u09b0\u09cd\u0997",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 101,
+    "slug": "omama-international",
+    "name_en": "Omama International",
+    "name_bn": "\u0993\u09ae\u09be\u09ae\u09be \u0987\u09a8\u09cd\u099f\u09be\u09b0\u09a8\u09cd\u09af\u09be\u09b6\u09a8\u09be\u09b2 \u09ac\u09be\u09b8",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 102,
+    "slug": "one-transport",
+    "name_en": "One Transport",
+    "name_bn": "\u0993\u09af\u09bc\u09be\u09a8 \u099f\u09cd\u09b0\u09be\u09a8\u09cd\u09b8\u09aa\u09cb\u09b0\u09cd\u099f",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 103,
+    "slug": "pallabi-local-service",
+    "name_en": "Pallabi Local Service",
+    "name_bn": "\u09aa\u09b2\u09cd\u09b2\u09ac\u09c0 \u09b2\u09cb\u0995\u09be\u09b2 \u09b8\u09be\u09b0\u09cd\u09ad\u09bf\u09b8",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 104,
+    "slug": "pallabi-super",
+    "name_en": "Pallabi Super",
+    "name_bn": "\u09aa\u09b2\u09cd\u09b2\u09ac\u09c0 \u09b8\u09c1\u09aa\u09be\u09b0",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 105,
+    "slug": "paristhan",
+    "name_en": "Paristhan",
+    "name_bn": "\u09aa\u09b0\u09bf\u09b8\u09cd\u09a5\u09be\u09a8",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 106,
+    "slug": "power-paribahan",
+    "name_en": "Power Paribahan",
+    "name_bn": "\u09aa\u09be\u0993\u09af\u09bc\u09be\u09b0 \u09aa\u09b0\u09bf\u09ac\u09b9\u09a8",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 107,
+    "slug": "prattay",
+    "name_en": "Prattay",
+    "name_bn": "\u09aa\u09cd\u09b0\u09a4\u09cd\u09af\u09af\u09bc",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 108,
+    "slug": "prochesta",
+    "name_en": "Prochesta",
+    "name_bn": "\u09aa\u09cd\u09b0\u099a\u09c7\u09b7\u09cd\u099f\u09be",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 109,
+    "slug": "projapati",
+    "name_en": "Projapati",
+    "name_bn": "\u09aa\u09cd\u09b0\u099c\u09be\u09aa\u09a4\u09bf",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 110,
+    "slug": "provati-banasree",
+    "name_en": "Provati Banasree",
+    "name_bn": "\u09aa\u09cd\u09b0\u09ad\u09be\u09a4\u09c0 \u09ac\u09a8\u09b6\u09cd\u09b0\u09c0",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 111,
+    "slug": "purbachol-logistics-and-transport",
+    "name_en": "Purbachol Logistics and Transport",
+    "name_bn": "\u09aa\u09c2\u09b0\u09cd\u09ac\u09be\u099a\u09b2 \u09b2\u099c\u09bf\u09b8\u09cd\u099f\u09bf\u0995\u09b8",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 112,
+    "slug": "raida",
+    "name_en": "Raida",
+    "name_bn": "\u09b0\u09be\u0987\u09a6\u09be",
+    "service_type": "Seating Service"
+  },
+  {
+    "operator_id": 113,
+    "slug": "raja-city",
+    "name_en": "Raja City",
+    "name_bn": "\u09b0\u09be\u099c\u09be \u09b8\u09bf\u099f\u09bf",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 114,
+    "slug": "rajanigandha",
+    "name_en": "Rajanigandha",
+    "name_bn": "\u09b0\u099c\u09a8\u09c0\u0997\u09a8\u09cd\u09a7\u09be",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 115,
+    "slug": "rajdhani-super",
+    "name_en": "Rajdhani Super",
+    "name_bn": "\u09b0\u09be\u099c\u09a7\u09be\u09a8\u09c0",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 116,
+    "slug": "ramjan",
+    "name_en": "Ramjan",
+    "name_bn": "\u09b0\u09ae\u099c\u09be\u09a8",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 117,
+    "slug": "robrob",
+    "name_en": "Robrob",
+    "name_bn": "\u09b0\u09ac\u09b0\u09ac",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 118,
+    "slug": "rois",
+    "name_en": "Rois",
+    "name_bn": "\u09b0\u09be\u0987\u09b8",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 119,
+    "slug": "rongdhonu-express",
+    "name_en": "Rongdhonu Express",
+    "name_bn": "\u09b0\u0982\u09a7\u09a8\u09c1 \u098f\u0995\u09cd\u09b8\u09aa\u09cd\u09b0\u09c7\u09b8",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 120,
+    "slug": "runway-express",
+    "name_en": "Runway Express",
+    "name_bn": "\u09b0\u09be\u09a8\u0993\u09af\u09bc\u09c7 \u098f\u0995\u09cd\u09b8\u09aa\u09cd\u09b0\u09c7\u09b8",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 121,
+    "slug": "rupa-paribahan",
+    "name_en": "Rupa Paribahan",
+    "name_bn": "\u09b0\u09c1\u09aa\u09be \u09aa\u09b0\u09bf\u09ac\u09b9\u09a8",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 122,
+    "slug": "rupkotha",
+    "name_en": "Rupkotha",
+    "name_bn": "\u09b0\u09c1\u09aa\u0995\u09a5\u09be",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 123,
+    "slug": "safety-druti",
+    "name_en": "Safety Druti",
+    "name_bn": "\u09b8\u09c7\u09ab\u099f\u09bf \u09a6\u09cd\u09b0\u09c1\u09a4\u09bf",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 124,
+    "slug": "sakalpa-transport",
+    "name_en": "Sakalpa Transport",
+    "name_bn": "\u09b8\u09cd\u09ac\u0995\u09b2\u09cd\u09aa \u099f\u09cd\u09b0\u09be\u09a8\u09cd\u09b8\u09aa\u09cb\u09b0\u09cd\u099f",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 125,
+    "slug": "salsabil",
+    "name_en": "Salsabil",
+    "name_bn": "\u099b\u09be\u09b2\u099b\u09be\u09ac\u09bf\u09b2",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 126,
+    "slug": "savar-paribahan",
+    "name_en": "Savar Paribahan",
+    "name_bn": "\u09b8\u09be\u09ad\u09be\u09b0 \u09aa\u09b0\u09bf\u09ac\u09b9\u09a8",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 127,
+    "slug": "shadhin",
+    "name_en": "Shadhin",
+    "name_bn": "\u09b8\u09cd\u09ac\u09be\u09a7\u09c0\u09a8",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 128,
+    "slug": "shadhin-express",
+    "name_en": "Shadhin Express",
+    "name_bn": "\u09b8\u09cd\u09ac\u09be\u09a7\u09c0\u09a8 \u098f\u0995\u09cd\u09b8\u09aa\u09cd\u09b0\u09c7\u09b8",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 129,
+    "slug": "shahria-enterprise",
+    "name_en": "Shahria Enterprise",
+    "name_bn": "\u09b6\u09be\u09b9\u09b0\u09bf\u09af\u09bc\u09be \u098f\u09a8\u09cd\u099f\u09be\u09b0\u09aa\u09cd\u09b0\u09be\u0987\u099c",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 130,
+    "slug": "shatabdi",
+    "name_en": "Shatabdi",
+    "name_bn": "\u09b6\u09a4\u09be\u09ac\u09cd\u09a6\u09bf",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 131,
+    "slug": "shikhor-paribahan",
+    "name_en": "Shikhor Paribahan",
+    "name_bn": "\u09b6\u09bf\u0996\u09b0 \u09aa\u09b0\u09bf\u09ac\u09b9\u09a8",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 132,
+    "slug": "suveccha",
+    "name_en": "Suveccha",
+    "name_bn": "\u09b6\u09c1\u09ad\u09c7\u099a\u09cd\u099b\u09be",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 133,
+    "slug": "suvojatri",
+    "name_en": "Suvojatri",
+    "name_bn": "\u09b6\u09c1\u09ad\u09af\u09be\u09a4\u09cd\u09b0\u09c0",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 134,
+    "slug": "siam-transport",
+    "name_en": "Siam Transport",
+    "name_bn": "\u09b8\u09bf\u09af\u09bc\u09be\u09ae \u099f\u09cd\u09b0\u09be\u09a8\u09cd\u09b8\u09aa\u09cb\u09b0\u09cd\u099f",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 135,
+    "slug": "skyline",
+    "name_en": "Skyline",
+    "name_bn": "\u09b8\u09cd\u0995\u09be\u0987 \u09b2\u09be\u0987\u09a8",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 136,
+    "slug": "somota-paribahan",
+    "name_en": "Somota Paribahan",
+    "name_bn": "\u09b8\u09ae\u09a4\u09be \u09aa\u09b0\u09bf\u09ac\u09b9\u09a8",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 137,
+    "slug": "somoy",
+    "name_en": "Somoy",
+    "name_bn": "\u09b8\u09ae\u09af\u09bc",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 138,
+    "slug": "somoy-niyantran",
+    "name_en": "Somoy Niyantran",
+    "name_bn": "\u09b8\u09ae\u09af\u09bc \u09a8\u09bf\u09af\u09bc\u09a8\u09cd\u09a4\u09cd\u09b0\u09a3",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 139,
+    "slug": "super",
+    "name_en": "Super",
+    "name_bn": "\u09b8\u09c1\u09aa\u09be\u09b0",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 140,
+    "slug": "supravat",
+    "name_en": "Supravat",
+    "name_bn": "\u09b8\u09c1\u09aa\u09cd\u09b0\u09ad\u09be\u09a4",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 141,
+    "slug": "swajan-paribahan",
+    "name_en": "Swajan Paribahan",
+    "name_bn": "\u09b8\u09cd\u09ac\u099c\u09a8 \u09aa\u09b0\u09bf\u09ac\u09b9\u09a8",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 142,
+    "slug": "talukdar",
+    "name_en": "Talukdar",
+    "name_bn": "\u09a4\u09be\u09b2\u09c1\u0995\u09a6\u09be\u09b0",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 143,
+    "slug": "tanjil-paribahan",
+    "name_en": "Tanjil Paribahan",
+    "name_bn": "\u09a4\u09be\u09a8\u099c\u09bf\u09b2 \u09aa\u09b0\u09bf\u09ac\u09b9\u09a8",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 144,
+    "slug": "taranga-plus",
+    "name_en": "Taranga Plus",
+    "name_bn": "\u09a4\u09b0\u0999\u09cd\u0997 \u09aa\u09cd\u09b2\u09be\u09b8",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 145,
+    "slug": "tetulia",
+    "name_en": "Tetulia",
+    "name_bn": "\u09a4\u09c7\u09a4\u09c1\u09b2\u09bf\u09af\u09bc\u09be",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 146,
+    "slug": "thikana",
+    "name_en": "Thikana",
+    "name_bn": "\u09a0\u09bf\u0995\u09be\u09a8\u09be",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 147,
+    "slug": "thikana-express",
+    "name_en": "Thikana Express",
+    "name_bn": "\u09a0\u09bf\u0995\u09be\u09a8\u09be \u098f\u0995\u09cd\u09b8\u09aa\u09cd\u09b0\u09c7\u09b8",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 148,
+    "slug": "titas",
+    "name_en": "Titas",
+    "name_bn": "\u09a4\u09bf\u09a4\u09be\u09b8",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 149,
+    "slug": "transilva",
+    "name_en": "Transilva",
+    "name_bn": "\u099f\u09cd\u09b0\u09be\u09a8\u09cd\u09b8\u09bf\u09b2\u09cd\u09ad\u09be",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 150,
+    "slug": "trust-transport-services",
+    "name_en": "Trust Transport Services",
+    "name_bn": "\u099f\u09cd\u09b0\u09be\u09b7\u09cd\u099f \u099f\u09cd\u09b0\u09be\u09a8\u09cd\u09b8\u09aa\u09cb\u09b0\u09cd\u099f",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 151,
+    "slug": "turag",
+    "name_en": "Turag",
+    "name_bn": "\u0997\u09cd\u09b0\u09c7\u099f \u09a4\u09c1\u09b0\u09be\u0997",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 152,
+    "slug": "victor-classic",
+    "name_en": "Victor Classic",
+    "name_bn": "\u09ad\u09bf\u0995\u09cd\u099f\u09b0 \u0995\u09cd\u09b2\u09be\u09b8\u09bf\u0995",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 153,
+    "slug": "victor-paribahan",
+    "name_en": "Victor Paribahan",
+    "name_bn": "\u09ad\u09bf\u0995\u09cd\u099f\u09b0 \u09aa\u09b0\u09bf\u09ac\u09b9\u09a8",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 154,
+    "slug": "vip-27",
+    "name_en": "VIP 27",
+    "name_bn": "\u09ad\u09bf\u0986\u0987\u09aa\u09bf \u09e8\u09ed",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 155,
+    "slug": "welcome",
+    "name_en": "Welcome",
+    "name_bn": "\u0993\u09af\u09bc\u09c7\u09b2\u0995\u09be\u09ae",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 156,
+    "slug": "winner",
+    "name_en": "Winner",
+    "name_bn": "\u0989\u0987\u09a8\u09be\u09b0",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 157,
+    "slug": "13-no",
+    "name_en": "13 No.",
+    "name_bn": "\u09e7\u09e9\u09a8\u0982",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 158,
+    "slug": "4-no-alike",
+    "name_en": "4 No. Alike",
+    "name_bn": "\u09ea\u09a8\u0982",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 159,
+    "slug": "6-no",
+    "name_en": "6 No.",
+    "name_bn": "\u09ec\u09a8\u0982",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 160,
+    "slug": "6-no-motijheel-banani-transport",
+    "name_en": "6 No. Motijheel Banani Transport",
+    "name_bn": "\u09ec\u09a8\u0982 \u09ae\u09a4\u09bf\u099d\u09bf\u09b2 \u09ac\u09a8\u09be\u09a8\u09c0 \u099f\u09cd\u09b0\u09be\u09a8\u09cd\u09b8\u09aa\u09cb\u09b0\u09cd\u099f",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 161,
+    "slug": "7-no",
+    "name_en": "7 No.",
+    "name_bn": "\u09ed\u09a8\u0982",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 162,
+    "slug": "8-no",
+    "name_en": "8 No.",
+    "name_bn": "\u09ee\u09a8\u0982",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 163,
+    "slug": "9-no",
+    "name_en": "9 No.",
+    "name_bn": "\u09ef\u09a8\u0982",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "operator_id": 164,
+    "slug": "deepan",
+    "name_en": "Deepan",
+    "name_bn": "\u09a6\u09bf\u09aa\u09be\u09a8",
+    "service_type": "Semi-Seating Service"
+  }
+]

@@ -1,0 +1,1568 @@
+[
+  {
+    "stop_id": 1,
+    "slug": "gabtoli",
+    "name_en": "Gabtoli",
+    "name_bn": "\u0997\u09be\u09ac\u09a4\u09b2\u09bf"
+  },
+  {
+    "stop_id": 2,
+    "slug": "technical",
+    "name_en": "Technical",
+    "name_bn": "\u099f\u09c7\u0995\u09a8\u09bf\u0995\u09cd\u09af\u09be\u09b2"
+  },
+  {
+    "stop_id": 3,
+    "slug": "ansar-camp",
+    "name_en": "Ansar Camp",
+    "name_bn": "\u0986\u09a8\u09b8\u09be\u09b0 \u0995\u09cd\u09af\u09be\u09ae\u09cd\u09aa"
+  },
+  {
+    "stop_id": 4,
+    "slug": "mirpur-1",
+    "name_en": "Mirpur 1",
+    "name_bn": "\u09ae\u09bf\u09b0\u09aa\u09c1\u09b0 \u09e7"
+  },
+  {
+    "stop_id": 5,
+    "slug": "sony-cinema-hall",
+    "name_en": "Sony Cinema Hall",
+    "name_bn": "\u09b8\u09a8\u09bf \u09b8\u09bf\u09a8\u09c7\u09ae\u09be \u09b9\u09b2"
+  },
+  {
+    "stop_id": 6,
+    "slug": "mirpur-2",
+    "name_en": "Mirpur 2",
+    "name_bn": "\u09ae\u09bf\u09b0\u09aa\u09c1\u09b0 \u09e8"
+  },
+  {
+    "stop_id": 7,
+    "slug": "mirpur-10",
+    "name_en": "Mirpur 10",
+    "name_bn": "\u09ae\u09bf\u09b0\u09aa\u09c1\u09b0 \u09e7\u09e6"
+  },
+  {
+    "stop_id": 8,
+    "slug": "mirpur-11",
+    "name_en": "Mirpur 11",
+    "name_bn": "\u09ae\u09bf\u09b0\u09aa\u09c1\u09b0 \u09e7\u09e7"
+  },
+  {
+    "stop_id": 9,
+    "slug": "purobi",
+    "name_en": "Purobi",
+    "name_bn": "\u09aa\u09c1\u09b0\u09ac\u09c0"
+  },
+  {
+    "stop_id": 10,
+    "slug": "kalshi",
+    "name_en": "Kalshi",
+    "name_bn": "\u0995\u09be\u09b2\u09b6\u09c0"
+  },
+  {
+    "stop_id": 11,
+    "slug": "ecb-square",
+    "name_en": "ECB Square",
+    "name_bn": "\u0987\u09b8\u09bf\u09ac\u09bf \u09b8\u09cd\u0995\u09af\u09bc\u09be\u09b0"
+  },
+  {
+    "stop_id": 12,
+    "slug": "mes",
+    "name_en": "MES",
+    "name_bn": "\u098f\u09ae\u0987\u098f\u09b8"
+  },
+  {
+    "stop_id": 13,
+    "slug": "shewra",
+    "name_en": "Shewra",
+    "name_bn": "\u09b6\u09c7\u0993\u09a1\u09bc\u09be"
+  },
+  {
+    "stop_id": 14,
+    "slug": "kuril-bishwa-road",
+    "name_en": "Kuril Bishwa Road",
+    "name_bn": "\u0995\u09c1\u09a1\u09bc\u09bf\u09b2 \u09ac\u09bf\u09b6\u09cd\u09ac \u09b0\u09cb\u09a1"
+  },
+  {
+    "stop_id": 15,
+    "slug": "jamuna-future-park",
+    "name_en": "Jamuna Future Park",
+    "name_bn": "\u09af\u09ae\u09c1\u09a8\u09be \u09ab\u09bf\u0989\u099a\u09be\u09b0 \u09aa\u09be\u09b0\u09cd\u0995"
+  },
+  {
+    "stop_id": 16,
+    "slug": "bashundhara",
+    "name_en": "Bashundhara",
+    "name_bn": "\u09ac\u09b8\u09c1\u09a8\u09cd\u09a7\u09b0\u09be"
+  },
+  {
+    "stop_id": 17,
+    "slug": "nadda",
+    "name_en": "Nadda",
+    "name_bn": "\u09a8\u09a6\u09cd\u09a6\u09be"
+  },
+  {
+    "stop_id": 18,
+    "slug": "notun-bazar",
+    "name_en": "Notun Bazar",
+    "name_bn": "\u09a8\u09a4\u09c1\u09a8 \u09ac\u09be\u099c\u09be\u09b0"
+  },
+  {
+    "stop_id": 19,
+    "slug": "bashtola",
+    "name_en": "Bashtola",
+    "name_bn": "\u09ac\u09be\u0981\u09b6\u09a4\u09b2\u09be"
+  },
+  {
+    "stop_id": 20,
+    "slug": "shahjadpur",
+    "name_en": "Shahjadpur",
+    "name_bn": "\u09b6\u09be\u09b9\u099c\u09be\u09a6\u09aa\u09c1\u09b0"
+  },
+  {
+    "stop_id": 21,
+    "slug": "uttar-badda",
+    "name_en": "Uttar Badda",
+    "name_bn": "\u0989\u09a4\u09cd\u09a4\u09b0 \u09ac\u09be\u09a1\u09cd\u09a1\u09be"
+  },
+  {
+    "stop_id": 22,
+    "slug": "badda",
+    "name_en": "Badda",
+    "name_bn": "\u09ac\u09be\u09a1\u09cd\u09a1\u09be"
+  },
+  {
+    "stop_id": 23,
+    "slug": "madhya-badda",
+    "name_en": "Madhya Badda",
+    "name_bn": "\u09ae\u09a7\u09cd\u09af \u09ac\u09be\u09a1\u09cd\u09a1\u09be"
+  },
+  {
+    "stop_id": 24,
+    "slug": "merul-badda",
+    "name_en": "Merul Badda",
+    "name_bn": "\u09ae\u09c7\u09b0\u09c1\u09b2 \u09ac\u09be\u09a1\u09cd\u09a1\u09be"
+  },
+  {
+    "stop_id": 25,
+    "slug": "rampura-bridge",
+    "name_en": "Rampura Bridge",
+    "name_bn": "\u09b0\u09be\u09ae\u09aa\u09c1\u09b0\u09be \u09ac\u09cd\u09b0\u09bf\u099c"
+  },
+  {
+    "stop_id": 26,
+    "slug": "banasree",
+    "name_en": "Banasree",
+    "name_bn": "\u09ac\u09a8\u09b6\u09cd\u09b0\u09c0"
+  },
+  {
+    "stop_id": 27,
+    "slug": "demra-staff-quarter",
+    "name_en": "Demra Staff Quarter",
+    "name_bn": "\u09a1\u09c7\u09ae\u09b0\u09be \u09b8\u09cd\u099f\u09be\u09ab \u0995\u09cb\u09af\u09bc\u09be\u09b0\u09cd\u099f\u09be\u09b0"
+  },
+  {
+    "stop_id": 28,
+    "slug": "shia-masjid",
+    "name_en": "Shia Masjid",
+    "name_bn": "\u09b6\u09bf\u09df\u09be \u09ae\u09b8\u099c\u09bf\u09a6"
+  },
+  {
+    "stop_id": 29,
+    "slug": "adabor",
+    "name_en": "Adabor",
+    "name_bn": "\u0986\u09a6\u09be\u09ac\u09b0"
+  },
+  {
+    "stop_id": 30,
+    "slug": "shyamoli",
+    "name_en": "Shyamoli",
+    "name_bn": "\u09b6\u09cd\u09af\u09be\u09ae\u09b2\u09c0"
+  },
+  {
+    "stop_id": 31,
+    "slug": "shewrapara",
+    "name_en": "Shewrapara",
+    "name_bn": "\u09b6\u09c7\u0993\u09a1\u09bc\u09be\u09aa\u09be\u09a1\u09bc\u09be"
+  },
+  {
+    "stop_id": 32,
+    "slug": "khilkhet",
+    "name_en": "Khilkhet",
+    "name_bn": "\u0996\u09bf\u09b2\u0995\u09cd\u09b7\u09c7\u09a4"
+  },
+  {
+    "stop_id": 33,
+    "slug": "airport",
+    "name_en": "Airport",
+    "name_bn": "\u09ac\u09bf\u09ae\u09be\u09a8\u09ac\u09a8\u09cd\u09a6\u09b0"
+  },
+  {
+    "stop_id": 34,
+    "slug": "jashimuddin",
+    "name_en": "Jashimuddin",
+    "name_bn": "\u099c\u09b8\u09bf\u09ae\u0989\u09a6\u09cd\u09a6\u09bf\u09a8"
+  },
+  {
+    "stop_id": 35,
+    "slug": "rajlakshmi",
+    "name_en": "Rajlakshmi",
+    "name_bn": "\u09b0\u09be\u099c\u09b2\u0995\u09cd\u09b7\u09cd\u09ae\u09c0"
+  },
+  {
+    "stop_id": 36,
+    "slug": "azampur",
+    "name_en": "Azampur",
+    "name_bn": "\u0986\u099c\u09ae\u09aa\u09c1\u09b0"
+  },
+  {
+    "stop_id": 37,
+    "slug": "house-building",
+    "name_en": "House Building",
+    "name_bn": "\u09b9\u09be\u0989\u099c \u09ac\u09bf\u09b2\u09cd\u09a1\u09bf\u0982"
+  },
+  {
+    "stop_id": 38,
+    "slug": "abdullahpur",
+    "name_en": "Abdullahpur",
+    "name_bn": "\u0986\u09ac\u09cd\u09a6\u09c1\u09b2\u09cd\u09b2\u09be\u09b9\u09aa\u09c1\u09b0"
+  },
+  {
+    "stop_id": 39,
+    "slug": "savar",
+    "name_en": "Savar",
+    "name_bn": "\u09b8\u09be\u09ad\u09be\u09b0"
+  },
+  {
+    "stop_id": 40,
+    "slug": "hemayetpur",
+    "name_en": "Hemayetpur",
+    "name_bn": "\u09b9\u09c7\u09ae\u09be\u09df\u09c7\u09a4\u09aa\u09c1\u09b0"
+  },
+  {
+    "stop_id": 41,
+    "slug": "amin-bazar",
+    "name_en": "Amin Bazar",
+    "name_bn": "\u0986\u09ae\u09bf\u09a8 \u09ac\u09be\u099c\u09be\u09b0"
+  },
+  {
+    "stop_id": 42,
+    "slug": "kallyanpur",
+    "name_en": "Kallyanpur",
+    "name_bn": "\u0995\u09b2\u09cd\u09af\u09be\u09a3\u09aa\u09c1\u09b0"
+  },
+  {
+    "stop_id": 43,
+    "slug": "shishu-mela",
+    "name_en": "Shishu Mela",
+    "name_bn": "\u09b6\u09bf\u09b6\u09c1 \u09ae\u09c7\u09b2\u09be"
+  },
+  {
+    "stop_id": 44,
+    "slug": "agargaon",
+    "name_en": "Agargaon",
+    "name_bn": "\u0986\u0997\u09be\u09b0\u0997\u09be\u0981\u0993"
+  },
+  {
+    "stop_id": 45,
+    "slug": "zia-uddyan",
+    "name_en": "Zia Uddyan",
+    "name_bn": "\u099c\u09bf\u09df\u09be \u0989\u09a6\u09cd\u09af\u09be\u09a8"
+  },
+  {
+    "stop_id": 46,
+    "slug": "bijoy-sarani",
+    "name_en": "Bijoy Sarani",
+    "name_bn": "\u09ac\u09bf\u099c\u09af\u09bc \u09b8\u09be\u09b0\u09be\u09a3\u09c0"
+  },
+  {
+    "stop_id": 47,
+    "slug": "jahangir-gate",
+    "name_en": "Jahangir Gate",
+    "name_bn": "\u099c\u09be\u09b9\u09be\u0999\u09cd\u0997\u09c0\u09b0 \u0997\u09c7\u099f"
+  },
+  {
+    "stop_id": 48,
+    "slug": "mohakhali",
+    "name_en": "Mohakhali",
+    "name_bn": "\u09ae\u09b9\u09be\u0996\u09be\u09b2\u09c0"
+  },
+  {
+    "stop_id": 49,
+    "slug": "wireless",
+    "name_en": "Wireless",
+    "name_bn": "\u0993\u09af\u09bc\u09cd\u09af\u09be\u09b0\u09b2\u09c7\u09b8"
+  },
+  {
+    "stop_id": 50,
+    "slug": "golshan-1",
+    "name_en": "Golshan 1",
+    "name_bn": "\u0997\u09c1\u09b2\u09b6\u09be\u09a8 \u09e7"
+  },
+  {
+    "stop_id": 51,
+    "slug": "badda-link-road",
+    "name_en": "Badda Link Road",
+    "name_bn": "\u09ac\u09be\u09a1\u09cd\u09a1\u09be \u09b2\u09bf\u0982\u0995 \u09b0\u09cb\u09a1"
+  },
+  {
+    "stop_id": 52,
+    "slug": "fulbaria",
+    "name_en": "Fulbaria",
+    "name_bn": "\u09ab\u09c1\u09b2\u09ac\u09be\u09a1\u09bc\u09bf\u09af\u09bc\u09be"
+  },
+  {
+    "stop_id": 53,
+    "slug": "golap-shah-mazar",
+    "name_en": "Golap Shah Mazar",
+    "name_bn": "\u0997\u09cb\u09b2\u09be\u09aa \u09b6\u09be\u09b9 \u09ae\u09be\u099c\u09be\u09b0"
+  },
+  {
+    "stop_id": 54,
+    "slug": "gpo",
+    "name_en": "GPO",
+    "name_bn": "\u099c\u09bf\u09aa\u09bf\u0993"
+  },
+  {
+    "stop_id": 55,
+    "slug": "paltan",
+    "name_en": "Paltan",
+    "name_bn": "\u09aa\u09b2\u09cd\u099f\u09a8"
+  },
+  {
+    "stop_id": 56,
+    "slug": "press-club",
+    "name_en": "Press Club",
+    "name_bn": "\u09aa\u09cd\u09b0\u09c7\u09b8 \u0995\u09cd\u09b2\u09be\u09ac"
+  },
+  {
+    "stop_id": 57,
+    "slug": "high-court",
+    "name_en": "High Court",
+    "name_bn": "\u0989\u099a\u09cd\u099a \u0986\u09a6\u09be\u09b2\u09a4"
+  },
+  {
+    "stop_id": 58,
+    "slug": "matsya-bhaban",
+    "name_en": "Matsya Bhaban",
+    "name_bn": "\u09ae\u09ce\u09b8\u09cd\u09af \u09ad\u09ac\u09a8"
+  },
+  {
+    "stop_id": 59,
+    "slug": "shahbag",
+    "name_en": "Shahbag",
+    "name_bn": "\u09b6\u09be\u09b9\u09ac\u09be\u0997"
+  },
+  {
+    "stop_id": 60,
+    "slug": "bangla-motor",
+    "name_en": "Bangla Motor",
+    "name_bn": "\u09ac\u09be\u0982\u09b2\u09be \u09ae\u09cb\u099f\u09b0"
+  },
+  {
+    "stop_id": 61,
+    "slug": "kawran-bazar",
+    "name_en": "Kawran Bazar",
+    "name_bn": "\u0995\u09be\u0993\u09b0\u09be\u09a8 \u09ac\u09be\u099c\u09be\u09b0"
+  },
+  {
+    "stop_id": 62,
+    "slug": "farmgate",
+    "name_en": "Farmgate",
+    "name_bn": "\u09ab\u09be\u09b0\u09cd\u09ae\u0997\u09c7\u099f"
+  },
+  {
+    "stop_id": 63,
+    "slug": "chairman-bari",
+    "name_en": "Chairman Bari",
+    "name_bn": "\u099a\u09c7\u09af\u09bc\u09be\u09b0\u09ae\u09cd\u09af\u09be\u09a8 \u09ac\u09be\u09a1\u09bc\u09c0"
+  },
+  {
+    "stop_id": 64,
+    "slug": "sainik-club",
+    "name_en": "Sainik Club",
+    "name_bn": "\u09b8\u09c8\u09a8\u09bf\u0995 \u0995\u09cd\u09b2\u09be\u09ac"
+  },
+  {
+    "stop_id": 65,
+    "slug": "banani",
+    "name_en": "Banani",
+    "name_bn": "\u09ac\u09a8\u09be\u09a8\u09c0"
+  },
+  {
+    "stop_id": 66,
+    "slug": "kakali",
+    "name_en": "Kakali",
+    "name_bn": "\u0995\u09be\u0995\u09b2\u09c0"
+  },
+  {
+    "stop_id": 67,
+    "slug": "staff-road",
+    "name_en": "Staff Road",
+    "name_bn": "\u09b8\u09cd\u099f\u09be\u09ab \u09b0\u09cb\u09a1"
+  },
+  {
+    "stop_id": 68,
+    "slug": "kurmitola",
+    "name_en": "Kurmitola",
+    "name_bn": "\u0995\u09c1\u09b0\u09cd\u09ae\u09bf\u099f\u09cb\u09b2\u09be"
+  },
+  {
+    "stop_id": 69,
+    "slug": "sadarghat",
+    "name_en": "Sadarghat",
+    "name_bn": "\u09b8\u09a6\u09b0\u0998\u09be\u099f"
+  },
+  {
+    "stop_id": 70,
+    "slug": "ray-saheb-bazar",
+    "name_en": "Ray Saheb Bazar",
+    "name_bn": "\u09b0\u09be\u09df \u09b8\u09be\u09b9\u09c7\u09ac \u09ac\u09be\u099c\u09be\u09b0"
+  },
+  {
+    "stop_id": 71,
+    "slug": "naya-bazar",
+    "name_en": "Naya Bazar",
+    "name_bn": "\u09a8\u09af\u09bc\u09be \u09ac\u09be\u099c\u09be\u09b0"
+  },
+  {
+    "stop_id": 72,
+    "slug": "kakrail",
+    "name_en": "Kakrail",
+    "name_bn": "\u0995\u09be\u0995\u09b0\u09be\u0987\u09b2"
+  },
+  {
+    "stop_id": 73,
+    "slug": "shantinagar",
+    "name_en": "Shantinagar",
+    "name_bn": "\u09b6\u09be\u09a8\u09cd\u09a4\u09bf\u09a8\u0997\u09b0"
+  },
+  {
+    "stop_id": 74,
+    "slug": "malibagh",
+    "name_en": "Malibagh",
+    "name_bn": "\u09ae\u09be\u09b2\u09bf\u09ac\u09be\u0997"
+  },
+  {
+    "stop_id": 75,
+    "slug": "mouchak",
+    "name_en": "Mouchak",
+    "name_bn": "\u09ae\u09cc\u099a\u09be\u0995"
+  },
+  {
+    "stop_id": 76,
+    "slug": "nabisco",
+    "name_en": "Nabisco",
+    "name_bn": "\u09a8\u09be\u09ac\u09bf\u09b8\u09cd\u0995\u09cb"
+  },
+  {
+    "stop_id": 77,
+    "slug": "tongi",
+    "name_en": "Tongi",
+    "name_bn": "\u099f\u0999\u09cd\u0997\u09c0"
+  },
+  {
+    "stop_id": 78,
+    "slug": "station-road",
+    "name_en": "Station Road",
+    "name_bn": "\u09b8\u09cd\u099f\u09c7\u09b6\u09a8 \u09b0\u09cb\u09a1"
+  },
+  {
+    "stop_id": 79,
+    "slug": "mill-gate",
+    "name_en": "Mill Gate",
+    "name_bn": "\u09ae\u09bf\u09b2 \u0997\u09c7\u099f"
+  },
+  {
+    "stop_id": 80,
+    "slug": "board-bazar",
+    "name_en": "Board Bazar",
+    "name_bn": "\u09ac\u09cb\u09b0\u09cd\u09a1 \u09ac\u09be\u099c\u09be\u09b0"
+  },
+  {
+    "stop_id": 81,
+    "slug": "gazipur-bypass",
+    "name_en": "Gazipur Bypass",
+    "name_bn": "\u0997\u09be\u099c\u09c0\u09aa\u09c1\u09b0 \u09ac\u09be\u0987\u09aa\u09be\u09b8"
+  },
+  {
+    "stop_id": 82,
+    "slug": "konabari",
+    "name_en": "Konabari",
+    "name_bn": "\u0995\u09cb\u09a8\u09be\u09ac\u09be\u09dc\u09bf"
+  },
+  {
+    "stop_id": 83,
+    "slug": "chandra",
+    "name_en": "Chandra",
+    "name_bn": "\u099a\u09a8\u09cd\u09a6\u09cd\u09b0\u09be"
+  },
+  {
+    "stop_id": 84,
+    "slug": "dhamrai",
+    "name_en": "Dhamrai",
+    "name_bn": "\u09a7\u09be\u09ae\u09b0\u09be\u0987"
+  },
+  {
+    "stop_id": 85,
+    "slug": "college-gate",
+    "name_en": "College Gate",
+    "name_bn": "\u0995\u09b2\u09c7\u099c \u0997\u09c7\u099f"
+  },
+  {
+    "stop_id": 86,
+    "slug": "asad-gate",
+    "name_en": "Asad Gate",
+    "name_bn": "\u0986\u09b8\u09be\u09a6 \u0997\u09c7\u099f"
+  },
+  {
+    "stop_id": 87,
+    "slug": "dhanmondi-27",
+    "name_en": "Dhanmondi 27",
+    "name_bn": "\u09a7\u09be\u09a8\u09ae\u09a8\u09cd\u09a1\u09bf \u09e8\u09ed"
+  },
+  {
+    "stop_id": 88,
+    "slug": "dhanmondi-32",
+    "name_en": "Dhanmondi 32",
+    "name_bn": "\u09a7\u09be\u09a8\u09ae\u09a8\u09cd\u09a1\u09bf \u09e9\u09e8"
+  },
+  {
+    "stop_id": 89,
+    "slug": "kalabagan",
+    "name_en": "Kalabagan",
+    "name_bn": "\u0995\u09b2\u09be\u09ac\u09be\u0997\u09be\u09a8"
+  },
+  {
+    "stop_id": 90,
+    "slug": "city-college",
+    "name_en": "City College",
+    "name_bn": "\u09b8\u09bf\u099f\u09bf \u0995\u09b2\u09c7\u099c"
+  },
+  {
+    "stop_id": 91,
+    "slug": "new-market",
+    "name_en": "New Market",
+    "name_bn": "\u09a8\u09bf\u0989 \u09ae\u09be\u09b0\u09cd\u0995\u09c7\u099f"
+  },
+  {
+    "stop_id": 92,
+    "slug": "nilkhet",
+    "name_en": "Nilkhet",
+    "name_bn": "\u09a8\u09c0\u09b2\u0995\u09cd\u09b7\u09c7\u09a4"
+  },
+  {
+    "stop_id": 93,
+    "slug": "azimpur",
+    "name_en": "Azimpur",
+    "name_bn": "\u0986\u099c\u09bf\u09ae\u09aa\u09c1\u09b0"
+  },
+  {
+    "stop_id": 94,
+    "slug": "bakshi-bazar",
+    "name_en": "Bakshi Bazar",
+    "name_bn": "\u09ac\u0995\u09b6\u09c0 \u09ac\u09be\u099c\u09be\u09b0"
+  },
+  {
+    "stop_id": 95,
+    "slug": "gulistan",
+    "name_en": "Gulistan",
+    "name_bn": "\u0997\u09c1\u09b2\u09bf\u09b8\u09cd\u09a4\u09be\u09a8"
+  },
+  {
+    "stop_id": 96,
+    "slug": "chittagong-road",
+    "name_en": "Chittagong Road",
+    "name_bn": "\u099a\u099f\u09cd\u099f\u0997\u09cd\u09b0\u09be\u09ae \u09b0\u09cb\u09a1"
+  },
+  {
+    "stop_id": 97,
+    "slug": "kadamtali",
+    "name_en": "Kadamtali",
+    "name_bn": "\u0995\u09a6\u09ae\u09a4\u09b2\u09c0"
+  },
+  {
+    "stop_id": 98,
+    "slug": "keraniganj",
+    "name_en": "Keraniganj",
+    "name_bn": "\u0995\u09c7\u09b0\u09be\u09a3\u09c0\u0997\u099e\u09cd\u099c"
+  },
+  {
+    "stop_id": 99,
+    "slug": "babubazar",
+    "name_en": "Babubazar",
+    "name_bn": "\u09ac\u09be\u09ac\u09c1\u09ac\u09be\u099c\u09be\u09b0"
+  },
+  {
+    "stop_id": 100,
+    "slug": "malibagh-railgate",
+    "name_en": "Malibagh Railgate",
+    "name_bn": "\u09ae\u09be\u09b2\u09bf\u09ac\u09be\u0997 \u09b0\u09c7\u09b2\u0997\u09c7\u099f"
+  },
+  {
+    "stop_id": 101,
+    "slug": "hazipara",
+    "name_en": "Hazipara",
+    "name_bn": "\u09b9\u09be\u099c\u09c0\u09aa\u09be\u09a1\u09bc\u09be"
+  },
+  {
+    "stop_id": 102,
+    "slug": "rampura-bazar",
+    "name_en": "Rampura Bazar",
+    "name_bn": "\u09b0\u09be\u09ae\u09aa\u09c1\u09b0\u09be \u09ac\u09be\u099c\u09be\u09b0"
+  },
+  {
+    "stop_id": 103,
+    "slug": "motijheel",
+    "name_en": "Motijheel",
+    "name_bn": "\u09ae\u09a4\u09bf\u099d\u09bf\u09b2"
+  },
+  {
+    "stop_id": 104,
+    "slug": "mogbazar",
+    "name_en": "Mogbazar",
+    "name_bn": "\u09ae\u0997\u09ac\u09be\u099c\u09be\u09b0"
+  },
+  {
+    "stop_id": 105,
+    "slug": "nandan-park",
+    "name_en": "Nandan Park",
+    "name_bn": "\u09a8\u09a8\u09cd\u09a6\u09a8 \u09aa\u09be\u09b0\u09cd\u0995"
+  },
+  {
+    "stop_id": 106,
+    "slug": "zirani-bazar",
+    "name_en": "Zirani Bazar",
+    "name_bn": "\u099c\u09bf\u09b0\u09be\u09a8\u09c0 \u09ac\u09be\u099c\u09be\u09b0"
+  },
+  {
+    "stop_id": 107,
+    "slug": "baipayl",
+    "name_en": "Baipayl",
+    "name_bn": "\u09ac\u09be\u0987\u09aa\u09be\u0987\u09b2"
+  },
+  {
+    "stop_id": 108,
+    "slug": "nobinagar",
+    "name_en": "Nobinagar",
+    "name_bn": "\u09a8\u09ac\u09c0\u09a8\u0997\u09b0"
+  },
+  {
+    "stop_id": 109,
+    "slug": "khamar-bari",
+    "name_en": "Khamar Bari",
+    "name_bn": "\u0996\u09be\u09ae\u09be\u09b0 \u09ac\u09be\u09a1\u09bc\u09bf"
+  },
+  {
+    "stop_id": 110,
+    "slug": "kamalapur",
+    "name_en": "Kamalapur",
+    "name_bn": "\u0995\u09ae\u09b2\u09be\u09aa\u09c1\u09b0"
+  },
+  {
+    "stop_id": 111,
+    "slug": "mirpur-14",
+    "name_en": "Mirpur 14",
+    "name_bn": "\u09ae\u09bf\u09b0\u09aa\u09c1\u09b0 \u09e7\u09ea"
+  },
+  {
+    "stop_id": 112,
+    "slug": "mazar-road",
+    "name_en": "Mazar Road",
+    "name_bn": "\u09ae\u09be\u099c\u09be\u09b0 \u09b0\u09cb\u09a1"
+  },
+  {
+    "stop_id": 113,
+    "slug": "rupnagar",
+    "name_en": "Rupnagar",
+    "name_bn": "\u09b0\u09c2\u09aa\u09a8\u0997\u09b0"
+  },
+  {
+    "stop_id": 114,
+    "slug": "beribadh",
+    "name_en": "Beribadh",
+    "name_bn": "\u09ac\u09c7\u09a1\u09bc\u09bf\u09ac\u09be\u0981\u09a7"
+  },
+  {
+    "stop_id": 115,
+    "slug": "birulia",
+    "name_en": "Birulia",
+    "name_bn": "\u09ac\u09bf\u09b0\u09c1\u09b2\u09bf\u09df\u09be"
+  },
+  {
+    "stop_id": 116,
+    "slug": "ashulia",
+    "name_en": "Ashulia",
+    "name_bn": "\u0986\u09b6\u09c1\u09b2\u09bf\u09df\u09be"
+  },
+  {
+    "stop_id": 117,
+    "slug": "zirabo",
+    "name_en": "Zirabo",
+    "name_bn": "\u099c\u09bf\u09b0\u09be\u09ac\u09cb"
+  },
+  {
+    "stop_id": 118,
+    "slug": "fantasy-kingdom",
+    "name_en": "Fantasy Kingdom",
+    "name_bn": "\u09ab\u09cd\u09af\u09be\u09a8\u09cd\u099f\u09be\u09b8\u09bf \u0995\u09bf\u0982\u09a1\u09ae"
+  },
+  {
+    "stop_id": 119,
+    "slug": "japan-garden-city",
+    "name_en": "Japan Garden City",
+    "name_bn": "\u099c\u09be\u09aa\u09be\u09a8 \u0997\u09be\u09b0\u09cd\u09a1\u09c7\u09a8 \u09b8\u09bf\u099f\u09bf"
+  },
+  {
+    "stop_id": 120,
+    "slug": "kazipara",
+    "name_en": "Kazipara",
+    "name_bn": "\u0995\u09be\u099c\u09c0\u09aa\u09be\u09a1\u09bc\u09be"
+  },
+  {
+    "stop_id": 121,
+    "slug": "ring-road",
+    "name_en": "Ring Road",
+    "name_bn": "\u09b0\u09bf\u0982 \u09b0\u09cb\u09a1"
+  },
+  {
+    "stop_id": 122,
+    "slug": "sign-board",
+    "name_en": "Sign Board",
+    "name_bn": "\u09b8\u09be\u0987\u09a8 \u09ac\u09cb\u09b0\u09cd\u09a1"
+  },
+  {
+    "stop_id": 123,
+    "slug": "shonir-akhra",
+    "name_en": "Shonir Akhra",
+    "name_bn": "\u09b6\u09a8\u09bf\u09b0 \u0986\u0996\u09b0\u09be"
+  },
+  {
+    "stop_id": 124,
+    "slug": "jatrabari",
+    "name_en": "Jatrabari",
+    "name_bn": "\u09af\u09be\u09a4\u09cd\u09b0\u09be\u09ac\u09be\u09a1\u09bc\u09bf"
+  },
+  {
+    "stop_id": 125,
+    "slug": "mugdapara",
+    "name_en": "Mugdapara",
+    "name_bn": "\u09ae\u09c1\u0997\u09a6\u09be\u09aa\u09be\u09a1\u09bc\u09be"
+  },
+  {
+    "stop_id": 126,
+    "slug": "bashabo",
+    "name_en": "Bashabo",
+    "name_bn": "\u09ac\u09be\u09b8\u09be\u09ac\u09cb"
+  },
+  {
+    "stop_id": 127,
+    "slug": "khilgaon",
+    "name_en": "Khilgaon",
+    "name_bn": "\u0996\u09bf\u09b2\u0997\u09be\u0981\u0993"
+  },
+  {
+    "stop_id": 128,
+    "slug": "gazipur-chourasta",
+    "name_en": "Gazipur Chourasta",
+    "name_bn": "\u0997\u09be\u099c\u09c0\u09aa\u09c1\u09b0 \u099a\u09cc\u09b0\u09be\u09b8\u09cd\u09a4\u09be"
+  },
+  {
+    "stop_id": 129,
+    "slug": "duairipara",
+    "name_en": "Duairipara",
+    "name_bn": "\u09a6\u09c1\u09af\u09bc\u09be\u0987\u09b0\u09bf\u09aa\u09be\u09a1\u09bc\u09be"
+  },
+  {
+    "stop_id": 130,
+    "slug": "rupnagar-abashik",
+    "name_en": "Rupnagar Abashik",
+    "name_bn": "\u09b0\u09c2\u09aa\u09a8\u0997\u09b0 \u0986\u09ac\u09be\u09b8\u09bf\u0995"
+  },
+  {
+    "stop_id": 131,
+    "slug": "shiyal-bari",
+    "name_en": "Shiyal Bari",
+    "name_bn": "\u09b6\u09bf\u09af\u09bc\u09be\u09b2 \u09ac\u09be\u09a1\u09bc\u09bf"
+  },
+  {
+    "stop_id": 132,
+    "slug": "proshika-moor",
+    "name_en": "Proshika Moor",
+    "name_bn": "\u09aa\u09cd\u09b0\u09b6\u09bf\u0995\u09be \u09ae\u09cb\u09dc"
+  },
+  {
+    "stop_id": 133,
+    "slug": "shukrabad",
+    "name_en": "Shukrabad",
+    "name_bn": "\u09b6\u09c1\u0995\u09cd\u09b0\u09be\u09ac\u09be\u09a6"
+  },
+  {
+    "stop_id": 134,
+    "slug": "jamgora",
+    "name_en": "Jamgora",
+    "name_bn": "\u099c\u09be\u09ae\u0997\u09a1\u09bc\u09be"
+  },
+  {
+    "stop_id": 135,
+    "slug": "asulia-bazar",
+    "name_en": "Asulia Bazar",
+    "name_bn": "\u0986\u09b6\u09c1\u09b2\u09bf\u09af\u09bc\u09be \u09ac\u09be\u099c\u09be\u09b0"
+  },
+  {
+    "stop_id": 136,
+    "slug": "kamarpara",
+    "name_en": "Kamarpara",
+    "name_bn": "\u0995\u09be\u09ae\u09be\u09b0\u09aa\u09be\u09a1\u09bc\u09be"
+  },
+  {
+    "stop_id": 137,
+    "slug": "sat-rasta",
+    "name_en": "Sat rasta",
+    "name_bn": "\u09b8\u09be\u09a4 \u09b0\u09be\u09b8\u09cd\u09a4\u09be"
+  },
+  {
+    "stop_id": 138,
+    "slug": "dhour",
+    "name_en": "Dhour",
+    "name_bn": "\u09a2\u09be\u0989\u09b0"
+  },
+  {
+    "stop_id": 139,
+    "slug": "tarabo",
+    "name_en": "Tarabo",
+    "name_bn": "\u09a4\u09be\u09b0\u09be\u09ac\u09cb"
+  },
+  {
+    "stop_id": 140,
+    "slug": "madanpur",
+    "name_en": "Madanpur",
+    "name_bn": "\u09ae\u09a6\u09a8\u09aa\u09c1\u09b0"
+  },
+  {
+    "stop_id": 141,
+    "slug": "mohammadpur",
+    "name_en": "Mohammadpur",
+    "name_bn": "\u09ae\u09cb\u09b9\u09be\u09ae\u09cd\u09ae\u09a6\u09aa\u09c1\u09b0"
+  },
+  {
+    "stop_id": 142,
+    "slug": "science-lab",
+    "name_en": "Science Lab",
+    "name_bn": "\u09ac\u09bf\u099c\u09cd\u099e\u09be\u09a8 \u0997\u09ac\u09c7\u09b7\u09a3\u09be \u09aa\u09cd\u09b0\u09af\u09c1\u0995\u09cd\u09a4\u09bf"
+  },
+  {
+    "stop_id": 143,
+    "slug": "katabon",
+    "name_en": "Katabon",
+    "name_bn": "\u0995\u09be\u099f\u09be\u09ac\u09a8"
+  },
+  {
+    "stop_id": 144,
+    "slug": "bata-signal",
+    "name_en": "Bata Signal",
+    "name_bn": "\u09ac\u09be\u099f\u09be \u09b8\u09bf\u0997\u09a8\u09cd\u09af\u09be\u09b2"
+  },
+  {
+    "stop_id": 145,
+    "slug": "arambagh-notre-dame-college",
+    "name_en": "Arambagh Notre Dame College",
+    "name_bn": "\u0986\u09b0\u09be\u09ae\u09ac\u09be\u0997 \u09a8\u099f\u09b0 \u09a1\u09c7\u09ae \u0995\u09b2\u09c7\u099c"
+  },
+  {
+    "stop_id": 146,
+    "slug": "chiriyakhana",
+    "name_en": "Chiriyakhana",
+    "name_bn": "\u099a\u09bf\u09b0\u09bf\u09af\u09bc\u09be\u0996\u09be\u09a8\u09be"
+  },
+  {
+    "stop_id": 147,
+    "slug": "taltola",
+    "name_en": "Taltola",
+    "name_bn": "\u09a4\u09be\u09b2\u09a4\u09b2\u09be"
+  },
+  {
+    "stop_id": 148,
+    "slug": "malibaag-moor",
+    "name_en": "Malibaag Moor",
+    "name_bn": "\u09ae\u09be\u09b2\u09bf\u09ac\u09be\u0997 \u09ae\u09cb\u09dc"
+  },
+  {
+    "stop_id": 149,
+    "slug": "rajarbag",
+    "name_en": "Rajarbag",
+    "name_bn": "\u09b0\u09be\u099c\u09be\u09b0\u09ac\u09be\u0997"
+  },
+  {
+    "stop_id": 150,
+    "slug": "bangla-college",
+    "name_en": "Bangla College",
+    "name_bn": "\u09ac\u09be\u0982\u09b2\u09be \u0995\u09b2\u09c7\u099c"
+  },
+  {
+    "stop_id": 151,
+    "slug": "darussalam",
+    "name_en": "Darussalam",
+    "name_bn": "\u09a6\u09be\u09b0\u09c1\u09b8\u09cd\u09b8\u09be\u09b2\u09be\u09ae"
+  },
+  {
+    "stop_id": 152,
+    "slug": "dainik-bangla-moor",
+    "name_en": "Dainik Bangla Moor",
+    "name_bn": "\u09a6\u09c8\u09a8\u09bf\u0995 \u09ac\u09be\u0982\u09b2\u09be \u09ae\u09cb\u09dc"
+  },
+  {
+    "stop_id": 153,
+    "slug": "arambagh",
+    "name_en": "Arambagh",
+    "name_bn": "\u0986\u09b0\u09be\u09ae\u09ac\u09be\u0997"
+  },
+  {
+    "stop_id": 154,
+    "slug": "gulshan-1",
+    "name_en": "Gulshan 1",
+    "name_bn": "\u0997\u09c1\u09b2\u09b6\u09be\u09a8 \u09e7"
+  },
+  {
+    "stop_id": 155,
+    "slug": "sayapabad",
+    "name_en": "Sayapabad",
+    "name_bn": "\u09b8\u09be\u09df\u09be\u09aa\u09be\u09ac\u09be\u09a6"
+  },
+  {
+    "stop_id": 156,
+    "slug": "manik-nagar",
+    "name_en": "Manik Nagar",
+    "name_bn": "\u09ae\u09be\u09a8\u09bf\u0995 \u09a8\u0997\u09b0"
+  },
+  {
+    "stop_id": 157,
+    "slug": "tt-para",
+    "name_en": "TT Para",
+    "name_bn": "\u099f\u09bf\u099f\u09bf \u09aa\u09be\u09a1\u09bc\u09be"
+  },
+  {
+    "stop_id": 158,
+    "slug": "manik-mia-avenue",
+    "name_en": "Manik Mia Avenue",
+    "name_bn": "\u09ae\u09be\u09a8\u09bf\u0995 \u09ae\u09bf\u09af\u09bc\u09be \u098f\u09ad\u09bf\u09a8\u09bf\u0989"
+  },
+  {
+    "stop_id": 159,
+    "slug": "maowa",
+    "name_en": "Maowa",
+    "name_bn": "\u09ae\u09be\u0993\u09af\u09bc\u09be"
+  },
+  {
+    "stop_id": 160,
+    "slug": "dia-bari",
+    "name_en": "Dia Bari",
+    "name_bn": "\u09a6\u09bf\u09af\u09bc\u09be \u09ac\u09be\u09a1\u09bc\u09bf"
+  },
+  {
+    "stop_id": 161,
+    "slug": "old-airport",
+    "name_en": "Old Airport",
+    "name_bn": "\u09aa\u09c1\u09b0\u09be\u09a4\u09a8 \u09ac\u09bf\u09ae\u09be\u09a8\u09ac\u09a8\u09cd\u09a6\u09b0"
+  },
+  {
+    "stop_id": 162,
+    "slug": "mirpur-12",
+    "name_en": "Mirpur 12",
+    "name_bn": "\u09ae\u09bf\u09b0\u09aa\u09c1\u09b0 \u09e7\u09e8"
+  },
+  {
+    "stop_id": 163,
+    "slug": "gulshan-bridge",
+    "name_en": "Gulshan Bridge",
+    "name_bn": "\u0997\u09c1\u09b2\u09b6\u09be\u09a8 \u09ac\u09cd\u09b0\u09bf\u099c"
+  },
+  {
+    "stop_id": 164,
+    "slug": "pallabi",
+    "name_en": "Pallabi",
+    "name_bn": "\u09aa\u09b2\u09cd\u09b2\u09ac\u09c0"
+  },
+  {
+    "stop_id": 165,
+    "slug": "dhakeshwari",
+    "name_en": "Dhakeshwari",
+    "name_bn": "\u09a2\u09be\u0995\u09c7\u09b6\u09cd\u09ac\u09b0\u09c0"
+  },
+  {
+    "stop_id": 166,
+    "slug": "matuail",
+    "name_en": "Matuail",
+    "name_bn": "\u09ae\u09be\u09a4\u09c1\u09af\u09bc\u09be\u0987\u09b2"
+  },
+  {
+    "stop_id": 167,
+    "slug": "rayerbag",
+    "name_en": "Rayerbag",
+    "name_bn": "\u09b0\u09be\u09df\u09c7\u09b0\u09ac\u09be\u0997"
+  },
+  {
+    "stop_id": 168,
+    "slug": "chankhar-pul",
+    "name_en": "Chankhar Pul",
+    "name_bn": "\u099a\u09be\u0981\u0995\u09b9\u09be\u09b0 \u09aa\u09c1\u09b2"
+  },
+  {
+    "stop_id": 169,
+    "slug": "palashi",
+    "name_en": "Palashi",
+    "name_bn": "\u09aa\u09b2\u09be\u09b6\u09c0"
+  },
+  {
+    "stop_id": 170,
+    "slug": "sonargao",
+    "name_en": "Sonargao",
+    "name_bn": "\u09b8\u09cb\u09a8\u09be\u09b0\u0997\u09be\u0981\u0993"
+  },
+  {
+    "stop_id": 171,
+    "slug": "chasara",
+    "name_en": "Chasara",
+    "name_bn": "\u099a\u09be\u09b7\u09be\u09b0\u09be"
+  },
+  {
+    "stop_id": 172,
+    "slug": "meghna-ghat",
+    "name_en": "Meghna Ghat",
+    "name_bn": "\u09ae\u09c7\u0998\u09a8\u09be \u0998\u09be\u099f"
+  },
+  {
+    "stop_id": 173,
+    "slug": "kanchpur",
+    "name_en": "Kanchpur",
+    "name_bn": "\u0995\u09be\u0981\u099a\u09aa\u09c1\u09b0"
+  },
+  {
+    "stop_id": 174,
+    "slug": "kawlar",
+    "name_en": "Kawlar",
+    "name_bn": "\u0995\u09be\u0993\u09b2\u09be\u09b0"
+  },
+  {
+    "stop_id": 175,
+    "slug": "elevated-express-way",
+    "name_en": "Elevated Express Way",
+    "name_bn": "\u098f\u09b2\u09bf\u09ad\u09c7\u099f\u09c7\u09a1 \u098f\u0995\u09cd\u09b8\u09aa\u09cd\u09b0\u09c7\u09b8 \u0993\u09af\u09bc\u09c7"
+  },
+  {
+    "stop_id": 176,
+    "slug": "tejgaon-college",
+    "name_en": "Tejgaon College",
+    "name_bn": "Farmgate"
+  },
+  {
+    "stop_id": 177,
+    "slug": "khejur-bagan",
+    "name_en": "Khejur Bagan",
+    "name_bn": "\u0996\u09c7\u099c\u09c1\u09b0 \u09ac\u09be\u0997\u09be\u09a8"
+  },
+  {
+    "stop_id": 178,
+    "slug": "songsod-bhaban",
+    "name_en": "Songsod Bhaban",
+    "name_bn": "\u09b8\u0982\u09b8\u09a6 \u09ad\u09ac\u09a8"
+  },
+  {
+    "stop_id": 179,
+    "slug": "vulta",
+    "name_en": "Vulta",
+    "name_bn": "\u09ad\u09c1\u09b2\u09a4\u09be"
+  },
+  {
+    "stop_id": 180,
+    "slug": "kanchan-bridge",
+    "name_en": "Kanchan Bridge",
+    "name_bn": "\u0995\u09be\u099e\u09cd\u099a\u09a8 \u09ac\u09cd\u09b0\u09bf\u099c"
+  },
+  {
+    "stop_id": 181,
+    "slug": "nila-market",
+    "name_en": "Nila Market",
+    "name_bn": "\u09a8\u09c0\u09b2\u09be \u09ae\u09be\u09b0\u09cd\u0995\u09c7\u099f"
+  },
+  {
+    "stop_id": 182,
+    "slug": "300-feet",
+    "name_en": "300 Feet",
+    "name_bn": "\u09e9\u09e6\u09e6 \u09ab\u09c1\u099f"
+  },
+  {
+    "stop_id": 183,
+    "slug": "star-kabab",
+    "name_en": "Star Kabab",
+    "name_bn": "\u09b8\u09cd\u099f\u09be\u09b0 \u0995\u09be\u09ac\u09be\u09ac"
+  },
+  {
+    "stop_id": 184,
+    "slug": "dhanmondi",
+    "name_en": "Dhanmondi",
+    "name_bn": "\u09a7\u09be\u09a8\u09ae\u09a8\u09cd\u09a1\u09bf"
+  },
+  {
+    "stop_id": 185,
+    "slug": "jigatola",
+    "name_en": "Jigatola",
+    "name_bn": "\u099c\u09bf\u0997\u09be\u09a4\u09cb\u09b2\u09be"
+  },
+  {
+    "stop_id": 186,
+    "slug": "balughat",
+    "name_en": "Balughat",
+    "name_bn": "\u09ac\u09be\u09b2\u09c1\u0998\u09be\u099f"
+  },
+  {
+    "stop_id": 187,
+    "slug": "cantonment",
+    "name_en": "Cantonment",
+    "name_bn": "\u0995\u09cd\u09af\u09be\u09a8\u09cd\u099f\u09a8\u09ae\u09c7\u09a8\u09cd\u099f"
+  },
+  {
+    "stop_id": 188,
+    "slug": "vashantek",
+    "name_en": "Vashantek",
+    "name_bn": "\u09ad\u09be\u09b8\u09be\u09a8\u099f\u09c7\u0995"
+  },
+  {
+    "stop_id": 189,
+    "slug": "dhanmondi-15",
+    "name_en": "Dhanmondi 15",
+    "name_bn": "\u09a7\u09be\u09a8\u09ae\u09a8\u09cd\u09a1\u09bf \u09e7\u09eb"
+  },
+  {
+    "stop_id": 190,
+    "slug": "bosila",
+    "name_en": "Bosila",
+    "name_bn": "\u09ac\u09b8\u09bf\u09b2\u09be"
+  },
+  {
+    "stop_id": 191,
+    "slug": "ghatar-char",
+    "name_en": "Ghatar Char",
+    "name_bn": "\u0998\u09be\u099f\u09be\u09b0 \u099a\u09b0"
+  },
+  {
+    "stop_id": 192,
+    "slug": "postogola",
+    "name_en": "Postogola",
+    "name_bn": "\u09aa\u09cb\u09b8\u09cd\u09a4\u0997\u09cb\u09b2\u09be"
+  },
+  {
+    "stop_id": 193,
+    "slug": "dholairpar",
+    "name_en": "Dholairpar",
+    "name_bn": "\u09a7\u09b2\u09be\u0987\u09a1\u09bc\u09aa\u09be\u09a1\u09bc"
+  },
+  {
+    "stop_id": 194,
+    "slug": "kuril-chourasta",
+    "name_en": "Kuril Chourasta",
+    "name_bn": "\u0995\u09c1\u09a1\u09bc\u09bf\u09b2 \u099a\u09cc\u09b0\u09be\u09b8\u09cd\u09a4\u09be"
+  },
+  {
+    "stop_id": 195,
+    "slug": "eden-college",
+    "name_en": "Eden College",
+    "name_bn": "\u0987\u09a1\u09c7\u09a8 \u0995\u09b2\u09c7\u099c"
+  },
+  {
+    "stop_id": 196,
+    "slug": "police-plaza",
+    "name_en": "Police Plaza",
+    "name_bn": "\u09aa\u09c1\u09b2\u09bf\u09b8 \u09aa\u09cd\u09b2\u09be\u099c\u09be"
+  },
+  {
+    "stop_id": 197,
+    "slug": "gulshan-2",
+    "name_en": "Gulshan 2",
+    "name_bn": "\u0997\u09c1\u09b2\u09b6\u09be\u09a8 \u09e8"
+  },
+  {
+    "stop_id": 198,
+    "slug": "uttara",
+    "name_en": "Uttara",
+    "name_bn": "\u0989\u09a4\u09cd\u09a4\u09b0\u09be"
+  },
+  {
+    "stop_id": 199,
+    "slug": "shib-bari",
+    "name_en": "Shib Bari",
+    "name_bn": "\u09b6\u09bf\u09ac \u09ac\u09be\u09a1\u09bc\u09bf"
+  },
+  {
+    "stop_id": 200,
+    "slug": "tajmahal-road",
+    "name_en": "Tajmahal Road",
+    "name_bn": "\u09a4\u09be\u099c\u09ae\u09b9\u09b2 \u09b0\u09cb\u09a1"
+  },
+  {
+    "stop_id": 201,
+    "slug": "salimullah-road",
+    "name_en": "Salimullah Road",
+    "name_bn": "\u09b8\u09be\u09b2\u09bf\u09ae\u09c1\u09b2\u09cd\u09b2\u09be\u09b9 \u09b0\u09cb\u09a1"
+  },
+  {
+    "stop_id": 202,
+    "slug": "jakir-hossain-road",
+    "name_en": "Jakir Hossain Road",
+    "name_bn": "\u099c\u09be\u0995\u09bf\u09b0 \u09b9\u09cb\u09b8\u09c7\u09a8 \u09b0\u09cb\u09a1"
+  },
+  {
+    "stop_id": 203,
+    "slug": "baitul-mukarram",
+    "name_en": "Baitul Mukarram",
+    "name_bn": "\u09ac\u09be\u09af\u09bc\u09a4\u09c1\u09b2 \u09ae\u09cb\u0995\u09be\u09b0\u09b0\u09ae"
+  },
+  {
+    "stop_id": 204,
+    "slug": "panthopoth",
+    "name_en": "Panthopoth",
+    "name_bn": "\u09aa\u09be\u09a8\u09cd\u09a5\u09aa\u09a5"
+  },
+  {
+    "stop_id": 205,
+    "slug": "shankar",
+    "name_en": "Shankar",
+    "name_bn": "\u09b6\u0999\u09cd\u0995\u09b0"
+  },
+  {
+    "stop_id": 206,
+    "slug": "janapoth-moor",
+    "name_en": "Janapoth Moor",
+    "name_bn": "\u099c\u09a8\u09aa\u09a5 \u09ae\u09cb\u09dc"
+  },
+  {
+    "stop_id": 207,
+    "slug": "shibu-market",
+    "name_en": "Shibu Market",
+    "name_bn": "\u09b6\u09bf\u09ac\u09c1 \u09ae\u09be\u09b0\u09cd\u0995\u09c7\u099f"
+  },
+  {
+    "stop_id": 208,
+    "slug": "jalkuri",
+    "name_en": "Jalkuri",
+    "name_bn": "\u099c\u09b2\u0995\u09c1\u09a1\u09bc\u09bf"
+  },
+  {
+    "stop_id": 209,
+    "slug": "khilgaon-khidmah-hospital",
+    "name_en": "Khilgaon Khidmah Hospital",
+    "name_bn": "\u0996\u09bf\u09b2\u0997\u09be\u0981\u0993 \u0996\u09bf\u09a6\u09ae\u09be\u09b9 \u09b9\u09be\u09b8\u09aa\u09be\u09a4\u09be\u09b2"
+  },
+  {
+    "stop_id": 210,
+    "slug": "metro-hall",
+    "name_en": "Metro Hall",
+    "name_bn": "\u09ae\u09c7\u099f\u09cd\u09b0\u09cb \u09b9\u09b2"
+  },
+  {
+    "stop_id": 211,
+    "slug": "bangladesh-bank",
+    "name_en": "Bangladesh Bank",
+    "name_bn": "\u09ac\u09be\u0982\u09b2\u09be\u09a6\u09c7\u09b6 \u09ac\u09cd\u09af\u09be\u0982\u0995"
+  },
+  {
+    "stop_id": 212,
+    "slug": "kuril-flyover",
+    "name_en": "Kuril Flyover",
+    "name_bn": "\u0995\u09c1\u09a1\u09bc\u09bf\u09b2 \u09ab\u09cd\u09b2\u09be\u0987\u0993\u09ad\u09be\u09b0"
+  },
+  {
+    "stop_id": 213,
+    "slug": "beribadh-tin-rastar-moor",
+    "name_en": "Beribadh Tin Rastar Moor",
+    "name_bn": "\u09ac\u09c7\u09a1\u09bc\u09bf\u09ac\u09be\u0981\u09a7 \u09a4\u09bf\u09a8 \u09b0\u09be\u09b8\u09cd\u09a4\u09be\u09b0 \u09ae\u09cb\u09dc"
+  },
+  {
+    "stop_id": 214,
+    "slug": "rayer-bazar",
+    "name_en": "Rayer Bazar",
+    "name_bn": "\u09b0\u09be\u09af\u09bc\u09c7\u09b0 \u09ac\u09be\u099c\u09be\u09b0"
+  },
+  {
+    "stop_id": 215,
+    "slug": "sikder-medical-college",
+    "name_en": "Sikder Medical College",
+    "name_bn": "\u09b8\u09bf\u0995\u09a6\u09be\u09b0 \u09ae\u09c7\u09a1\u09bf\u0995\u09c7\u09b2 \u0995\u09b2\u09c7\u099c"
+  },
+  {
+    "stop_id": 216,
+    "slug": "hazaribag",
+    "name_en": "Hazaribag",
+    "name_bn": "\u09b9\u09be\u099c\u09be\u09b0\u09bf\u09ac\u09be\u0997"
+  },
+  {
+    "stop_id": 217,
+    "slug": "kamrangirchar",
+    "name_en": "Kamrangirchar",
+    "name_bn": "\u0995\u09be\u09ae\u09b0\u09be\u0999\u09cd\u0997\u09c0\u09b0\u099a\u09b0"
+  },
+  {
+    "stop_id": 218,
+    "slug": "showari-ghat",
+    "name_en": "Showari Ghat",
+    "name_bn": "\u09b6\u09cb\u09af\u09bc\u09be\u09b0\u09c0 \u0998\u09be\u099f"
+  },
+  {
+    "stop_id": 219,
+    "slug": "narsinghapur",
+    "name_en": "Narsinghapur",
+    "name_bn": "\u09a8\u09b0\u09b8\u09bf\u0982\u09b9\u09aa\u09c1\u09b0"
+  },
+  {
+    "stop_id": 220,
+    "slug": "surabari",
+    "name_en": "Surabari",
+    "name_bn": "\u09b8\u09c1\u09b0\u09be\u09ac\u09be\u09a1\u09bc\u09c0"
+  },
+  {
+    "stop_id": 221,
+    "slug": "jarun",
+    "name_en": "Jarun",
+    "name_bn": "\u09af\u09be\u09b0\u09c1\u09a8"
+  },
+  {
+    "stop_id": 222,
+    "slug": "khilgaon-flyover",
+    "name_en": "Khilgaon flyover",
+    "name_bn": "\u0996\u09bf\u09b2\u0997\u09be\u0981\u0993 \u09ab\u09cd\u09b2\u09be\u0987\u0993\u09ad\u09be\u09b0"
+  },
+  {
+    "stop_id": 223,
+    "slug": "golapbagh-chowrasta",
+    "name_en": "Golapbagh Chowrasta",
+    "name_bn": "\u0997\u09cb\u09b2\u09be\u09aa\u09ac\u09be\u0997 \u099a\u09cc\u09b0\u09be\u09b8\u09cd\u09a4\u09be"
+  },
+  {
+    "stop_id": 224,
+    "slug": "kazla",
+    "name_en": "Kazla",
+    "name_bn": "\u0995\u09be\u099c\u09b2\u09be"
+  },
+  {
+    "stop_id": 225,
+    "slug": "dayagonj",
+    "name_en": "Dayagonj",
+    "name_bn": "\u09a6\u09af\u09bc\u09be\u0997\u099e\u09cd\u099c"
+  },
+  {
+    "stop_id": 226,
+    "slug": "dhupkhola",
+    "name_en": "Dhupkhola",
+    "name_bn": "\u09a7\u09c1\u09aa\u0996\u09cb\u09b2\u09be"
+  },
+  {
+    "stop_id": 227,
+    "slug": "ittefaq-moor",
+    "name_en": "Ittefaq Moor",
+    "name_bn": "\u0987\u09a4\u09cd\u09a4\u09c7\u09ab\u09be\u0995 \u09ae\u09cb\u09dc"
+  },
+  {
+    "stop_id": 228,
+    "slug": "tolarbag",
+    "name_en": "Tolarbag",
+    "name_bn": "\u099f\u09cb\u09b2\u09be\u09b0\u09ac\u09be\u0997"
+  },
+  {
+    "stop_id": 229,
+    "slug": "manikganj",
+    "name_en": "Manikganj",
+    "name_bn": "\u09ae\u09be\u09a8\u09bf\u0995\u0997\u099e\u09cd\u099c"
+  },
+  {
+    "stop_id": 230,
+    "slug": "paturia",
+    "name_en": "Paturia",
+    "name_bn": "\u09aa\u09be\u099f\u09c1\u09b0\u09bf\u09af\u09bc\u09be"
+  },
+  {
+    "stop_id": 231,
+    "slug": "chalantika-mor",
+    "name_en": "Chalantika Mor",
+    "name_bn": "\u099a\u09be\u09b2\u09be\u09a8\u099f\u09bf\u0995\u09be \u09ae\u09cb\u09dc"
+  },
+  {
+    "stop_id": 232,
+    "slug": "mirpur-6",
+    "name_en": "Mirpur 6",
+    "name_bn": "\u09ae\u09bf\u09b0\u09aa\u09c1\u09b0 \u09ec"
+  },
+  {
+    "stop_id": 233,
+    "slug": "joydebpur",
+    "name_en": "Joydebpur",
+    "name_bn": "\u099c\u09af\u09bc\u09a6\u09c7\u09ac\u09aa\u09c1\u09b0"
+  },
+  {
+    "stop_id": 234,
+    "slug": "sreepur",
+    "name_en": "Sreepur",
+    "name_bn": "\u09b6\u09cd\u09b0\u09c0\u09aa\u09c1\u09b0"
+  },
+  {
+    "stop_id": 235,
+    "slug": "barmi",
+    "name_en": "Barmi",
+    "name_bn": "\u09ac\u09b0\u09ae\u09c0"
+  },
+  {
+    "stop_id": 236,
+    "slug": "jurain",
+    "name_en": "Jurain",
+    "name_bn": "\u099c\u09c1\u09b0\u09be\u0987\u09a8"
+  },
+  {
+    "stop_id": 237,
+    "slug": "fakirapul",
+    "name_en": "Fakirapul",
+    "name_bn": "\u09ab\u0995\u09bf\u09b0\u09be\u09aa\u09c1\u09b2"
+  },
+  {
+    "stop_id": 238,
+    "slug": "rajendrapur",
+    "name_en": "Rajendrapur",
+    "name_bn": "\u09b0\u09be\u099c\u09c7\u09a8\u09cd\u09a6\u09cd\u09b0\u09aa\u09c1\u09b0"
+  },
+  {
+    "stop_id": 239,
+    "slug": "tikatuli",
+    "name_en": "Tikatuli",
+    "name_bn": "\u099f\u09bf\u0995\u09be\u099f\u09c1\u09b2\u09bf"
+  },
+  {
+    "stop_id": 240,
+    "slug": "gandaria",
+    "name_en": "Gandaria",
+    "name_bn": "\u0997\u09c7\u09a8\u09cd\u09a1\u09be\u09b0\u09bf\u09af\u09bc\u09be"
+  },
+  {
+    "stop_id": 241,
+    "slug": "idb",
+    "name_en": "IDB",
+    "name_bn": "\u0986\u0987\u09a1\u09bf\u09ac\u09bf"
+  },
+  {
+    "stop_id": 242,
+    "slug": "shimultola",
+    "name_en": "Shimultola",
+    "name_bn": "\u09b8\u09bf\u09ae\u09c1\u09b2\u09a4\u09b2\u09be"
+  },
+  {
+    "stop_id": 243,
+    "slug": "palli-bidyut",
+    "name_en": "Palli Bidyut",
+    "name_bn": "\u09aa\u09b2\u09cd\u09b2\u09c0 \u09ac\u09bf\u09a6\u09cd\u09af\u09c1\u09ce"
+  },
+  {
+    "stop_id": 244,
+    "slug": "savar-cantonment",
+    "name_en": "Savar Cantonment",
+    "name_bn": "\u09b8\u09be\u09ad\u09be\u09b0 \u0995\u09cd\u09af\u09be\u09a8\u09cd\u099f\u09a8\u09ae\u09c7\u09a8\u09cd\u099f"
+  },
+  {
+    "stop_id": 245,
+    "slug": "victoria-park",
+    "name_en": "Victoria Park",
+    "name_bn": "\u09ad\u09bf\u0995\u09cd\u099f\u09cb\u09b0\u09bf\u09df\u09be \u09aa\u09be\u09b0\u09cd\u0995"
+  },
+  {
+    "stop_id": 246,
+    "slug": "sanarpar",
+    "name_en": "Sanarpar",
+    "name_bn": "\u09b8\u09be\u09a8\u09be\u09b0\u09aa\u09be\u09a1\u09bc"
+  },
+  {
+    "stop_id": 247,
+    "slug": "south-banasree",
+    "name_en": "South Banasree",
+    "name_bn": "\u09a6\u0995\u09cd\u09b7\u09bf\u09a3 \u09ac\u09a8\u09b6\u09cd\u09b0\u09c0"
+  },
+  {
+    "stop_id": 248,
+    "slug": "shonbari-sreenagar",
+    "name_en": "Shonbari Sreenagar",
+    "name_bn": "\u09b6\u09a8\u09ac\u09be\u09a1\u09bc\u09bf \u09b6\u09cd\u09b0\u09c0\u09a8\u0997\u09b0"
+  },
+  {
+    "stop_id": 249,
+    "slug": "nimtola",
+    "name_en": "Nimtola",
+    "name_bn": "\u09a8\u09bf\u09ae\u09a4\u09b2\u09be"
+  },
+  {
+    "stop_id": 250,
+    "slug": "kuchimura",
+    "name_en": "Kuchimura",
+    "name_bn": "\u0995\u09c1\u099a\u09bf\u09ae\u09c1\u09a1\u09bc\u09be"
+  },
+  {
+    "stop_id": 251,
+    "slug": "hasnabad",
+    "name_en": "Hasnabad",
+    "name_bn": "\u09b9\u09be\u09b8\u09a8\u09be\u09ac\u09be\u09a6"
+  },
+  {
+    "stop_id": 252,
+    "slug": "mirpur-13",
+    "name_en": "Mirpur 13",
+    "name_bn": "\u09ae\u09bf\u09b0\u09aa\u09c1\u09b0 \u09e7\u09e9"
+  },
+  {
+    "stop_id": 253,
+    "slug": "kochukhet",
+    "name_en": "Kochukhet",
+    "name_bn": "\u0995\u099a\u09c1\u0995\u09cd\u09b7\u09c7\u09a4"
+  },
+  {
+    "stop_id": 254,
+    "slug": "workshop",
+    "name_en": "Workshop",
+    "name_bn": "\u0993\u09af\u09bc\u09be\u09b0\u09cd\u0995\u09b6\u09aa"
+  },
+  {
+    "stop_id": 255,
+    "slug": "saudi-colony",
+    "name_en": "Saudi Colony",
+    "name_bn": "\u09b8\u09cc\u09a6\u09bf \u0995\u09b2\u09cb\u09a8\u09bf"
+  },
+  {
+    "stop_id": 256,
+    "slug": "mirpur",
+    "name_en": "Mirpur",
+    "name_bn": "DOHS"
+  },
+  {
+    "stop_id": 257,
+    "slug": "garrison",
+    "name_en": "Garrison",
+    "name_bn": "Cantonment"
+  },
+  {
+    "stop_id": 258,
+    "slug": "adamjee-school",
+    "name_en": "Adamjee School",
+    "name_bn": "\u0986\u09a6\u09ae\u099c\u09c0 \u09b8\u09cd\u0995\u09c1\u09b2"
+  },
+  {
+    "stop_id": 259,
+    "slug": "bot-tola",
+    "name_en": "Bot tola",
+    "name_bn": "\u09ac\u099f \u09a4\u09b2\u09be"
+  },
+  {
+    "stop_id": 260,
+    "slug": "signal",
+    "name_en": "Signal",
+    "name_bn": "\u09b8\u09bf\u0997\u09a8\u09cd\u09af\u09be\u09b2"
+  },
+  {
+    "stop_id": 261,
+    "slug": "cmh",
+    "name_en": "CMH",
+    "name_bn": "\u09b8\u09bf\u098f\u09ae\u098f\u0987\u099a"
+  }
+]
