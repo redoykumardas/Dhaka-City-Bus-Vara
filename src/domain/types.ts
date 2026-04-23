@@ -82,6 +82,7 @@ export interface RouteResult {
   transfers: number      // path.length - 2 (intermediate stops requiring transfers)
   primaryRouteId?: number   // first/main route ID for image display
   primaryRouteNumber?: string
+  label?: string
 }
 
 

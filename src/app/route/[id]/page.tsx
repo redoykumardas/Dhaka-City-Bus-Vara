@@ -1,240 +1,212 @@
+import fs from "fs"
+import path from "path"
 import { redirect } from "next/navigation"
 import Link from "next/link"
-import Image from "next/image"
-import { buildRoutesUseCase } from "@/application/buildRoutes.usecase"
-import { dijkstraAdapter } from "@/modules/routing/dijkstra.adapter"
-import { bfsAdapter } from "@/modules/routing/bfs.adapter"
-import { staticBusAdapter } from "@/modules/buses/staticBus.adapter"
-import { simpleFareAdapter } from "@/modules/fare/simpleFare.adapter"
-import { simpleTimeAdapter, buildTimeTable } from "@/modules/time/simpleTime.adapter"
-import {
-  getNormalizedGraph,
-  getNormalizedBusDB,
-  expandNormalizedPath,
-  getNormalizedFare,
-  buildNormalizedFareTable,
-  getRouteMeta,
-  getRouteBuses,
-} from "@/infrastructure/graph.normalized"
 import { normalizeStop } from "@/domain/stopNormalizer"
-import { RouteResult } from "@/domain/types"
-import styles from "./route.module.css"
-
+import { coreSearchUseCase } from "@/application/coreSearch.usecase"
 import FareImage from "@/shared/ui/FareImage"
 
 export const dynamic = "force-dynamic"
 
 interface PageProps {
   params: Promise<{ id: string }>
-  searchParams: Promise<{ from?: string; to?: string; path?: string; sort?: string }>
+  searchParams: Promise<{ from?: string; to?: string; path?: string }>
 }
 
 export default async function RouteDetailPage({ params, searchParams }: PageProps) {
   const { id } = await params
-  const { from: rawFrom, to: rawTo, path: rawPath, sort: rawSort } = await searchParams
+  const { from: rawFrom, to: rawTo, path: rawPath } = await searchParams
 
   if (!rawFrom || !rawTo) redirect("/")
 
   const from = normalizeStop(rawFrom)
   const to = normalizeStop(rawTo)
-  const sortBy = (rawSort as any) || "fare"
 
-  const graph = getNormalizedGraph()
-  const busDB = getNormalizedBusDB()
-  const fareTable = buildNormalizedFareTable()
-  const timeTable = buildTimeTable(fareTable)
-
-  // Pick algorithm based on sort if available
-  const routingAlgorithm = sortBy === "transfers" ? bfsAdapter : dijkstraAdapter
-
-  const routes = buildRoutesUseCase({
-    routing: routingAlgorithm,
-    bus: staticBusAdapter,
-    fare: simpleFareAdapter,
-    time: simpleTimeAdapter,
-    graph,
-    busDB,
-    fareTable,
-    timeTable,
-    from,
-    to,
-    maxPaths: 5,
-    expandPath: expandNormalizedPath,
-    getFare: getNormalizedFare,
-    getRouteMeta: getRouteMeta,
-    getRouteBuses: getRouteBuses,
-  })
-
-  // Find the right route by matching path if given, else by id
-  let route: RouteResult | undefined
-  if (rawPath) {
-    const pathStops = rawPath.split(",").map(decodeURIComponent)
-    route = routes.find((r) => r.path.join(",") === pathStops.join(","))
+  const routes = coreSearchUseCase(from, to)
+  
+  let route = routes.find(r => r.id === id)
+  if (!route && rawPath) {
+     route = routes.find(r => r.path.join(",") === rawPath)
   }
-  if (!route) {
-    route = routes.find((r) => r.id === decodeURIComponent(id)) ?? routes[0]
-  }
+  if (!route) route = routes[0]
 
   if (!route) redirect(`/routes?from=${encodeURIComponent(from)}&to=${encodeURIComponent(to)}`)
 
   return (
-    <main className={styles.main}>
-      <div className="page-bg" />
-      <div className="container">
+    <div className="container animate-in">
+      {/* Navigation */}
+      <div style={{ marginBottom: 24 }}>
+        <Link href={`/routes?from=${encodeURIComponent(from)}&to=${encodeURIComponent(to)}`} 
+              style={{ color: "var(--text-secondary)", textDecoration: "none", fontSize: "0.9rem", display: "inline-flex", alignItems: "center", gap: 8 }}>
+          <span>←</span> Back to Search Results
+        </Link>
+      </div>
 
-        {/* Nav */}
-        <nav className={styles.nav}>
-          <Link
-            href={`/routes?from=${encodeURIComponent(from)}&to=${encodeURIComponent(to)}`}
-            className={styles.backLink}
-          >
-            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5">
-              <path d="M19 12H5M12 19l-7-7 7-7"/>
-            </svg>
-            Back to results
-          </Link>
-        </nav>
-
-        {/* Route header */}
-        <div className={`card ${styles.routeHeader}`}>
-          <h1 className={styles.routeTitle}>
-            {from} <span className={styles.arrow}>→</span> {to}
-          </h1>
-          <div className={styles.routeChips}>
-            <span className="chip chip-green">💰 Total: {route.totalFare} BDT</span>
-            <span className="chip chip-blue">⏱ {route.totalTime} min</span>
-            <span className="chip chip-purple">📏 {route.totalDistanceKm} km</span>
-            <span className="chip chip-amber">🔄 {route.transfers} transfer{route.transfers !== 1 ? "s" : ""}</span>
-            <span className="chip" style={{ background: "var(--bg-overlay)" }}>📍 {route.path.length} stops</span>
+      {/* Hero Header */}
+      <section className="glass-card" style={{ marginBottom: 40, borderLeft: "6px solid var(--brand-primary)" }}>
+        <h1 style={{ fontSize: "2.4rem", fontWeight: 900, marginBottom: 16, letterSpacing: "-0.03em" }}>
+          Journey Plan
+        </h1>
+        <div style={{ display: "flex", alignItems: "center", gap: 12, marginBottom: 24, flexWrap: "wrap" }}>
+          <span className="timeline-stop" style={{ fontSize: "1.2rem" }}>{from}</span>
+          <span style={{ color: "var(--text-muted)", fontSize: "1.5rem" }}>➔</span>
+          <span className="timeline-stop" style={{ fontSize: "1.2rem" }}>{to}</span>
+        </div>
+        
+        <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fit, minmax(120px, 1fr))", gap: 16 }}>
+          <div style={{ padding: "12px", background: "var(--bg-elevated)", borderRadius: "var(--radius-md)", textAlign: "center" }}>
+            <div style={{ fontSize: "0.75rem", color: "var(--text-secondary)", textTransform: "uppercase", marginBottom: 4 }}>Total Fare</div>
+            <div style={{ fontSize: "1.25rem", fontWeight: 800 }}>💰 {route.totalFare} <span style={{ fontSize: "0.8rem" }}>BDT</span></div>
           </div>
-
-          {/* Full path display */}
-          <div className={`stop-path ${styles.pathDisplay}`}>
-            {route.path.map((stop, i) => (
-              <span key={i} style={{ display: "flex", alignItems: "center", gap: 6 }}>
-                <span
-                  className="stop-name"
-                  style={
-                    i === 0 || i === route!.path.length - 1
-                      ? { borderColor: "var(--brand-primary)", color: "var(--brand-primary)", fontWeight: 700 }
-                      : {}
-                  }
-                >
-                  {stop}
-                </span>
-                {i < route!.path.length - 1 && <span className="stop-arrow">→</span>}
-              </span>
-            ))}
+          <div style={{ padding: "12px", background: "var(--bg-elevated)", borderRadius: "var(--radius-md)", textAlign: "center" }}>
+            <div style={{ fontSize: "0.75rem", color: "var(--text-secondary)", textTransform: "uppercase", marginBottom: 4 }}>Distance</div>
+            <div style={{ fontSize: "1.25rem", fontWeight: 800 }}>📏 {route.totalDistanceKm} <span style={{ fontSize: "0.8rem" }}>KM</span></div>
+          </div>
+          <div style={{ padding: "12px", background: "var(--bg-elevated)", borderRadius: "var(--radius-md)", textAlign: "center" }}>
+            <div style={{ fontSize: "0.75rem", color: "var(--text-secondary)", textTransform: "uppercase", marginBottom: 4 }}>Travel Time</div>
+            <div style={{ fontSize: "1.25rem", fontWeight: 800 }}>⏱ {route.totalTime} <span style={{ fontSize: "0.8rem" }}>MIN</span></div>
+          </div>
+          <div style={{ padding: "12px", background: "var(--bg-elevated)", borderRadius: "var(--radius-md)", textAlign: "center" }}>
+            <div style={{ fontSize: "0.75rem", color: "var(--text-secondary)", textTransform: "uppercase", marginBottom: 4 }}>Transfers</div>
+            <div style={{ fontSize: "1.25rem", fontWeight: 800 }}>🔄 {route.transfers}</div>
           </div>
         </div>
+      </section>
 
-        {/* Segment breakdown */}
-        <h2 className={styles.segmentsTitle}>Segment Breakdown</h2>
-
-        <div className="segment-timeline">
-          {route.segments.map((seg, i) => (
-            <div key={i}>
-              {/* Transfer indicator */}
-              {i > 0 && (
-                <div className={styles.transfer}>
-                  <div className={styles.transferIcon}>🔄</div>
-                  <div>
-                    <p className={styles.transferText}>Change at <strong>{seg.from}</strong></p>
-                    <p className={styles.transferSub}>Board the next bus to continue your journey</p>
-                  </div>
-                </div>
-              )}
-
-              <div className={`card ${styles.segmentCard}`} style={{ marginBottom: 16 }}>
-                <div className="segment-dot" />
-
-                <div className={styles.segmentHeader}>
-                  <div>
-                    <span className={styles.segmentStops}>
-                      {seg.from} <span className={styles.arrow}>→</span> {seg.to}
-                    </span>
-                    <p className={styles.segmentSub}>Segment {i + 1} of {route!.segments.length}</p>
-                  </div>
-                  <div style={{ display: "flex", gap: 6, flexWrap: "wrap" }}>
-                    <span className="chip chip-green">💰 {seg.fare} BDT</span>
-                    <span className="chip chip-blue">⏱ {seg.estimatedMinutes} min</span>
-                    <span className="chip chip-purple">📏 {seg.distanceKm} km</span>
-                  </div>
-                </div>
-
-                {/* Route Image */}
-                {seg.routeId && (
-                  <FareImage 
-                    src={`/route-images/${seg.routeId}.jpg`} 
-                    alt={`Fare chart for ${seg.routeNumber}`}
-                    routeNumber={seg.routeNumber}
-                  />
-                )}
-
-                {/* Stops in this segment */}
-                <div style={{ marginTop: 16 }}>
-                  <p style={{ fontSize: "0.78rem", color: "var(--text-muted)", marginBottom: 8, textTransform: "uppercase", letterSpacing: "0.05em" }}>
-                    Stops In This Segment
-                  </p>
-                  <div className={styles.subPath}>
-                    {seg.path.map((stop, si) => (
-                      <span key={si} className={styles.subStop}>
-                        {stop}
-                        {si < seg.path.length - 1 && <span className={styles.subArrow}>→</span>}
-                      </span>
-                    ))}
-                  </div>
-                </div>
-
-                <div className="divider" style={{ margin: "16px 0" }} />
-
-                {/* Buses for this segment */}
-                {seg.buses.length > 0 ? (
-                  <div>
-                    <p style={{ fontSize: "0.78rem", color: "var(--text-muted)", marginBottom: 8, textTransform: "uppercase", letterSpacing: "0.05em" }}>
-                      Available Buses
-                    </p>
-                    <div style={{ display: "flex", gap: 8, flexWrap: "wrap" }}>
-                      {seg.buses.map((bus) => (
-                        <div key={bus.name} className={styles.busTag}>
-                          <span className={styles.busEmoji}>🚌</span>
-                          <div>
-                            <p className={styles.busName}>{bus.name}</p>
-                            {bus.name_bn && <p className={styles.busNameBn}>{bus.name_bn}</p>}
-                          </div>
-                          {bus.serviceType && (
-                            <span className={`chip ${styles.serviceChip}`}>
-                              {bus.serviceType.includes("AC") ? "❄️ AC" : "🪑 Semi"}
-                            </span>
-                          )}
-                        </div>
-                      ))}
-                    </div>
-                  </div>
-                ) : (
-                  <p style={{ fontSize: "0.85rem", color: "var(--text-muted)" }}>
-                    🚌 Bus info not available for this segment — try adjacent stops
-                  </p>
-                )}
+      {/* NEW: Full Journey Path Summary */}
+      <h2 style={{ fontSize: "1.4rem", fontWeight: 800, marginBottom: 20, display: "flex", alignItems: "center", gap: 12 }}>
+        <span>🚩</span> Full Journey Path
+      </h2>
+      <div className="glass-card" style={{ marginBottom: 48, padding: "24px" }}>
+        <div style={{ display: "flex", flexWrap: "wrap", gap: 8, alignItems: "center" }}>
+          {route.path.map((stop, i) => (
+            <div key={i} style={{ display: "flex", alignItems: "center", gap: 8 }}>
+              <div style={{ 
+                padding: "6px 12px", 
+                background: i === 0 || i === route!.path.length - 1 ? "var(--brand-primary-glow)" : "var(--bg-base)",
+                border: "1px solid",
+                borderColor: i === 0 || i === route!.path.length - 1 ? "var(--brand-primary)" : "var(--border-subtle)",
+                borderRadius: "var(--radius-sm)",
+                fontSize: "0.9rem",
+                fontWeight: i === 0 || i === route!.path.length - 1 ? 700 : 500,
+                color: i === 0 || i === route!.path.length - 1 ? "var(--brand-primary)" : "var(--text-primary)"
+              }}>
+                {stop}
               </div>
+              {i < route!.path.length - 1 && <span style={{ color: "var(--text-muted)" }}>→</span>}
             </div>
           ))}
-
-        </div>
-
-        {/* Actions */}
-        <div className={styles.actions}>
-          <Link
-            href={`/routes?from=${encodeURIComponent(from)}&to=${encodeURIComponent(to)}`}
-            className="btn btn-ghost"
-          >
-            ← See Other Routes
-          </Link>
-          <Link href="/" className="btn btn-primary">
-            🔍 New Search
-          </Link>
         </div>
       </div>
-    </main>
+
+      {/* Segments - Timeline Style */}
+      <h2 style={{ fontSize: "1.4rem", fontWeight: 800, marginBottom: 32, display: "flex", alignItems: "center", gap: 12 }}>
+        <span>🗺️</span> Segment Details
+      </h2>
+
+      <div style={{ display: "flex", flexDirection: "column", gap: 32, marginBottom: 80, position: "relative" }}>
+        {/* Vertical line connecting segments */}
+        <div style={{ position: "absolute", left: "20px", top: "20px", bottom: "20px", width: "2px", background: "dashed var(--border-default)", zIndex: 0 }} />
+
+        {route.segments.map((seg, i) => (
+          <div key={i} className="animate-in" style={{ paddingLeft: "50px", position: "relative", zIndex: 1, animationDelay: `${i * 0.15}s` }}>
+            {/* Timeline indicator */}
+            <div style={{ 
+              position: "absolute", left: "8px", top: "24px", width: "26px", height: "26px", 
+              borderRadius: "50%", background: "var(--brand-primary)", border: "4px solid var(--bg-base)",
+              display: "flex", alignItems: "center", justifyContent: "center", fontSize: "0.7rem", color: "white", fontWeight: 800
+            }}>
+              {i + 1}
+            </div>
+
+            <div className="glass-card" style={{ transition: "none" }}>
+              <div style={{ display: "flex", justifyContent: "space-between", alignItems: "flex-start", marginBottom: 20, flexWrap: "wrap", gap: 12 }}>
+                <div>
+                  <h3 style={{ fontSize: "1.25rem", fontWeight: 800, marginBottom: 4 }}>{seg.from} ➔ {seg.to}</h3>
+                  <div style={{ display: "flex", gap: 12, flexWrap: "wrap", fontSize: "0.85rem" }}>
+                    <span style={{ color: "var(--brand-primary)", fontWeight: 700 }}>💰 {seg.fare} BDT</span>
+                    <span style={{ color: "var(--text-secondary)" }}>📏 {seg.distanceKm} km</span>
+                    <span style={{ color: "var(--text-secondary)" }}>⏱ ~{seg.estimatedMinutes} mins</span>
+                  </div>
+                </div>
+                {seg.routeNumber && (
+                  <span className="route-badge" style={{ background: "var(--bg-overlay)", color: "var(--text-primary)" }}>
+                    Route {seg.routeNumber}
+                  </span>
+                )}
+              </div>
+
+              {/* Bus Operators */}
+              <div style={{ marginBottom: 24 }}>
+                <div style={{ fontSize: "0.8rem", fontWeight: 700, color: "var(--text-muted)", textTransform: "uppercase", marginBottom: 12, letterSpacing: "0.05em" }}>
+                  Available Bus Operators
+                </div>
+                <div style={{ display: "flex", flexWrap: "wrap", gap: 10 }}>
+                  {seg.buses.map((bus, bi) => (
+                    <div key={bi} className="bus-tag" style={{ padding: "10px 16px", background: "var(--bg-elevated)", border: "1px solid var(--border-default)", borderRadius: "var(--radius-md)" }}>
+                      <div style={{ display: "flex", alignItems: "center", gap: 8 }}>
+                        <span style={{ fontSize: "1.2rem" }}>🚌</span>
+                        <div>
+                          <div style={{ fontWeight: 700, fontSize: "0.95rem" }}>{bus.name}</div>
+                          <div style={{ fontSize: "0.7rem", opacity: 0.7 }}>{bus.serviceType || "Standard Service"}</div>
+                        </div>
+                      </div>
+                    </div>
+                  ))}
+                </div>
+              </div>
+
+              {/* Path Sequence for this segment */}
+              <div style={{ marginBottom: 24 }}>
+                <div style={{ fontSize: "0.8rem", fontWeight: 700, color: "var(--text-muted)", textTransform: "uppercase", marginBottom: 12, letterSpacing: "0.05em" }}>
+                  Segment Path ({seg.from} to {seg.to})
+                </div>
+                <div style={{ display: "flex", flexWrap: "wrap", gap: 8, background: "var(--bg-base)", padding: "16px", borderRadius: "var(--radius-md)", border: "1px solid var(--border-subtle)" }}>
+                  {seg.path.map((stop, si) => (
+                    <div key={si} style={{ display: "flex", alignItems: "center", gap: 6 }}>
+                      <span style={{ 
+                        fontSize: "0.85rem", fontWeight: 600, color: si === 0 || si === seg.path.length - 1 ? "var(--brand-primary)" : "var(--text-primary)"
+                      }}>
+                        {stop}
+                      </span>
+                      {si < seg.path.length - 1 && <span style={{ color: "var(--text-muted)", fontSize: "0.7rem" }}>➔</span>}
+                    </div>
+                  ))}
+                </div>
+              </div>
+
+              {/* Fare Chart Image */}
+              {seg.routeId && fs.existsSync(path.join(process.cwd(), "public", "route-images", `${seg.routeId}.jpg`)) && (
+                <div>
+                  <div style={{ fontSize: "0.8rem", fontWeight: 700, color: "var(--text-muted)", textTransform: "uppercase", marginBottom: 12, letterSpacing: "0.05em" }}>
+                    Fare Chart Verification
+                  </div>
+                  <FareImage 
+                    src={`/route-images/${seg.routeId}.jpg`} 
+                    alt={`Fare chart for route ${seg.routeNumber}`}
+                    routeNumber={seg.routeNumber}
+                  />
+                </div>
+              )}
+            </div>
+
+            {/* Transfer Indicator */}
+            {i < route.segments.length - 1 && (
+              <div style={{ margin: "16px 0", paddingLeft: "24px", color: "var(--brand-warn)", fontWeight: 700, display: "flex", alignItems: "center", gap: 10 }}>
+                <span>🔄</span>
+                <span>Transfer at {seg.to} to continue</span>
+              </div>
+            )}
+          </div>
+        ))}
+      </div>
+
+      {/* Footer Actions */}
+      <div style={{ textAlign: "center", paddingBottom: 80 }}>
+        <Link href="/" className="btn btn-primary" style={{ minWidth: "240px" }}>
+          🔍 Start New Search
+        </Link>
+      </div>
+    </div>
   )
 }

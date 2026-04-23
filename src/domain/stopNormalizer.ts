@@ -66,7 +66,7 @@ export const ALIASES: Record<string, string[]> = {
   "House Building": ["হাউজ বিল্ডিং"],
   "MES": ["MES", "এমইএস", "এমইএস (MES)"],
   "Kurmitola": ["Kurmitola", "কুর্মিটোলা", "কুর্মিটোলা (Kurmitola)"],
-  "Abdullahpur": ["আব্দুল্লাহপুর"],
+  "Abdullahpur": ["আব্দুল্লাহপুর", "Abdullahpur (Uttara)", "Abudullahpur", "Abdullah Pur Uttara"],
   "Tongi": ["টঙ্গী"],
   "Sadarghat": ["সদরঘাট"],
   "Babubazar": ["বাবুবাজার"],

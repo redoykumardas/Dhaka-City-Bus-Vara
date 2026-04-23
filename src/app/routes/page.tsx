@@ -1,27 +1,12 @@
 import { redirect } from "next/navigation"
 import Link from "next/link"
-import { buildRoutesUseCase } from "@/application/buildRoutes.usecase"
-import { dijkstraAdapter } from "@/modules/routing/dijkstra.adapter"
-import { bfsAdapter } from "@/modules/routing/bfs.adapter"
-import { staticBusAdapter } from "@/modules/buses/staticBus.adapter"
-import { simpleFareAdapter } from "@/modules/fare/simpleFare.adapter"
-import { simpleTimeAdapter, buildTimeTable } from "@/modules/time/simpleTime.adapter"
-import {
-  getNormalizedGraph,
-  getNormalizedBusDB,
-  getNormalizedStops,
-  expandNormalizedPath,
-  getNormalizedFare,
-  buildNormalizedFareTable,
-  getRouteMeta,
-  getRouteBuses,
-} from "@/infrastructure/graph.normalized"
+import { getNormalizedStops } from "@/infrastructure/graph.normalized"
 import { normalizeStop } from "@/domain/stopNormalizer"
 import { SortKey } from "@/domain/types"
+import { coreSearchUseCase } from "@/application/coreSearch.usecase"
 import SearchBar from "@/shared/ui/SearchBar"
 import RouteCard from "@/shared/ui/RouteCard"
 import SortTabs from "@/shared/ui/SortTabs"
-import styles from "./routes.module.css"
 
 export const dynamic = "force-dynamic"
 
@@ -34,103 +19,60 @@ export default async function RoutesPage({ searchParams }: PageProps) {
 
   if (!rawFrom || !rawTo) redirect("/")
 
-  const from    = normalizeStop(rawFrom)
-  const to      = normalizeStop(rawTo)
-  const sortBy  = (rawSort as SortKey) || "fare"
+  const from = normalizeStop(rawFrom)
+  const to = normalizeStop(rawTo)
+  const sortBy = (rawSort as SortKey) || "fare"
 
-  // ── Use normalized data from data/normalized/ ──
-  const graph     = getNormalizedGraph()
-  const busDB     = getNormalizedBusDB()
-  const fareTable = buildNormalizedFareTable()
-  const timeTable = buildTimeTable(fareTable)
-  const allStops  = getNormalizedStops()
-
-  // ── Pick algorithm: BFS for fewest transfers, Dijkstra for fare/time ──
-  const routingAlgorithm = sortBy === "transfers" ? bfsAdapter : dijkstraAdapter
-
-  const routes = buildRoutesUseCase({
-    routing:    routingAlgorithm,
-    bus:        staticBusAdapter,
-    fare:       simpleFareAdapter,
-    time:       simpleTimeAdapter,
-    graph,
-    busDB,
-    fareTable,
-    timeTable,
-    from,
-    to,
-    maxPaths:   5,
-    sortBy,
-    expandPath: expandNormalizedPath,
-    getFare:    getNormalizedFare,
-    getRouteMeta: getRouteMeta,
-    getRouteBuses: getRouteBuses,
-  })
+  const allStops = getNormalizedStops()
+  const routes = coreSearchUseCase(from, to)
 
   return (
-    <main className={styles.main}>
-      <div className="page-bg" />
-      <div className="container">
-
-        {/* Top nav */}
-        <nav className={styles.nav}>
-          <Link href="/" className={styles.backLink}>
-            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5">
-              <path d="M19 12H5M12 19l-7-7 7-7"/>
-            </svg>
-            Back
-          </Link>
-        </nav>
-
-        {/* Inline search bar */}
-        <div className={`card ${styles.searchCard}`}>
-          <SearchBar allStops={allStops} defaultFrom={from} defaultTo={to} />
-        </div>
-
-        {/* Results header */}
-        {routes.length > 0 ? (
-          <>
-            <div className={styles.resultsHeader}>
-              <div>
-                <h1 className={styles.resultsTitle}>
-                  {from} <span className={styles.arrow}>→</span> {to}
-                </h1>
-                <p className={styles.resultsCount}>
-                  {routes.length} route{routes.length !== 1 ? "s" : ""} found
-                </p>
-              </div>
-              <SortTabs current={sortBy} from={from} to={to} />
-            </div>
-
-            {/* Route cards */}
-            <div className={styles.routeList}>
-              {routes.map((route, i) => (
-                <RouteCard
-                  key={route.id}
-                  route={route}
-                  rank={i + 1}
-                  from={from}
-                  to={to}
-                />
-              ))}
-            </div>
-          </>
-        ) : (
-          <div className="empty-state fade-in">
-            <span className="empty-state-icon">🚫</span>
-            <h3>No direct routes found</h3>
-            <p>
-              We couldn&apos;t find a bus connection between <strong>{from}</strong> and <strong>{to}</strong>.
-              Try nearby stops or check spelling.
-            </p>
-            <div style={{ marginTop: 24 }}>
-              <Link href="/" className="btn btn-primary">
-                Try Another Search
-              </Link>
-            </div>
-          </div>
-        )}
+    <div className="container animate-in">
+      {/* Back Link */}
+      <div style={{ marginBottom: 20 }}>
+        <Link href="/" style={{ color: "var(--text-secondary)", textDecoration: "none", fontSize: "0.9rem", display: "inline-flex", alignItems: "center", gap: 8 }}>
+          <span>←</span> Back to home
+        </Link>
       </div>
-    </main>
+
+      {/* Header Card */}
+      <div className="glass-card" style={{ marginBottom: 40 }}>
+        <SearchBar allStops={allStops} defaultFrom={from} defaultTo={to} />
+      </div>
+
+      {routes.length > 0 ? (
+        <>
+          <div style={{ display: "flex", justifyContent: "space-between", alignItems: "flex-end", marginBottom: 32, flexWrap: "wrap", gap: 16 }}>
+            <div>
+              <div className="route-badge" style={{ marginBottom: 8 }}>{routes.length} paths found</div>
+              <h1 style={{ fontSize: "2rem", fontWeight: 800 }}>
+                {from} <span style={{ color: "var(--text-muted)", fontSize: "1.5rem" }}>→</span> {to}
+              </h1>
+            </div>
+            <SortTabs current={sortBy} from={from} to={to} />
+          </div>
+
+          <div className="results-grid">
+            {routes.map((route, i) => (
+              <RouteCard key={route.id} route={route} rank={i + 1} from={from} to={to} />
+            ))}
+          </div>
+        </>
+      ) : (
+        <div className="glass-card" style={{ textAlign: "center", padding: "80px 20px" }}>
+          <div style={{ fontSize: "4rem", marginBottom: 20 }}>🔍</div>
+          <h2 style={{ fontSize: "1.5rem", fontWeight: 800, marginBottom: 12 }}>No Routes Found</h2>
+          <p style={{ color: "var(--text-secondary)", maxWidth: 400, margin: "0 auto 32px" }}>
+            We couldn&apos;t find a direct or 1-transfer connection between <b>{from}</b> and <b>{to}</b>. 
+            Try checking the stop names or searching for nearby major hubs.
+          </p>
+          <Link href="/" className="btn btn-primary">
+            Refine Search
+          </Link>
+        </div>
+      )}
+
+      <div style={{ height: 100 }} />
+    </div>
   )
 }

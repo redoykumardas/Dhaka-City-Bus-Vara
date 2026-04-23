@@ -17,7 +17,6 @@ export default function SearchBar({ allStops, defaultFrom = "", defaultTo = "" }
   const [toSuggestions, setToSuggestions] = useState<string[]>([])
   const [fromOpen, setFromOpen] = useState(false)
   const [toOpen, setToOpen] = useState(false)
-  const [focusedField, setFocusedField] = useState<"from" | "to" | null>(null)
   const fromRef = useRef<HTMLDivElement>(null)
   const toRef = useRef<HTMLDivElement>(null)
 
@@ -44,8 +43,9 @@ export default function SearchBar({ allStops, defaultFrom = "", defaultTo = "" }
   }
 
   const handleSwap = () => {
+    const temp = from
     setFrom(to)
-    setTo(from)
+    setTo(temp)
   }
 
   const handleSearch = () => {
@@ -53,21 +53,17 @@ export default function SearchBar({ allStops, defaultFrom = "", defaultTo = "" }
     router.push(`/routes?from=${encodeURIComponent(from)}&to=${encodeURIComponent(to)}`)
   }
 
-  // Close dropdowns on outside click
+  const handleKeyDown = (e: React.KeyboardEvent) => {
+    if (e.key === "Enter") handleSearch()
+  }
+
   useEffect(() => {
-    console.log("SearchBar initialized with stops:", allStops.length)
     const handler = (e: MouseEvent | TouchEvent) => {
       if (fromRef.current && !fromRef.current.contains(e.target as Node)) {
         setFromOpen(false)
       }
       if (toRef.current && !toRef.current.contains(e.target as Node)) {
         setToOpen(false)
-      }
-      if (
-        fromRef.current && !fromRef.current.contains(e.target as Node) &&
-        toRef.current && !toRef.current.contains(e.target as Node)
-      ) {
-        setFocusedField(null)
       }
     }
     document.addEventListener("mousedown", handler)
@@ -76,31 +72,26 @@ export default function SearchBar({ allStops, defaultFrom = "", defaultTo = "" }
       document.removeEventListener("mousedown", handler)
       document.removeEventListener("touchstart", handler)
     }
-  }, [allStops])
+  }, [])
 
   return (
-    <div className="search-bar">
-      <div className="search-fields">
-        {/* FROM */}
-        <div className="input-wrapper" ref={fromRef} style={{ zIndex: focusedField === "from" ? 100 : 1 }}>
-          <span className="input-icon">
-            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
-              <circle cx="12" cy="12" r="4" fill="currentColor" stroke="none" opacity="0.6"/>
-              <circle cx="12" cy="12" r="10"/>
-            </svg>
-          </span>
+    <div className="search-grid">
+      {/* From Input */}
+      <div className="form-group" ref={fromRef}>
+        <label className="label">Origin Stop</label>
+        <div className="input-container">
+          <span className="input-icon-main">⭕</span>
           <input
-            id="search-from"
             className="input"
             type="text"
-            placeholder="From (e.g. Mirpur 10)"
+            placeholder="Starting from..."
             value={from}
             onChange={(e) => handleFromChange(e.target.value)}
-            onFocus={() => { 
+            onFocus={() => {
               setFromSuggestions(getSuggestions(from))
               setFromOpen(true)
-              setFocusedField("from")
             }}
+            onKeyDown={handleKeyDown}
             autoComplete="off"
           />
           {fromOpen && fromSuggestions.length > 0 && (
@@ -109,51 +100,45 @@ export default function SearchBar({ allStops, defaultFrom = "", defaultTo = "" }
                 <div
                   key={s}
                   className="autocomplete-item"
-                  onPointerDown={() => { setFrom(s); setFromOpen(false); setFromSuggestions([]) }}
+                  onMouseDown={() => {
+                    setFrom(s)
+                    setFromOpen(false)
+                  }}
                 >
-                  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
-                    <circle cx="12" cy="12" r="4"/>
-                  </svg>
                   {s}
                 </div>
               ))}
             </div>
           )}
         </div>
+      </div>
 
-        {/* SWAP BUTTON */}
-        <button
-          id="swap-btn"
-          onClick={handleSwap}
-          className="swap-btn"
-          title="Swap stops"
-          aria-label="Swap from and to"
-        >
-          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5">
-            <path d="M8 3L4 7l4 4M4 7h16M16 21l4-4-4-4M20 17H4"/>
-          </svg>
-        </button>
+      {/* Swap Button for Desktop (Inline) */}
+      <button 
+        className="icon-btn hide-mobile" 
+        onClick={handleSwap} 
+        style={{ marginBottom: 4, borderRadius: "50%" }}
+        title="Swap Destinations"
+      >
+        🔄
+      </button>
 
-        {/* TO */}
-        <div className="input-wrapper" ref={toRef} style={{ zIndex: focusedField === "to" ? 100 : 1 }}>
-          <span className="input-icon">
-            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
-              <path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7z" fill="currentColor" opacity="0.5"/>
-              <circle cx="12" cy="9" r="2.5" fill="white"/>
-            </svg>
-          </span>
+      {/* To Input */}
+      <div className="form-group" ref={toRef}>
+        <label className="label">Destination</label>
+        <div className="input-container">
+          <span className="input-icon-main">📍</span>
           <input
-            id="search-to"
             className="input"
             type="text"
-            placeholder="To (e.g. Motijheel)"
+            placeholder="Going to..."
             value={to}
             onChange={(e) => handleToChange(e.target.value)}
-            onFocus={() => { 
-              setToSuggestions(getSuggestions(to)) 
-              setToOpen(true) 
-              setFocusedField("to")
+            onFocus={() => {
+              setToSuggestions(getSuggestions(to))
+              setToOpen(true)
             }}
+            onKeyDown={handleKeyDown}
             autoComplete="off"
           />
           {toOpen && toSuggestions.length > 0 && (
@@ -162,11 +147,11 @@ export default function SearchBar({ allStops, defaultFrom = "", defaultTo = "" }
                 <div
                   key={s}
                   className="autocomplete-item"
-                  onPointerDown={() => { setTo(s); setToOpen(false); setToSuggestions([]) }}
+                  onMouseDown={() => {
+                    setTo(s)
+                    setToOpen(false)
+                  }}
                 >
-                  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
-                    <path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7z"/>
-                  </svg>
                   {s}
                 </div>
               ))}
@@ -175,23 +160,15 @@ export default function SearchBar({ allStops, defaultFrom = "", defaultTo = "" }
         </div>
       </div>
 
-      <button
-        id="search-btn"
-        className="btn btn-primary search-btn"
-        onClick={handleSearch}
+      {/* Search Button */}
+      <button 
+        className="btn btn-primary" 
+        onClick={handleSearch} 
         disabled={!from || !to}
+        style={{ height: 48, width: "100%", maxWidth: 200 }}
       >
-        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5">
-          <circle cx="11" cy="11" r="8"/>
-          <path d="m21 21-4.35-4.35"/>
-        </svg>
         Find Routes
       </button>
-
-      {/* Debug info for user */}
-      <div style={{ marginTop: 12, textAlign: "center", fontSize: "0.7rem", color: "var(--text-muted)", opacity: 0.5 }}>
-        Diagnostics: {allStops.length} stops available • Host: {typeof window !== 'undefined' ? window.location.host : 'server'}
-      </div>
     </div>
   )
 }

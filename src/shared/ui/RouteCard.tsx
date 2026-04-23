@@ -1,7 +1,6 @@
 "use client"
 
 import Link from "next/link"
-import Image from "next/image"
 import { RouteResult } from "@/domain/types"
 
 interface RouteCardProps {
@@ -21,110 +20,61 @@ export default function RouteCard({ route, rank, from, to }: RouteCardProps) {
       href={`/route/${encodeURIComponent(route.id)}?from=${encodeURIComponent(from)}&to=${encodeURIComponent(to)}&path=${encodeURIComponent(route.path.join(","))}`}
       style={{ textDecoration: "none" }}
     >
-      <article className="route-card fade-in">
-        {/* Header row */}
-        <div className="stack-mobile" style={{ display: "flex", gap: 16, marginBottom: 14 }}>
-          {route.primaryRouteId && (
-            <div style={{ position: "relative", width: 80, height: 60, borderRadius: 8, overflow: "hidden", flexShrink: 0, border: "1px solid var(--border-default)" }}>
-              <Image 
-                src={`/route-images/${route.primaryRouteId}.jpg`} 
-                alt={`Route ${route.primaryRouteNumber}`}
-                fill
-                style={{ objectFit: "cover", opacity: 0.8 }}
-              />
-              <div style={{ 
-                position: "absolute", 
-                inset: 0, 
-                display: "flex", 
-                alignItems: "center", 
-                justifyContent: "center", 
-                background: "rgba(0,0,0,0.3)",
-                fontSize: "0.5rem",
-                color: "white",
-                fontWeight: 700,
-                textTransform: "uppercase"
-              }}>
-                Preview
-              </div>
-            </div>
-          )}
-          
-          <div style={{ flex: 1 }}>
-            <div className="stack-mobile" style={{ display: "flex", alignItems: "center", justifyContent: "space-between", marginBottom: 8 }}>
-              <div style={{ display: "flex", alignItems: "center", gap: 8 }}>
-                <span style={{ fontSize: "1.3rem" }}>{rankEmoji}</span>
-                {route.primaryRouteNumber && <span className="chip chip-blue">{route.primaryRouteNumber}</span>}
-              </div>
-              <div style={{ display: "flex", gap: 6, flexWrap: "wrap" }}>
-                <span className="chip chip-green">💰 {route.totalFare} BDT</span>
-                <span className="chip chip-blue">⏱ {route.totalTime} min</span>
-                <span className="chip chip-amber">🔄 {route.transfers} transfer{route.transfers !== 1 ? "s" : ""}</span>
-              </div>
-            </div>
+      <article className="route-card animate-in">
+        <div className="route-card-header">
+          <div style={{ display: "flex", alignItems: "center", gap: 12 }}>
+            <span style={{ fontSize: "1.5rem" }}>{rankEmoji}</span>
+            {route.label && <span className="route-badge">{route.label}</span>}
+            {route.primaryRouteNumber && (
+              <span className="route-badge" style={{ background: "var(--bg-elevated)", color: "var(--text-primary)" }}>
+                Route {route.primaryRouteNumber}
+              </span>
+            )}
+          </div>
+          <div className="fare-tag">
+            {route.totalFare} <span>BDT</span>
           </div>
         </div>
 
-        {/* Segment path */}
-        <div className="stop-path" style={{ 
-          marginBottom: 14, 
-          overflowX: "auto", 
-          whiteSpace: "nowrap",
-          paddingBottom: 4,
-          scrollbarWidth: "none",
-          msOverflowStyle: "none"
-        }}>
-          {route.segments.map((seg, si) => (
-            <div key={si} style={{ display: "inline-flex", alignItems: "center" }}>
-              <span
-                className="stop-name"
-                style={
-                  si === 0
-                    ? { borderColor: "var(--brand-primary)", color: "var(--brand-primary)" }
-                    : {}
-                }
-              >
-                {seg.from}
-              </span>
-              <span className="stop-arrow" style={{ opacity: 0.5, margin: "0 4px" }}>→</span>
-              {si === route.segments.length - 1 && (
-                <span
-                  className="stop-name"
-                  style={{ borderColor: "var(--brand-primary)", color: "var(--brand-primary)" }}
-                >
-                  {seg.to}
-                </span>
+        <div className="route-timeline">
+          {route.segments.map((seg, i) => (
+            <div key={i} style={{ display: "contents" }}>
+              <span className="timeline-stop">{seg.from}</span>
+              <div className="timeline-line"></div>
+              {i === route.segments.length - 1 && (
+                <span className="timeline-stop">{seg.to}</span>
               )}
             </div>
           ))}
         </div>
 
-
-        {/* Buses summary */}
-        <div style={{ display: "flex", gap: 6, flexWrap: "wrap" }}>
-          {route.segments.flatMap(s => s.buses).reduce((acc, bus) => {
-            if (!acc.find(b => b.name === bus.name)) acc.push(bus)
-            return acc
-          }, [] as import("@/domain/types").BusOperator[])
-            .slice(0, 4)
-            .map((bus) => (
-              <span key={bus.name} className="chip chip-purple" style={{ fontSize: "0.72rem" }}>
-                🚌 {bus.name} {bus.serviceType?.includes("AC") ? "❄️" : bus.serviceType ? "🪑" : ""}
-              </span>
-            ))}
-          {new Set(route.segments.flatMap((s) => s.buses.map((b) => b.name))).size > 4 && (
-            <span className="chip" style={{ background: "var(--bg-overlay)", color: "var(--text-secondary)", border: "none", fontSize: "0.72rem" }}>
-              +{new Set(route.segments.flatMap((s) => s.buses.map((b) => b.name))).size - 4}
-            </span>
-          )}
-          {route.segments.every((s) => s.buses.length === 0) && (
-            <span style={{ fontSize: "0.8rem", color: "var(--text-muted)" }}>Bus info not available</span>
-          )}
+        <div style={{ display: "flex", gap: 16, alignItems: "center" }}>
+          <div style={{ display: "flex", alignItems: "center", gap: 6, fontSize: "0.85rem", color: "var(--text-secondary)" }}>
+            <span>⏱ {route.totalTime} mins</span>
+          </div>
+          <div style={{ display: "flex", alignItems: "center", gap: 6, fontSize: "0.85rem", color: "var(--text-secondary)" }}>
+            <span>📏 {route.totalDistanceKm} km</span>
+          </div>
+          <div style={{ display: "flex", alignItems: "center", gap: 6, fontSize: "0.85rem", color: "var(--text-secondary)" }}>
+            <span>🔄 {route.transfers} transfer{route.transfers !== 1 ? "s" : ""}</span>
+          </div>
         </div>
 
-        {/* Expand prompt */}
-        <p style={{ fontSize: "0.78rem", color: "var(--text-muted)", marginTop: 12, textAlign: "right" }}>
-          Tap to see full details →
-        </p>
+        <div style={{ borderTop: "1px solid var(--border-subtle)", paddingTop: 16, display: "flex", justifyContent: "space-between", alignItems: "center" }}>
+          <div className="bus-list">
+            {route.segments[0]?.buses.slice(0, 3).map((b, i) => (
+              <span key={i} className="bus-tag">{b.name}</span>
+            ))}
+            {route.segments[0]?.buses.length > 3 && (
+              <span className="bus-tag" style={{ border: "none", background: "none", padding: 0, opacity: 0.6 }}>
+                +{route.segments[0].buses.length - 3} more
+              </span>
+            )}
+          </div>
+          <div style={{ color: "var(--brand-primary)", fontWeight: 700, fontSize: "0.9rem" }}>
+            View Details ➔
+          </div>
+        </div>
       </article>
     </Link>
   )

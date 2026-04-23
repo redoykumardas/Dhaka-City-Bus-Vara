@@ -18,6 +18,7 @@ import routeStopsRaw  from "../../data/normalized/3_route_stops.json"
 import routeFaresRaw  from "../../data/normalized/4_route_fares.json"
 import busesRaw       from "../../data/normalized/5_buses.json"
 import busRoutesRaw   from "../../data/normalized/6_bus_routes.json"
+import busStopsRaw    from "../../data/normalized/7_bus_stops.json"
 
 // ─── Raw JSON shapes ──────────────────────────────────────────────────────────
 
@@ -105,6 +106,12 @@ export interface NBusRoute {
   route_id: number
 }
 
+export interface NBusStop {
+  bus_id: number
+  stop_id: number
+  sequence: number
+}
+
 // ─── Main class ───────────────────────────────────────────────────────────────
 
 export class NormalizedDataProcessor {
@@ -114,6 +121,7 @@ export class NormalizedDataProcessor {
   public readonly fares:      NFare[]
   public readonly buses:      NBus[]
   public readonly busRoutes:  NBusRoute[]
+  public readonly busStops:   NBusStop[]
 
   // Lookup maps (built once on construction)
   private readonly stopById:        Map<number, NStop>
@@ -122,6 +130,7 @@ export class NormalizedDataProcessor {
   private readonly fareAnyIndex:    Map<string, number>  // "fromId-toId" → best fare (any route)
   private readonly routeStopsByRoute: Map<number, NRouteStop[]>
   private readonly busesForRoute:   Map<number, NBus[]>  // routeId → buses
+  private readonly busStopsByBus:   Map<number, NBusStop[]> // busId → stops
 
   constructor() {
     // Cast raw imports to typed arrays
@@ -163,6 +172,12 @@ export class NormalizedDataProcessor {
     this.busRoutes = (busRoutesRaw as RawBusRoute[]).map(br => ({
       bus_id:   br.bus_id,
       route_id: br.route_id,
+    }))
+
+    this.busStops = (busStopsRaw as any[]).map(bs => ({
+      bus_id:   bs.bus_id,
+      stop_id:  bs.stop_id,
+      sequence: bs.sequence,
     }))
 
     // ── Build lookup maps ──
@@ -214,6 +229,18 @@ export class NormalizedDataProcessor {
       }
       this.busesForRoute.get(br.route_id)!.push(bus)
     }
+
+    // Bus stops grouped by bus
+    this.busStopsByBus = new Map()
+    for (const bs of this.busStops) {
+      if (!this.busStopsByBus.has(bs.bus_id)) {
+        this.busStopsByBus.set(bs.bus_id, [])
+      }
+      this.busStopsByBus.get(bs.bus_id)!.push(bs)
+    }
+    for (const arr of this.busStopsByBus.values()) {
+      arr.sort((a, b) => a.sequence - b.sequence)
+    }
   }
 
   // ─── Public API ──────────────────────────────────────────────────────────────
@@ -228,9 +255,9 @@ export class NormalizedDataProcessor {
     return this.stopByNameEn.get(name.toLowerCase().trim())
   }
 
-  /** All stop names (English) sorted alphabetically */
+  /** All unique stop names (English) sorted alphabetically */
   getAllStopNames(): string[] {
-    return this.stops.map(s => s.name_en).sort()
+    return Array.from(new Set(this.stops.map(s => s.name_en))).sort()
   }
 
   /** Stops for a given route, in sequence order */
@@ -313,6 +340,38 @@ export class NormalizedDataProcessor {
     } else {
       return stops.slice(toIdx, fromIdx + 1).map(rs => rs.stop_id).reverse()
     }
+  }
+  
+  /**
+   * Find buses that cover the segment from→to in their sequence.
+   */
+  getBusesForSegment(fromId: number, toId: number): NBus[] {
+    const results: NBus[] = []
+    
+    for (const [busId, stops] of this.busStopsByBus) {
+      // Find ALL occurrences of from and to
+      const fromIndices = stops.map((s, i) => s.stop_id === fromId ? i : -1).filter(i => i !== -1)
+      const toIndices = stops.map((s, i) => s.stop_id === toId ? i : -1).filter(i => i !== -1)
+      
+      // Check if any 'from' comes before any 'to'
+      let found = false
+      for (const f of fromIndices) {
+        for (const t of toIndices) {
+          if (f < t) {
+            found = true
+            break
+          }
+        }
+        if (found) break
+      }
+
+      if (found) {
+        const bus = this.buses.find(b => b.id === busId)
+        if (bus) results.push(bus)
+      }
+    }
+    
+    return results
   }
 }
 
