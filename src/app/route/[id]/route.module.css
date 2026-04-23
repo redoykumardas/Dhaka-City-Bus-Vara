@@ -217,3 +217,12 @@
 @media (max-width: 480px) {
   .routeTitle { font-size: 1.15rem; }
 }
+
+.fareImage {
+  transition: transform 0.3s var(--ease-out);
+  cursor: zoom-in;
+}
+
+.fareImage:hover {
+  transform: scale(1.02);
+}

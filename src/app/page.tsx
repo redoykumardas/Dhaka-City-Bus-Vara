@@ -1,11 +1,11 @@
-import { getAllStops } from "@/infrastructure/graph.data"
+import { getNormalizedStops } from "@/infrastructure/graph.normalized"
 import SearchBar from "@/shared/ui/SearchBar"
 import styles from "./home.module.css"
 
 export const dynamic = "force-dynamic"
 
 export default function HomePage() {
-  const allStops = getAllStops()
+  const allStops = getNormalizedStops()
 
   return (
     <main className={styles.main}>

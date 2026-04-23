@@ -1,15 +1,23 @@
-import { Suspense } from "react"
-import { notFound, redirect } from "next/navigation"
+import { redirect } from "next/navigation"
 import Link from "next/link"
 import { buildRoutesUseCase } from "@/application/buildRoutes.usecase"
 import { dijkstraAdapter } from "@/modules/routing/dijkstra.adapter"
+import { bfsAdapter } from "@/modules/routing/bfs.adapter"
 import { staticBusAdapter } from "@/modules/buses/staticBus.adapter"
 import { simpleFareAdapter } from "@/modules/fare/simpleFare.adapter"
 import { simpleTimeAdapter, buildTimeTable } from "@/modules/time/simpleTime.adapter"
-import { getGraph, getBusDB, getAllStops, expandRoutePath, getFareForRoute } from "@/infrastructure/graph.data"
-import { getFareTable } from "@/infrastructure/fare.data"
+import {
+  getNormalizedGraph,
+  getNormalizedBusDB,
+  getNormalizedStops,
+  expandNormalizedPath,
+  getNormalizedFare,
+  buildNormalizedFareTable,
+  getRouteMeta,
+  getRouteBuses,
+} from "@/infrastructure/graph.normalized"
 import { normalizeStop } from "@/domain/stopNormalizer"
-import { RouteResult, SortKey } from "@/domain/types"
+import { SortKey } from "@/domain/types"
 import SearchBar from "@/shared/ui/SearchBar"
 import RouteCard from "@/shared/ui/RouteCard"
 import SortTabs from "@/shared/ui/SortTabs"
@@ -26,31 +34,37 @@ export default async function RoutesPage({ searchParams }: PageProps) {
 
   if (!rawFrom || !rawTo) redirect("/")
 
-  const from = normalizeStop(rawFrom)
-  const to = normalizeStop(rawTo)
-  const sortBy = (rawSort as SortKey) || "fare"
+  const from    = normalizeStop(rawFrom)
+  const to      = normalizeStop(rawTo)
+  const sortBy  = (rawSort as SortKey) || "fare"
 
-  const graph = getGraph()
-  const busDB = getBusDB()
-  const fareTable = getFareTable()
+  // ── Use normalized data from data/normalized/ ──
+  const graph     = getNormalizedGraph()
+  const busDB     = getNormalizedBusDB()
+  const fareTable = buildNormalizedFareTable()
   const timeTable = buildTimeTable(fareTable)
-  const allStops = getAllStops()
+  const allStops  = getNormalizedStops()
+
+  // ── Pick algorithm: BFS for fewest transfers, Dijkstra for fare/time ──
+  const routingAlgorithm = sortBy === "transfers" ? bfsAdapter : dijkstraAdapter
 
   const routes = buildRoutesUseCase({
-    routing: dijkstraAdapter,
-    bus: staticBusAdapter,
-    fare: simpleFareAdapter,
-    time: simpleTimeAdapter,
+    routing:    routingAlgorithm,
+    bus:        staticBusAdapter,
+    fare:       simpleFareAdapter,
+    time:       simpleTimeAdapter,
     graph,
     busDB,
     fareTable,
     timeTable,
     from,
     to,
-    maxPaths: 5,
+    maxPaths:   5,
     sortBy,
-    expandPath: expandRoutePath,
-    getFare: getFareForRoute,
+    expandPath: expandNormalizedPath,
+    getFare:    getNormalizedFare,
+    getRouteMeta: getRouteMeta,
+    getRouteBuses: getRouteBuses,
   })
 
   return (

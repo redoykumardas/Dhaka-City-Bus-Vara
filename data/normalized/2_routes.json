@@ -1,0 +1,1358 @@
+[
+  {
+    "id": 1,
+    "route": {
+      "bangla": "বনশ্রী হতে মোহাম্মদপুর শিয়া মসজিদ",
+      "english": "Banasree to Mohammadpur Shia Masjid"
+    },
+    "route_number": {
+      "bangla": "এ-১৪২",
+      "english": "A-142"
+    },
+    "total_distance_km": 18.2
+  },
+  {
+    "id": 2,
+    "route": {
+      "bangla": "পীরজঙ্গী মাজার হতে নতুন বাজার (এ-১৪২নং)",
+      "english": "Peerjangi Mazhar to Natun Bazar (A-142)"
+    },
+    "route_number": {
+      "bangla": "এ-১৪২",
+      "english": "A-142"
+    },
+    "total_distance_km": 16.7
+  },
+  {
+    "id": 3,
+    "route": {
+      "bangla": "মিরপুর-১৪ হতে সাইনবোর্ড",
+      "english": "Mirpur-14 to Signboard"
+    },
+    "route_number": {
+      "bangla": "এ-১০৪ নং",
+      "english": ""
+    },
+    "total_distance_km": 26.5
+  },
+  {
+    "id": 4,
+    "route": {
+      "bangla": "বনশ্রী হতে মোহাম্মদপুর (এ-১৮৭নং)",
+      "english": "Banasree to Mohammadpur (A-187)"
+    },
+    "route_number": {
+      "bangla": "এ-১৮৭",
+      "english": "A-187"
+    },
+    "total_distance_km": 14
+  },
+  {
+    "id": 5,
+    "route": {
+      "bangla": "পল্লবী হতে সদরঘাট (এ-১৩২ নং) রুটে ডিজেল চালিত বাস ভাড়ার চার্ট",
+      "english": "Pallabi to Sadarghat (A-132) Diesel-powered Bus Fare Chart"
+    },
+    "route_number": {
+      "bangla": "এ-১৩২",
+      "english": "A-132"
+    },
+    "total_distance_km": 16.9
+  },
+  {
+    "id": 6,
+    "route": {
+      "bangla": "মোহাম্মদপুর (জাপান গার্ডেন সিটি) হতে পোস্তগোলা",
+      "english": "Mohammadpur (Japan Garden City) to Postogola"
+    },
+    "route_number": {
+      "bangla": "এ-১৬৩",
+      "english": "A-163"
+    },
+    "total_distance_km": 16.2
+  },
+  {
+    "id": 7,
+    "route": {
+      "bangla": "ঘাটপার হতে পোস্তগোলা",
+      "english": "Ghatpar to Postogola"
+    },
+    "route_number": {
+      "bangla": "এ-১৮২",
+      "english": "A-182"
+    },
+    "total_distance_km": 20.5
+  },
+  {
+    "id": 8,
+    "route": {
+      "bangla": "মোহাম্মদপুর (বাস স্ট্যান্ড) হতে উত্তরা হাউজ বিল্ডিং (এ-১৬৮নং) রুটের ডিজেল চালিত বাস ভাড়ার চার্ট",
+      "english": ""
+    },
+    "route_number": {
+      "bangla": "এ-১৬৮",
+      "english": "A-168"
+    },
+    "total_distance_km": 20.5
+  },
+  {
+    "id": 9,
+    "route": {
+      "bangla": "বাবু বাজার ব্রীজ হতে ধলপুর ব্রীজ (এ-১৭৩)",
+      "english": "Babu Bazar Bridge to Dhalpur Bridge (A-173)"
+    },
+    "route_number": {
+      "bangla": "এ-১৭৩",
+      "english": "A-173"
+    },
+    "total_distance_km": 25.2
+  },
+  {
+    "id": 10,
+    "route": {
+      "bangla": "সাভার হতে নতুন বাজার (এ-১৮৯ নং) রুটের মিনিবাস ভাড়ার চার্ট",
+      "english": "Savar to Natun Bazar [Route A-189] Minibus Fare Chart"
+    },
+    "route_number": {
+      "bangla": "এ-১৮৯",
+      "english": "A-189"
+    },
+    "total_distance_km": 27.8
+  },
+  {
+    "id": 11,
+    "route": {
+      "bangla": "মিরপুর-১৪ হতে চন্দ্রা (এ-১৮২ নং) রুটের ডিজেল চালিত বাস ভাড়ার চার্ট",
+      "english": "Mirpur-14 to Chandra [A-182] route diesel-powered bus fare chart"
+    },
+    "route_number": {
+      "bangla": "এ-১৮২",
+      "english": "A-182"
+    },
+    "total_distance_km": 42.5
+  },
+  {
+    "id": 12,
+    "route": {
+      "bangla": "সাভার ইপিজেড হতে নারায়ণগঞ্জ লিংক রোড",
+      "english": "Savar EPZ to Narayanganj Link Road"
+    },
+    "route_number": {
+      "bangla": "এ-১৯৩",
+      "english": "A-193"
+    },
+    "total_distance_km": 46.2
+  },
+  {
+    "id": 13,
+    "route": {
+      "bangla": "সাভার ইপিজেড হতে নারায়ণগঞ্জ লিংক রোড",
+      "english": "Savar EPZ to Narayanganj Link Road"
+    },
+    "route_number": {
+      "bangla": "এ-১৯২",
+      "english": "A-192"
+    },
+    "total_distance_km": 47.5
+  },
+  {
+    "id": 14,
+    "route": {
+      "bangla": "পল্লবী (দুয়ারীপাড়া) হতে ঢাকেশ্বরী (এ-২০৩ নং) রুটে ডিজেল চালিত বাস ভাড়ার চার্ট",
+      "english": "Pallabi (Duaripara) to Dhakeshwari (A-203) Diesel-powered Bus Fare Chart"
+    },
+    "route_number": {
+      "bangla": "এ-২০৩",
+      "english": "A-203"
+    },
+    "total_distance_km": 15.1
+  },
+  {
+    "id": 15,
+    "route": {
+      "bangla": "দুয়ারীপাড়া হতে ধলেশ্বরী (এ-১১০নং)",
+      "english": "Duaripara to Dhaleshwari (A-110)"
+    },
+    "route_number": {
+      "bangla": "এ-১১০",
+      "english": "A-110"
+    },
+    "total_distance_km": 16.7
+  },
+  {
+    "id": 16,
+    "route": {
+      "bangla": "পল্লবী (সিরামিক) হতে নটরডেম কলেজ",
+      "english": "Pallabi (Ceramic) to Notre Dame College"
+    },
+    "route_number": {
+      "bangla": "এ-১১১",
+      "english": "A-111"
+    },
+    "total_distance_km": 17
+  },
+  {
+    "id": 17,
+    "route": {
+      "bangla": "মিরপুর (চিড়িয়াখানা) হতে সায়েদাবাদ (এ-১১৪ নং) রুটের ডিজেল চালিত বাস ভাড়ার চার্ট",
+      "english": "Mirpur Zoo to Sayedabad Route A-114 Diesel Bus Fare Chart"
+    },
+    "route_number": {
+      "bangla": "এ-১১৪",
+      "english": "A-114"
+    },
+    "total_distance_km": 18.3
+  },
+  {
+    "id": 18,
+    "route": {
+      "bangla": "মিরপুর-১ (বৈশাখী সুপার মার্কেট) হতে যাত্রাবাড়ী (এ-২১৫ নং)",
+      "english": ""
+    },
+    "route_number": {
+      "bangla": "এ-২১৫",
+      "english": "A-215"
+    },
+    "total_distance_km": 17.6
+  },
+  {
+    "id": 19,
+    "route": {
+      "bangla": "কালশী (মিরপুর-১২) হতে কাঁচপুর ব্রিজ (এ-২০১) রুটে ডিজেল চালিত বাস ভাড়ার চার্ট",
+      "english": "Kalshi (Mirpur-12) to Kanchpur Bridge (A-201) Diesel Bus Fare Chart"
+    },
+    "route_number": {
+      "bangla": "এ-২০১",
+      "english": "A-201"
+    },
+    "total_distance_km": 29.8
+  },
+  {
+    "id": 20,
+    "route": {
+      "bangla": "মিরপুর-১২ (ইসিবি চত্বর) হতে আজিমপুর (এ-১২২ নং)",
+      "english": "Mirpur-12 (ECB Chattar) to Azimpur (A-122)"
+    },
+    "route_number": {
+      "bangla": "এ-১২২",
+      "english": "A-122"
+    },
+    "total_distance_km": 22
+  },
+  {
+    "id": 21,
+    "route": {
+      "bangla": "মিরপুর মাজার রোড হতে আজিমপুর (এ-১২৭ নং) রুটে ডিজেল চালিত বাস ভাড়ার চার্ট",
+      "english": "Mirpur Mazar Road to Azimpur (A-127) Route Diesel-powered Bus Fare Chart"
+    },
+    "route_number": {
+      "bangla": "এ-১২৭",
+      "english": "A-127"
+    },
+    "total_distance_km": 12
+  },
+  {
+    "id": 22,
+    "route": {
+      "bangla": "মিরপুর-১৪ হতে খিলগাঁও তালতলা",
+      "english": "Mirpur-14 to Khilgaon Taltola"
+    },
+    "route_number": {
+      "bangla": "এ-২১৩",
+      "english": "A-213"
+    },
+    "total_distance_km": 25.7
+  },
+  {
+    "id": 23,
+    "route": {
+      "bangla": "মিরপুর চিড়িয়াখানা হতে ভিক্টোরিয়া পার্ক",
+      "english": "Mirpur Zoo to Victoria Park"
+    },
+    "route_number": {
+      "bangla": "এ-১৩১",
+      "english": "A-131"
+    },
+    "total_distance_km": 16
+  },
+  {
+    "id": 24,
+    "route": {
+      "bangla": "বাইলপাইল হতে ডেমরা স্টাফ কোয়ার্টার (নতুন জেলখানা)",
+      "english": "Baipail to Demra Staff Quarter / New Jailkhana"
+    },
+    "route_number": {
+      "bangla": "এ-১৬২",
+      "english": "A-162"
+    },
+    "total_distance_km": 47.5
+  },
+  {
+    "id": 25,
+    "route": {
+      "bangla": "মদনপুর হতে আবদুল্লাহপুর (এ-১৩০৭) রুটে চলাচলকারী ডিজেল চালিত বাস ভাড়ার চার্ট",
+      "english": "Madanpur to Abdullahpur [A-1307] route Diesel-powered Bus Fare Chart"
+    },
+    "route_number": {
+      "bangla": "এ-১৩০৭",
+      "english": "A-1307"
+    },
+    "total_distance_km": 14.6
+  },
+  {
+    "id": 26,
+    "route": {
+      "bangla": "উত্তরা (রানীগঞ্জ) হতে ভিক্টোরিয়া পার্ক",
+      "english": "Uttara (Raniganj) to Victoria Park"
+    },
+    "route_number": {
+      "bangla": "এ-১৮৩",
+      "english": "A-183"
+    },
+    "total_distance_km": 23.3
+  },
+  {
+    "id": 27,
+    "route": {
+      "bangla": "মিরপুর-১২ হতে মতিঝিল (এ-৪৮৫) রুটের ডিজেল চালিত বাস ভাড়ার চার্ট",
+      "english": "Mirpur-12 to Motijheel (A-485) Route Diesel-powered Bus Fare Chart"
+    },
+    "route_number": {
+      "bangla": "এ-৪৮৫",
+      "english": "A-485"
+    },
+    "total_distance_km": 15.3
+  },
+  {
+    "id": 28,
+    "route": {
+      "bangla": "মানিকদি (ইসিবি মোড়) হতে আজিমপুর",
+      "english": "Manikdi (ECB Mode) to Azimpur"
+    },
+    "route_number": {
+      "bangla": "এ-৪৫৯",
+      "english": "A-459"
+    },
+    "total_distance_km": 15.3
+  },
+  {
+    "id": 29,
+    "route": {
+      "bangla": "উত্তরা দিয়াবাড়ী হতে ঘাটর চর (এ-৪২৪ নং) রুটে",
+      "english": "Uttara Diabari to Ghatar Char, Route A-424"
+    },
+    "route_number": {
+      "bangla": "এ-৪২৪",
+      "english": "A-424"
+    },
+    "total_distance_km": 32.1
+  },
+  {
+    "id": 30,
+    "route": {
+      "bangla": "সাইনবোর্ড হতে নবীনগর (এ-৪২১)",
+      "english": "Signboard to Nabinagar (A-421)"
+    },
+    "route_number": {
+      "bangla": "এ-৪২১",
+      "english": "A-421"
+    },
+    "total_distance_km": 45.3
+  },
+  {
+    "id": 31,
+    "route": {
+      "bangla": "কামারপাড়াহতে (বেড়ীবাঁধ) থেকে কোনাবাড়ী (এ-৪২২)",
+      "english": "Kamarpara (Beribandh) to Konabari (A-422)"
+    },
+    "route_number": {
+      "bangla": "এ-৪২২",
+      "english": "A-422"
+    },
+    "total_distance_km": 52.3
+  },
+  {
+    "id": 32,
+    "route": {
+      "bangla": "সাইনবোর্ড হতে ছনটেক (এ-৪২৪) রুটে ডিজেল চালিত বাস ভাড়ার চার্ট",
+      "english": "Sainboard to Chontek Route A-424 Diesel-powered Bus Fare Chart"
+    },
+    "route_number": {
+      "bangla": "এ-৪২৪",
+      "english": "A-424"
+    },
+    "total_distance_km": 13
+  },
+  {
+    "id": 33,
+    "route": {
+      "bangla": "কাঁচপুর হতে গাউছিয়া (এ-৪২৬নং)",
+      "english": "Kanchpur to Gausia (A-426)"
+    },
+    "route_number": {
+      "bangla": "এ-৪২৬",
+      "english": "A-426"
+    },
+    "total_distance_km": 104.5
+  },
+  {
+    "id": 34,
+    "route": {
+      "bangla": "সাভার হতে সাইনবোর্ড (এ-৪২৯)",
+      "english": "Savar to Signboard (A-429)"
+    },
+    "route_number": {
+      "bangla": "এ-৪২৯",
+      "english": "A-429"
+    },
+    "total_distance_km": 34
+  },
+  {
+    "id": 35,
+    "route": {
+      "bangla": "ঘাটার চর হতে সোনারগাঁও (এ-৪০৬) রুটের ডিজেল চালিত বাস ভাড়ার চার্ট",
+      "english": "Ghatarchor to Sonargaon (A-406) Diesel-powered Bus Fare Chart"
+    },
+    "route_number": {
+      "bangla": "এ-৪০৬",
+      "english": "A-406"
+    },
+    "total_distance_km": 39.4
+  },
+  {
+    "id": 36,
+    "route": {
+      "bangla": "আব্দুল্লাহপুর (দক্ষিণ কেরাণীগঞ্জ) হতে নিম্বার্কী (এ-৪৩০)",
+      "english": "Abdullahpur (South Keraniganj) to Nimbarki (A-430)"
+    },
+    "route_number": {
+      "bangla": "এ-৪৩০",
+      "english": "A-430"
+    },
+    "total_distance_km": 35.1
+  },
+  {
+    "id": 37,
+    "route": {
+      "bangla": "চিড়িয়াখানা হতে ধাইরশামাইনী দেওয়ানবাড়ী",
+      "english": "Zoo to Dhairshamaini Dewanbari"
+    },
+    "route_number": {
+      "bangla": "এ-৪৩১",
+      "english": "A-431"
+    },
+    "total_distance_km": 53.8
+  },
+  {
+    "id": 38,
+    "route": {
+      "bangla": "কুড়িল বিশ্বরোড হতে পলাশী",
+      "english": "Kuril Biswa Road to Palashi"
+    },
+    "route_number": {
+      "bangla": "এ-৪৩২",
+      "english": "A-432"
+    },
+    "total_distance_km": 20.3
+  },
+  {
+    "id": 39,
+    "route": {
+      "bangla": "গাবতলী ডিএনসিসি টার্মিনাল হতে বাইপাইল",
+      "english": "Gabtoli DNCC Terminal to Baipail"
+    },
+    "route_number": {
+      "bangla": "এ-৪৬৩",
+      "english": "A-463"
+    },
+    "total_distance_km": 39.8
+  },
+  {
+    "id": 40,
+    "route": {
+      "bangla": "খিলগাঁও সিনেমা হল হতে ঘাটলিচর",
+      "english": "Khilgaon Cinema Hall to Ghatlichar"
+    },
+    "route_number": {
+      "bangla": "এ-৪৬১",
+      "english": "A-461"
+    },
+    "total_distance_km": 20.3
+  },
+  {
+    "id": 41,
+    "route": {
+      "bangla": "মদনপুর হতে নারায়ণগঞ্জ চাষারা (এ-৪৪৪ নং) রুটের ডিজেল চালিত বাস ভাড়া চার্ট",
+      "english": "Madanpur to Narayanganj Chashara Route A-444 Diesel Bus Fare Chart"
+    },
+    "route_number": {
+      "bangla": "এ-৪৪৪",
+      "english": "A-444"
+    },
+    "total_distance_km": 35.4
+  },
+  {
+    "id": 42,
+    "route": {
+      "bangla": "নবীনগর হতে মাওয়াবাড়ী (এ-৪৫৩)",
+      "english": "Nabinagar to Mawabari (A-453)"
+    },
+    "route_number": {
+      "bangla": "এ-৪৫৩",
+      "english": "A-453"
+    },
+    "total_distance_km": 72.5
+  },
+  {
+    "id": 43,
+    "route": {
+      "bangla": "মিরপুর-১৪ হতে নন্দন পার্ক (এ-৩৩৩)",
+      "english": "Mirpur-14 to Nandan Park (A-333)"
+    },
+    "route_number": {
+      "bangla": "এ-৩৩৩",
+      "english": "A-333"
+    },
+    "total_distance_km": 39.8
+  },
+  {
+    "id": 44,
+    "route": {
+      "bangla": "আজিমপুর হতে ঘাটক (এ-৩৪২) রুটের বাস ভাড়ার চার্ট",
+      "english": "Azimpur to Ghatok (A-342) Route Bus Fare Chart"
+    },
+    "route_number": {
+      "bangla": "এ-৩৪২",
+      "english": "A-342"
+    },
+    "total_distance_km": 27.3
+  },
+  {
+    "id": 45,
+    "route": {
+      "bangla": "চিড়িয়াখানা হতে ইকুরিয়া (এ-৩৪৪ নং)",
+      "english": "Chiriyakhana to Ikuria (A-344)"
+    },
+    "route_number": {
+      "bangla": "এ-৩৪৪",
+      "english": "A-344"
+    },
+    "total_distance_km": 23.7
+  },
+  {
+    "id": 46,
+    "route": {
+      "bangla": "কামারপাড়া হতে নটরডেম কলেজ",
+      "english": "Kamarpara to Notre Dame College"
+    },
+    "route_number": {
+      "bangla": "এ-৩৪৫",
+      "english": "A-345"
+    },
+    "total_distance_km": 25
+  },
+  {
+    "id": 47,
+    "route": {
+      "bangla": "বনশ্রী (মেরাদিয়া) হতে সাভার (এ-৩০২) রুটের ডিজেল চালিত বাস ভাড়ার চার্ট",
+      "english": "Banasree (Meradia) to Savar (A-302) Route Diesel Bus Fare Chart"
+    },
+    "route_number": {
+      "bangla": "এ-৩০২",
+      "english": "A-302"
+    },
+    "total_distance_km": 26.7
+  },
+  {
+    "id": 48,
+    "route": {
+      "bangla": "আজিমপুর হতে মদনগঞ্জ",
+      "english": "Azimpur to Madanganj"
+    },
+    "route_number": {
+      "bangla": "এ-৩৪৭",
+      "english": "A-347"
+    },
+    "total_distance_km": 50.5
+  },
+  {
+    "id": 49,
+    "route": {
+      "bangla": "কুড়িল বিশ্বরোড হতে আজিমপুর (এ-৩৩৫)",
+      "english": "Kuril Bishwa Road to Azimpur (A-335)"
+    },
+    "route_number": {
+      "bangla": "এ-৩৩৫",
+      "english": "A-335"
+    },
+    "total_distance_km": 17.5
+  },
+  {
+    "id": 50,
+    "route": {
+      "bangla": "আজিমপুর হতে ঘাটপার (এ-৩২৬)",
+      "english": "Azimpur to Ghatpar (A-326)"
+    },
+    "route_number": {
+      "bangla": "এ-৩২৬",
+      "english": "A-326"
+    },
+    "total_distance_km": 29.9
+  },
+  {
+    "id": 51,
+    "route": {
+      "bangla": "ঘট্টি হতে মদনপুর (এ-৩৬২) রুটে চলাচলকারী ডিজেল চালিত বাস ভাড়ার চার্ট",
+      "english": "Ghatti to Madanpur (A-362) Route Diesel Bus Fare Chart"
+    },
+    "route_number": {
+      "bangla": "এ-৩৬২",
+      "english": "A-362"
+    },
+    "total_distance_km": 38.5
+  },
+  {
+    "id": 52,
+    "route": {
+      "bangla": "নবীনগর হতে ধউর",
+      "english": "Nabinagar to Dhour"
+    },
+    "route_number": {
+      "bangla": "এ-৩৮২",
+      "english": "A-382"
+    },
+    "total_distance_km": 45.2
+  },
+  {
+    "id": 53,
+    "route": {
+      "bangla": "বানিয়া হতে শনির আখড়া",
+      "english": "Bania to Shanir Akhra"
+    },
+    "route_number": {
+      "bangla": "এ-৩৮৮",
+      "english": "A-388"
+    },
+    "total_distance_km": 32.4
+  },
+  {
+    "id": 54,
+    "route": {
+      "bangla": "আয়ানটেক হতে মদনপুর",
+      "english": "Ayantek to Madanpur"
+    },
+    "route_number": {
+      "bangla": "এ-৩৮৭",
+      "english": "A-387"
+    },
+    "total_distance_km": 44.8
+  },
+  {
+    "id": 55,
+    "route": {
+      "bangla": "গাইনাবাড়ী হতে ফ্যান্টাসি কিংডম (এ-৩৬৮ নং) রুটের বাস ভাড়ার চার্ট",
+      "english": "Goinabari to Fantasy Kingdom, Route A-368"
+    },
+    "route_number": {
+      "bangla": "এ-৩৬৮",
+      "english": "A-368"
+    },
+    "total_distance_km": 46.3
+  },
+  {
+    "id": 56,
+    "route": {
+      "bangla": "গাবতলী হতে রামপুরা (এ-২৭৩) রুটে ডিজেল চালিত বাস ভাড়ার চার্ট",
+      "english": "Gabtoli to Rampura (A-273) Route Diesel-powered Bus Fare Chart"
+    },
+    "route_number": {
+      "bangla": "এ-২৭৩",
+      "english": "A-273"
+    },
+    "total_distance_km": 26.5
+  },
+  {
+    "id": 57,
+    "route": {
+      "bangla": "ডেমরা ব্রীজ হতে নবীনগর",
+      "english": "Demra Bridge to Nabinagar"
+    },
+    "route_number": {
+      "bangla": "এ-৩৭৭",
+      "english": "A-377"
+    },
+    "total_distance_km": 46.9
+  },
+  {
+    "id": 58,
+    "route": {
+      "bangla": "বালিগা হতে শনির আখড়া",
+      "english": "Balliga to Shanir Akhra"
+    },
+    "route_number": {
+      "bangla": "এ-৩০৪",
+      "english": "A-304"
+    },
+    "total_distance_km": 32.2
+  },
+  {
+    "id": 59,
+    "route": {
+      "bangla": "ডেমরা স্টাফ কোয়ার্টার হতে বাড্ডা (এ-৩৭৮নং) রুটের বাস ভাড়ার চার্ট",
+      "english": "Demra Staff Quarter to Badda (A-378) Route Bus Fare Chart"
+    },
+    "route_number": {
+      "bangla": "এ-৩৭৮",
+      "english": "A-378"
+    },
+    "total_distance_km": 23.5
+  },
+  {
+    "id": 60,
+    "route": {
+      "bangla": "দিয়াবাড়ী হতে কমলাপুর (পীরজঙ্গী মাজার)",
+      "english": "Diabari to Kamalapur (Peerjangi Mazhar)"
+    },
+    "route_number": {
+      "bangla": "এ-৩৮০নং",
+      "english": "A-380"
+    },
+    "total_distance_km": 21.3
+  },
+  {
+    "id": 61,
+    "route": {
+      "bangla": "গুলিস্তান হতে ফুলবাড়িয়া (গাজিপুুরিয়া) (এ-৩৮১) রুটে ডিজেলে চালিত বাস ভাড়ার চার্ট",
+      "english": ""
+    },
+    "route_number": {
+      "bangla": "এ-৩৮১",
+      "english": "A-381"
+    },
+    "total_distance_km": 20.6
+  },
+  {
+    "id": 62,
+    "route": {
+      "bangla": "মদনপুর হতে নন্দনপার্ক (এ-৩৮৬ নং) রুটে চলাচলকারী ডিজেল চালিত বাস ভাড়ার চার্ট",
+      "english": "Madanpur to Nandan Park, Route A-386 Diesel-powered Bus Fare Chart"
+    },
+    "route_number": {
+      "bangla": "এ-৩৮৬",
+      "english": "A-386"
+    },
+    "total_distance_km": 78.6
+  },
+  {
+    "id": 63,
+    "route": {
+      "bangla": "কালামপুর হতে ভিক্টোরিয়াপার্ক (এ-৩৮৭নং) রুটের ডিজেল চালিত বাস ভাড়ার চার্ট",
+      "english": "Kalampur to Victoria Park (A-387) Diesel-powered Bus Fare Chart"
+    },
+    "route_number": {
+      "bangla": "এ-৩৮৭",
+      "english": "A-387"
+    },
+    "total_distance_km": 49.5
+  },
+  {
+    "id": 64,
+    "route": {
+      "bangla": "মিরপুর-১৪ হতে ইপিকোড",
+      "english": "Mirpur-14 to Epicard"
+    },
+    "route_number": {
+      "bangla": "এ-৩০৭",
+      "english": "A-307"
+    },
+    "total_distance_km": 32.7
+  },
+  {
+    "id": 65,
+    "route": {
+      "bangla": "সদরঘাট হতে ইপিজেড (এ-৩০৯)",
+      "english": "Sadarghat to EPZ (A-309)"
+    },
+    "route_number": {
+      "bangla": "এ-৩০৯",
+      "english": "A-309"
+    },
+    "total_distance_km": 41.7
+  },
+  {
+    "id": 66,
+    "route": {
+      "bangla": "মিরপুর রূপনগর হতে সায়দাবাদ",
+      "english": "Mirpur Rupnagar to Sayedabad"
+    },
+    "route_number": {
+      "bangla": "এ-৩১০",
+      "english": "A-310"
+    },
+    "total_distance_km": 21.6
+  },
+  {
+    "id": 67,
+    "route": {
+      "bangla": "হেমায়েতপুর হতে ডেমরা স্টাফ কোয়ার্টার (এ-৩১৯) রুটে ডিজেল চালিত বাস ভাড়ার চার্ট",
+      "english": ""
+    },
+    "route_number": {
+      "bangla": "এ-৩১৯",
+      "english": "A-319"
+    },
+    "total_distance_km": 38.8
+  },
+  {
+    "id": 68,
+    "route": {
+      "bangla": "জাপান গার্ডেন সিটি হতে ছাতিরচর",
+      "english": "Japan Garden City to Chatirchar"
+    },
+    "route_number": {
+      "bangla": "এ-৩০২",
+      "english": "A-302"
+    },
+    "total_distance_km": 29.5
+  },
+  {
+    "id": 69,
+    "route": {
+      "bangla": "দিয়াবাড়ী হতে পোস্তগোলা",
+      "english": "A-317) (Diabari to Postogola (A-317)"
+    },
+    "route_number": {
+      "bangla": "এ-৩১৭",
+      "english": "A-317"
+    },
+    "total_distance_km": 27.3
+  },
+  {
+    "id": 70,
+    "route": {
+      "bangla": "মিরপুর-১২ হতে কাঁচপুর ব্রীজ (এ-৩৯৯নং)",
+      "english": "Mirpur-12 to Kanchpur Bridge (A-399)"
+    },
+    "route_number": {
+      "bangla": "এ-৩৯৯",
+      "english": "A-399"
+    },
+    "total_distance_km": 30.7
+  },
+  {
+    "id": 71,
+    "route": {
+      "bangla": "চিড়িয়াখানা হতে যাত্রাবাড়ী (এ-৩২০নং)",
+      "english": "Mirpur Zoo to Jatrabari"
+    },
+    "route_number": {
+      "bangla": "এ-৩২০",
+      "english": "A-320"
+    },
+    "total_distance_km": 20.3
+  },
+  {
+    "id": 72,
+    "route": {
+      "bangla": "মিরপুর-১৪ হতে মতিঝিল (এ-৩২৭নং)",
+      "english": "Mirpur-14 to Motijheel (A-327)"
+    },
+    "route_number": {
+      "bangla": "এ-৩২৭",
+      "english": "A-327"
+    },
+    "total_distance_km": 13.5
+  },
+  {
+    "id": 73,
+    "route": {
+      "bangla": "বসিলা হতে সাইনবোর্ড",
+      "english": "Basila to Signboard"
+    },
+    "route_number": {
+      "bangla": "এ-৩২৯",
+      "english": "A-329"
+    },
+    "total_distance_km": 20.8
+  },
+  {
+    "id": 74,
+    "route": {
+      "bangla": "নারায়ণগঞ্জ হতে দিয়াবাড়ী (এ-৩৩০)",
+      "english": "Narayanganj to Diabari (A-330)"
+    },
+    "route_number": {
+      "bangla": "এ-৩৩০",
+      "english": "A-330"
+    },
+    "total_distance_km": 31.8
+  },
+  {
+    "id": 75,
+    "route": {
+      "bangla": "নন্দন পার্ক হতে সাইনবোর্ড",
+      "english": "Nandan Park to Signboard"
+    },
+    "route_number": {
+      "bangla": "এ-৩৩৩",
+      "english": "A-333"
+    },
+    "total_distance_km": 58.6
+  },
+  {
+    "id": 76,
+    "route": {
+      "bangla": "ডেমরা স্টাফ কোয়ার্টার হতে ঘাটপাড় পর্যন্ত",
+      "english": "Demra Staff Quarter to Ghatpar"
+    },
+    "route_number": {
+      "bangla": "এ-৩৮৪",
+      "english": "A-384"
+    },
+    "total_distance_km": 22.26
+  },
+  {
+    "id": 77,
+    "route": {
+      "bangla": "ঘাটপার হতে পাগলা বাজার",
+      "english": "Ghatpar to Pagla Bazar"
+    },
+    "route_number": {
+      "bangla": "৩৫.০০.০০০০.০২০.২৬.০০৫.১৬-৪৪৪",
+      "english": ""
+    },
+    "total_distance_km": 23.51
+  },
+  {
+    "id": 78,
+    "route": {
+      "bangla": "শামলা বাজার হতে ঘাটচর পর্যন্ত",
+      "english": "Shamla Bazar to Ghatchar"
+    },
+    "route_number": {
+      "bangla": "এ-৪৩৩",
+      "english": "A-433"
+    },
+    "total_distance_km": 20.6
+  },
+  {
+    "id": 79,
+    "route": {
+      "bangla": "জগন্নাথ বিশ্ববিদ্যালয় হতে চন্দ্রা (এ-২৬৮) রুটের ডিজেল চালিত বাস ভাড়ার চার্ট",
+      "english": "Jagannath University to Chandra (A-268) Route Diesel-powered Bus Fare Chart"
+    },
+    "route_number": {
+      "bangla": "এ-২৬৮",
+      "english": "A-268"
+    },
+    "total_distance_km": 55
+  },
+  {
+    "id": 80,
+    "route": {
+      "bangla": "ঘাটপার হতে ডেমরা স্টাফ কোয়ার্টার",
+      "english": "Ghatpar to Demra Staff Quarter"
+    },
+    "route_number": {
+      "bangla": "এ-৪৫",
+      "english": "A-45"
+    },
+    "total_distance_km": 22.27
+  },
+  {
+    "id": 81,
+    "route": {
+      "bangla": "ফুলবাড়িয়া হতে চন্দ্রা",
+      "english": "A-২৬৮) (Phulbaria to Chandra (A-268)"
+    },
+    "route_number": {
+      "bangla": "এ-২৬৮",
+      "english": "A-268"
+    },
+    "total_distance_km": 35.3
+  },
+  {
+    "id": 82,
+    "route": {
+      "bangla": "গাবতলী হতে রামপুরা (এ-২৭৩) রুটে ডিজেল চালিত বাস ভাড়ার চার্ট",
+      "english": "Gabtoli to Rampura (A-273) Route Diesel-powered Bus Fare Chart"
+    },
+    "route_number": {
+      "bangla": "এ-২৭৩",
+      "english": "A-273"
+    },
+    "total_distance_km": 26.5
+  },
+  {
+    "id": 83,
+    "route": {
+      "bangla": "চিড়িয়াখানা হতে যাত্রাবাড়ী",
+      "english": "Zoo to Jatrabari"
+    },
+    "route_number": {
+      "bangla": "এ-৩১০",
+      "english": "A-310"
+    },
+    "total_distance_km": 27
+  },
+  {
+    "id": 84,
+    "route": {
+      "bangla": "ফুলবাড়িয়া হতে সাইনবোর্ড",
+      "english": "Fulbaria to Signboard"
+    },
+    "route_number": {
+      "bangla": "এ-২১৩",
+      "english": "A-213"
+    },
+    "total_distance_km": 16
+  },
+  {
+    "id": 85,
+    "route": {
+      "bangla": "চাঁনখারপুল হতে মেঘনা ঘাট",
+      "english": "Chankharpul to Meghna Ghat"
+    },
+    "route_number": {
+      "bangla": "এ-২৬৩",
+      "english": "A-263"
+    },
+    "total_distance_km": 29.3
+  },
+  {
+    "id": 86,
+    "route": {
+      "bangla": "কাঁচপুর ব্রীজ হতে বোর্ড বাজার (এ-৫২৭নং)",
+      "english": "Kachpur Bridge to Board Bazar (A-527)"
+    },
+    "route_number": {
+      "bangla": "এ-৫২৭",
+      "english": "A-527"
+    },
+    "total_distance_km": 40.9
+  },
+  {
+    "id": 87,
+    "route": {
+      "bangla": "গলাচিপা হতে মোহাম্মদপুর (এ-২৪২নং) রুটের ডিজেল চালিত বাস ভাড়ার চার্ট",
+      "english": "Galachipa to Mohammadpur (A-242) Route Diesel-powered Bus Fare Chart"
+    },
+    "route_number": {
+      "bangla": "এ-২৪২",
+      "english": "A-242"
+    },
+    "total_distance_km": 33.4
+  },
+  {
+    "id": 88,
+    "route": {
+      "bangla": "উত্তরা (আব্দুল্লাহপুর) হতে গদাইরচর (এ-২০৭নং) রুটের ডিজেল চালিত বাস ভাড়ার চার্ট",
+      "english": "Uttara (Abdullahpur) to Gadaurchar (A-207) Diesel-powered Bus Fare Chart"
+    },
+    "route_number": {
+      "bangla": "এ-২০৭",
+      "english": "A-207"
+    },
+    "total_distance_km": 28
+  },
+  {
+    "id": 89,
+    "route": {
+      "bangla": "ফুলবাড়িয়া হতে ধামরাই (এ-২৬০ নং)",
+      "english": "Phulbaria to Dhamrai [A-260]"
+    },
+    "route_number": {
+      "bangla": "এ-২৬০",
+      "english": "A-260"
+    },
+    "total_distance_km": 42
+  },
+  {
+    "id": 90,
+    "route": {
+      "bangla": "মিরপুর (চিড়িয়াখানা) হতে কেরানীগঞ্জ (এ-২৭৪ নং) রুটের ডিজেল চালিত বাস ভাড়ার চার্ট",
+      "english": "Mirpur Zoo to Keraniganj A-274 Route Diesel Bus Fare Chart"
+    },
+    "route_number": {
+      "bangla": "এ-২৭৪",
+      "english": "A-274"
+    },
+    "total_distance_km": 17.2
+  },
+  {
+    "id": 91,
+    "route": {
+      "bangla": "বসিলা হতে কামরাঙ্গীরচর (এ-২৭৩ নং) রুটের ডিজেল চালিত বাস ভাড়ার চার্ট",
+      "english": "Basila to Kamrangirchar [Route A-273] Diesel-powered Bus Fare Chart"
+    },
+    "route_number": {
+      "bangla": "এ-২৭৩",
+      "english": "A-273"
+    },
+    "total_distance_km": 29.2
+  },
+  {
+    "id": 92,
+    "route": {
+      "bangla": "গাবতলী ব্রীজ হতে গাজীপুর",
+      "english": "Gabtoli Bridge to Gazipur"
+    },
+    "route_number": {
+      "bangla": "এ-২৭৯",
+      "english": "A-279"
+    },
+    "total_distance_km": 36.7
+  },
+  {
+    "id": 93,
+    "route": {
+      "bangla": "মিরপুর-১ (সনি সিনেমা হল) হতে জোয়ারসাহারা (এ-২৭৮)",
+      "english": "Mirpur-1 (Soni Cinema Hall) to Joar Sahara (A-278)"
+    },
+    "route_number": {
+      "bangla": "এ-২৭৮",
+      "english": "A-278"
+    },
+    "total_distance_km": 21
+  },
+  {
+    "id": 94,
+    "route": {
+      "bangla": "মিরপুর ডিওএইচএস হতে মতিঝিল (এ-২৮০নং) রুটের ডিজেল চালিত বাস ভাড়ার চার্ট",
+      "english": "Mirpur DOHS to Motijheel (A-280) Diesel Bus Fare Chart"
+    },
+    "route_number": {
+      "bangla": "এ-২৮০",
+      "english": "A-280"
+    },
+    "total_distance_km": 18.9
+  },
+  {
+    "id": 95,
+    "route": {
+      "bangla": "চিড়িয়াখানা হতে কেরানীগঞ্জ (নতুন জেল খানা)",
+      "english": "Zoo to Keraniganj New Jail"
+    },
+    "route_number": {
+      "bangla": "এ-২৮৫",
+      "english": "A-285"
+    },
+    "total_distance_km": 21
+  },
+  {
+    "id": 96,
+    "route": {
+      "bangla": "মিরপুর-১২ হতে নারায়ণগঞ্জ (এ-২৮৮) রুটের ডিজেল চালিত বাস ভাড়ার চার্ট",
+      "english": "Mirpur-12 to Narayanganj Route A-288 Diesel-powered Bus Fare Chart"
+    },
+    "route_number": {
+      "bangla": "এ-২৮৮",
+      "english": "A-288"
+    },
+    "total_distance_km": 35
+  },
+  {
+    "id": 97,
+    "route": {
+      "bangla": "মোহাম্মদপুর শিয়া মসজিদ হতে নবীনগর (সাভার) (এ-২৯২নং) রুটের বাস ভাড়ার চার্ট",
+      "english": ""
+    },
+    "route_number": {
+      "bangla": "এ-২৯২",
+      "english": "A-292"
+    },
+    "total_distance_km": 40
+  },
+  {
+    "id": 98,
+    "route": {
+      "bangla": "জাপান গার্ডেন সিটি হতে দাউদপুর",
+      "english": "Japan Garden City to Daudpur"
+    },
+    "route_number": {
+      "bangla": "এ-২৯৪",
+      "english": "A-294"
+    },
+    "total_distance_km": 25.2
+  },
+  {
+    "id": 99,
+    "route": {
+      "bangla": "ফুলবাড়িয়া হতে কাপাসিয়া (এ-২১৬নং) রুটে ডিজেল চালিত বাস ভাড়ার চার্ট",
+      "english": "Fulbaria to Kapasia (A-216) Route Diesel-powered Bus Fare Chart"
+    },
+    "route_number": {
+      "bangla": "এ-২১৬",
+      "english": "A-216"
+    },
+    "total_distance_km": 66
+  },
+  {
+    "id": 100,
+    "route": {
+      "bangla": "মিরপুর-১২ হতে মাওয়া (এ-২৬৫নং) রুটের",
+      "english": "Mirpur-12 to Mawa A-265 Route"
+    },
+    "route_number": {
+      "bangla": "এ-২৬৫",
+      "english": "A-265"
+    },
+    "total_distance_km": 53
+  },
+  {
+    "id": 101,
+    "route": {
+      "bangla": "আটিবাজার হতে ধউর (এ-২৬৯নং) রুটের ডিজেল চালিত বাস ভাড়ার চার্ট",
+      "english": ""
+    },
+    "route_number": {
+      "bangla": "এ-২৬৯",
+      "english": ""
+    },
+    "total_distance_km": 29
+  },
+  {
+    "id": 102,
+    "route": {
+      "bangla": "ফুলবাড়িয়া হতে শ্রীপুর (এ-২১০নং) রুটে",
+      "english": "Fulbaria to Sreepur Route A-210"
+    },
+    "route_number": {
+      "bangla": "এ-২১০",
+      "english": "A-210"
+    },
+    "total_distance_km": 77.5
+  },
+  {
+    "id": 103,
+    "route": {
+      "bangla": "ফুলবাড়িয়া হতে গাজীপুর (এ-২২২নং)",
+      "english": "Fulbaria to Gazipur (A-222)"
+    },
+    "route_number": {
+      "bangla": "এ-২২২",
+      "english": "A-222"
+    },
+    "total_distance_km": 41.5
+  },
+  {
+    "id": 104,
+    "route": {
+      "bangla": "ফুলবাড়িয়া হতে পাটুরিয়া (এ-২২৪নং) রুটে ডিজেল চালিত বাস ভাড়ার চার্ট",
+      "english": "Phulbaria to Paturia (A-224) Route Diesel Bus Fare Chart"
+    },
+    "route_number": {
+      "bangla": "এ-২২৪",
+      "english": "A-224"
+    },
+    "total_distance_km": 92.3
+  },
+  {
+    "id": 105,
+    "route": {
+      "bangla": "সায়দাবাদ হতে গাজীপুর",
+      "english": "Sayedabad to Gazipur"
+    },
+    "route_number": {
+      "bangla": "এ-২২২",
+      "english": "A-222"
+    },
+    "total_distance_km": 42
+  },
+  {
+    "id": 106,
+    "route": {
+      "bangla": "সাভার হতে আমুলিয়া স্টাফ কোয়ার্টার",
+      "english": "Savar to Amulia Staff Quarter"
+    },
+    "route_number": {
+      "bangla": "এ-২০২",
+      "english": "A-202"
+    },
+    "total_distance_km": 43
+  },
+  {
+    "id": 107,
+    "route": {
+      "bangla": "সায়েদাবাদ হতে নারায়ণগঞ্জ (এ-২২৮নং) রুটে ডিজেল চালিত বাস ভাড়ার চার্ট",
+      "english": "Sajedabad to Narayanganj (A-228) Route Diesel-powered Bus Fare Chart"
+    },
+    "route_number": {
+      "bangla": "এ-২২৮",
+      "english": "A-228"
+    },
+    "total_distance_km": 15.8
+  },
+  {
+    "id": 108,
+    "route": {
+      "bangla": "মদনগঞ্জ হতে আজিমপুর",
+      "english": "Madanganj to Azimpur"
+    },
+    "route_number": {
+      "bangla": "এ-২০৪",
+      "english": "A-204"
+    },
+    "total_distance_km": 33.1
+  },
+  {
+    "id": 109,
+    "route": {
+      "bangla": "সায়েদাবাদ হতে নারায়ণগঞ্জ (সায়েদাবাদ-লিংক রোড-নারায়ণগঞ্জ)",
+      "english": "Sayedabad to Narayanganj via Link Road"
+    },
+    "route_number": {
+      "bangla": "এ-২০৬নং",
+      "english": "A-206"
+    },
+    "total_distance_km": 16.2
+  },
+  {
+    "id": 110,
+    "route": {
+      "bangla": "কাঁচপুর হতে ডিইপিজেড",
+      "english": "Kachpur to DEPZ"
+    },
+    "route_number": {
+      "bangla": "এ-২৪০",
+      "english": "A-240"
+    },
+    "total_distance_km": 36
+  },
+  {
+    "id": 111,
+    "route": {
+      "bangla": "ধলেশ্বর হতে ডেমরা (স্টাফকোয়ার্টার)",
+      "english": "Dholeshwar to Demra (Staff Quarter)"
+    },
+    "route_number": {
+      "bangla": "এ-২৪০",
+      "english": "A-240"
+    },
+    "total_distance_km": 31.7
+  },
+  {
+    "id": 112,
+    "route": {
+      "bangla": "মদনপুর হতে আব্দুল্লাহপুর (এ-২৪৫নং) রুটের ডিজেল চালিত বাস ভাড়ার চার্ট",
+      "english": "Madanpur to Abdullahpur (Route A-245) Diesel-powered Bus Fare Chart"
+    },
+    "route_number": {
+      "bangla": "এ-২৪৫",
+      "english": "A-245"
+    },
+    "total_distance_km": 36.5
+  },
+  {
+    "id": 113,
+    "route": {
+      "bangla": "ফুলবাড়িয়া হতে আফতাবনগর লোহাবাঁধ",
+      "english": "Phulbaria to Aftabnagar Lohabandh"
+    },
+    "route_number": {
+      "bangla": "এ-২৪৭",
+      "english": "A-247"
+    },
+    "total_distance_km": 17.5
+  }
+]

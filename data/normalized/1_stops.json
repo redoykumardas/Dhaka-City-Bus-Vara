@@ -1,0 +1,2327 @@
+[
+  {
+    "id": 1,
+    "name_bangla": "অমিতপুর (জালাকান্দী)",
+    "name_english": "Amitpur (Jalakandi)"
+  },
+  {
+    "id": 2,
+    "name_bangla": "অরিজিনাল দশ",
+    "name_english": "Original 10"
+  },
+  {
+    "id": 3,
+    "name_bangla": "অরিজিনাল-১০",
+    "name_english": "Original-10"
+  },
+  {
+    "id": 4,
+    "name_bangla": "আইনউদ্দীন ডেক",
+    "name_english": "Ainuddin Dack"
+  },
+  {
+    "id": 5,
+    "name_bangla": "আগলা বাজার",
+    "name_english": "Agla Bazar"
+  },
+  {
+    "id": 6,
+    "name_bangla": "আগান এভিনিউ",
+    "name_english": "Agan Avenue"
+  },
+  {
+    "id": 7,
+    "name_bangla": "আগানগর",
+    "name_english": "Aganagar"
+  },
+  {
+    "id": 8,
+    "name_bangla": "আগানগর (আলাউদ্দিন প্যালেস)",
+    "name_english": "Aganagar (Alauddin Palace)"
+  },
+  {
+    "id": 9,
+    "name_bangla": "আগানগরটি",
+    "name_english": "Aganagar"
+  },
+  {
+    "id": 10,
+    "name_bangla": "আগানগরহাট",
+    "name_english": "Aganagarhat"
+  },
+  {
+    "id": 11,
+    "name_bangla": "আগাম ক্লিনিক",
+    "name_english": "Agam Clinic"
+  },
+  {
+    "id": 12,
+    "name_bangla": "আগারগাঁও",
+    "name_english": "Agargaon"
+  },
+  {
+    "id": 13,
+    "name_bangla": "আজমপুর",
+    "name_english": "Azampur"
+  },
+  {
+    "id": 14,
+    "name_bangla": "আজিজপুর",
+    "name_english": "Azizpur"
+  },
+  {
+    "id": 15,
+    "name_bangla": "আজিমপুর",
+    "name_english": "Azimpur"
+  },
+  {
+    "id": 16,
+    "name_bangla": "আটিবাজার",
+    "name_english": "Atibazar"
+  },
+  {
+    "id": 17,
+    "name_bangla": "আনসার ক্যাম্প",
+    "name_english": "Ansar Camp"
+  },
+  {
+    "id": 18,
+    "name_bangla": "আফতাবনগর লোহাবাঁধ",
+    "name_english": "Aftabnagar Lohabandh"
+  },
+  {
+    "id": 19,
+    "name_bangla": "আবুল হোটেল",
+    "name_english": "Abul Hotel"
+  },
+  {
+    "id": 20,
+    "name_bangla": "আব্দুল্লাহপুর",
+    "name_english": "Abdullahpur"
+  },
+  {
+    "id": 21,
+    "name_bangla": "আব্দুল্লাহপুর (উত্তরা)",
+    "name_english": "Abdullahpur (Uttara)"
+  },
+  {
+    "id": 22,
+    "name_bangla": "আব্দুল্লাহপুর (দক্ষিণ কেরাণীগঞ্জ)",
+    "name_english": "Abdullahpur (South Keraniganj)"
+  },
+  {
+    "id": 23,
+    "name_bangla": "আমতলা",
+    "name_english": "Amtola"
+  },
+  {
+    "id": 24,
+    "name_bangla": "আমিন বাজার",
+    "name_english": "Amin Bazar"
+  },
+  {
+    "id": 25,
+    "name_bangla": "আমুলিয়া",
+    "name_english": "Amulia"
+  },
+  {
+    "id": 26,
+    "name_bangla": "আমুলিয়া স্টাফ কোয়ার্টার",
+    "name_english": "Amulia Staff Quarter"
+  },
+  {
+    "id": 27,
+    "name_bangla": "আয়ানটেক",
+    "name_english": "Ayantek"
+  },
+  {
+    "id": 28,
+    "name_bangla": "আরামবাগ",
+    "name_english": "Arambagh"
+  },
+  {
+    "id": 29,
+    "name_bangla": "আশুলিয়া",
+    "name_english": "Ashulia"
+  },
+  {
+    "id": 30,
+    "name_bangla": "আসাদ গেট",
+    "name_english": "Asad Gate"
+  },
+  {
+    "id": 31,
+    "name_bangla": "আসারিয়া গেট",
+    "name_english": "Asaria Gate"
+  },
+  {
+    "id": 32,
+    "name_bangla": "ইউনিয়ন",
+    "name_english": "Union"
+  },
+  {
+    "id": 33,
+    "name_bangla": "ইউনিয়ন কলেজ",
+    "name_english": "Union College"
+  },
+  {
+    "id": 34,
+    "name_bangla": "ইকুরিয়া",
+    "name_english": "Ikuria"
+  },
+  {
+    "id": 35,
+    "name_bangla": "ইকুরিয়া বাসস্টপ",
+    "name_english": "Ekuria Bus Stop"
+  },
+  {
+    "id": 36,
+    "name_bangla": "ইটিন রস",
+    "name_english": "Etin Rosh"
+  },
+  {
+    "id": 37,
+    "name_bangla": "ইত্তেফাক",
+    "name_english": "Ittefaq"
+  },
+  {
+    "id": 38,
+    "name_bangla": "ইপিকোড",
+    "name_english": "Epicard"
+  },
+  {
+    "id": 39,
+    "name_bangla": "ইপিজেড",
+    "name_english": "EPZ"
+  },
+  {
+    "id": 40,
+    "name_bangla": "ইসলামপুর",
+    "name_english": "Islampur"
+  },
+  {
+    "id": 41,
+    "name_bangla": "ইসিবি চত্ত্বর",
+    "name_english": "ECB Chattar"
+  },
+  {
+    "id": 42,
+    "name_bangla": "ইসিবি চত্বর",
+    "name_english": "ECB Chattar"
+  },
+  {
+    "id": 43,
+    "name_bangla": "ইসিবি মোড়",
+    "name_english": "ECB Chattar"
+  },
+  {
+    "id": 44,
+    "name_bangla": "ইস্টার্ন হাউজিং",
+    "name_english": "Eastern Housing"
+  },
+  {
+    "id": 45,
+    "name_bangla": "উইস্কা",
+    "name_english": "Wiska"
+  },
+  {
+    "id": 46,
+    "name_bangla": "উত্তর বাড্ডা",
+    "name_english": "Uttar Badda"
+  },
+  {
+    "id": 47,
+    "name_bangla": "উত্তরা",
+    "name_english": "Uttara"
+  },
+  {
+    "id": 48,
+    "name_bangla": "উত্তরা দিয়াবাড়ী",
+    "name_english": "Uttara Diabari"
+  },
+  {
+    "id": 49,
+    "name_bangla": "উত্তরা বাজার",
+    "name_english": "Uttara Bazar"
+  },
+  {
+    "id": 50,
+    "name_bangla": "উথুলী",
+    "name_english": "Uthuli"
+  },
+  {
+    "id": 51,
+    "name_bangla": "উনাপুর",
+    "name_english": "Unapur"
+  },
+  {
+    "id": 52,
+    "name_bangla": "উন্দিপুরা (ধনির ঘাট সংলগ্ন)",
+    "name_english": "Undipura - near Dhanir Ghat"
+  },
+  {
+    "id": 53,
+    "name_bangla": "এশিয়ান মোড়",
+    "name_english": "Asian Moor"
+  },
+  {
+    "id": 54,
+    "name_bangla": "ওয়ারলেস গেট",
+    "name_english": "Wireless Gate"
+  },
+  {
+    "id": 55,
+    "name_bangla": "ওয়াশপুর",
+    "name_english": "Washpur"
+  },
+  {
+    "id": 56,
+    "name_bangla": "ওয়াশপুর",
+    "name_english": "Washpur"
+  },
+  {
+    "id": 57,
+    "name_bangla": "ওয়াসপুর",
+    "name_english": "Waspur"
+  },
+  {
+    "id": 58,
+    "name_bangla": "কচুক্ষেত",
+    "name_english": "Kochukhet"
+  },
+  {
+    "id": 59,
+    "name_bangla": "কদমতলী",
+    "name_english": "Kadamtali"
+  },
+  {
+    "id": 60,
+    "name_bangla": "কমলাপুর",
+    "name_english": "Kamalapur"
+  },
+  {
+    "id": 61,
+    "name_bangla": "কমলাপুর (পীরজঙ্গী মাজার)",
+    "name_english": "Kamalapur (Peerjangi Mazhar)"
+  },
+  {
+    "id": 62,
+    "name_bangla": "কমলাপুর স্টেশন",
+    "name_english": "Kamalapur Station"
+  },
+  {
+    "id": 63,
+    "name_bangla": "কলমিলতা লেক সিটি",
+    "name_english": "Kolmilata Lake City"
+  },
+  {
+    "id": 64,
+    "name_bangla": "কলাতিয়াপুর",
+    "name_english": "Kalatiapur"
+  },
+  {
+    "id": 65,
+    "name_bangla": "কলাবাগান",
+    "name_english": "Kalabagan"
+  },
+  {
+    "id": 66,
+    "name_bangla": "কলেজ গেট",
+    "name_english": "College Gate"
+  },
+  {
+    "id": 67,
+    "name_bangla": "কল্যাণপুর",
+    "name_english": "Kallyanpur"
+  },
+  {
+    "id": 68,
+    "name_bangla": "কাইতলা",
+    "name_english": "Kaitola"
+  },
+  {
+    "id": 69,
+    "name_bangla": "কাউন্দিয়া",
+    "name_english": "Kaundia"
+  },
+  {
+    "id": 70,
+    "name_bangla": "কাওরান বাজার",
+    "name_english": "Kawran Bazar"
+  },
+  {
+    "id": 71,
+    "name_bangla": "কাওলা",
+    "name_english": "Kawla"
+  },
+  {
+    "id": 72,
+    "name_bangla": "কাঁচপুর",
+    "name_english": "Kanchpur"
+  },
+  {
+    "id": 73,
+    "name_bangla": "কাঁচপুরব্রীজ",
+    "name_english": "Kanchpur Bridge"
+  },
+  {
+    "id": 74,
+    "name_bangla": "কাকরাইল",
+    "name_english": "Kakrail"
+  },
+  {
+    "id": 75,
+    "name_bangla": "কাকরাইল চার্চ",
+    "name_english": "Kakrail Church"
+  },
+  {
+    "id": 76,
+    "name_bangla": "কাকলি",
+    "name_english": "Kakoli"
+  },
+  {
+    "id": 77,
+    "name_bangla": "কাকলী",
+    "name_english": "Kakali"
+  },
+  {
+    "id": 78,
+    "name_bangla": "কাজীপাড়া",
+    "name_english": "Kazipara"
+  },
+  {
+    "id": 79,
+    "name_bangla": "কাটাবন",
+    "name_english": "Katabon"
+  },
+  {
+    "id": 80,
+    "name_bangla": "কাপাসিয়া",
+    "name_english": "Kapasia"
+  },
+  {
+    "id": 81,
+    "name_bangla": "কাপ্তান বাজার",
+    "name_english": "Kaptan Bazar"
+  },
+  {
+    "id": 82,
+    "name_bangla": "কামরাঙ্গীরচর",
+    "name_english": "Kamrangirchar"
+  },
+  {
+    "id": 83,
+    "name_bangla": "কামারপাড়া",
+    "name_english": "Kamarpara"
+  },
+  {
+    "id": 84,
+    "name_bangla": "কামারপাড়াহতে",
+    "name_english": "বেড়ীবাঁধ"
+  },
+  {
+    "id": 85,
+    "name_bangla": "কালশি মোড়",
+    "name_english": "Kalshi Mor"
+  },
+  {
+    "id": 86,
+    "name_bangla": "কালশী",
+    "name_english": "Kalshi"
+  },
+  {
+    "id": 87,
+    "name_bangla": "কালশী মোড়",
+    "name_english": "Kalshi Mor"
+  },
+  {
+    "id": 88,
+    "name_bangla": "কালামপুর",
+    "name_english": "Kalampur"
+  },
+  {
+    "id": 89,
+    "name_bangla": "কালিয়াকৈর",
+    "name_english": "Kaliakair"
+  },
+  {
+    "id": 90,
+    "name_bangla": "কাশিমপুর",
+    "name_english": "Kashimpur"
+  },
+  {
+    "id": 91,
+    "name_bangla": "কিশোর হল",
+    "name_english": "Kishore Hall"
+  },
+  {
+    "id": 92,
+    "name_bangla": "কুড়াতলী",
+    "name_english": "Kuratoli"
+  },
+  {
+    "id": 93,
+    "name_bangla": "কুড়িল",
+    "name_english": "Kuril"
+  },
+  {
+    "id": 94,
+    "name_bangla": "কুড়িল",
+    "name_english": "Kuril"
+  },
+  {
+    "id": 95,
+    "name_bangla": "কুড়িল ফ্লাইওভার",
+    "name_english": "Kuril Flyover"
+  },
+  {
+    "id": 96,
+    "name_bangla": "কুড়িল বিশ্ব রোড",
+    "name_english": "Kuril Bishwa Road"
+  },
+  {
+    "id": 97,
+    "name_bangla": "কুন্ডু",
+    "name_english": "Kundu"
+  },
+  {
+    "id": 98,
+    "name_bangla": "কুর্মিটোলা (জেনারেল হাসপাতাল)",
+    "name_english": "Kurmitola General Hospital"
+  },
+  {
+    "id": 99,
+    "name_bangla": "কুর্মিটোলা জেনারেল হাসপাতাল",
+    "name_english": "Kurmitola General Hospital"
+  },
+  {
+    "id": 100,
+    "name_bangla": "কৃত্রিম হাইটেক",
+    "name_english": "Kritrim Hi-tech"
+  },
+  {
+    "id": 101,
+    "name_bangla": "কৃষি বিশ্ববিদ্যালয়",
+    "name_english": "Agriculture University"
+  },
+  {
+    "id": 102,
+    "name_bangla": "কেরাণীগঞ্জ",
+    "name_english": "Keraniganj"
+  },
+  {
+    "id": 103,
+    "name_bangla": "কেরানীগঞ্জ (নতুন জেল খানা)",
+    "name_english": "Keraniganj New Jail"
+  },
+  {
+    "id": 104,
+    "name_bangla": "কেরানীগঞ্জ বাজার",
+    "name_english": "Keraniganj Bazar"
+  },
+  {
+    "id": 105,
+    "name_bangla": "কোনাবাড়ী",
+    "name_english": "Konabari"
+  },
+  {
+    "id": 106,
+    "name_bangla": "কোলাগাও",
+    "name_english": "Kolagao"
+  },
+  {
+    "id": 107,
+    "name_bangla": "ক্যান্টনমেন্ট স্টিশন গেট",
+    "name_english": "Cantonment Station Gate"
+  },
+  {
+    "id": 108,
+    "name_bangla": "খাজা বাড়ী",
+    "name_english": "Khaja Bari"
+  },
+  {
+    "id": 109,
+    "name_bangla": "খামার বাড়ি",
+    "name_english": "Khamar Bari"
+  },
+  {
+    "id": 110,
+    "name_bangla": "খিলক্ষেত",
+    "name_english": "Khilkhet"
+  },
+  {
+    "id": 111,
+    "name_bangla": "খিলগাঁও",
+    "name_english": "Khilgaon"
+  },
+  {
+    "id": 112,
+    "name_bangla": "খিলগাঁও তালতলা",
+    "name_english": "Khilgaon Taltola"
+  },
+  {
+    "id": 113,
+    "name_bangla": "খিলগাঁও ফ্লাইওভার",
+    "name_english": "Khilgaon flyover"
+  },
+  {
+    "id": 114,
+    "name_bangla": "খিলগাঁও রেলগেট",
+    "name_english": "Khilgaon Railgate"
+  },
+  {
+    "id": 115,
+    "name_bangla": "খিলগাঁও সিনেমা হল",
+    "name_english": "Khilgaon Cinema Hall"
+  },
+  {
+    "id": 116,
+    "name_bangla": "খিলগাঁও স্টেডিয়াম",
+    "name_english": "Khilgaon Stadium"
+  },
+  {
+    "id": 117,
+    "name_bangla": "গদাইরচর খেয়াঘাট",
+    "name_english": "Gadaurchar Kheya Ghat"
+  },
+  {
+    "id": 118,
+    "name_bangla": "গলাচিপা",
+    "name_english": "Galachipa"
+  },
+  {
+    "id": 119,
+    "name_bangla": "গাইনাবাড়ী",
+    "name_english": "Goinabari"
+  },
+  {
+    "id": 120,
+    "name_bangla": "গাইরেনগর",
+    "name_english": "Gairenagar"
+  },
+  {
+    "id": 121,
+    "name_bangla": "গাউছিয়া/নীলক্ষেত",
+    "name_english": "Gawsia/Nilkhet"
+  },
+  {
+    "id": 122,
+    "name_bangla": "গাজীপুর",
+    "name_english": "Gazipur"
+  },
+  {
+    "id": 123,
+    "name_bangla": "গাজীপুর চৌরাস্তা",
+    "name_english": "Gazipur Chourasta"
+  },
+  {
+    "id": 124,
+    "name_bangla": "গাজীয়ানবাড়ী",
+    "name_english": "Gaziyanbari"
+  },
+  {
+    "id": 125,
+    "name_bangla": "গাঞ্জী",
+    "name_english": "Ganji"
+  },
+  {
+    "id": 126,
+    "name_bangla": "গাবতলি",
+    "name_english": "Gabtoli"
+  },
+  {
+    "id": 127,
+    "name_bangla": "গাবতলী ডিএনসিসি",
+    "name_english": "Gabtoli DNCC"
+  },
+  {
+    "id": 128,
+    "name_bangla": "গাবতলী বাস স্ট্যান্ড",
+    "name_english": "Gabtoli Bus Stand"
+  },
+  {
+    "id": 129,
+    "name_bangla": "গাবতলী ব্রীজ পাড়",
+    "name_english": "Gabtoli Bridge Par"
+  },
+  {
+    "id": 130,
+    "name_bangla": "গাবতলী ব্রীজ পাড়",
+    "name_english": "Gabtoli Bridge Par"
+  },
+  {
+    "id": 131,
+    "name_bangla": "গুলশান",
+    "name_english": "Gulshan"
+  },
+  {
+    "id": 132,
+    "name_bangla": "গুলশান ১",
+    "name_english": "Gulshan 1"
+  },
+  {
+    "id": 133,
+    "name_bangla": "গুলশান ২",
+    "name_english": "Gulshan 2"
+  },
+  {
+    "id": 134,
+    "name_bangla": "গুলিস্তান",
+    "name_english": "Gulistan"
+  },
+  {
+    "id": 135,
+    "name_bangla": "গুলিস্তান মোড়",
+    "name_english": "Gulistan Mor"
+  },
+  {
+    "id": 136,
+    "name_bangla": "গোপালনগর মাজার (ফুলবাড়ীয়া)",
+    "name_english": "Gopalnagar Mazar, Fulbaria"
+  },
+  {
+    "id": 137,
+    "name_bangla": "গোলড়া",
+    "name_english": "Golora"
+  },
+  {
+    "id": 138,
+    "name_bangla": "গোলাপ শাহ মাজার",
+    "name_english": "Golap Shah Mazar"
+  },
+  {
+    "id": 139,
+    "name_bangla": "গ্রামের কান্দা",
+    "name_english": "Gramer Kanda"
+  },
+  {
+    "id": 140,
+    "name_bangla": "ঘট্টি",
+    "name_english": "Ghatti"
+  },
+  {
+    "id": 141,
+    "name_bangla": "ঘড়ির মোড়",
+    "name_english": "Ghorir Mor"
+  },
+  {
+    "id": 142,
+    "name_bangla": "ঘাটক",
+    "name_english": "Ghatok"
+  },
+  {
+    "id": 143,
+    "name_bangla": "ঘাটচর",
+    "name_english": "Ghatchar"
+  },
+  {
+    "id": 144,
+    "name_bangla": "ঘাটপাড়",
+    "name_english": "Ghatpar"
+  },
+  {
+    "id": 145,
+    "name_bangla": "ঘাটপার",
+    "name_english": "Ghatpar"
+  },
+  {
+    "id": 146,
+    "name_bangla": "ঘাটলিচর",
+    "name_english": "Ghatlichar"
+  },
+  {
+    "id": 147,
+    "name_bangla": "ঘাটার চর",
+    "name_english": "Ghatar Char"
+  },
+  {
+    "id": 148,
+    "name_bangla": "চন্দ্রা",
+    "name_english": "Chandra"
+  },
+  {
+    "id": 149,
+    "name_bangla": "চরখাদা",
+    "name_english": "Chorkhada"
+  },
+  {
+    "id": 150,
+    "name_bangla": "চাঁকহার পুল",
+    "name_english": "Chankhar Pul"
+  },
+  {
+    "id": 151,
+    "name_bangla": "চাষাঢ়া",
+    "name_english": "Chashara"
+  },
+  {
+    "id": 152,
+    "name_bangla": "চাষাঢ়া বাসস্ট্যান্ড",
+    "name_english": "Chasara Bus Stand"
+  },
+  {
+    "id": 153,
+    "name_bangla": "চিড়িয়াখানা",
+    "name_english": "Zoo"
+  },
+  {
+    "id": 154,
+    "name_bangla": "চিড়িয়াখানা",
+    "name_english": "Zoo"
+  },
+  {
+    "id": 155,
+    "name_bangla": "চেরাগআলী",
+    "name_english": "Cherag Ali"
+  },
+  {
+    "id": 156,
+    "name_bangla": "চৌধুরী প্লাজা",
+    "name_english": "Chowdhury Plaza"
+  },
+  {
+    "id": 157,
+    "name_bangla": "চৌধুরীপাড়া",
+    "name_english": "Chowdhurypara"
+  },
+  {
+    "id": 158,
+    "name_bangla": "চৌধুরীপাড়া (আইডিয়াল)",
+    "name_english": "Chowdhurypara (Ideal)"
+  },
+  {
+    "id": 159,
+    "name_bangla": "চৌরাস্তা",
+    "name_english": "Chourasta"
+  },
+  {
+    "id": 160,
+    "name_bangla": "ছনটেক",
+    "name_english": "Chontek"
+  },
+  {
+    "id": 161,
+    "name_bangla": "ছাতিরচর",
+    "name_english": "Chatirchar"
+  },
+  {
+    "id": 162,
+    "name_bangla": "জগন্নাথ বিশ্ববিদ্যালয়",
+    "name_english": "Jagannath University"
+  },
+  {
+    "id": 163,
+    "name_bangla": "জনপথ",
+    "name_english": "Janapath"
+  },
+  {
+    "id": 164,
+    "name_bangla": "জনপথ মোড়",
+    "name_english": "Janapath Mor"
+  },
+  {
+    "id": 165,
+    "name_bangla": "জনপ্রশাসন-১",
+    "name_english": "Public Administration-1"
+  },
+  {
+    "id": 166,
+    "name_bangla": "জমানী বাজার",
+    "name_english": "Jimani Bazar"
+  },
+  {
+    "id": 167,
+    "name_bangla": "জসিমউদ্দিন",
+    "name_english": "Jashimuddin"
+  },
+  {
+    "id": 168,
+    "name_bangla": "জাপান গার্ডেন সিটি",
+    "name_english": "Japan Garden City"
+  },
+  {
+    "id": 169,
+    "name_bangla": "জিগাতোলা",
+    "name_english": "Jigatola"
+  },
+  {
+    "id": 170,
+    "name_bangla": "জিরানী",
+    "name_english": "Jirani"
+  },
+  {
+    "id": 171,
+    "name_bangla": "জিরাব",
+    "name_english": "Jirabo"
+  },
+  {
+    "id": 172,
+    "name_bangla": "জিরাবো",
+    "name_english": "Zirabo"
+  },
+  {
+    "id": 173,
+    "name_bangla": "জিল্লুর রহমান হাইওয়ে",
+    "name_english": "Zillur Rahman Highway"
+  },
+  {
+    "id": 174,
+    "name_bangla": "জুরাইন",
+    "name_english": "Jurain"
+  },
+  {
+    "id": 175,
+    "name_bangla": "জেএমসিএম",
+    "name_english": "JMCM"
+  },
+  {
+    "id": 176,
+    "name_bangla": "জোয়ারসাহারা",
+    "name_english": "Zoar Sahara"
+  },
+  {
+    "id": 177,
+    "name_bangla": "জোয়ারসাহারা",
+    "name_english": "Joar Sahara"
+  },
+  {
+    "id": 178,
+    "name_bangla": "টঙ্গী",
+    "name_english": "Tongi"
+  },
+  {
+    "id": 179,
+    "name_bangla": "টাউন হল",
+    "name_english": "Town Hall"
+  },
+  {
+    "id": 180,
+    "name_bangla": "টি-কনপুর",
+    "name_english": "T-Konpur"
+  },
+  {
+    "id": 181,
+    "name_bangla": "টিএসসি",
+    "name_english": "TSC"
+  },
+  {
+    "id": 182,
+    "name_bangla": "টিকরপুর",
+    "name_english": "Tikarpur"
+  },
+  {
+    "id": 183,
+    "name_bangla": "টিকাটুলি",
+    "name_english": "Tikatuli"
+  },
+  {
+    "id": 184,
+    "name_bangla": "টিকাতুলি",
+    "name_english": "Tikatuly"
+  },
+  {
+    "id": 185,
+    "name_bangla": "টিটি পাড়া",
+    "name_english": "TT Para"
+  },
+  {
+    "id": 186,
+    "name_bangla": "টেকনিক্যাল",
+    "name_english": "Technical"
+  },
+  {
+    "id": 187,
+    "name_bangla": "টেকনিক্যাল (রকেট)",
+    "name_english": "Technical, Rocket"
+  },
+  {
+    "id": 188,
+    "name_bangla": "টেকনিক্যাল হোটেল",
+    "name_english": "Technical Hotel"
+  },
+  {
+    "id": 189,
+    "name_bangla": "ডগাইরপাড়",
+    "name_english": "Dogairpar"
+  },
+  {
+    "id": 190,
+    "name_bangla": "ডিইপিজেড",
+    "name_english": "DEPZ"
+  },
+  {
+    "id": 191,
+    "name_bangla": "ডিইপিজেড বাশাইরা",
+    "name_english": "DEPZ Bashaira"
+  },
+  {
+    "id": 192,
+    "name_bangla": "ডিওএইচএস গেট",
+    "name_english": "DOHS Gate"
+  },
+  {
+    "id": 193,
+    "name_bangla": "ডিজিল্যাব",
+    "name_english": "Digilab"
+  },
+  {
+    "id": 194,
+    "name_bangla": "ডেইরীফার্ম",
+    "name_english": "Dairy Farm"
+  },
+  {
+    "id": 195,
+    "name_bangla": "ডেমরা",
+    "name_english": "Demra"
+  },
+  {
+    "id": 196,
+    "name_bangla": "ডেমরা (স্টাফকোয়ার্টার)",
+    "name_english": "Demra (Staff Quarter)"
+  },
+  {
+    "id": 197,
+    "name_bangla": "ডেমরা ব্রীজ",
+    "name_english": "Demra Bridge"
+  },
+  {
+    "id": 198,
+    "name_bangla": "ডেমরা স্টাফ কোয়ার্টার",
+    "name_english": "Demra Staff Quarter"
+  },
+  {
+    "id": 199,
+    "name_bangla": "ডেমরা স্টাফ কোয়ার্টার (নতুন জেলখানা)",
+    "name_english": "Demra Staff Quarter / New Jailkhana"
+  },
+  {
+    "id": 200,
+    "name_bangla": "ডেমরানিয়া বাজার",
+    "name_english": "Demrania Bazar"
+  },
+  {
+    "id": 201,
+    "name_bangla": "ঢাউর",
+    "name_english": "Dhour"
+  },
+  {
+    "id": 202,
+    "name_bangla": "ঢাকা কলেজ",
+    "name_english": "Dhaka College"
+  },
+  {
+    "id": 203,
+    "name_bangla": "ঢাকা সিটি কলেজ",
+    "name_english": "Dhaka City College"
+  },
+  {
+    "id": 204,
+    "name_bangla": "ঢাকেশ্বরী মন্দির",
+    "name_english": "Dhakeshwari Mandir"
+  },
+  {
+    "id": 205,
+    "name_bangla": "তরা",
+    "name_english": "Tara"
+  },
+  {
+    "id": 206,
+    "name_bangla": "তারাবো বিশ্বরোড",
+    "name_english": "Tarabo Bishwaroad"
+  },
+  {
+    "id": 207,
+    "name_bangla": "তিতুমীর কলেজ",
+    "name_english": "Titumir College"
+  },
+  {
+    "id": 208,
+    "name_bangla": "তেজগাঁও",
+    "name_english": "Tejgaon"
+  },
+  {
+    "id": 209,
+    "name_bangla": "তেলঘাট (কেরানীগঞ্জ)",
+    "name_english": "Telghat (Keraniganj)"
+  },
+  {
+    "id": 210,
+    "name_bangla": "থানপুর",
+    "name_english": "Thanpur"
+  },
+  {
+    "id": 211,
+    "name_bangla": "থানা",
+    "name_english": "Thana"
+  },
+  {
+    "id": 212,
+    "name_bangla": "থানিস আইরওয়াস",
+    "name_english": "Thanis Airwash"
+  },
+  {
+    "id": 213,
+    "name_bangla": "দয়াগঞ্জ রোড",
+    "name_english": "Dayaganj Road"
+  },
+  {
+    "id": 214,
+    "name_bangla": "দয়াপুর",
+    "name_english": "Dayapur"
+  },
+  {
+    "id": 215,
+    "name_bangla": "দাউদপুর",
+    "name_english": "Daudpur"
+  },
+  {
+    "id": 216,
+    "name_bangla": "দারুস্সালাম",
+    "name_english": "Darussalam"
+  },
+  {
+    "id": 217,
+    "name_bangla": "দাশুনিয়া",
+    "name_english": "Dashunia"
+  },
+  {
+    "id": 218,
+    "name_bangla": "দিয়া বাড়ি",
+    "name_english": "Dia Bari"
+  },
+  {
+    "id": 219,
+    "name_bangla": "দিয়াড়ী",
+    "name_english": "দক্ষিণ"
+  },
+  {
+    "id": 220,
+    "name_bangla": "দিয়াবাড়ী চৌরাস্তা",
+    "name_english": "Diabari Chourasta"
+  },
+  {
+    "id": 221,
+    "name_bangla": "দিয়াবাড়ী মোড়",
+    "name_english": "Diabari Mor"
+  },
+  {
+    "id": 222,
+    "name_bangla": "দুয়ারীপাড়া",
+    "name_english": "Duaripara"
+  },
+  {
+    "id": 223,
+    "name_bangla": "দুয়ারীপাড়া",
+    "name_english": "Duaripara"
+  },
+  {
+    "id": 224,
+    "name_bangla": "দেওয়ানিয়া বাজার",
+    "name_english": "Dewania Bazar"
+  },
+  {
+    "id": 225,
+    "name_bangla": "দৈনিকবাংলা",
+    "name_english": "Dainik Bangla"
+  },
+  {
+    "id": 226,
+    "name_bangla": "ধলপুর ব্রীজ",
+    "name_english": "Dhalpur Bridge"
+  },
+  {
+    "id": 227,
+    "name_bangla": "ধলেশ্বর",
+    "name_english": "Dholeshwar"
+  },
+  {
+    "id": 228,
+    "name_bangla": "ধলেশ্বরী",
+    "name_english": "Dhaleshwari"
+  },
+  {
+    "id": 229,
+    "name_bangla": "ধাইরশামাইনী দেওয়ানবাড়ী",
+    "name_english": "Dhairshamaini Dewanbari"
+  },
+  {
+    "id": 230,
+    "name_bangla": "ধানমন্ডি",
+    "name_english": "Dhanmondi"
+  },
+  {
+    "id": 231,
+    "name_bangla": "ধানমন্ডি ১৫",
+    "name_english": "Dhanmondi 15"
+  },
+  {
+    "id": 232,
+    "name_bangla": "ধামরাই",
+    "name_english": "Dhamrai"
+  },
+  {
+    "id": 233,
+    "name_bangla": "ধোলাইখাল (কুনবাফিলিং)",
+    "name_english": "Dholaikhal (Kunbafilling)"
+  },
+  {
+    "id": 234,
+    "name_bangla": "নটরডেম কলেজ",
+    "name_english": "Notre Dame College"
+  },
+  {
+    "id": 235,
+    "name_bangla": "নতুন",
+    "name_english": "Notun"
+  },
+  {
+    "id": 236,
+    "name_bangla": "নতুন বাজার",
+    "name_english": "Notun Bazar"
+  },
+  {
+    "id": 237,
+    "name_bangla": "নদ্দা",
+    "name_english": "Nadda"
+  },
+  {
+    "id": 238,
+    "name_bangla": "নন্দন পার্ক",
+    "name_english": "Nandan Park"
+  },
+  {
+    "id": 239,
+    "name_bangla": "নবাবগঞ্জ",
+    "name_english": "Nawabganj"
+  },
+  {
+    "id": 240,
+    "name_bangla": "নবীনগর",
+    "name_english": "Nobinagar"
+  },
+  {
+    "id": 241,
+    "name_bangla": "নয়া বাজার",
+    "name_english": "Naya Bazar"
+  },
+  {
+    "id": 242,
+    "name_bangla": "নয়াবাজার (২নং ব্রিজের মোড়)",
+    "name_english": "Nayabazar, 2nd Bridge Crossing"
+  },
+  {
+    "id": 243,
+    "name_bangla": "নরসিংহপুর",
+    "name_english": "Narsinghapur"
+  },
+  {
+    "id": 244,
+    "name_bangla": "নর্দ্দা/ফ্যাশন",
+    "name_english": "Nadda/Fashion"
+  },
+  {
+    "id": 245,
+    "name_bangla": "নাগলী",
+    "name_english": "Nagoli"
+  },
+  {
+    "id": 246,
+    "name_bangla": "নাবিস্কো",
+    "name_english": "Nabisco"
+  },
+  {
+    "id": 247,
+    "name_bangla": "নারায়গঞ্জ লিংক রোড",
+    "name_english": "Narayanganj Link Road"
+  },
+  {
+    "id": 248,
+    "name_bangla": "নারায়ণগঞ্জ",
+    "name_english": "Narayanganj"
+  },
+  {
+    "id": 249,
+    "name_bangla": "নারায়ণগঞ্জ",
+    "name_english": "Narayanganj"
+  },
+  {
+    "id": 250,
+    "name_bangla": "নারায়নগঞ্জ চাষারা",
+    "name_english": "Narayanganj Chashara"
+  },
+  {
+    "id": 251,
+    "name_bangla": "নিউ মার্কেট",
+    "name_english": "New Market"
+  },
+  {
+    "id": 252,
+    "name_bangla": "নিঝুম এ্যাপার্টমেন্ট",
+    "name_english": "Nizhum Apartment"
+  },
+  {
+    "id": 253,
+    "name_bangla": "নিম্বার্কী",
+    "name_english": "Nimbarki"
+  },
+  {
+    "id": 254,
+    "name_bangla": "নীলক্ষেত",
+    "name_english": "Nilkhet"
+  },
+  {
+    "id": 255,
+    "name_bangla": "পলাশী",
+    "name_english": "Palashi"
+  },
+  {
+    "id": 256,
+    "name_bangla": "পল্টন",
+    "name_english": "Paltan"
+  },
+  {
+    "id": 257,
+    "name_bangla": "পল্লবী",
+    "name_english": "Pallabi"
+  },
+  {
+    "id": 258,
+    "name_bangla": "পল্লবী (মিরপুর-১২)",
+    "name_english": "Pallabi, Mirpur-12"
+  },
+  {
+    "id": 259,
+    "name_bangla": "পল্লবী (সিরামিক)",
+    "name_english": "Pallabi (Ceramic)"
+  },
+  {
+    "id": 260,
+    "name_bangla": "পাগলা বাজার",
+    "name_english": "Pagla Bazar"
+  },
+  {
+    "id": 261,
+    "name_bangla": "পাটুরিয়া",
+    "name_english": "Paturia"
+  },
+  {
+    "id": 262,
+    "name_bangla": "পীরজঙ্গী মাজার",
+    "name_english": "Peerjangi Mazhar"
+  },
+  {
+    "id": 263,
+    "name_bangla": "পুরবী",
+    "name_english": "Purobi"
+  },
+  {
+    "id": 264,
+    "name_bangla": "পূরবী",
+    "name_english": "Purabi"
+  },
+  {
+    "id": 265,
+    "name_bangla": "পূর্বাচল",
+    "name_english": "Purbachal"
+  },
+  {
+    "id": 266,
+    "name_bangla": "পোষ্টাল বাজার",
+    "name_english": "Postal Bazar"
+  },
+  {
+    "id": 267,
+    "name_bangla": "পোস্তগোলা",
+    "name_english": "Postogola"
+  },
+  {
+    "id": 268,
+    "name_bangla": "পোস্তগোলা ব্রিজ",
+    "name_english": "Postogola Bridge"
+  },
+  {
+    "id": 269,
+    "name_bangla": "প্রগতি সরণী",
+    "name_english": "Pragati Sarani"
+  },
+  {
+    "id": 270,
+    "name_bangla": "প্রগতি স্বরণী",
+    "name_english": "Pragati Sarani"
+  },
+  {
+    "id": 271,
+    "name_bangla": "প্রেস ক্লাব",
+    "name_english": "Press Club"
+  },
+  {
+    "id": 272,
+    "name_bangla": "ফকিরাপুল",
+    "name_english": "Fakirapul"
+  },
+  {
+    "id": 273,
+    "name_bangla": "ফকিরেরপুল",
+    "name_english": "Fakirapool"
+  },
+  {
+    "id": 274,
+    "name_bangla": "ফারিগেট",
+    "name_english": "Fari Gate"
+  },
+  {
+    "id": 275,
+    "name_bangla": "ফার্মগেট",
+    "name_english": "Farmgate"
+  },
+  {
+    "id": 276,
+    "name_bangla": "ফালগুনী",
+    "name_english": "Falguni"
+  },
+  {
+    "id": 277,
+    "name_bangla": "ফুলবাড়িয়া",
+    "name_english": "Fulbaria"
+  },
+  {
+    "id": 278,
+    "name_bangla": "ফুলবাড়িয়া (গাজিপুুরিয়া)",
+    "name_english": "Fulbaria - Gazipuria"
+  },
+  {
+    "id": 279,
+    "name_bangla": "ফ্যান্টাসি",
+    "name_english": "Fantasy"
+  },
+  {
+    "id": 280,
+    "name_bangla": "ফ্যান্টাসি কিংডম",
+    "name_english": "Fantasy Kingdom"
+  },
+  {
+    "id": 281,
+    "name_bangla": "ফ্যান্টাসী",
+    "name_english": "Fantasy"
+  },
+  {
+    "id": 282,
+    "name_bangla": "বকশী বাজার",
+    "name_english": "Bakshi Bazar"
+  },
+  {
+    "id": 283,
+    "name_bangla": "বক্সনগর",
+    "name_english": "Boxnagar"
+  },
+  {
+    "id": 284,
+    "name_bangla": "বঙ্গবন্ধু একাডেমি",
+    "name_english": "Bangabandhu Academy"
+  },
+  {
+    "id": 285,
+    "name_bangla": "বঙ্গবন্ধু এভিনিউ",
+    "name_english": "Bangabandhu Avenue"
+  },
+  {
+    "id": 286,
+    "name_bangla": "বঙ্গবন্ধু কলেজ",
+    "name_english": "Bangabandhu College"
+  },
+  {
+    "id": 287,
+    "name_bangla": "বছিলা",
+    "name_english": "Basila"
+  },
+  {
+    "id": 288,
+    "name_bangla": "বছিলা পিডাব্লিউডি প্রজেক্ট",
+    "name_english": "Basila PWD Project"
+  },
+  {
+    "id": 289,
+    "name_bangla": "বজ্রিতা",
+    "name_english": "Bojrita"
+  },
+  {
+    "id": 290,
+    "name_bangla": "বজ্রিতা সিএনজি স্ট্যান্ড",
+    "name_english": "Bojrita CNG Stand"
+  },
+  {
+    "id": 291,
+    "name_bangla": "বনশ্রী",
+    "name_english": "Banasree"
+  },
+  {
+    "id": 292,
+    "name_bangla": "বনশ্রী (মেরাদিয়া) [Banasree",
+    "name_english": "Meradia"
+  },
+  {
+    "id": 293,
+    "name_bangla": "বনানী",
+    "name_english": "Banani"
+  },
+  {
+    "id": 294,
+    "name_bangla": "বরংগাইল",
+    "name_english": "Barangail"
+  },
+  {
+    "id": 295,
+    "name_bangla": "বরপা",
+    "name_english": "Borpa"
+  },
+  {
+    "id": 296,
+    "name_bangla": "বরমী",
+    "name_english": "Barmi"
+  },
+  {
+    "id": 297,
+    "name_bangla": "বসিলা",
+    "name_english": "Bosila"
+  },
+  {
+    "id": 298,
+    "name_bangla": "বসিলা ব্রীজ",
+    "name_english": "Bosila Bridge"
+  },
+  {
+    "id": 299,
+    "name_bangla": "বসুন্ধরা",
+    "name_english": "Bashundhara"
+  },
+  {
+    "id": 300,
+    "name_bangla": "বাইপাইল",
+    "name_english": "Baipayl"
+  },
+  {
+    "id": 301,
+    "name_bangla": "বাইলপাইল",
+    "name_english": "Baipail"
+  },
+  {
+    "id": 302,
+    "name_bangla": "বাংলা কলেজ",
+    "name_english": "Bangla College"
+  },
+  {
+    "id": 303,
+    "name_bangla": "বাংলা মোটর",
+    "name_english": "Bangla Motor"
+  },
+  {
+    "id": 304,
+    "name_bangla": "বাংলাদেশ ব্যাংক",
+    "name_english": "Bangladesh Bank"
+  },
+  {
+    "id": 305,
+    "name_bangla": "বাঘের বাজার",
+    "name_english": "Bagher Bazar"
+  },
+  {
+    "id": 306,
+    "name_bangla": "বাঞ্চা",
+    "name_english": "Bancha"
+  },
+  {
+    "id": 307,
+    "name_bangla": "বাড্ডা",
+    "name_english": "Badda"
+  },
+  {
+    "id": 308,
+    "name_bangla": "বাড্ডা লিংক রোড",
+    "name_english": "Badda Link Road"
+  },
+  {
+    "id": 309,
+    "name_bangla": "বাড্ডা লিংক রোড/মধ্য বাড্ডা",
+    "name_english": "Badda Link Road/Madhya Badda"
+  },
+  {
+    "id": 310,
+    "name_bangla": "বানিয়া",
+    "name_english": "Bania"
+  },
+  {
+    "id": 311,
+    "name_bangla": "বানিয়া সিএনজি স্ট্যান্ড",
+    "name_english": "Bania CNG Stand"
+  },
+  {
+    "id": 312,
+    "name_bangla": "বানিয়াজুড়ি",
+    "name_english": "Baniajuri"
+  },
+  {
+    "id": 313,
+    "name_bangla": "বান্দুরা",
+    "name_english": "Bandura"
+  },
+  {
+    "id": 314,
+    "name_bangla": "বাপ্পা",
+    "name_english": "Bappa"
+  },
+  {
+    "id": 315,
+    "name_bangla": "বাবু বাজার ব্রীজ",
+    "name_english": "Babu Bazar Bridge"
+  },
+  {
+    "id": 316,
+    "name_bangla": "বাবুবাজার",
+    "name_english": "Babubazar"
+  },
+  {
+    "id": 317,
+    "name_bangla": "বারবাড়িয়া",
+    "name_english": "Barbaria"
+  },
+  {
+    "id": 318,
+    "name_bangla": "বালিগা",
+    "name_english": "Balliga"
+  },
+  {
+    "id": 319,
+    "name_bangla": "বালুঘাট",
+    "name_english": "Balughat"
+  },
+  {
+    "id": 320,
+    "name_bangla": "বালুচর",
+    "name_english": "Baluchor"
+  },
+  {
+    "id": 321,
+    "name_bangla": "বাসাবো",
+    "name_english": "Bashabo"
+  },
+  {
+    "id": 322,
+    "name_bangla": "বাসিলা ফিউচার সিট সিটি",
+    "name_english": "Basila Future City"
+  },
+  {
+    "id": 323,
+    "name_bangla": "বিজয় সারাণী",
+    "name_english": "Bijoy Sarani"
+  },
+  {
+    "id": 324,
+    "name_bangla": "বিজয় স্মরণী ক্রসিং",
+    "name_english": "Bijoy Sarani Crossing"
+  },
+  {
+    "id": 325,
+    "name_bangla": "বিজ্ঞান গবেষণা প্রযুক্তি",
+    "name_english": "Science Lab"
+  },
+  {
+    "id": 326,
+    "name_bangla": "বিটিভি সেন্টার",
+    "name_english": "BTV Center"
+  },
+  {
+    "id": 327,
+    "name_bangla": "বিমানবন্দর",
+    "name_english": "Airport"
+  },
+  {
+    "id": 328,
+    "name_bangla": "বিরুলিয়া",
+    "name_english": "Birulia"
+  },
+  {
+    "id": 329,
+    "name_bangla": "বিশ্বরোড",
+    "name_english": "Bishwaroad"
+  },
+  {
+    "id": 330,
+    "name_bangla": "বোর্ড বাজার",
+    "name_english": "Board Bazar"
+  },
+  {
+    "id": 331,
+    "name_bangla": "ভিক্টোরিয়া পার্ক",
+    "name_english": "Victoria Park"
+  },
+  {
+    "id": 332,
+    "name_bangla": "মগবাজার",
+    "name_english": "Mogbazar"
+  },
+  {
+    "id": 333,
+    "name_bangla": "মতিঝিল",
+    "name_english": "Motijheel"
+  },
+  {
+    "id": 334,
+    "name_bangla": "মতিঝিল (জীবন বীমা)",
+    "name_english": "Motijheel Jiban Bima"
+  },
+  {
+    "id": 335,
+    "name_bangla": "মতিঝিল (পরিশ্রম কল্যাণ)",
+    "name_english": "Motijheel Parishram Kalyan"
+  },
+  {
+    "id": 336,
+    "name_bangla": "মৎস্য ভবন",
+    "name_english": "Matsya Bhaban"
+  },
+  {
+    "id": 337,
+    "name_bangla": "মদনগঞ্জ",
+    "name_english": "Madanganj"
+  },
+  {
+    "id": 338,
+    "name_bangla": "মদনপুর",
+    "name_english": "Madanpur"
+  },
+  {
+    "id": 339,
+    "name_bangla": "মধ্য বাড্ডা",
+    "name_english": "Madhya Badda"
+  },
+  {
+    "id": 340,
+    "name_bangla": "মহাখালী",
+    "name_english": "Mohakhali"
+  },
+  {
+    "id": 341,
+    "name_bangla": "মহাখালী আমতলী",
+    "name_english": "Mohakhali Amtoli"
+  },
+  {
+    "id": 342,
+    "name_bangla": "মহাদেবপুর",
+    "name_english": "Mahadevpur"
+  },
+  {
+    "id": 343,
+    "name_bangla": "মাওনা চৌরাস্তা",
+    "name_english": "Maona Chowrasta"
+  },
+  {
+    "id": 344,
+    "name_bangla": "মাওয়া ফেরীঘাট",
+    "name_english": "Mawa Ferry Ghat"
+  },
+  {
+    "id": 345,
+    "name_bangla": "মাওয়াবাড়ী",
+    "name_english": "Mawabari"
+  },
+  {
+    "id": 346,
+    "name_bangla": "মাজদার",
+    "name_english": "Mazdar"
+  },
+  {
+    "id": 347,
+    "name_bangla": "মাজার রোড",
+    "name_english": "Mazar Road"
+  },
+  {
+    "id": 348,
+    "name_bangla": "মাঝু প্রাশা",
+    "name_english": "Majhu Prasha"
+  },
+  {
+    "id": 349,
+    "name_bangla": "মাতুয়াইল",
+    "name_english": "Matuail"
+  },
+  {
+    "id": 350,
+    "name_bangla": "মাদানিবাদ",
+    "name_english": "Madanibad"
+  },
+  {
+    "id": 351,
+    "name_bangla": "মাদানীবাগ",
+    "name_english": "Madanibagh"
+  },
+  {
+    "id": 352,
+    "name_bangla": "মানিক কান্দা",
+    "name_english": "Manik Kanda"
+  },
+  {
+    "id": 353,
+    "name_bangla": "মানিক নগর",
+    "name_english": "Manik Nagar"
+  },
+  {
+    "id": 354,
+    "name_bangla": "মানিক মিয়া",
+    "name_english": "Manik Mia"
+  },
+  {
+    "id": 355,
+    "name_bangla": "মানিক মিয়া এভিনিউ",
+    "name_english": "Manik Mia Avenue"
+  },
+  {
+    "id": 356,
+    "name_bangla": "মানিকগঞ্জ",
+    "name_english": "Manikganj"
+  },
+  {
+    "id": 357,
+    "name_bangla": "মানিকদি",
+    "name_english": "ইসিবি মোড়"
+  },
+  {
+    "id": 358,
+    "name_bangla": "মানিকবাগ",
+    "name_english": "Manikbag"
+  },
+  {
+    "id": 359,
+    "name_bangla": "মায়েরআশা",
+    "name_english": "Mayer Asha"
+  },
+  {
+    "id": 360,
+    "name_bangla": "মালিবাগ",
+    "name_english": "Malibagh"
+  },
+  {
+    "id": 361,
+    "name_bangla": "মালিবাগ চৌধুরীপাড়া",
+    "name_english": "Malibagh Choudhurypara"
+  },
+  {
+    "id": 362,
+    "name_bangla": "মিরপুর (চিড়িয়াখানা)",
+    "name_english": "Mirpur Zoo"
+  },
+  {
+    "id": 363,
+    "name_bangla": "মিরপুর ১",
+    "name_english": "Mirpur 1"
+  },
+  {
+    "id": 364,
+    "name_bangla": "মিরপুর ১০",
+    "name_english": "Mirpur 10"
+  },
+  {
+    "id": 365,
+    "name_bangla": "মিরপুর ১১",
+    "name_english": "Mirpur 11"
+  },
+  {
+    "id": 366,
+    "name_bangla": "মিরপুর ১২",
+    "name_english": "Mirpur 12"
+  },
+  {
+    "id": 367,
+    "name_bangla": "মিরপুর ১৪",
+    "name_english": "Mirpur 14"
+  },
+  {
+    "id": 368,
+    "name_bangla": "মিরপুর ২",
+    "name_english": "Mirpur 2"
+  },
+  {
+    "id": 369,
+    "name_bangla": "মিরপুর ৬",
+    "name_english": "Mirpur 6"
+  },
+  {
+    "id": 370,
+    "name_bangla": "মিরপুর ডিওএইচএস",
+    "name_english": "Mirpur DOHS"
+  },
+  {
+    "id": 371,
+    "name_bangla": "মিরপুর থানা",
+    "name_english": "Mirpur Thana"
+  },
+  {
+    "id": 372,
+    "name_bangla": "মিরপুর মাজার রোড",
+    "name_english": "Mirpur Mazar Road"
+  },
+  {
+    "id": 373,
+    "name_bangla": "মিরপুর রূপনগর",
+    "name_english": "Mirpur Rupnagar"
+  },
+  {
+    "id": 374,
+    "name_bangla": "মিরপুর সাড়ে ১১",
+    "name_english": "Mirpur 11.5"
+  },
+  {
+    "id": 375,
+    "name_bangla": "মিরপুর-১১ ১/২",
+    "name_english": "Mirpur-11 1/2"
+  },
+  {
+    "id": 376,
+    "name_bangla": "মুগদা",
+    "name_english": "Mugda"
+  },
+  {
+    "id": 377,
+    "name_bangla": "মেঃ জিয়ার রহমান হাইওয়ে স্টার",
+    "name_english": "Md. Jiar Rahman Highway Star"
+  },
+  {
+    "id": 378,
+    "name_bangla": "মেঘনা ঘাট",
+    "name_english": "Meghna Ghat"
+  },
+  {
+    "id": 379,
+    "name_bangla": "মেয়র মোহাম্মদ হানিফ ফ্লাইওভার",
+    "name_english": "Mayor Mohammad Hanif Flyover"
+  },
+  {
+    "id": 380,
+    "name_bangla": "মেরাদিয়া (নতুন রাস্তা)",
+    "name_english": "Meradia - New Road"
+  },
+  {
+    "id": 381,
+    "name_bangla": "মেরাদিয়া বাজার",
+    "name_english": "Meradia Bazar"
+  },
+  {
+    "id": 382,
+    "name_bangla": "মেরাদিয়া বাজার",
+    "name_english": "Meradia Bazar"
+  },
+  {
+    "id": 383,
+    "name_bangla": "মেরুল বাড্ডা",
+    "name_english": "Merul Badda"
+  },
+  {
+    "id": 384,
+    "name_bangla": "মো: জিল্লুর রহমান ফ্লাইওভার",
+    "name_english": "Md. Zillur Rahman Flyover"
+  },
+  {
+    "id": 385,
+    "name_bangla": "মোঃ জিল্লুর রহমান ফ্লাইওভার",
+    "name_english": "Md. Zillur Rahman Flyover"
+  },
+  {
+    "id": 386,
+    "name_bangla": "মোহাম্মদপুর",
+    "name_english": "Mohammadpur"
+  },
+  {
+    "id": 387,
+    "name_bangla": "মোহাম্মদপুর (আসাদ এভিনিউ)",
+    "name_english": "Mohammadpur (Asad Avenue)"
+  },
+  {
+    "id": 388,
+    "name_bangla": "মোহাম্মদপুর (জাপান গার্ডেন সিটি)",
+    "name_english": "Mohammadpur (Japan Garden City)"
+  },
+  {
+    "id": 389,
+    "name_bangla": "মোহাম্মদপুর (বছিলা গেট)",
+    "name_english": "Mohammadpur Basila Gate"
+  },
+  {
+    "id": 390,
+    "name_bangla": "মোহাম্মদপুর (বসিলা রোড)",
+    "name_english": "Mohammadpur Basila Road"
+  },
+  {
+    "id": 391,
+    "name_bangla": "মোহাম্মদপুর (বানিয়া রোড)",
+    "name_english": "Mohammadpur Bania Road"
+  },
+  {
+    "id": 392,
+    "name_bangla": "মোহাম্মদপুর (বেড়ীবাঁধ রোড)",
+    "name_english": "Mohammadpur Beribadh Road"
+  },
+  {
+    "id": 393,
+    "name_bangla": "মোহাম্মদপুর টাউন হল",
+    "name_english": "Mohammadpur Town Hall"
+  },
+  {
+    "id": 394,
+    "name_bangla": "মোহাম্মদপুর বাস স্ট্যান্ড",
+    "name_english": "Mohammadpur Bus Stand"
+  },
+  {
+    "id": 395,
+    "name_bangla": "মোহাম্মদপুর শিয়া মসজিদ",
+    "name_english": "Mohammadpur Shia Masjid"
+  },
+  {
+    "id": 396,
+    "name_bangla": "মোহাম্মদপুর শিয়া মসজিদ",
+    "name_english": "Mohammadpur Shia Masjid"
+  },
+  {
+    "id": 397,
+    "name_bangla": "মৌচাক",
+    "name_english": "Mouchak"
+  },
+  {
+    "id": 398,
+    "name_bangla": "যমুনা ফিউচার পার্ক",
+    "name_english": "Jamuna Future Park"
+  },
+  {
+    "id": 399,
+    "name_bangla": "যাত্রাবাড়ি",
+    "name_english": "Jatrabari"
+  },
+  {
+    "id": 400,
+    "name_bangla": "রাজমনি",
+    "name_english": "Rajmoni"
+  },
+  {
+    "id": 401,
+    "name_bangla": "রাজলক্ষ্মী",
+    "name_english": "Rajlakshmi"
+  },
+  {
+    "id": 402,
+    "name_bangla": "রাজশাহী",
+    "name_english": "Rajshahi"
+  },
+  {
+    "id": 403,
+    "name_bangla": "রাজাবাড়ী",
+    "name_english": "Rajabari"
+  },
+  {
+    "id": 404,
+    "name_bangla": "রাজেন্দ্রপুর",
+    "name_english": "Rajendrapur"
+  },
+  {
+    "id": 405,
+    "name_bangla": "রাজেন্দ্রপুর চৌরাস্তা",
+    "name_english": "Rajendrapur Chowrasta"
+  },
+  {
+    "id": 406,
+    "name_bangla": "রাজেন্দ্রপুর বাজার",
+    "name_english": "Rajendrapur Bazar"
+  },
+  {
+    "id": 407,
+    "name_bangla": "রামনগর",
+    "name_english": "Ramnagar"
+  },
+  {
+    "id": 408,
+    "name_bangla": "রামপুরা",
+    "name_english": "Rampura"
+  },
+  {
+    "id": 409,
+    "name_bangla": "রামপুরা (বনশ্রী)",
+    "name_english": "Rampura - Banasree"
+  },
+  {
+    "id": 410,
+    "name_bangla": "রামপুরা টিভি সেন্টার",
+    "name_english": "Rampura TV Center"
+  },
+  {
+    "id": 411,
+    "name_bangla": "রামপুরা ব্রিজ",
+    "name_english": "Rampura Bridge"
+  },
+  {
+    "id": 412,
+    "name_bangla": "রায় সাহেব বাজার",
+    "name_english": "Ray Saheb Bazar"
+  },
+  {
+    "id": 413,
+    "name_bangla": "রায়েরবাগ",
+    "name_english": "Rayerbag"
+  },
+  {
+    "id": 414,
+    "name_bangla": "রাসেল স্কয়ার",
+    "name_english": "Russel Square"
+  },
+  {
+    "id": 415,
+    "name_bangla": "রুহিতপুর",
+    "name_english": "Ruhitpur"
+  },
+  {
+    "id": 416,
+    "name_bangla": "রূপসী",
+    "name_english": "Ruposhi"
+  },
+  {
+    "id": 417,
+    "name_bangla": "লিংক রোড",
+    "name_english": "Link Road"
+  },
+  {
+    "id": 418,
+    "name_bangla": "লুবিন",
+    "name_english": "Lubin"
+  },
+  {
+    "id": 419,
+    "name_bangla": "শঙ্কর",
+    "name_english": "Shankar"
+  },
+  {
+    "id": 420,
+    "name_bangla": "শনির আখরা",
+    "name_english": "Shonir Akhra"
+  },
+  {
+    "id": 421,
+    "name_bangla": "শনিরআখড়া",
+    "name_english": "Shanir Akhra"
+  },
+  {
+    "id": 422,
+    "name_bangla": "শনিরা আখড়া",
+    "name_english": "Shanir Akhra"
+  },
+  {
+    "id": 423,
+    "name_bangla": "শরফ কলম",
+    "name_english": "Shorof Kolom"
+  },
+  {
+    "id": 424,
+    "name_bangla": "শহীদনগর",
+    "name_english": "Shahidnagar"
+  },
+  {
+    "id": 425,
+    "name_bangla": "শানির আখড়া",
+    "name_english": "Shanir Akhra"
+  },
+  {
+    "id": 426,
+    "name_bangla": "শাপলা চত্বর",
+    "name_english": "Shapla Chattar"
+  },
+  {
+    "id": 427,
+    "name_bangla": "শামলা বাজার",
+    "name_english": "Shamla Bazar"
+  },
+  {
+    "id": 428,
+    "name_bangla": "শারদীয় মার্কেট",
+    "name_english": "Sharodiya Market"
+  },
+  {
+    "id": 429,
+    "name_bangla": "শাহবাগ",
+    "name_english": "Shahbag"
+  },
+  {
+    "id": 430,
+    "name_bangla": "শিক্ষাথন গেট",
+    "name_english": "Shikkhathon Gate"
+  },
+  {
+    "id": 431,
+    "name_bangla": "শিয়া মসজিদ",
+    "name_english": "Shia Masjid"
+  },
+  {
+    "id": 432,
+    "name_bangla": "শিশু মেলা",
+    "name_english": "Shishu Mela"
+  },
+  {
+    "id": 433,
+    "name_bangla": "শুক্রাবাদ",
+    "name_english": "Shukrabad"
+  },
+  {
+    "id": 434,
+    "name_bangla": "শেওড়া",
+    "name_english": "Shewra"
+  },
+  {
+    "id": 435,
+    "name_bangla": "শেওড়া বাজার",
+    "name_english": "Sheora Bazar"
+  },
+  {
+    "id": 436,
+    "name_bangla": "শেওড়াপাড়া",
+    "name_english": "Shewrapara"
+  },
+  {
+    "id": 437,
+    "name_bangla": "শ্যামলী",
+    "name_english": "Shyamoli"
+  },
+  {
+    "id": 438,
+    "name_bangla": "শ্যামলী রিং রোড",
+    "name_english": "Shyamoli Ring Road"
+  },
+  {
+    "id": 439,
+    "name_bangla": "শ্রীপুর",
+    "name_english": "Sreepur"
+  },
+  {
+    "id": 440,
+    "name_bangla": "সদরঘাট",
+    "name_english": "Sadarghat"
+  },
+  {
+    "id": 441,
+    "name_bangla": "সনি সিনেমা হল",
+    "name_english": "Sony Cinema Hall"
+  },
+  {
+    "id": 442,
+    "name_bangla": "সাইন বোর্ড",
+    "name_english": "Sign Board"
+  },
+  {
+    "id": 443,
+    "name_bangla": "সাত রাস্তা",
+    "name_english": "Sat rasta"
+  },
+  {
+    "id": 444,
+    "name_bangla": "সাভার",
+    "name_english": "Savar"
+  },
+  {
+    "id": 445,
+    "name_bangla": "সাভার বাসষ্ট্যান্ড",
+    "name_english": "Savar Bus Stand"
+  },
+  {
+    "id": 446,
+    "name_bangla": "সায়দাবাদ",
+    "name_english": "Sayedabad"
+  },
+  {
+    "id": 447,
+    "name_bangla": "সায়দাবাদ",
+    "name_english": "Sayedabad"
+  },
+  {
+    "id": 448,
+    "name_bangla": "সায়েদাবাদ",
+    "name_english": "Sayedabad"
+  },
+  {
+    "id": 449,
+    "name_bangla": "সায়েদাবাদ",
+    "name_english": "Sayedabad"
+  },
+  {
+    "id": 450,
+    "name_bangla": "সায়েদাবাদ (জনপথ মোড়)",
+    "name_english": "Sayedabad Janapath Mor"
+  },
+  {
+    "id": 451,
+    "name_bangla": "সিটি কলেজ",
+    "name_english": "City College"
+  },
+  {
+    "id": 452,
+    "name_bangla": "সুলতানা কামাল ব্রিজ",
+    "name_english": "Sultana Kamal Bridge"
+  },
+  {
+    "id": 453,
+    "name_bangla": "সৈনিক ক্লাব",
+    "name_english": "Sainik Club"
+  },
+  {
+    "id": 454,
+    "name_bangla": "সোনারগাঁও",
+    "name_english": "Sonargao"
+  },
+  {
+    "id": 455,
+    "name_bangla": "সোনারগাঁও মোগড়াপাড়া",
+    "name_english": "Sonargaon Mograpara"
+  },
+  {
+    "id": 456,
+    "name_bangla": "সোবহানবাগ",
+    "name_english": "Sobhanbag"
+  },
+  {
+    "id": 457,
+    "name_bangla": "সোহান",
+    "name_english": "Sohan"
+  },
+  {
+    "id": 458,
+    "name_bangla": "স্টাফ কোয়ার্টার",
+    "name_english": "Staff Quarter"
+  },
+  {
+    "id": 459,
+    "name_bangla": "স্টাফ কোয়ার্টার",
+    "name_english": "Staff Quarter"
+  },
+  {
+    "id": 460,
+    "name_bangla": "হাউজ বিল্ডিং",
+    "name_english": "House Building"
+  },
+  {
+    "id": 461,
+    "name_bangla": "হানিফ ফ্লাইওভার",
+    "name_english": "Hanif Flyover"
+  },
+  {
+    "id": 462,
+    "name_bangla": "হুমায়ুনপুর",
+    "name_english": "Humayunpur"
+  },
+  {
+    "id": 463,
+    "name_bangla": "হেমায়েতপুর",
+    "name_english": "Hemayetpur"
+  },
+  {
+    "id": 464,
+    "name_bangla": "হোতাপাড়া",
+    "name_english": "Hotapara"
+  },
+  {
+    "id": 465,
+    "name_bangla": "হোন্ডারোড",
+    "name_english": "Honda Road"
+  }
+]

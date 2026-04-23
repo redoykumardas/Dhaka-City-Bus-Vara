@@ -1,39 +1,54 @@
 import { redirect } from "next/navigation"
 import Link from "next/link"
+import Image from "next/image"
 import { buildRoutesUseCase } from "@/application/buildRoutes.usecase"
 import { dijkstraAdapter } from "@/modules/routing/dijkstra.adapter"
+import { bfsAdapter } from "@/modules/routing/bfs.adapter"
 import { staticBusAdapter } from "@/modules/buses/staticBus.adapter"
 import { simpleFareAdapter } from "@/modules/fare/simpleFare.adapter"
 import { simpleTimeAdapter, buildTimeTable } from "@/modules/time/simpleTime.adapter"
-import { getGraph, getBusDB, expandRoutePath, getFareForRoute } from "@/infrastructure/graph.data"
-import { getFareTable } from "@/infrastructure/fare.data"
+import {
+  getNormalizedGraph,
+  getNormalizedBusDB,
+  expandNormalizedPath,
+  getNormalizedFare,
+  buildNormalizedFareTable,
+  getRouteMeta,
+  getRouteBuses,
+} from "@/infrastructure/graph.normalized"
 import { normalizeStop } from "@/domain/stopNormalizer"
 import { RouteResult } from "@/domain/types"
 import styles from "./route.module.css"
+
+import FareImage from "@/shared/ui/FareImage"
 
 export const dynamic = "force-dynamic"
 
 interface PageProps {
   params: Promise<{ id: string }>
-  searchParams: Promise<{ from?: string; to?: string; path?: string }>
+  searchParams: Promise<{ from?: string; to?: string; path?: string; sort?: string }>
 }
 
 export default async function RouteDetailPage({ params, searchParams }: PageProps) {
   const { id } = await params
-  const { from: rawFrom, to: rawTo, path: rawPath } = await searchParams
+  const { from: rawFrom, to: rawTo, path: rawPath, sort: rawSort } = await searchParams
 
   if (!rawFrom || !rawTo) redirect("/")
 
   const from = normalizeStop(rawFrom)
   const to = normalizeStop(rawTo)
+  const sortBy = (rawSort as any) || "fare"
 
-  const graph = getGraph()
-  const busDB = getBusDB()
-  const fareTable = getFareTable()
+  const graph = getNormalizedGraph()
+  const busDB = getNormalizedBusDB()
+  const fareTable = buildNormalizedFareTable()
   const timeTable = buildTimeTable(fareTable)
 
+  // Pick algorithm based on sort if available
+  const routingAlgorithm = sortBy === "transfers" ? bfsAdapter : dijkstraAdapter
+
   const routes = buildRoutesUseCase({
-    routing: dijkstraAdapter,
+    routing: routingAlgorithm,
     bus: staticBusAdapter,
     fare: simpleFareAdapter,
     time: simpleTimeAdapter,
@@ -44,8 +59,10 @@ export default async function RouteDetailPage({ params, searchParams }: PageProp
     from,
     to,
     maxPaths: 5,
-    expandPath: expandRoutePath,
-    getFare: getFareForRoute,
+    expandPath: expandNormalizedPath,
+    getFare: getNormalizedFare,
+    getRouteMeta: getRouteMeta,
+    getRouteBuses: getRouteBuses,
   })
 
   // Find the right route by matching path if given, else by id
@@ -144,6 +161,15 @@ export default async function RouteDetailPage({ params, searchParams }: PageProp
                     <span className="chip chip-purple">📏 {seg.distanceKm} km</span>
                   </div>
                 </div>
+
+                {/* Route Image */}
+                {seg.routeId && (
+                  <FareImage 
+                    src={`/route-images/${seg.routeId}.jpg`} 
+                    alt={`Fare chart for ${seg.routeNumber}`}
+                    routeNumber={seg.routeNumber}
+                  />
+                )}
 
                 {/* Stops in this segment */}
                 <div style={{ marginTop: 16 }}>

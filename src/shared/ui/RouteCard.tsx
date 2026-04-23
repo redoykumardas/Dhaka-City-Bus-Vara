@@ -1,6 +1,7 @@
 "use client"
 
 import Link from "next/link"
+import Image from "next/image"
 import { RouteResult } from "@/domain/types"
 
 interface RouteCardProps {
@@ -22,15 +23,44 @@ export default function RouteCard({ route, rank, from, to }: RouteCardProps) {
     >
       <article className="route-card fade-in">
         {/* Header row */}
-        <div className="stack-mobile" style={{ display: "flex", alignItems: "center", justifyContent: "space-between", marginBottom: 14 }}>
-          <div style={{ display: "flex", alignItems: "center", gap: 8 }}>
-            <span style={{ fontSize: "1.3rem" }}>{rankEmoji}</span>
-          </div>
-          <div style={{ display: "flex", gap: 6, flexWrap: "wrap" }}>
-            <span className="chip chip-green">💰 {route.totalFare} BDT</span>
-            <span className="chip chip-blue">⏱ {route.totalTime} min</span>
-            <span className="chip chip-purple">📏 {route.totalDistanceKm} km</span>
-            <span className="chip chip-amber">🔄 {route.transfers} transfer{route.transfers !== 1 ? "s" : ""}</span>
+        <div className="stack-mobile" style={{ display: "flex", gap: 16, marginBottom: 14 }}>
+          {route.primaryRouteId && (
+            <div style={{ position: "relative", width: 80, height: 60, borderRadius: 8, overflow: "hidden", flexShrink: 0, border: "1px solid var(--border-default)" }}>
+              <Image 
+                src={`/route-images/${route.primaryRouteId}.jpg`} 
+                alt={`Route ${route.primaryRouteNumber}`}
+                fill
+                style={{ objectFit: "cover", opacity: 0.8 }}
+              />
+              <div style={{ 
+                position: "absolute", 
+                inset: 0, 
+                display: "flex", 
+                alignItems: "center", 
+                justifyContent: "center", 
+                background: "rgba(0,0,0,0.3)",
+                fontSize: "0.5rem",
+                color: "white",
+                fontWeight: 700,
+                textTransform: "uppercase"
+              }}>
+                Preview
+              </div>
+            </div>
+          )}
+          
+          <div style={{ flex: 1 }}>
+            <div className="stack-mobile" style={{ display: "flex", alignItems: "center", justifyContent: "space-between", marginBottom: 8 }}>
+              <div style={{ display: "flex", alignItems: "center", gap: 8 }}>
+                <span style={{ fontSize: "1.3rem" }}>{rankEmoji}</span>
+                {route.primaryRouteNumber && <span className="chip chip-blue">{route.primaryRouteNumber}</span>}
+              </div>
+              <div style={{ display: "flex", gap: 6, flexWrap: "wrap" }}>
+                <span className="chip chip-green">💰 {route.totalFare} BDT</span>
+                <span className="chip chip-blue">⏱ {route.totalTime} min</span>
+                <span className="chip chip-amber">🔄 {route.transfers} transfer{route.transfers !== 1 ? "s" : ""}</span>
+              </div>
+            </div>
           </div>
         </div>
 
@@ -71,18 +101,19 @@ export default function RouteCard({ route, rank, from, to }: RouteCardProps) {
 
         {/* Buses summary */}
         <div style={{ display: "flex", gap: 6, flexWrap: "wrap" }}>
-          {Array.from(
-            new Set(route.segments.flatMap((s) => s.buses.map((b) => b.name)))
-          )
+          {route.segments.flatMap(s => s.buses).reduce((acc, bus) => {
+            if (!acc.find(b => b.name === bus.name)) acc.push(bus)
+            return acc
+          }, [] as import("@/domain/types").BusOperator[])
             .slice(0, 4)
-            .map((name) => (
-              <span key={name} className="chip chip-purple" style={{ fontSize: "0.75rem" }}>
-                🚌 {name}
+            .map((bus) => (
+              <span key={bus.name} className="chip chip-purple" style={{ fontSize: "0.72rem" }}>
+                🚌 {bus.name} {bus.serviceType?.includes("AC") ? "❄️" : bus.serviceType ? "🪑" : ""}
               </span>
             ))}
           {new Set(route.segments.flatMap((s) => s.buses.map((b) => b.name))).size > 4 && (
-            <span className="chip" style={{ background: "var(--bg-overlay)", color: "var(--text-secondary)", border: "none", fontSize: "0.75rem" }}>
-              +{new Set(route.segments.flatMap((s) => s.buses.map((b) => b.name))).size - 4} more
+            <span className="chip" style={{ background: "var(--bg-overlay)", color: "var(--text-secondary)", border: "none", fontSize: "0.72rem" }}>
+              +{new Set(route.segments.flatMap((s) => s.buses.map((b) => b.name))).size - 4}
             </span>
           )}
           {route.segments.every((s) => s.buses.length === 0) && (

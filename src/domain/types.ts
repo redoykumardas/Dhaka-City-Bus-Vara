@@ -61,6 +61,9 @@ export interface SegmentResult extends Segment {
   fare: number           // BDT
   estimatedMinutes: number
   distanceKm: number
+  routeId?: number       // normalized route ID (matches image filename)
+  routeNumber?: string   // e.g. "A-424"
+  routeName?: string     // full route name
 }
 
 export interface PathStep {
@@ -77,6 +80,8 @@ export interface RouteResult {
   totalTime: number      // minutes
   totalDistanceKm: number
   transfers: number      // path.length - 2 (intermediate stops requiring transfers)
+  primaryRouteId?: number   // first/main route ID for image display
+  primaryRouteNumber?: string
 }
 
 

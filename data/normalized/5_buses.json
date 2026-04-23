@@ -1,0 +1,980 @@
+[
+  {
+    "id": 1,
+    "name_en": "13 No.",
+    "name_bn": "১৩নং",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 2,
+    "name_en": "4 No. Alike",
+    "name_bn": "৪নং",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 3,
+    "name_en": "6 No.",
+    "name_bn": "৬নং",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 4,
+    "name_en": "6 No. Motijheel Banani Transport",
+    "name_bn": "৬নং মতিঝিল বনানী ট্রান্সপোর্ট",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 5,
+    "name_en": "7 No.",
+    "name_bn": "৭নং",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 6,
+    "name_en": "8 No.",
+    "name_bn": "৮নং",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 7,
+    "name_en": "9 No.",
+    "name_bn": "৯নং",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 8,
+    "name_en": "Achim Paribahan",
+    "name_bn": "আছিম পরিবহন",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 9,
+    "name_en": "Active Paribahan",
+    "name_bn": "এক্টিভ পরিবহন",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 10,
+    "name_en": "Agradut",
+    "name_bn": "অগ্রদূত",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 11,
+    "name_en": "Airport Bangabandhu Avenue Paribahan",
+    "name_bn": "এয়ারপোর্ট বঙ্গবন্ধু এভিনিউ পরিবহন",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 12,
+    "name_en": "Ajmi",
+    "name_bn": "আজমী",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 13,
+    "name_en": "Akash",
+    "name_bn": "আকাশ",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 14,
+    "name_en": "Akik",
+    "name_bn": "আকিক",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 15,
+    "name_en": "Al Madina Plus One",
+    "name_bn": "আল মনিদা প্লাস ওয়ান",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 16,
+    "name_en": "Al Makka",
+    "name_bn": "আল মক্কা",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 17,
+    "name_en": "Alif",
+    "name_bn": "আলিফ",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 18,
+    "name_en": "Anabil Super",
+    "name_bn": "অনাবিল সুপার",
+    "service_type": "Seating Service"
+  },
+  {
+    "id": 19,
+    "name_en": "Arnob",
+    "name_bn": "অরনব",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 20,
+    "name_en": "Ashirbad Pahibahan",
+    "name_bn": "আশীর্বাদ পরিবহন",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 21,
+    "name_en": "Ashulia Classic",
+    "name_bn": "আশুলিয়া ক্লাসিক",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 22,
+    "name_en": "Asmani",
+    "name_bn": "আসমানী",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 23,
+    "name_en": "ATCL",
+    "name_bn": "এটিসিএল",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 24,
+    "name_en": "Ayat",
+    "name_bn": "আয়াত",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 25,
+    "name_en": "Azmeri Glory Limited",
+    "name_bn": "আজমেরী গ্লোরী লিমিটেড",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 26,
+    "name_en": "Bahon",
+    "name_bn": "বাহন",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 27,
+    "name_en": "Baishakhi",
+    "name_bn": "বৈশাখী",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 28,
+    "name_en": "Balaka",
+    "name_bn": "বলাকা",
+    "service_type": "Seating Service"
+  },
+  {
+    "id": 29,
+    "name_en": "Bashumoti",
+    "name_bn": "বসুমতি",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 30,
+    "name_en": "Basumati",
+    "name_bn": "বাসুমতি",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 31,
+    "name_en": "Basumati Transport",
+    "name_bn": "বাসুমতি ট্রান্সপোর্ট",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 32,
+    "name_en": "Best Satabdi",
+    "name_bn": "বেষ্ট শতাব্দী",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 33,
+    "name_en": "Best Transport",
+    "name_bn": "বেষ্ট ট্রান্সপোর্ট",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 34,
+    "name_en": "Bhuiyan Paribahan",
+    "name_bn": "ভূঁইয়া পরিবহন",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 35,
+    "name_en": "Bihanga",
+    "name_bn": "বিহঙ্গ",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 36,
+    "name_en": "Bikalpa",
+    "name_bn": "বিকল্প সুপার সার্ভিস",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 37,
+    "name_en": "Bikash",
+    "name_bn": "বিকাশ",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 38,
+    "name_en": "Bikash Paribahan",
+    "name_bn": "বিকাশ পরিবহন",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 39,
+    "name_en": "Bondhu Paribahan",
+    "name_bn": "বন্ধু পরিবহন",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 40,
+    "name_en": "Brihottor",
+    "name_bn": "বৃহত্তর মিরপুর",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 41,
+    "name_en": "BRTC",
+    "name_bn": "বি আর টিসি",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 42,
+    "name_en": "BRTC Articulated বি আর টিসি আরটিকুলেটেড)",
+    "name_bn": "",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 43,
+    "name_en": "BRTC Elevated Expressway",
+    "name_bn": "বিআরটিসি ভায়া এলিভেটেড এক্সপ্রেসওয়ে",
+    "service_type": "Seating Service"
+  },
+  {
+    "id": 44,
+    "name_en": "Cantonment",
+    "name_bn": "ক্যান্টনমেন্ট",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 45,
+    "name_en": "Cantonment Mini Service",
+    "name_bn": "ক্যান্টনমেন্ট মিনি সার্ভিস",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 46,
+    "name_en": "Champion",
+    "name_bn": "চ্যাম্পিয়ন",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 47,
+    "name_en": "City Link",
+    "name_bn": "সিটি লিংক",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 48,
+    "name_en": "D Link",
+    "name_bn": "ডি লিংক",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 49,
+    "name_en": "D One Transport",
+    "name_bn": "ডি ওয়ান",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 50,
+    "name_en": "Deepan",
+    "name_bn": "দিপান",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 51,
+    "name_en": "Desh Bangla",
+    "name_bn": "দেশ বাংলা",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 52,
+    "name_en": "Dewan",
+    "name_bn": "দেওয়ান",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 53,
+    "name_en": "Dhaka Metro Service",
+    "name_bn": "ঢাকার মেট্রো সার্ভিস",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 54,
+    "name_en": "Dhaka Paribahan",
+    "name_bn": "ঢাকা পরিবহন",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 55,
+    "name_en": "Dhakar Chaka",
+    "name_bn": "ঢাকার চাকা",
+    "service_type": "Seating Service"
+  },
+  {
+    "id": 56,
+    "name_en": "Dip Paribahan",
+    "name_bn": "দ্বীপ পরিবহন",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 57,
+    "name_en": "Dipon",
+    "name_bn": "দিপন",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 58,
+    "name_en": "Dishari",
+    "name_bn": "দিসারি",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 59,
+    "name_en": "Elite",
+    "name_bn": "এলিট",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 60,
+    "name_en": "ETC",
+    "name_bn": "ইটিসি",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 61,
+    "name_en": "ETC Transport",
+    "name_bn": "ইটিসি ট্রান্সপোর্ট",
+    "service_type": "Seating Service"
+  },
+  {
+    "id": 62,
+    "name_en": "Everest Paribahan",
+    "name_bn": "এভারেস্ট পরিবহন",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 63,
+    "name_en": "Falgun Art Transport Private Limited",
+    "name_bn": "ফাল্গুন আর্ট ট্রান্সপোর্ট প্রাইভেট লিমিটেড",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 64,
+    "name_en": "First Ten",
+    "name_bn": "ফার্স্ট টেন",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 65,
+    "name_en": "FTCL",
+    "name_bn": "এফটিসিএল",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 66,
+    "name_en": "Gazipur Paribahan",
+    "name_bn": "গাজীপুর পরিবহন",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 67,
+    "name_en": "Grameen",
+    "name_bn": "গ্রামীণ",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 68,
+    "name_en": "Grameen Suveccha",
+    "name_bn": "গ্রামীণ শুভেচ্ছা",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 69,
+    "name_en": "Green Anabil",
+    "name_bn": "গ্রীন অনাবিল",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 70,
+    "name_en": "Green Dhaka",
+    "name_bn": "গ্রীন ঢাকা",
+    "service_type": "Seating Service"
+  },
+  {
+    "id": 71,
+    "name_en": "Gulshan Chaka",
+    "name_bn": "গুলশান চাকা",
+    "service_type": "Seating Service"
+  },
+  {
+    "id": 72,
+    "name_en": "Hazi Transport",
+    "name_bn": "হাজি ট্রান্সপোর্ট",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 73,
+    "name_en": "Himachal",
+    "name_bn": "হিমাচল",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 74,
+    "name_en": "Himachal Suveccha",
+    "name_bn": "হিমাচল শুভেচ্ছা",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 75,
+    "name_en": "Himalay",
+    "name_bn": "হিমালয়",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 76,
+    "name_en": "Itihash",
+    "name_bn": "ইতিহাস",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 77,
+    "name_en": "J M Super Paribahan",
+    "name_bn": "জে এম সুপার পরিবহন",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 78,
+    "name_en": "Jabale Noor Paribahan",
+    "name_bn": "জাবালে নুর পরিবহন",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 79,
+    "name_en": "Janjabil",
+    "name_bn": "জানযাবিল",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 80,
+    "name_en": "Kamal Plus Paribahan",
+    "name_bn": "কামাল প্লাস পরিবহন",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 81,
+    "name_en": "kanak",
+    "name_bn": "কনক",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 82,
+    "name_en": "Khajababa",
+    "name_bn": "খাজা বাবা",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 83,
+    "name_en": "Kironmala Paribahan",
+    "name_bn": "কিরণমালা",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 84,
+    "name_en": "Labbayek",
+    "name_bn": "লাব্বাইক",
+    "service_type": "Seating Service"
+  },
+  {
+    "id": 85,
+    "name_en": "Lal Sabuj",
+    "name_bn": "লাল সবুজ",
+    "service_type": "Seating Service"
+  },
+  {
+    "id": 86,
+    "name_en": "Lams Paribahan",
+    "name_bn": "লামস পরিবহন",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 87,
+    "name_en": "Malancha",
+    "name_bn": "মালঞ্চ",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 88,
+    "name_en": "Manjil Express",
+    "name_bn": "মাঞ্জিল এক্সপ্রেস",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 89,
+    "name_en": "Meghla Transport",
+    "name_bn": "মেঘলা ট্রান্সপোর্ট",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 90,
+    "name_en": "Meshkat",
+    "name_bn": "মেসকাত",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 91,
+    "name_en": "Midline",
+    "name_bn": "মিডলাইন",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 92,
+    "name_en": "Mirpur Link",
+    "name_bn": "মিরপুর লিংক",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 93,
+    "name_en": "Mirpur Metro Services",
+    "name_bn": "মিরপুর মেট্রো সার্ভিস",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 94,
+    "name_en": "Mirpur Mission",
+    "name_bn": "মিরপুর মিশন",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 95,
+    "name_en": "Mirpur Transport Service",
+    "name_bn": "মিরপুর ট্রান্সপোর্ট সার্ভিস",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 96,
+    "name_en": "Mirpur United Service",
+    "name_bn": "মিরপুর ইউনাইটেড সার্ভিস",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 97,
+    "name_en": "MM Lovely",
+    "name_bn": "এম এম লাভলী",
+    "service_type": "Seating Service"
+  },
+  {
+    "id": 98,
+    "name_en": "Modhumita",
+    "name_bn": "মধুমিতা",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 99,
+    "name_en": "Mohona",
+    "name_bn": "মোহনা",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 100,
+    "name_en": "Moitri",
+    "name_bn": "মৈত্রী",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 101,
+    "name_en": "Moumita",
+    "name_bn": "মৌমিতা",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 102,
+    "name_en": "MTCL-2",
+    "name_bn": "এমটিসিএল ২",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 103,
+    "name_en": "Nabakali",
+    "name_bn": "নবকালি",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 104,
+    "name_en": "New Vision",
+    "name_bn": "নিউ ভিশন",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 105,
+    "name_en": "Nilachol",
+    "name_bn": "নিলাচল",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 106,
+    "name_en": "Nishorgo",
+    "name_bn": "নিসর্গ",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 107,
+    "name_en": "Nur E Makka",
+    "name_bn": "নূর এ মক্কা",
+    "service_type": "Seating Service"
+  },
+  {
+    "id": 108,
+    "name_en": "Omama International",
+    "name_bn": "ওমামা ইন্টারন্যাশনাল বাস",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 109,
+    "name_en": "One Transport",
+    "name_bn": "ওয়ান ট্রান্সপোর্ট",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 110,
+    "name_en": "Pallabi Local Service",
+    "name_bn": "পল্লবী লোকাল সার্ভিস",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 111,
+    "name_en": "Pallabi Super",
+    "name_bn": "পল্লবী সুপার",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 112,
+    "name_en": "Paristhan",
+    "name_bn": "পরিস্থান",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 113,
+    "name_en": "Power Paribahan",
+    "name_bn": "পাওয়ার পরিবহন",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 114,
+    "name_en": "Prattay",
+    "name_bn": "প্রত্যয়",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 115,
+    "name_en": "Prochesta",
+    "name_bn": "প্রচেষ্টা",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 116,
+    "name_en": "Projapati",
+    "name_bn": "প্রজাপতি",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 117,
+    "name_en": "Provati Banasree",
+    "name_bn": "প্রভাতী বনশ্রী",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 118,
+    "name_en": "Purbachol Logistics and Transport",
+    "name_bn": "পূর্বাচল লজিস্টিকস",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 119,
+    "name_en": "Raida",
+    "name_bn": "রাইদা",
+    "service_type": "Seating Service"
+  },
+  {
+    "id": 120,
+    "name_en": "Raja City",
+    "name_bn": "রাজা সিটি",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 121,
+    "name_en": "Rajanigandha",
+    "name_bn": "রজনীগন্ধা",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 122,
+    "name_en": "Rajdhani Super",
+    "name_bn": "রাজধানী",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 123,
+    "name_en": "Ramjan",
+    "name_bn": "রমজান",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 124,
+    "name_en": "Robrob",
+    "name_bn": "রবরব",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 125,
+    "name_en": "Rois",
+    "name_bn": "রাইস",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 126,
+    "name_en": "Rongdhonu Express",
+    "name_bn": "রংধনু এক্সপ্রেস",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 127,
+    "name_en": "Runway Express",
+    "name_bn": "রানওয়ে এক্সপ্রেস",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 128,
+    "name_en": "Rupa Paribahan",
+    "name_bn": "রুপা পরিবহন",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 129,
+    "name_en": "Rupkotha",
+    "name_bn": "রুপকথা",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 130,
+    "name_en": "Safety Druti",
+    "name_bn": "সেফটি দ্রুতি",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 131,
+    "name_en": "Sakalpa Transport",
+    "name_bn": "স্বকল্প ট্রান্সপোর্ট",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 132,
+    "name_en": "Salsabil",
+    "name_bn": "ছালছাবিল",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 133,
+    "name_en": "Savar Paribahan",
+    "name_bn": "সাভার পরিবহন",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 134,
+    "name_en": "Shadhin",
+    "name_bn": "স্বাধীন",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 135,
+    "name_en": "Shadhin Express",
+    "name_bn": "স্বাধীন এক্সপ্রেস",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 136,
+    "name_en": "Shahria Enterprise",
+    "name_bn": "শাহরিয়া এন্টারপ্রাইজ",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 137,
+    "name_en": "Shatabdi",
+    "name_bn": "শতাব্দি",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 138,
+    "name_en": "Shikhor Paribahan",
+    "name_bn": "শিখর পরিবহন",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 139,
+    "name_en": "Siam Transport",
+    "name_bn": "সিয়াম ট্রান্সপোর্ট",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 140,
+    "name_en": "Skyline",
+    "name_bn": "স্কাই লাইন",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 141,
+    "name_en": "Somota Paribahan",
+    "name_bn": "সমতা পরিবহন",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 142,
+    "name_en": "Somoy",
+    "name_bn": "সময়",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 143,
+    "name_en": "Somoy Niyantran",
+    "name_bn": "সময় নিয়ন্ত্রণ",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 144,
+    "name_en": "Super",
+    "name_bn": "সুপার",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 145,
+    "name_en": "Supravat",
+    "name_bn": "সুপ্রভাত",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 146,
+    "name_en": "Suveccha",
+    "name_bn": "শুভেচ্ছা",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 147,
+    "name_en": "Suvojatri",
+    "name_bn": "শুভযাত্রী",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 148,
+    "name_en": "Swajan Paribahan",
+    "name_bn": "স্বজন পরিবহন",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 149,
+    "name_en": "Talukdar",
+    "name_bn": "তালুকদার",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 150,
+    "name_en": "Tanjil Paribahan",
+    "name_bn": "তানজিল পরিবহন",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 151,
+    "name_en": "Taranga Plus",
+    "name_bn": "তরঙ্গ প্লাস",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 152,
+    "name_en": "Tetulia",
+    "name_bn": "তেতুলিয়া",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 153,
+    "name_en": "Thikana",
+    "name_bn": "ঠিকানা",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 154,
+    "name_en": "Thikana Express",
+    "name_bn": "ঠিকানা এক্সপ্রেস",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 155,
+    "name_en": "Titas",
+    "name_bn": "তিতাস",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 156,
+    "name_en": "Transilva",
+    "name_bn": "ট্রান্সিল্ভা",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 157,
+    "name_en": "Trust Transport Services",
+    "name_bn": "AC",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 158,
+    "name_en": "Turag",
+    "name_bn": "গ্রেট তুরাগ",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 159,
+    "name_en": "Victor Classic",
+    "name_bn": "ভিক্টর ক্লাসিক",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 160,
+    "name_en": "Victor Paribahan",
+    "name_bn": "ভিক্টর পরিবহন",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 161,
+    "name_en": "VIP 27",
+    "name_bn": "ভিআইপি ২৭",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 162,
+    "name_en": "Welcome",
+    "name_bn": "ওয়েলকাম",
+    "service_type": "Semi-Seating Service"
+  },
+  {
+    "id": 163,
+    "name_en": "Winner",
+    "name_bn": "উইনার",
+    "service_type": "Semi-Seating Service"
+  }
+]

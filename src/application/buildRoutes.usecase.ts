@@ -21,11 +21,16 @@ interface BuildRoutesInput {
   sortBy?: SortKey
   expandPath: (routeId: number, from: string, to: string) => string[]
   getFare: (routeId: number, from: string, to: string) => number
+  getRouteMeta: (routeId: number) => { routeNumber: string; routeName: string } | undefined
+  getRouteBuses: (routeId: number) => BusOperator[]
 }
 
 export function buildRoutesUseCase(input: BuildRoutesInput): RouteResult[] {
-  const { routing, bus, fare, time, graph, busDB, fareTable, timeTable, from, to, maxPaths = 3, sortBy = "fare", expandPath, getFare } =
-    input
+  const { 
+    routing, bus, fare, time, graph, busDB, fareTable, timeTable, 
+    from, to, maxPaths = 3, sortBy = "fare", 
+    expandPath, getFare, getRouteMeta, getRouteBuses 
+  } = input
 
   if (!from || !to || from === to) return []
 
@@ -50,8 +55,9 @@ export function buildRoutesUseCase(input: BuildRoutesInput): RouteResult[] {
           currentSegmentStops.push(...subPath.slice(1)) 
         } else {
           // Close segment
-          const segBuses = bus.get(busDB, { from: currentSegmentStops[0], to: currentSegmentStops[currentSegmentStops.length - 1] })
-          segments.push(createSegment(currentRouteId, currentSegmentStops, segBuses, fare, fareTable, time, timeTable, getFare))
+          const segBuses = getRouteBuses(currentRouteId)
+          const meta = getRouteMeta(currentRouteId)
+          segments.push(createSegment(currentRouteId, currentSegmentStops, segBuses, fare, fareTable, time, timeTable, getFare, meta))
           
           // Start next segment from where we left off
           const startSubPath = expandPath(step.routeId, prevStep.stop, step.stop)
@@ -60,8 +66,9 @@ export function buildRoutesUseCase(input: BuildRoutesInput): RouteResult[] {
         }
       }
       // Last segment
-      const lastSegBuses = bus.get(busDB, { from: currentSegmentStops[0], to: currentSegmentStops[currentSegmentStops.length - 1] })
-      segments.push(createSegment(currentRouteId, currentSegmentStops, lastSegBuses, fare, fareTable, time, timeTable, getFare))
+      const lastSegBuses = getRouteBuses(currentRouteId)
+      const lastMeta = getRouteMeta(currentRouteId)
+      segments.push(createSegment(currentRouteId, currentSegmentStops, lastSegBuses, fare, fareTable, time, timeTable, getFare, lastMeta))
     }
 
     const path = segments.flatMap((s, i) => i === 0 ? s.path : s.path.slice(1))
@@ -80,6 +87,8 @@ export function buildRoutesUseCase(input: BuildRoutesInput): RouteResult[] {
       totalTime,
       totalDistanceKm: Number(totalDistanceKm.toFixed(1)),
       transfers,
+      primaryRouteId: segments[0]?.routeId,
+      primaryRouteNumber: segments[0]?.routeNumber,
     }
   })
 
@@ -100,7 +109,8 @@ function createSegment(
   fareTable: Map<string, number>,
   time: TimePort,
   timeTable: Map<string, number>,
-  getFare: (routeId: number, from: string, to: string) => number
+  getFare: (routeId: number, from: string, to: string) => number,
+  routeMeta?: { routeNumber?: string; routeName?: string }
 ): SegmentResult {
   const from = stops[0]
   const to = stops[stops.length - 1]
@@ -115,6 +125,9 @@ function createSegment(
     buses,
     fare: segmentFare,
     estimatedMinutes: time.estimate(timeTable, { from, to, stopCount: stops.length }),
-    distanceKm: Number((segmentFare / 2.45).toFixed(1))
+    distanceKm: Number((segmentFare / 2.45).toFixed(1)),
+    routeId,
+    routeNumber: routeMeta?.routeNumber,
+    routeName: routeMeta?.routeName,
   }
 }

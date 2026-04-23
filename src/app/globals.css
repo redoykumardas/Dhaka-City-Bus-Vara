@@ -303,6 +303,15 @@ body {
 
 .route-card:hover::before { opacity: 1; }
 
+.fare-preview-card {
+  transition: transform 0.3s var(--ease-out), border-color 0.3s var(--ease-out);
+}
+
+.fare-preview-card:hover {
+  transform: scale(1.01);
+  border-color: var(--brand-primary) !important;
+}
+
 /* ── Stop path display ───────────────────────────────────── */
 .stop-path {
   display: flex;

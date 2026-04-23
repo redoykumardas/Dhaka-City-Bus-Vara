@@ -1,0 +1,817 @@
+[
+  {
+    "id": 1,
+    "bus_id": 1,
+    "route_id": 7
+  },
+  {
+    "id": 2,
+    "bus_id": 2,
+    "route_id": 72
+  },
+  {
+    "id": 3,
+    "bus_id": 3,
+    "route_id": 2
+  },
+  {
+    "id": 4,
+    "bus_id": 4,
+    "route_id": 2
+  },
+  {
+    "id": 5,
+    "bus_id": 5,
+    "route_id": 18
+  },
+  {
+    "id": 6,
+    "bus_id": 6,
+    "route_id": 34
+  },
+  {
+    "id": 7,
+    "bus_id": 7,
+    "route_id": 17
+  },
+  {
+    "id": 8,
+    "bus_id": 8,
+    "route_id": 71
+  },
+  {
+    "id": 9,
+    "bus_id": 9,
+    "route_id": 58
+  },
+  {
+    "id": 10,
+    "bus_id": 10,
+    "route_id": 47
+  },
+  {
+    "id": 11,
+    "bus_id": 11,
+    "route_id": 24
+  },
+  {
+    "id": 12,
+    "bus_id": 12,
+    "route_id": 21
+  },
+  {
+    "id": 13,
+    "bus_id": 13,
+    "route_id": 36
+  },
+  {
+    "id": 14,
+    "bus_id": 14,
+    "route_id": 71
+  },
+  {
+    "id": 15,
+    "bus_id": 15,
+    "route_id": 75
+  },
+  {
+    "id": 16,
+    "bus_id": 16,
+    "route_id": 74
+  },
+  {
+    "id": 17,
+    "bus_id": 17,
+    "route_id": 97
+  },
+  {
+    "id": 18,
+    "bus_id": 18,
+    "route_id": 8
+  },
+  {
+    "id": 19,
+    "bus_id": 19,
+    "route_id": 47
+  },
+  {
+    "id": 20,
+    "bus_id": 20,
+    "route_id": 18
+  },
+  {
+    "id": 21,
+    "bus_id": 21,
+    "route_id": 55
+  },
+  {
+    "id": 22,
+    "bus_id": 22,
+    "route_id": 8
+  },
+  {
+    "id": 23,
+    "bus_id": 23,
+    "route_id": 34
+  },
+  {
+    "id": 24,
+    "bus_id": 24,
+    "route_id": 45
+  },
+  {
+    "id": 25,
+    "bus_id": 25,
+    "route_id": 55
+  },
+  {
+    "id": 26,
+    "bus_id": 26,
+    "route_id": 22
+  },
+  {
+    "id": 27,
+    "bus_id": 27,
+    "route_id": 47
+  },
+  {
+    "id": 28,
+    "bus_id": 28,
+    "route_id": 55
+  },
+  {
+    "id": 29,
+    "bus_id": 29,
+    "route_id": 92
+  },
+  {
+    "id": 30,
+    "bus_id": 30,
+    "route_id": 34
+  },
+  {
+    "id": 31,
+    "bus_id": 31,
+    "route_id": 58
+  },
+  {
+    "id": 32,
+    "bus_id": 32,
+    "route_id": 44
+  },
+  {
+    "id": 33,
+    "bus_id": 33,
+    "route_id": 19
+  },
+  {
+    "id": 34,
+    "bus_id": 34,
+    "route_id": 97
+  },
+  {
+    "id": 35,
+    "bus_id": 35,
+    "route_id": 14
+  },
+  {
+    "id": 36,
+    "bus_id": 36,
+    "route_id": 20
+  },
+  {
+    "id": 37,
+    "bus_id": 37,
+    "route_id": 44
+  },
+  {
+    "id": 38,
+    "bus_id": 38,
+    "route_id": 32
+  },
+  {
+    "id": 39,
+    "bus_id": 39,
+    "route_id": 4
+  },
+  {
+    "id": 40,
+    "bus_id": 40,
+    "route_id": 64
+  },
+  {
+    "id": 41,
+    "bus_id": 41,
+    "route_id": 34
+  },
+  {
+    "id": 42,
+    "bus_id": 42,
+    "route_id": 72
+  },
+  {
+    "id": 43,
+    "bus_id": 43,
+    "route_id": 101
+  },
+  {
+    "id": 44,
+    "bus_id": 44,
+    "route_id": 54
+  },
+  {
+    "id": 45,
+    "bus_id": 45,
+    "route_id": 112
+  },
+  {
+    "id": 46,
+    "bus_id": 46,
+    "route_id": 64
+  },
+  {
+    "id": 47,
+    "bus_id": 47,
+    "route_id": 35
+  },
+  {
+    "id": 48,
+    "bus_id": 48,
+    "route_id": 21
+  },
+  {
+    "id": 49,
+    "bus_id": 49,
+    "route_id": 75
+  },
+  {
+    "id": 50,
+    "bus_id": 50,
+    "route_id": 40
+  },
+  {
+    "id": 51,
+    "bus_id": 51,
+    "route_id": 8
+  },
+  {
+    "id": 52,
+    "bus_id": 52,
+    "route_id": 49
+  },
+  {
+    "id": 53,
+    "bus_id": 53,
+    "route_id": 21
+  },
+  {
+    "id": 54,
+    "bus_id": 54,
+    "route_id": 72
+  },
+  {
+    "id": 55,
+    "bus_id": 55,
+    "route_id": 93
+  },
+  {
+    "id": 56,
+    "bus_id": 56,
+    "route_id": 49
+  },
+  {
+    "id": 57,
+    "bus_id": 57,
+    "route_id": 40
+  },
+  {
+    "id": 58,
+    "bus_id": 58,
+    "route_id": 17
+  },
+  {
+    "id": 59,
+    "bus_id": 59,
+    "route_id": 14
+  },
+  {
+    "id": 60,
+    "bus_id": 60,
+    "route_id": 27
+  },
+  {
+    "id": 61,
+    "bus_id": 61,
+    "route_id": 27
+  },
+  {
+    "id": 62,
+    "bus_id": 62,
+    "route_id": 23
+  },
+  {
+    "id": 63,
+    "bus_id": 63,
+    "route_id": 8
+  },
+  {
+    "id": 64,
+    "bus_id": 64,
+    "route_id": 64
+  },
+  {
+    "id": 65,
+    "bus_id": 65,
+    "route_id": 40
+  },
+  {
+    "id": 66,
+    "bus_id": 66,
+    "route_id": 55
+  },
+  {
+    "id": 67,
+    "bus_id": 67,
+    "route_id": 64
+  },
+  {
+    "id": 68,
+    "bus_id": 68,
+    "route_id": 21
+  },
+  {
+    "id": 69,
+    "bus_id": 69,
+    "route_id": 32
+  },
+  {
+    "id": 70,
+    "bus_id": 70,
+    "route_id": 8
+  },
+  {
+    "id": 71,
+    "bus_id": 71,
+    "route_id": 93
+  },
+  {
+    "id": 72,
+    "bus_id": 72,
+    "route_id": 27
+  },
+  {
+    "id": 73,
+    "bus_id": 73,
+    "route_id": 106
+  },
+  {
+    "id": 74,
+    "bus_id": 74,
+    "route_id": 19
+  },
+  {
+    "id": 75,
+    "bus_id": 75,
+    "route_id": 112
+  },
+  {
+    "id": 76,
+    "bus_id": 76,
+    "route_id": 54
+  },
+  {
+    "id": 77,
+    "bus_id": 77,
+    "route_id": 8
+  },
+  {
+    "id": 78,
+    "bus_id": 78,
+    "route_id": 43
+  },
+  {
+    "id": 79,
+    "bus_id": 79,
+    "route_id": 89
+  },
+  {
+    "id": 80,
+    "bus_id": 80,
+    "route_id": 7
+  },
+  {
+    "id": 81,
+    "bus_id": 81,
+    "route_id": 58
+  },
+  {
+    "id": 82,
+    "bus_id": 82,
+    "route_id": 19
+  },
+  {
+    "id": 83,
+    "bus_id": 83,
+    "route_id": 31
+  },
+  {
+    "id": 84,
+    "bus_id": 84,
+    "route_id": 30
+  },
+  {
+    "id": 85,
+    "bus_id": 85,
+    "route_id": 75
+  },
+  {
+    "id": 86,
+    "bus_id": 86,
+    "route_id": 27
+  },
+  {
+    "id": 87,
+    "bus_id": 87,
+    "route_id": 40
+  },
+  {
+    "id": 88,
+    "bus_id": 88,
+    "route_id": 84
+  },
+  {
+    "id": 89,
+    "bus_id": 89,
+    "route_id": 3
+  },
+  {
+    "id": 90,
+    "bus_id": 90,
+    "route_id": 34
+  },
+  {
+    "id": 91,
+    "bus_id": 91,
+    "route_id": 40
+  },
+  {
+    "id": 92,
+    "bus_id": 92,
+    "route_id": 28
+  },
+  {
+    "id": 93,
+    "bus_id": 93,
+    "route_id": 18
+  },
+  {
+    "id": 94,
+    "bus_id": 94,
+    "route_id": 23
+  },
+  {
+    "id": 95,
+    "bus_id": 95,
+    "route_id": 27
+  },
+  {
+    "id": 96,
+    "bus_id": 96,
+    "route_id": 27
+  },
+  {
+    "id": 97,
+    "bus_id": 97,
+    "route_id": 30
+  },
+  {
+    "id": 98,
+    "bus_id": 98,
+    "route_id": 58
+  },
+  {
+    "id": 99,
+    "bus_id": 99,
+    "route_id": 43
+  },
+  {
+    "id": 100,
+    "bus_id": 100,
+    "route_id": 40
+  },
+  {
+    "id": 101,
+    "bus_id": 101,
+    "route_id": 3
+  },
+  {
+    "id": 102,
+    "bus_id": 102,
+    "route_id": 34
+  },
+  {
+    "id": 103,
+    "bus_id": 103,
+    "route_id": 18
+  },
+  {
+    "id": 104,
+    "bus_id": 104,
+    "route_id": 17
+  },
+  {
+    "id": 105,
+    "bus_id": 105,
+    "route_id": 3
+  },
+  {
+    "id": 106,
+    "bus_id": 106,
+    "route_id": 7
+  },
+  {
+    "id": 107,
+    "bus_id": 107,
+    "route_id": 71
+  },
+  {
+    "id": 108,
+    "bus_id": 108,
+    "route_id": 24
+  },
+  {
+    "id": 109,
+    "bus_id": 109,
+    "route_id": 75
+  },
+  {
+    "id": 110,
+    "bus_id": 110,
+    "route_id": 58
+  },
+  {
+    "id": 111,
+    "bus_id": 111,
+    "route_id": 58
+  },
+  {
+    "id": 112,
+    "bus_id": 112,
+    "route_id": 58
+  },
+  {
+    "id": 113,
+    "bus_id": 113,
+    "route_id": 31
+  },
+  {
+    "id": 114,
+    "bus_id": 114,
+    "route_id": 89
+  },
+  {
+    "id": 115,
+    "bus_id": 115,
+    "route_id": 8
+  },
+  {
+    "id": 116,
+    "bus_id": 116,
+    "route_id": 58
+  },
+  {
+    "id": 117,
+    "bus_id": 117,
+    "route_id": 55
+  },
+  {
+    "id": 118,
+    "bus_id": 118,
+    "route_id": 54
+  },
+  {
+    "id": 119,
+    "bus_id": 119,
+    "route_id": 8
+  },
+  {
+    "id": 120,
+    "bus_id": 120,
+    "route_id": 35
+  },
+  {
+    "id": 121,
+    "bus_id": 121,
+    "route_id": 35
+  },
+  {
+    "id": 122,
+    "bus_id": 122,
+    "route_id": 62
+  },
+  {
+    "id": 123,
+    "bus_id": 123,
+    "route_id": 4
+  },
+  {
+    "id": 124,
+    "bus_id": 124,
+    "route_id": 53
+  },
+  {
+    "id": 125,
+    "bus_id": 125,
+    "route_id": 20
+  },
+  {
+    "id": 126,
+    "bus_id": 126,
+    "route_id": 6
+  },
+  {
+    "id": 127,
+    "bus_id": 127,
+    "route_id": 27
+  },
+  {
+    "id": 128,
+    "bus_id": 128,
+    "route_id": 64
+  },
+  {
+    "id": 129,
+    "bus_id": 129,
+    "route_id": 58
+  },
+  {
+    "id": 130,
+    "bus_id": 130,
+    "route_id": 14
+  },
+  {
+    "id": 131,
+    "bus_id": 131,
+    "route_id": 45
+  },
+  {
+    "id": 132,
+    "bus_id": 132,
+    "route_id": 8
+  },
+  {
+    "id": 133,
+    "bus_id": 133,
+    "route_id": 34
+  },
+  {
+    "id": 134,
+    "bus_id": 134,
+    "route_id": 59
+  },
+  {
+    "id": 135,
+    "bus_id": 135,
+    "route_id": 27
+  },
+  {
+    "id": 136,
+    "bus_id": 136,
+    "route_id": 18
+  },
+  {
+    "id": 137,
+    "bus_id": 137,
+    "route_id": 55
+  },
+  {
+    "id": 138,
+    "bus_id": 138,
+    "route_id": 27
+  },
+  {
+    "id": 139,
+    "bus_id": 139,
+    "route_id": 8
+  },
+  {
+    "id": 140,
+    "bus_id": 140,
+    "route_id": 55
+  },
+  {
+    "id": 141,
+    "bus_id": 141,
+    "route_id": 3
+  },
+  {
+    "id": 142,
+    "bus_id": 142,
+    "route_id": 19
+  },
+  {
+    "id": 143,
+    "bus_id": 143,
+    "route_id": 27
+  },
+  {
+    "id": 144,
+    "bus_id": 144,
+    "route_id": 42
+  },
+  {
+    "id": 145,
+    "bus_id": 145,
+    "route_id": 8
+  },
+  {
+    "id": 146,
+    "bus_id": 146,
+    "route_id": 75
+  },
+  {
+    "id": 147,
+    "bus_id": 147,
+    "route_id": 18
+  },
+  {
+    "id": 148,
+    "bus_id": 148,
+    "route_id": 34
+  },
+  {
+    "id": 149,
+    "bus_id": 149,
+    "route_id": 17
+  },
+  {
+    "id": 150,
+    "bus_id": 150,
+    "route_id": 17
+  },
+  {
+    "id": 151,
+    "bus_id": 151,
+    "route_id": 4
+  },
+  {
+    "id": 152,
+    "bus_id": 152,
+    "route_id": 97
+  },
+  {
+    "id": 153,
+    "bus_id": 153,
+    "route_id": 3
+  },
+  {
+    "id": 154,
+    "bus_id": 154,
+    "route_id": 75
+  },
+  {
+    "id": 155,
+    "bus_id": 155,
+    "route_id": 64
+  },
+  {
+    "id": 156,
+    "bus_id": 156,
+    "route_id": 18
+  },
+  {
+    "id": 157,
+    "bus_id": 157,
+    "route_id": 72
+  },
+  {
+    "id": 158,
+    "bus_id": 158,
+    "route_id": 8
+  },
+  {
+    "id": 159,
+    "bus_id": 159,
+    "route_id": 9
+  },
+  {
+    "id": 160,
+    "bus_id": 160,
+    "route_id": 9
+  },
+  {
+    "id": 161,
+    "bus_id": 161,
+    "route_id": 44
+  },
+  {
+    "id": 162,
+    "bus_id": 162,
+    "route_id": 75
+  },
+  {
+    "id": 163,
+    "bus_id": 163,
+    "route_id": 8
+  }
+]
