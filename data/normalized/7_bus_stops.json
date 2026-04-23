@@ -1484,25 +1484,25 @@
   {
     "id": 248,
     "bus_id": 9,
-    "stop_id": 167,
+    "stop_id": 47,
     "sequence": 16
   },
   {
     "id": 249,
     "bus_id": 9,
-    "stop_id": 401,
+    "stop_id": 47,
     "sequence": 17
   },
   {
     "id": 250,
     "bus_id": 9,
-    "stop_id": 13,
+    "stop_id": 47,
     "sequence": 18
   },
   {
     "id": 251,
     "bus_id": 9,
-    "stop_id": 460,
+    "stop_id": 47,
     "sequence": 19
   },
   {
@@ -1520,25 +1520,25 @@
   {
     "id": 254,
     "bus_id": 9,
-    "stop_id": 460,
+    "stop_id": 47,
     "sequence": 22
   },
   {
     "id": 255,
     "bus_id": 9,
-    "stop_id": 13,
+    "stop_id": 47,
     "sequence": 23
   },
   {
     "id": 256,
     "bus_id": 9,
-    "stop_id": 401,
+    "stop_id": 47,
     "sequence": 24
   },
   {
     "id": 257,
     "bus_id": 9,
-    "stop_id": 167,
+    "stop_id": 47,
     "sequence": 25
   },
   {
@@ -1910,19 +1910,19 @@
   {
     "id": 319,
     "bus_id": 11,
-    "stop_id": 167,
+    "stop_id": 47,
     "sequence": 19
   },
   {
     "id": 320,
     "bus_id": 11,
-    "stop_id": 401,
+    "stop_id": 47,
     "sequence": 20
   },
   {
     "id": 321,
     "bus_id": 11,
-    "stop_id": 460,
+    "stop_id": 47,
     "sequence": 21
   },
   {
@@ -1940,19 +1940,19 @@
   {
     "id": 324,
     "bus_id": 11,
-    "stop_id": 460,
+    "stop_id": 47,
     "sequence": 24
   },
   {
     "id": 325,
     "bus_id": 11,
-    "stop_id": 401,
+    "stop_id": 47,
     "sequence": 25
   },
   {
     "id": 326,
     "bus_id": 11,
-    "stop_id": 167,
+    "stop_id": 47,
     "sequence": 26
   },
   {
@@ -2390,25 +2390,25 @@
   {
     "id": 399,
     "bus_id": 13,
-    "stop_id": 167,
+    "stop_id": 47,
     "sequence": 19
   },
   {
     "id": 400,
     "bus_id": 13,
-    "stop_id": 401,
+    "stop_id": 47,
     "sequence": 20
   },
   {
     "id": 401,
     "bus_id": 13,
-    "stop_id": 13,
+    "stop_id": 47,
     "sequence": 21
   },
   {
     "id": 402,
     "bus_id": 13,
-    "stop_id": 460,
+    "stop_id": 47,
     "sequence": 22
   },
   {
@@ -2438,25 +2438,25 @@
   {
     "id": 407,
     "bus_id": 13,
-    "stop_id": 460,
+    "stop_id": 47,
     "sequence": 27
   },
   {
     "id": 408,
     "bus_id": 13,
-    "stop_id": 13,
+    "stop_id": 47,
     "sequence": 28
   },
   {
     "id": 409,
     "bus_id": 13,
-    "stop_id": 401,
+    "stop_id": 47,
     "sequence": 29
   },
   {
     "id": 410,
     "bus_id": 13,
-    "stop_id": 167,
+    "stop_id": 47,
     "sequence": 30
   },
   {
@@ -3302,25 +3302,25 @@
   {
     "id": 551,
     "bus_id": 17,
-    "stop_id": 167,
+    "stop_id": 47,
     "sequence": 15
   },
   {
     "id": 552,
     "bus_id": 17,
-    "stop_id": 401,
+    "stop_id": 47,
     "sequence": 16
   },
   {
     "id": 553,
     "bus_id": 17,
-    "stop_id": 13,
+    "stop_id": 47,
     "sequence": 17
   },
   {
     "id": 554,
     "bus_id": 17,
-    "stop_id": 460,
+    "stop_id": 47,
     "sequence": 18
   },
   {
@@ -3338,25 +3338,25 @@
   {
     "id": 557,
     "bus_id": 17,
-    "stop_id": 460,
+    "stop_id": 47,
     "sequence": 21
   },
   {
     "id": 558,
     "bus_id": 17,
-    "stop_id": 13,
+    "stop_id": 47,
     "sequence": 22
   },
   {
     "id": 559,
     "bus_id": 17,
-    "stop_id": 401,
+    "stop_id": 47,
     "sequence": 23
   },
   {
     "id": 560,
     "bus_id": 17,
-    "stop_id": 167,
+    "stop_id": 47,
     "sequence": 24
   },
   {
@@ -3542,7 +3542,7 @@
   {
     "id": 591,
     "bus_id": 18,
-    "stop_id": 167,
+    "stop_id": 47,
     "sequence": 17
   },
   {
@@ -3554,25 +3554,25 @@
   {
     "id": 593,
     "bus_id": 18,
-    "stop_id": 167,
+    "stop_id": 47,
     "sequence": 19
   },
   {
     "id": 594,
     "bus_id": 18,
-    "stop_id": 401,
+    "stop_id": 47,
     "sequence": 20
   },
   {
     "id": 595,
     "bus_id": 18,
-    "stop_id": 13,
+    "stop_id": 47,
     "sequence": 21
   },
   {
     "id": 596,
     "bus_id": 18,
-    "stop_id": 460,
+    "stop_id": 47,
     "sequence": 22
   },
   {
@@ -3626,25 +3626,25 @@
   {
     "id": 605,
     "bus_id": 18,
-    "stop_id": 460,
+    "stop_id": 47,
     "sequence": 31
   },
   {
     "id": 606,
     "bus_id": 18,
-    "stop_id": 13,
+    "stop_id": 47,
     "sequence": 32
   },
   {
     "id": 607,
     "bus_id": 18,
-    "stop_id": 401,
+    "stop_id": 47,
     "sequence": 33
   },
   {
     "id": 608,
     "bus_id": 18,
-    "stop_id": 167,
+    "stop_id": 47,
     "sequence": 34
   },
   {
@@ -3656,7 +3656,7 @@
   {
     "id": 610,
     "bus_id": 18,
-    "stop_id": 167,
+    "stop_id": 47,
     "sequence": 36
   },
   {
@@ -4178,25 +4178,25 @@
   {
     "id": 697,
     "bus_id": 21,
-    "stop_id": 460,
+    "stop_id": 47,
     "sequence": 7
   },
   {
     "id": 698,
     "bus_id": 21,
-    "stop_id": 13,
+    "stop_id": 47,
     "sequence": 8
   },
   {
     "id": 699,
     "bus_id": 21,
-    "stop_id": 401,
+    "stop_id": 47,
     "sequence": 9
   },
   {
     "id": 700,
     "bus_id": 21,
-    "stop_id": 167,
+    "stop_id": 47,
     "sequence": 10
   },
   {
@@ -4310,25 +4310,25 @@
   {
     "id": 719,
     "bus_id": 21,
-    "stop_id": 167,
+    "stop_id": 47,
     "sequence": 29
   },
   {
     "id": 720,
     "bus_id": 21,
-    "stop_id": 401,
+    "stop_id": 47,
     "sequence": 30
   },
   {
     "id": 721,
     "bus_id": 21,
-    "stop_id": 13,
+    "stop_id": 47,
     "sequence": 31
   },
   {
     "id": 722,
     "bus_id": 21,
-    "stop_id": 460,
+    "stop_id": 47,
     "sequence": 32
   },
   {
@@ -4382,25 +4382,25 @@
   {
     "id": 731,
     "bus_id": 22,
-    "stop_id": 460,
+    "stop_id": 47,
     "sequence": 3
   },
   {
     "id": 732,
     "bus_id": 22,
-    "stop_id": 13,
+    "stop_id": 47,
     "sequence": 4
   },
   {
     "id": 733,
     "bus_id": 22,
-    "stop_id": 401,
+    "stop_id": 47,
     "sequence": 5
   },
   {
     "id": 734,
     "bus_id": 22,
-    "stop_id": 167,
+    "stop_id": 47,
     "sequence": 6
   },
   {
@@ -4586,25 +4586,25 @@
   {
     "id": 765,
     "bus_id": 22,
-    "stop_id": 167,
+    "stop_id": 47,
     "sequence": 37
   },
   {
     "id": 766,
     "bus_id": 22,
-    "stop_id": 401,
+    "stop_id": 47,
     "sequence": 38
   },
   {
     "id": 767,
     "bus_id": 22,
-    "stop_id": 13,
+    "stop_id": 47,
     "sequence": 39
   },
   {
     "id": 768,
     "bus_id": 22,
-    "stop_id": 460,
+    "stop_id": 47,
     "sequence": 40
   },
   {
@@ -5024,25 +5024,25 @@
   {
     "id": 838,
     "bus_id": 25,
-    "stop_id": 167,
+    "stop_id": 47,
     "sequence": 18
   },
   {
     "id": 839,
     "bus_id": 25,
-    "stop_id": 401,
+    "stop_id": 47,
     "sequence": 19
   },
   {
     "id": 840,
     "bus_id": 25,
-    "stop_id": 13,
+    "stop_id": 47,
     "sequence": 20
   },
   {
     "id": 841,
     "bus_id": 25,
-    "stop_id": 460,
+    "stop_id": 47,
     "sequence": 21
   },
   {
@@ -5108,25 +5108,25 @@
   {
     "id": 852,
     "bus_id": 25,
-    "stop_id": 460,
+    "stop_id": 47,
     "sequence": 32
   },
   {
     "id": 853,
     "bus_id": 25,
-    "stop_id": 13,
+    "stop_id": 47,
     "sequence": 33
   },
   {
     "id": 854,
     "bus_id": 25,
-    "stop_id": 401,
+    "stop_id": 47,
     "sequence": 34
   },
   {
     "id": 855,
     "bus_id": 25,
-    "stop_id": 167,
+    "stop_id": 47,
     "sequence": 35
   },
   {
@@ -5762,25 +5762,25 @@
   {
     "id": 961,
     "bus_id": 28,
-    "stop_id": 167,
+    "stop_id": 47,
     "sequence": 15
   },
   {
     "id": 962,
     "bus_id": 28,
-    "stop_id": 401,
+    "stop_id": 47,
     "sequence": 16
   },
   {
     "id": 963,
     "bus_id": 28,
-    "stop_id": 13,
+    "stop_id": 47,
     "sequence": 17
   },
   {
     "id": 964,
     "bus_id": 28,
-    "stop_id": 460,
+    "stop_id": 47,
     "sequence": 18
   },
   {
@@ -5834,25 +5834,25 @@
   {
     "id": 973,
     "bus_id": 28,
-    "stop_id": 460,
+    "stop_id": 47,
     "sequence": 27
   },
   {
     "id": 974,
     "bus_id": 28,
-    "stop_id": 13,
+    "stop_id": 47,
     "sequence": 28
   },
   {
     "id": 975,
     "bus_id": 28,
-    "stop_id": 401,
+    "stop_id": 47,
     "sequence": 29
   },
   {
     "id": 976,
     "bus_id": 28,
-    "stop_id": 167,
+    "stop_id": 47,
     "sequence": 30
   },
   {
@@ -6374,25 +6374,25 @@
   {
     "id": 1063,
     "bus_id": 31,
-    "stop_id": 167,
+    "stop_id": 47,
     "sequence": 13
   },
   {
     "id": 1064,
     "bus_id": 31,
-    "stop_id": 401,
+    "stop_id": 47,
     "sequence": 14
   },
   {
     "id": 1065,
     "bus_id": 31,
-    "stop_id": 13,
+    "stop_id": 47,
     "sequence": 15
   },
   {
     "id": 1066,
     "bus_id": 31,
-    "stop_id": 460,
+    "stop_id": 47,
     "sequence": 16
   },
   {
@@ -6446,25 +6446,25 @@
   {
     "id": 1075,
     "bus_id": 31,
-    "stop_id": 460,
+    "stop_id": 47,
     "sequence": 25
   },
   {
     "id": 1076,
     "bus_id": 31,
-    "stop_id": 13,
+    "stop_id": 47,
     "sequence": 26
   },
   {
     "id": 1077,
     "bus_id": 31,
-    "stop_id": 401,
+    "stop_id": 47,
     "sequence": 27
   },
   {
     "id": 1078,
     "bus_id": 31,
-    "stop_id": 167,
+    "stop_id": 47,
     "sequence": 28
   },
   {
@@ -6632,25 +6632,25 @@
   {
     "id": 1106,
     "bus_id": 32,
-    "stop_id": 167,
+    "stop_id": 47,
     "sequence": 16
   },
   {
     "id": 1107,
     "bus_id": 32,
-    "stop_id": 401,
+    "stop_id": 47,
     "sequence": 17
   },
   {
     "id": 1108,
     "bus_id": 32,
-    "stop_id": 13,
+    "stop_id": 47,
     "sequence": 18
   },
   {
     "id": 1109,
     "bus_id": 32,
-    "stop_id": 460,
+    "stop_id": 47,
     "sequence": 19
   },
   {
@@ -6668,25 +6668,25 @@
   {
     "id": 1112,
     "bus_id": 32,
-    "stop_id": 460,
+    "stop_id": 47,
     "sequence": 22
   },
   {
     "id": 1113,
     "bus_id": 32,
-    "stop_id": 13,
+    "stop_id": 47,
     "sequence": 23
   },
   {
     "id": 1114,
     "bus_id": 32,
-    "stop_id": 401,
+    "stop_id": 47,
     "sequence": 24
   },
   {
     "id": 1115,
     "bus_id": 32,
-    "stop_id": 167,
+    "stop_id": 47,
     "sequence": 25
   },
   {
@@ -7040,25 +7040,25 @@
   {
     "id": 1174,
     "bus_id": 34,
-    "stop_id": 167,
+    "stop_id": 47,
     "sequence": 14
   },
   {
     "id": 1175,
     "bus_id": 34,
-    "stop_id": 401,
+    "stop_id": 47,
     "sequence": 15
   },
   {
     "id": 1176,
     "bus_id": 34,
-    "stop_id": 13,
+    "stop_id": 47,
     "sequence": 16
   },
   {
     "id": 1177,
     "bus_id": 34,
-    "stop_id": 460,
+    "stop_id": 47,
     "sequence": 17
   },
   {
@@ -7076,25 +7076,25 @@
   {
     "id": 1180,
     "bus_id": 34,
-    "stop_id": 460,
+    "stop_id": 47,
     "sequence": 20
   },
   {
     "id": 1181,
     "bus_id": 34,
-    "stop_id": 13,
+    "stop_id": 47,
     "sequence": 21
   },
   {
     "id": 1182,
     "bus_id": 34,
-    "stop_id": 401,
+    "stop_id": 47,
     "sequence": 22
   },
   {
     "id": 1183,
     "bus_id": 34,
-    "stop_id": 167,
+    "stop_id": 47,
     "sequence": 23
   },
   {
@@ -7856,25 +7856,25 @@
   {
     "id": 1310,
     "bus_id": 38,
-    "stop_id": 167,
+    "stop_id": 47,
     "sequence": 24
   },
   {
     "id": 1311,
     "bus_id": 38,
-    "stop_id": 401,
+    "stop_id": 47,
     "sequence": 25
   },
   {
     "id": 1312,
     "bus_id": 38,
-    "stop_id": 13,
+    "stop_id": 47,
     "sequence": 26
   },
   {
     "id": 1313,
     "bus_id": 38,
-    "stop_id": 460,
+    "stop_id": 47,
     "sequence": 27
   },
   {
@@ -7916,25 +7916,25 @@
   {
     "id": 1320,
     "bus_id": 38,
-    "stop_id": 460,
+    "stop_id": 47,
     "sequence": 34
   },
   {
     "id": 1321,
     "bus_id": 38,
-    "stop_id": 13,
+    "stop_id": 47,
     "sequence": 35
   },
   {
     "id": 1322,
     "bus_id": 38,
-    "stop_id": 401,
+    "stop_id": 47,
     "sequence": 36
   },
   {
     "id": 1323,
     "bus_id": 38,
-    "stop_id": 167,
+    "stop_id": 47,
     "sequence": 37
   },
   {
@@ -8582,7 +8582,7 @@
   {
     "id": 1431,
     "bus_id": 43,
-    "stop_id": 401,
+    "stop_id": 47,
     "sequence": 1
   },
   {
@@ -8606,13 +8606,13 @@
   {
     "id": 1435,
     "bus_id": 43,
-    "stop_id": 401,
+    "stop_id": 47,
     "sequence": 5
   },
   {
     "id": 1436,
     "bus_id": 43,
-    "stop_id": 401,
+    "stop_id": 47,
     "sequence": 6
   },
   {
@@ -8636,7 +8636,7 @@
   {
     "id": 1440,
     "bus_id": 43,
-    "stop_id": 401,
+    "stop_id": 47,
     "sequence": 10
   },
   {
@@ -9800,13 +9800,13 @@
   {
     "id": 1634,
     "bus_id": 51,
-    "stop_id": 167,
+    "stop_id": 47,
     "sequence": 14
   },
   {
     "id": 1635,
     "bus_id": 51,
-    "stop_id": 401,
+    "stop_id": 47,
     "sequence": 15
   },
   {
@@ -9836,13 +9836,13 @@
   {
     "id": 1640,
     "bus_id": 51,
-    "stop_id": 401,
+    "stop_id": 47,
     "sequence": 20
   },
   {
     "id": 1641,
     "bus_id": 51,
-    "stop_id": 167,
+    "stop_id": 47,
     "sequence": 21
   },
   {
@@ -10910,19 +10910,19 @@
   {
     "id": 1819,
     "bus_id": 59,
-    "stop_id": 167,
+    "stop_id": 47,
     "sequence": 11
   },
   {
     "id": 1820,
     "bus_id": 59,
-    "stop_id": 401,
+    "stop_id": 47,
     "sequence": 12
   },
   {
     "id": 1821,
     "bus_id": 59,
-    "stop_id": 460,
+    "stop_id": 47,
     "sequence": 13
   },
   {
@@ -10940,19 +10940,19 @@
   {
     "id": 1824,
     "bus_id": 59,
-    "stop_id": 460,
+    "stop_id": 47,
     "sequence": 16
   },
   {
     "id": 1825,
     "bus_id": 59,
-    "stop_id": 401,
+    "stop_id": 47,
     "sequence": 17
   },
   {
     "id": 1826,
     "bus_id": 59,
-    "stop_id": 167,
+    "stop_id": 47,
     "sequence": 18
   },
   {
@@ -11534,25 +11534,25 @@
   {
     "id": 1923,
     "bus_id": 63,
-    "stop_id": 401,
+    "stop_id": 47,
     "sequence": 21
   },
   {
     "id": 1924,
     "bus_id": 63,
-    "stop_id": 460,
+    "stop_id": 47,
     "sequence": 22
   },
   {
     "id": 1925,
     "bus_id": 63,
-    "stop_id": 460,
+    "stop_id": 47,
     "sequence": 23
   },
   {
     "id": 1926,
     "bus_id": 63,
-    "stop_id": 401,
+    "stop_id": 47,
     "sequence": 24
   },
   {
@@ -12002,25 +12002,25 @@
   {
     "id": 2001,
     "bus_id": 66,
-    "stop_id": 167,
+    "stop_id": 47,
     "sequence": 15
   },
   {
     "id": 2002,
     "bus_id": 66,
-    "stop_id": 401,
+    "stop_id": 47,
     "sequence": 16
   },
   {
     "id": 2003,
     "bus_id": 66,
-    "stop_id": 13,
+    "stop_id": 47,
     "sequence": 17
   },
   {
     "id": 2004,
     "bus_id": 66,
-    "stop_id": 460,
+    "stop_id": 47,
     "sequence": 18
   },
   {
@@ -12074,25 +12074,25 @@
   {
     "id": 2013,
     "bus_id": 66,
-    "stop_id": 460,
+    "stop_id": 47,
     "sequence": 27
   },
   {
     "id": 2014,
     "bus_id": 66,
-    "stop_id": 13,
+    "stop_id": 47,
     "sequence": 28
   },
   {
     "id": 2015,
     "bus_id": 66,
-    "stop_id": 401,
+    "stop_id": 47,
     "sequence": 29
   },
   {
     "id": 2016,
     "bus_id": 66,
-    "stop_id": 167,
+    "stop_id": 47,
     "sequence": 30
   },
   {
@@ -12638,25 +12638,25 @@
   {
     "id": 2107,
     "bus_id": 69,
-    "stop_id": 167,
+    "stop_id": 47,
     "sequence": 17
   },
   {
     "id": 2108,
     "bus_id": 69,
-    "stop_id": 401,
+    "stop_id": 47,
     "sequence": 18
   },
   {
     "id": 2109,
     "bus_id": 69,
-    "stop_id": 13,
+    "stop_id": 47,
     "sequence": 19
   },
   {
     "id": 2110,
     "bus_id": 69,
-    "stop_id": 460,
+    "stop_id": 47,
     "sequence": 20
   },
   {
@@ -12710,25 +12710,25 @@
   {
     "id": 2119,
     "bus_id": 69,
-    "stop_id": 460,
+    "stop_id": 47,
     "sequence": 29
   },
   {
     "id": 2120,
     "bus_id": 69,
-    "stop_id": 13,
+    "stop_id": 47,
     "sequence": 30
   },
   {
     "id": 2121,
     "bus_id": 69,
-    "stop_id": 401,
+    "stop_id": 47,
     "sequence": 31
   },
   {
     "id": 2122,
     "bus_id": 69,
-    "stop_id": 167,
+    "stop_id": 47,
     "sequence": 32
   },
   {
@@ -12920,25 +12920,25 @@
   {
     "id": 2154,
     "bus_id": 70,
-    "stop_id": 167,
+    "stop_id": 47,
     "sequence": 16
   },
   {
     "id": 2155,
     "bus_id": 70,
-    "stop_id": 401,
+    "stop_id": 47,
     "sequence": 17
   },
   {
     "id": 2156,
     "bus_id": 70,
-    "stop_id": 13,
+    "stop_id": 47,
     "sequence": 18
   },
   {
     "id": 2157,
     "bus_id": 70,
-    "stop_id": 460,
+    "stop_id": 47,
     "sequence": 19
   },
   {
@@ -12956,25 +12956,25 @@
   {
     "id": 2160,
     "bus_id": 70,
-    "stop_id": 460,
+    "stop_id": 47,
     "sequence": 22
   },
   {
     "id": 2161,
     "bus_id": 70,
-    "stop_id": 13,
+    "stop_id": 47,
     "sequence": 23
   },
   {
     "id": 2162,
     "bus_id": 70,
-    "stop_id": 401,
+    "stop_id": 47,
     "sequence": 24
   },
   {
     "id": 2163,
     "bus_id": 70,
-    "stop_id": 167,
+    "stop_id": 47,
     "sequence": 25
   },
   {
@@ -13988,25 +13988,25 @@
   {
     "id": 2332,
     "bus_id": 77,
-    "stop_id": 167,
+    "stop_id": 47,
     "sequence": 14
   },
   {
     "id": 2333,
     "bus_id": 77,
-    "stop_id": 401,
+    "stop_id": 47,
     "sequence": 15
   },
   {
     "id": 2334,
     "bus_id": 77,
-    "stop_id": 13,
+    "stop_id": 47,
     "sequence": 16
   },
   {
     "id": 2335,
     "bus_id": 77,
-    "stop_id": 460,
+    "stop_id": 47,
     "sequence": 17
   },
   {
@@ -14036,25 +14036,25 @@
   {
     "id": 2340,
     "bus_id": 77,
-    "stop_id": 460,
+    "stop_id": 47,
     "sequence": 22
   },
   {
     "id": 2341,
     "bus_id": 77,
-    "stop_id": 13,
+    "stop_id": 47,
     "sequence": 23
   },
   {
     "id": 2342,
     "bus_id": 77,
-    "stop_id": 401,
+    "stop_id": 47,
     "sequence": 24
   },
   {
     "id": 2343,
     "bus_id": 77,
-    "stop_id": 167,
+    "stop_id": 47,
     "sequence": 25
   },
   {
@@ -14528,25 +14528,25 @@
   {
     "id": 2422,
     "bus_id": 81,
-    "stop_id": 167,
+    "stop_id": 47,
     "sequence": 12
   },
   {
     "id": 2423,
     "bus_id": 81,
-    "stop_id": 401,
+    "stop_id": 47,
     "sequence": 13
   },
   {
     "id": 2424,
     "bus_id": 81,
-    "stop_id": 13,
+    "stop_id": 47,
     "sequence": 14
   },
   {
     "id": 2425,
     "bus_id": 81,
-    "stop_id": 460,
+    "stop_id": 47,
     "sequence": 15
   },
   {
@@ -14564,25 +14564,25 @@
   {
     "id": 2428,
     "bus_id": 81,
-    "stop_id": 460,
+    "stop_id": 47,
     "sequence": 18
   },
   {
     "id": 2429,
     "bus_id": 81,
-    "stop_id": 13,
+    "stop_id": 47,
     "sequence": 19
   },
   {
     "id": 2430,
     "bus_id": 81,
-    "stop_id": 401,
+    "stop_id": 47,
     "sequence": 20
   },
   {
     "id": 2431,
     "bus_id": 81,
-    "stop_id": 167,
+    "stop_id": 47,
     "sequence": 21
   },
   {
@@ -20366,25 +20366,25 @@
   {
     "id": 3395,
     "bus_id": 111,
-    "stop_id": 167,
+    "stop_id": 47,
     "sequence": 15
   },
   {
     "id": 3396,
     "bus_id": 111,
-    "stop_id": 401,
+    "stop_id": 47,
     "sequence": 16
   },
   {
     "id": 3397,
     "bus_id": 111,
-    "stop_id": 13,
+    "stop_id": 47,
     "sequence": 17
   },
   {
     "id": 3398,
     "bus_id": 111,
-    "stop_id": 460,
+    "stop_id": 47,
     "sequence": 18
   },
   {
@@ -20414,25 +20414,25 @@
   {
     "id": 3403,
     "bus_id": 111,
-    "stop_id": 460,
+    "stop_id": 47,
     "sequence": 23
   },
   {
     "id": 3404,
     "bus_id": 111,
-    "stop_id": 13,
+    "stop_id": 47,
     "sequence": 24
   },
   {
     "id": 3405,
     "bus_id": 111,
-    "stop_id": 401,
+    "stop_id": 47,
     "sequence": 25
   },
   {
     "id": 3406,
     "bus_id": 111,
-    "stop_id": 167,
+    "stop_id": 47,
     "sequence": 26
   },
   {
@@ -20642,19 +20642,19 @@
   {
     "id": 3441,
     "bus_id": 112,
-    "stop_id": 167,
+    "stop_id": 47,
     "sequence": 21
   },
   {
     "id": 3442,
     "bus_id": 112,
-    "stop_id": 401,
+    "stop_id": 47,
     "sequence": 22
   },
   {
     "id": 3443,
     "bus_id": 112,
-    "stop_id": 460,
+    "stop_id": 47,
     "sequence": 23
   },
   {
@@ -20672,19 +20672,19 @@
   {
     "id": 3446,
     "bus_id": 112,
-    "stop_id": 460,
+    "stop_id": 47,
     "sequence": 26
   },
   {
     "id": 3447,
     "bus_id": 112,
-    "stop_id": 401,
+    "stop_id": 47,
     "sequence": 27
   },
   {
     "id": 3448,
     "bus_id": 112,
-    "stop_id": 167,
+    "stop_id": 47,
     "sequence": 28
   },
   {
@@ -21098,25 +21098,25 @@
   {
     "id": 3517,
     "bus_id": 115,
-    "stop_id": 167,
+    "stop_id": 47,
     "sequence": 19
   },
   {
     "id": 3518,
     "bus_id": 115,
-    "stop_id": 401,
+    "stop_id": 47,
     "sequence": 20
   },
   {
     "id": 3519,
     "bus_id": 115,
-    "stop_id": 13,
+    "stop_id": 47,
     "sequence": 21
   },
   {
     "id": 3520,
     "bus_id": 115,
-    "stop_id": 460,
+    "stop_id": 47,
     "sequence": 22
   },
   {
@@ -21134,25 +21134,25 @@
   {
     "id": 3523,
     "bus_id": 115,
-    "stop_id": 460,
+    "stop_id": 47,
     "sequence": 25
   },
   {
     "id": 3524,
     "bus_id": 115,
-    "stop_id": 13,
+    "stop_id": 47,
     "sequence": 26
   },
   {
     "id": 3525,
     "bus_id": 115,
-    "stop_id": 401,
+    "stop_id": 47,
     "sequence": 27
   },
   {
     "id": 3526,
     "bus_id": 115,
-    "stop_id": 167,
+    "stop_id": 47,
     "sequence": 28
   },
   {
@@ -21386,19 +21386,19 @@
   {
     "id": 3565,
     "bus_id": 116,
-    "stop_id": 167,
+    "stop_id": 47,
     "sequence": 21
   },
   {
     "id": 3566,
     "bus_id": 116,
-    "stop_id": 401,
+    "stop_id": 47,
     "sequence": 22
   },
   {
     "id": 3567,
     "bus_id": 116,
-    "stop_id": 460,
+    "stop_id": 47,
     "sequence": 23
   },
   {
@@ -21428,19 +21428,19 @@
   {
     "id": 3572,
     "bus_id": 116,
-    "stop_id": 460,
+    "stop_id": 47,
     "sequence": 28
   },
   {
     "id": 3573,
     "bus_id": 116,
-    "stop_id": 401,
+    "stop_id": 47,
     "sequence": 29
   },
   {
     "id": 3574,
     "bus_id": 116,
-    "stop_id": 167,
+    "stop_id": 47,
     "sequence": 30
   },
   {
@@ -21650,25 +21650,25 @@
   {
     "id": 3609,
     "bus_id": 117,
-    "stop_id": 167,
+    "stop_id": 47,
     "sequence": 15
   },
   {
     "id": 3610,
     "bus_id": 117,
-    "stop_id": 401,
+    "stop_id": 47,
     "sequence": 16
   },
   {
     "id": 3611,
     "bus_id": 117,
-    "stop_id": 13,
+    "stop_id": 47,
     "sequence": 17
   },
   {
     "id": 3612,
     "bus_id": 117,
-    "stop_id": 460,
+    "stop_id": 47,
     "sequence": 18
   },
   {
@@ -21746,25 +21746,25 @@
   {
     "id": 3625,
     "bus_id": 117,
-    "stop_id": 460,
+    "stop_id": 47,
     "sequence": 31
   },
   {
     "id": 3626,
     "bus_id": 117,
-    "stop_id": 13,
+    "stop_id": 47,
     "sequence": 32
   },
   {
     "id": 3627,
     "bus_id": 117,
-    "stop_id": 401,
+    "stop_id": 47,
     "sequence": 33
   },
   {
     "id": 3628,
     "bus_id": 117,
-    "stop_id": 167,
+    "stop_id": 47,
     "sequence": 34
   },
   {
@@ -22112,25 +22112,25 @@
   {
     "id": 3686,
     "bus_id": 119,
-    "stop_id": 167,
+    "stop_id": 47,
     "sequence": 16
   },
   {
     "id": 3687,
     "bus_id": 119,
-    "stop_id": 401,
+    "stop_id": 47,
     "sequence": 17
   },
   {
     "id": 3688,
     "bus_id": 119,
-    "stop_id": 13,
+    "stop_id": 47,
     "sequence": 18
   },
   {
     "id": 3689,
     "bus_id": 119,
-    "stop_id": 460,
+    "stop_id": 47,
     "sequence": 19
   },
   {
@@ -22148,25 +22148,25 @@
   {
     "id": 3692,
     "bus_id": 119,
-    "stop_id": 460,
+    "stop_id": 47,
     "sequence": 22
   },
   {
     "id": 3693,
     "bus_id": 119,
-    "stop_id": 13,
+    "stop_id": 47,
     "sequence": 23
   },
   {
     "id": 3694,
     "bus_id": 119,
-    "stop_id": 401,
+    "stop_id": 47,
     "sequence": 24
   },
   {
     "id": 3695,
     "bus_id": 119,
-    "stop_id": 167,
+    "stop_id": 47,
     "sequence": 25
   },
   {
@@ -23990,25 +23990,25 @@
   {
     "id": 3999,
     "bus_id": 129,
-    "stop_id": 167,
+    "stop_id": 47,
     "sequence": 13
   },
   {
     "id": 4000,
     "bus_id": 129,
-    "stop_id": 401,
+    "stop_id": 47,
     "sequence": 14
   },
   {
     "id": 4001,
     "bus_id": 129,
-    "stop_id": 13,
+    "stop_id": 47,
     "sequence": 15
   },
   {
     "id": 4002,
     "bus_id": 129,
-    "stop_id": 460,
+    "stop_id": 47,
     "sequence": 16
   },
   {
@@ -24026,25 +24026,25 @@
   {
     "id": 4005,
     "bus_id": 129,
-    "stop_id": 460,
+    "stop_id": 47,
     "sequence": 19
   },
   {
     "id": 4006,
     "bus_id": 129,
-    "stop_id": 13,
+    "stop_id": 47,
     "sequence": 20
   },
   {
     "id": 4007,
     "bus_id": 129,
-    "stop_id": 401,
+    "stop_id": 47,
     "sequence": 21
   },
   {
     "id": 4008,
     "bus_id": 129,
-    "stop_id": 167,
+    "stop_id": 47,
     "sequence": 22
   },
   {
@@ -24524,25 +24524,25 @@
   {
     "id": 4088,
     "bus_id": 132,
-    "stop_id": 167,
+    "stop_id": 47,
     "sequence": 16
   },
   {
     "id": 4089,
     "bus_id": 132,
-    "stop_id": 401,
+    "stop_id": 47,
     "sequence": 17
   },
   {
     "id": 4090,
     "bus_id": 132,
-    "stop_id": 13,
+    "stop_id": 47,
     "sequence": 18
   },
   {
     "id": 4091,
     "bus_id": 132,
-    "stop_id": 460,
+    "stop_id": 47,
     "sequence": 19
   },
   {
@@ -24596,25 +24596,25 @@
   {
     "id": 4100,
     "bus_id": 132,
-    "stop_id": 460,
+    "stop_id": 47,
     "sequence": 28
   },
   {
     "id": 4101,
     "bus_id": 132,
-    "stop_id": 13,
+    "stop_id": 47,
     "sequence": 29
   },
   {
     "id": 4102,
     "bus_id": 132,
-    "stop_id": 401,
+    "stop_id": 47,
     "sequence": 30
   },
   {
     "id": 4103,
     "bus_id": 132,
-    "stop_id": 167,
+    "stop_id": 47,
     "sequence": 31
   },
   {
@@ -25682,25 +25682,25 @@
   {
     "id": 4281,
     "bus_id": 137,
-    "stop_id": 167,
+    "stop_id": 47,
     "sequence": 15
   },
   {
     "id": 4282,
     "bus_id": 137,
-    "stop_id": 401,
+    "stop_id": 47,
     "sequence": 16
   },
   {
     "id": 4283,
     "bus_id": 137,
-    "stop_id": 13,
+    "stop_id": 47,
     "sequence": 17
   },
   {
     "id": 4284,
     "bus_id": 137,
-    "stop_id": 460,
+    "stop_id": 47,
     "sequence": 18
   },
   {
@@ -25730,25 +25730,25 @@
   {
     "id": 4289,
     "bus_id": 137,
-    "stop_id": 460,
+    "stop_id": 47,
     "sequence": 23
   },
   {
     "id": 4290,
     "bus_id": 137,
-    "stop_id": 13,
+    "stop_id": 47,
     "sequence": 24
   },
   {
     "id": 4291,
     "bus_id": 137,
-    "stop_id": 401,
+    "stop_id": 47,
     "sequence": 25
   },
   {
     "id": 4292,
     "bus_id": 137,
-    "stop_id": 167,
+    "stop_id": 47,
     "sequence": 26
   },
   {
@@ -26120,25 +26120,25 @@
   {
     "id": 4354,
     "bus_id": 139,
-    "stop_id": 167,
+    "stop_id": 47,
     "sequence": 12
   },
   {
     "id": 4355,
     "bus_id": 139,
-    "stop_id": 401,
+    "stop_id": 47,
     "sequence": 13
   },
   {
     "id": 4356,
     "bus_id": 139,
-    "stop_id": 13,
+    "stop_id": 47,
     "sequence": 14
   },
   {
     "id": 4357,
     "bus_id": 139,
-    "stop_id": 460,
+    "stop_id": 47,
     "sequence": 15
   },
   {
@@ -26240,25 +26240,25 @@
   {
     "id": 4374,
     "bus_id": 139,
-    "stop_id": 460,
+    "stop_id": 47,
     "sequence": 32
   },
   {
     "id": 4375,
     "bus_id": 139,
-    "stop_id": 13,
+    "stop_id": 47,
     "sequence": 33
   },
   {
     "id": 4376,
     "bus_id": 139,
-    "stop_id": 401,
+    "stop_id": 47,
     "sequence": 34
   },
   {
     "id": 4377,
     "bus_id": 139,
-    "stop_id": 167,
+    "stop_id": 47,
     "sequence": 35
   },
   {
@@ -26426,25 +26426,25 @@
   {
     "id": 4405,
     "bus_id": 140,
-    "stop_id": 167,
+    "stop_id": 47,
     "sequence": 17
   },
   {
     "id": 4406,
     "bus_id": 140,
-    "stop_id": 401,
+    "stop_id": 47,
     "sequence": 18
   },
   {
     "id": 4407,
     "bus_id": 140,
-    "stop_id": 13,
+    "stop_id": 47,
     "sequence": 19
   },
   {
     "id": 4408,
     "bus_id": 140,
-    "stop_id": 460,
+    "stop_id": 47,
     "sequence": 20
   },
   {
@@ -26498,25 +26498,25 @@
   {
     "id": 4417,
     "bus_id": 140,
-    "stop_id": 460,
+    "stop_id": 47,
     "sequence": 29
   },
   {
     "id": 4418,
     "bus_id": 140,
-    "stop_id": 13,
+    "stop_id": 47,
     "sequence": 30
   },
   {
     "id": 4419,
     "bus_id": 140,
-    "stop_id": 401,
+    "stop_id": 47,
     "sequence": 31
   },
   {
     "id": 4420,
     "bus_id": 140,
-    "stop_id": 167,
+    "stop_id": 47,
     "sequence": 32
   },
   {
@@ -27584,25 +27584,25 @@
   {
     "id": 4598,
     "bus_id": 145,
-    "stop_id": 167,
+    "stop_id": 47,
     "sequence": 18
   },
   {
     "id": 4599,
     "bus_id": 145,
-    "stop_id": 401,
+    "stop_id": 47,
     "sequence": 19
   },
   {
     "id": 4600,
     "bus_id": 145,
-    "stop_id": 13,
+    "stop_id": 47,
     "sequence": 20
   },
   {
     "id": 4601,
     "bus_id": 145,
-    "stop_id": 460,
+    "stop_id": 47,
     "sequence": 21
   },
   {
@@ -27632,25 +27632,25 @@
   {
     "id": 4606,
     "bus_id": 145,
-    "stop_id": 460,
+    "stop_id": 47,
     "sequence": 26
   },
   {
     "id": 4607,
     "bus_id": 145,
-    "stop_id": 13,
+    "stop_id": 47,
     "sequence": 27
   },
   {
     "id": 4608,
     "bus_id": 145,
-    "stop_id": 401,
+    "stop_id": 47,
     "sequence": 28
   },
   {
     "id": 4609,
     "bus_id": 145,
-    "stop_id": 167,
+    "stop_id": 47,
     "sequence": 29
   },
   {
@@ -29300,19 +29300,19 @@
   {
     "id": 4884,
     "bus_id": 152,
-    "stop_id": 167,
+    "stop_id": 47,
     "sequence": 16
   },
   {
     "id": 4885,
     "bus_id": 152,
-    "stop_id": 401,
+    "stop_id": 47,
     "sequence": 17
   },
   {
     "id": 4886,
     "bus_id": 152,
-    "stop_id": 460,
+    "stop_id": 47,
     "sequence": 18
   },
   {
@@ -29330,19 +29330,19 @@
   {
     "id": 4889,
     "bus_id": 152,
-    "stop_id": 460,
+    "stop_id": 47,
     "sequence": 21
   },
   {
     "id": 4890,
     "bus_id": 152,
-    "stop_id": 401,
+    "stop_id": 47,
     "sequence": 22
   },
   {
     "id": 4891,
     "bus_id": 152,
-    "stop_id": 167,
+    "stop_id": 47,
     "sequence": 23
   },
   {
@@ -30458,25 +30458,25 @@
   {
     "id": 5077,
     "bus_id": 158,
-    "stop_id": 167,
+    "stop_id": 47,
     "sequence": 15
   },
   {
     "id": 5078,
     "bus_id": 158,
-    "stop_id": 401,
+    "stop_id": 47,
     "sequence": 16
   },
   {
     "id": 5079,
     "bus_id": 158,
-    "stop_id": 13,
+    "stop_id": 47,
     "sequence": 17
   },
   {
     "id": 5080,
     "bus_id": 158,
-    "stop_id": 460,
+    "stop_id": 47,
     "sequence": 18
   },
   {
@@ -30506,25 +30506,25 @@
   {
     "id": 5085,
     "bus_id": 158,
-    "stop_id": 460,
+    "stop_id": 47,
     "sequence": 23
   },
   {
     "id": 5086,
     "bus_id": 158,
-    "stop_id": 13,
+    "stop_id": 47,
     "sequence": 24
   },
   {
     "id": 5087,
     "bus_id": 158,
-    "stop_id": 401,
+    "stop_id": 47,
     "sequence": 25
   },
   {
     "id": 5088,
     "bus_id": 158,
-    "stop_id": 167,
+    "stop_id": 47,
     "sequence": 26
   },
   {
@@ -31040,25 +31040,25 @@
   {
     "id": 5174,
     "bus_id": 161,
-    "stop_id": 167,
+    "stop_id": 47,
     "sequence": 12
   },
   {
     "id": 5175,
     "bus_id": 161,
-    "stop_id": 401,
+    "stop_id": 47,
     "sequence": 13
   },
   {
     "id": 5176,
     "bus_id": 161,
-    "stop_id": 13,
+    "stop_id": 47,
     "sequence": 14
   },
   {
     "id": 5177,
     "bus_id": 161,
-    "stop_id": 460,
+    "stop_id": 47,
     "sequence": 15
   },
   {
@@ -31112,25 +31112,25 @@
   {
     "id": 5186,
     "bus_id": 161,
-    "stop_id": 460,
+    "stop_id": 47,
     "sequence": 24
   },
   {
     "id": 5187,
     "bus_id": 161,
-    "stop_id": 13,
+    "stop_id": 47,
     "sequence": 25
   },
   {
     "id": 5188,
     "bus_id": 161,
-    "stop_id": 401,
+    "stop_id": 47,
     "sequence": 26
   },
   {
     "id": 5189,
     "bus_id": 161,
-    "stop_id": 167,
+    "stop_id": 47,
     "sequence": 27
   },
   {
