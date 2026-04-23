@@ -14,7 +14,7 @@
 
 import stopsRaw       from "../../data/normalized/1_stops.json"
 import routesRaw      from "../../data/normalized/2_routes.json"
-import routeStopsRaw  from "../../data/normalized/3_route_stops.json"
+import routeStopsRaw  from "../../data/normalized/8_enriched_route_stops.json"
 import routeFaresRaw  from "../../data/normalized/4_route_fares.json"
 import busesRaw       from "../../data/normalized/5_buses.json"
 import busRoutesRaw   from "../../data/normalized/6_bus_routes.json"
@@ -274,13 +274,13 @@ export class NormalizedDataProcessor {
    */
   getFare(routeId: number, fromId: number, toId: number): number {
     const exactFwd = this.fareIndex.get(`${routeId}-${fromId}-${toId}`)
-    if (exactFwd !== undefined) return exactFwd
+    if (exactFwd !== undefined) return Math.max(10, exactFwd)
 
     const exactBwd = this.fareIndex.get(`${routeId}-${toId}-${fromId}`)
-    if (exactBwd !== undefined) return exactBwd
+    if (exactBwd !== undefined) return Math.max(10, exactBwd)
 
     const anyFare = this.fareAnyIndex.get(`${fromId}-${toId}`)
-    if (anyFare !== undefined) return anyFare
+    if (anyFare !== undefined) return Math.max(10, anyFare)
 
     // Estimate: distance between sequential positions on the route
     const stops  = this.routeStopsByRoute.get(routeId) ?? []

@@ -7,7 +7,8 @@ const POPULAR_STOPS = [
   "Gulistan", "Mohakhali", "Sayedabad", "Shahbagh", "Badda",
   "Rampura", "Jatrabari", "Mohammadpur", "Dhanmondi 15", "Azimpur",
   "Airport", "Banani", "Gulshan 1", "Mogbazar", "Khilkhet",
-  "Abdullahpur", "Kuril Bishwa Road", "Malibagh", "Kakrail"
+  "Abdullahpur", "Kuril Bishwa Road", "Malibagh", "Kakrail",
+  "Gawsia", "Demra Staff Quarter", "Nadda", "Badda Link Road"
 ];
 
 function generateTestCases() {

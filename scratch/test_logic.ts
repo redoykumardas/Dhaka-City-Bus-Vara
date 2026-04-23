@@ -2,8 +2,8 @@ import { coreSearchUseCase } from "../src/application/coreSearch.usecase"
 import { normalizeStop } from "../src/domain/stopNormalizer"
 
 function testLogic() {
-  const fromRaw = "Uttara";
-  const toRaw = "Mohakhali";
+  const fromRaw = "Mirpur 11";
+  const toRaw = "Badda";
 
   console.log(`\n======================================================`);
   console.log(`🚌 TESTING CORE SEARCH USE CASE`);

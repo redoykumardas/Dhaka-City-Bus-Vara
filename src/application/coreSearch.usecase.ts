@@ -62,11 +62,12 @@ interface BFSNode {
 }
 
 function findRoutes(graph: Record<number, GraphNode[]>, source: number, destination: number) {
-  let queue: BFSNode[] = []
+  let queue0: BFSNode[] = []
+  let queue1: BFSNode[] = []
   let results: BFSNode[] = []
-  let visited = new Set<string>()
+  let bestTransfers = new Map<string, number>()
 
-  queue.push({
+  queue0.push({
     stop: source,
     path: [source],
     routes: [],
@@ -74,8 +75,8 @@ function findRoutes(graph: Record<number, GraphNode[]>, source: number, destinat
     transfers: 0
   })
 
-  while (queue.length) {
-    let node = queue.shift()!
+  while (queue0.length > 0 || queue1.length > 0) {
+    let node = queue0.length > 0 ? queue0.shift()! : queue1.shift()!
 
     if (node.stop === destination) {
       results.push(node)
@@ -95,17 +96,27 @@ function findRoutes(graph: Record<number, GraphNode[]>, source: number, destinat
       if (newTransfers > 1) continue
 
       let key = `${next.stop}-${next.route}`
-      if (visited.has(key)) continue
+      let prevTransfers = bestTransfers.get(key)
+      
+      if (prevTransfers !== undefined && prevTransfers <= newTransfers) {
+        continue
+      }
 
-      visited.add(key)
+      bestTransfers.set(key, newTransfers)
 
-      queue.push({
+      const nextNode = {
         stop: next.stop,
         path: [...node.path, next.stop],
         routes: [...node.routes, next.route],
         currentRoute: next.route,
         transfers: newTransfers
-      })
+      }
+
+      if (newTransfers === 0) {
+        queue0.push(nextNode)
+      } else {
+        queue1.push(nextNode)
+      }
     }
   }
 
