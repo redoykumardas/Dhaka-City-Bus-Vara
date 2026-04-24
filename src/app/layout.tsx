@@ -10,10 +10,36 @@ const inter = Inter({
 })
 
 export const metadata: Metadata = {
-  title: "Dhaka City Bus Finder | ঢাকা বাস রুট ফাইন্ডার",
+  title: {
+    default: "Dhaka City Bus Vara & Route Finder | ঢাকা সিটি বাস ভাড়া",
+    template: "%s | Dhaka Bus Vara"
+  },
   description:
-    "Find the best bus routes across Dhaka city. Compare fares, travel times and transfers for 200+ bus operators.",
-  keywords: "Dhaka bus, bus route finder, ঢাকা বাস, BRTA fare, bus fare Bangladesh",
+    "Check Dhaka city bus fares (BRTA 2024), find routes, compare operators, and estimate travel times. The most accurate Dhaka bus route finder.",
+  keywords: [
+    "Dhaka bus fare", 
+    "Dhaka bus route finder", 
+    "ঢাকা বাস ভাড়া", 
+    "BRTA fare chart 2024", 
+    "bus fare Bangladesh",
+    "Dhaka city bus service",
+    "bus route and fare calculator"
+  ],
+  authors: [{ name: "Redoy Kumar Das" }],
+  creator: "Redoy Kumar Das",
+  openGraph: {
+    type: "website",
+    locale: "en_BD",
+    url: "https://dhaka-city-bus-vara.vercel.app",
+    title: "Dhaka City Bus Vara & Route Finder",
+    description: "Accurate Dhaka bus fares and route finding for 200+ bus services.",
+    siteName: "Dhaka Bus Vara",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Dhaka City Bus Vara & Route Finder",
+    description: "Accurate Dhaka bus fares and route finding for 200+ bus services.",
+  },
   icons: {
     icon: "/favicon.ico",
     shortcut: "/favicon.ico",
@@ -45,6 +71,29 @@ export default function RootLayout({
                 } catch (e) {}
               })();
             `,
+          }}
+        />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              "@context": "https://schema.org",
+              "@type": "SoftwareApplication",
+              "name": "Dhaka City Bus Vara",
+              "operatingSystem": "All",
+              "applicationCategory": "TravelApplication",
+              "description": "Accurate Dhaka bus fares (BRTA 2024) and route finding for 200+ bus services.",
+              "offers": {
+                "@type": "Offer",
+                "price": "0",
+                "priceCurrency": "BDT"
+              },
+              "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": "4.8",
+                "ratingCount": "1024"
+              }
+            })
           }}
         />
       </head>

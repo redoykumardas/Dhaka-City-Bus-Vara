@@ -61,6 +61,31 @@ export default function HomePage() {
         ))}
       </section>
 
+      {/* ── SEO / FAQ Section ── */}
+      <section className="faq-section" style={{ marginTop: '3rem', padding: '1rem' }}>
+        <h2 style={{ fontSize: '1.5rem', marginBottom: '1.5rem', color: 'var(--text-primary)' }}>Frequently Asked Questions</h2>
+        <div className="glass-card" style={{ padding: '1.5rem' }}>
+          <details style={{ marginBottom: '1rem' }}>
+            <summary style={{ fontWeight: 'bold', cursor: 'pointer' }}>What is the BRTA bus fare in Dhaka for 2024?</summary>
+            <p style={{ marginTop: '0.5rem', color: 'var(--text-secondary)' }}>
+              The BRTA bus fare in Dhaka is calculated based on distance. Currently, it is approximately 2.45 BDT per kilometer, with a minimum fare of 10 BDT.
+            </p>
+          </details>
+          <details style={{ marginBottom: '1rem' }}>
+            <summary style={{ fontWeight: 'bold', cursor: 'pointer' }}>How to find bus routes in Dhaka City?</summary>
+            <p style={{ marginTop: '0.5rem', color: 'var(--text-secondary)' }}>
+              You can use our Dhaka Bus Finder to search for any two stops (e.g., Mirpur to Motijheel). We will show you all available bus operators and the official fares.
+            </p>
+          </details>
+          <details>
+            <summary style={{ fontWeight: 'bold', cursor: 'pointer' }}>Which bus goes from Uttara to Farmgate?</summary>
+            <p style={{ marginTop: '0.5rem', color: 'var(--text-secondary)' }}>
+              Several buses operate on this route, including Bikash, Projapoti, and others. Use our search tool above to see the full list of buses and their stop sequences.
+            </p>
+          </details>
+        </div>
+      </section>
+
       <footer className="page-footer">
         <p>🚌 Dhaka City Bus Finder © 2026 · ঢাকা সিটি বাস ফাইন্ডার</p>
       </footer>
