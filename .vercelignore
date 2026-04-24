@@ -1,6 +1,4 @@
 node_modules
 .next
 .git
-data/images
-public/route-images
 scratch
