@@ -7,7 +7,7 @@ function testDirect() {
   const busesSeg = ndp.getBusesForSegment(fromId, toId);
   console.log(`Buses for segment: ${busesSeg.length}`);
   
-  const busesRoute = ndp.busesForRoute.get(71) || [];
+  const busesRoute = ndp.getBusesForRoute(71);
   console.log(`Buses for route 71 fallback: ${busesRoute.length}`);
 }
 

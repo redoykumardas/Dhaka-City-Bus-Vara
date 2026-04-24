@@ -155,7 +155,7 @@ function getBuses(routeId: number, fromId: number, toId: number): BusOperator[] 
   
   // Fallback: If exact stop mapping misses (e.g. Uttara vs Azampur), use buses for the BRTA route.
   if (buses.length === 0 && routeId) {
-    buses = ndp.busesForRoute.get(routeId) || []
+    buses = ndp.getBusesForRoute(routeId)
   }
   
   return buses.map(b => ({
