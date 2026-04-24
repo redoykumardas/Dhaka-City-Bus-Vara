@@ -20,26 +20,57 @@ Object.values(busPaths).forEach(arr => {
   // but since we doubled them, we can just split by half.
 });
 
-// Helper: find path between u and v in any bus
-function findIntermediateStops(u, v) {
-  let bestPath = null;
+// Define Master Highway Corridors to force interpolate critical "hidden" stops
+const masterCorridors = [
+  // Airport Road (Northbound)
+  [96, 341, 110, 327, 167, 401, 13, 141, 20], 
+  // Airport Road (Southbound)
+  [20, 141, 13, 401, 167, 327, 110, 341, 96],
+  // Kalshi to Abdullahpur (Northbound via Khilkhet/Airport)
+  [364, 365, 263, 86, 173, 110, 327, 20],
+  // Abdullahpur to Kalshi (Southbound)
+  [20, 327, 110, 173, 86, 263, 365, 364],
+  // Mirpur Road (Southbound)
+  [126, 67, 458, 454, 66, 30, 168, 65, 332, 340],
+  // Mirpur Road (Northbound)
+  [340, 332, 65, 168, 30, 66, 454, 458, 67, 126],
+  // VIP Road / Shahbag to Motijheel
+  [340, 483, 344, 348, 307, 134, 251],
+  // Motijheel to Shahbag
+  [251, 134, 307, 348, 344, 483, 340]
+];
 
+// Map stop pairs to forced intermediate sequences
+const forcedMap = {};
+masterCorridors.forEach(path => {
+  for (let i = 0; i < path.length; i++) {
+    for (let j = i + 2; j < path.length; j++) {
+      const pairKey = `${path[i]}-${path[j]}`;
+      if (!forcedMap[pairKey]) {
+        forcedMap[pairKey] = path.slice(i + 1, j);
+      }
+    }
+  }
+});
+
+// Helper: find path between u and v in any bus or forced corridor
+function findIntermediateStops(u, v) {
+  const pairKey = `${u}-${v}`;
+  if (forcedMap[pairKey]) return forcedMap[pairKey];
+
+  let bestPath = null;
   for (const busId in busPaths) {
     const stops = busPaths[busId];
-    // Find all indices of u and v
     const uIdxs = [];
     const vIdxs = [];
     for (let i = 0; i < stops.length; i++) {
       if (stops[i].stop_id === u) uIdxs.push(i);
       if (stops[i].stop_id === v) vIdxs.push(i);
     }
-
     for (const ui of uIdxs) {
       for (const vi of vIdxs) {
         if (ui < vi) {
-          // Found a path
           const path = stops.slice(ui + 1, vi).map(s => s.stop_id);
-          // If we haven't found a path yet, or this one is shorter (more direct)
           if (!bestPath || path.length < bestPath.length) {
             bestPath = path;
           }

@@ -14,6 +14,10 @@ export const metadata: Metadata = {
   description:
     "Find the best bus routes across Dhaka city. Compare fares, travel times and transfers for 200+ bus operators.",
   keywords: "Dhaka bus, bus route finder, ঢাকা বাস, BRTA fare, bus fare Bangladesh",
+  icons: {
+    icon: "/favicon.ico",
+    shortcut: "/favicon.ico",
+  },
 }
 
 export default function RootLayout({
@@ -24,6 +28,7 @@ export default function RootLayout({
   return (
     <html lang="en" className={inter.variable} suppressHydrationWarning>
       <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5" />
         <script
           dangerouslySetInnerHTML={{
             __html: `
@@ -49,7 +54,9 @@ export default function RootLayout({
           <div className="navbar-inner">
             <div className="logo">
               <div className="logo-icon">🚌</div>
-              <span>Bus Finder</span>
+              <span>
+                Dhaka <span style={{ color: "var(--brand-primary)" }}>Bus</span>
+              </span>
             </div>
             <ThemeToggle />
           </div>

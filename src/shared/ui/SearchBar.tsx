@@ -114,13 +114,18 @@ export default function SearchBar({ allStops, defaultFrom = "", defaultTo = "" }
       </div>
 
       {/* Swap Button for Desktop (Inline) */}
-      <button 
-        className="icon-btn hide-mobile" 
-        onClick={handleSwap} 
+      <button
+        className="icon-btn hide-mobile"
+        onClick={handleSwap}
         style={{ marginBottom: 4, borderRadius: "50%" }}
         title="Swap Destinations"
       >
         🔄
+      </button>
+
+      {/* Swap Button for Mobile (Full width between inputs) */}
+      <button className="search-mobile-swap" onClick={handleSwap}>
+        🔄 Swap stops
       </button>
 
       {/* To Input */}

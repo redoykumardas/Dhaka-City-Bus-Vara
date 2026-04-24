@@ -48,7 +48,7 @@ export default function RouteCard({ route, rank, from, to }: RouteCardProps) {
           ))}
         </div>
 
-        <div style={{ display: "flex", gap: 16, alignItems: "center" }}>
+        <div className="metadata-row" style={{ display: "flex", gap: 16, alignItems: "center" }}>
           <div style={{ display: "flex", alignItems: "center", gap: 6, fontSize: "0.85rem", color: "var(--text-secondary)" }}>
             <span>⏱ {route.totalTime} mins</span>
           </div>

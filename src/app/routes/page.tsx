@@ -29,8 +29,8 @@ export default async function RoutesPage({ searchParams }: PageProps) {
   return (
     <div className="container animate-in">
       {/* Back Link */}
-      <div style={{ marginBottom: 20 }}>
-        <Link href="/" style={{ color: "var(--text-secondary)", textDecoration: "none", fontSize: "0.9rem", display: "inline-flex", alignItems: "center", gap: 8 }}>
+      <div style={{ marginBottom: 24 }}>
+        <Link href="/" className="back-link">
           <span>←</span> Back to home
         </Link>
       </div>
@@ -42,11 +42,11 @@ export default async function RoutesPage({ searchParams }: PageProps) {
 
       {routes.length > 0 ? (
         <>
-          <div style={{ display: "flex", justifyContent: "space-between", alignItems: "flex-end", marginBottom: 32, flexWrap: "wrap", gap: 16 }}>
-            <div>
-              <div className="route-badge" style={{ marginBottom: 8 }}>{routes.length} paths found</div>
-              <h1 style={{ fontSize: "2rem", fontWeight: 800 }}>
-                {from} <span style={{ color: "var(--text-muted)", fontSize: "1.5rem" }}>→</span> {to}
+          <div className="results-header">
+            <div className="results-header-info">
+              <div className="route-badge" style={{ marginBottom: 12 }}>{routes.length} paths found</div>
+              <h1 className="results-title">
+                {from} <span className="results-title-arrow">→</span> {to}
               </h1>
             </div>
             <SortTabs current={sortBy} from={from} to={to} />
